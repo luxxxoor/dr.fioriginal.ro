@@ -1,0 +1,204 @@
+;--------------------------------------------------------------;
+;Retrasi
+;--------------------------------------------------------------;
+
+;[retras];"noxErR!"                  "pulamea"           "bcdefijv"   "f" ; concurs 
+;[retras];"wEN"                      "parola123"                "abcdefghijklmnopqrstu" "f" 
+;[retras];"I <3 DuBsTeP"             "paida"                    "abcdefghijkmnopqrst"   "f" 
+;[retras];"Slowpoke"                 "catalin1996"              "abcdefghijkmnopqrst"   "f" 
+;[retras];"AndreiXD"                 "19803146511"              "abcdefghijklmnopqrstu" "f" ;donatie 12.01
+;[retras];"luffy"                    "steelseries"              "bcdefijnopqrst"        "f" ;donatie 6 euro up+vip 22.06
+;[retras];"Ade"                      "adeadeyalove"             "abcdefghijkmnopqrst"   "f" 
+;[retras];"Lamaie. <3"               "Leave58"                  "bcdefijnopqrs"         "f" 
+;[retras];"LaLaSong <3"             "sofinenr1"                 "bceijnopv"             "f" 
+;[retras];"Play4Fun"                 "sauleadaniel12345"        "bcdeijnopqt"           "f" ;donatie 22.11 si 3.03 5 euro 
+;[retras];"Darck^Walkers - Core.dll" "mariusflorin114"          "bcei"                  "f" 
+;[retras];"vLad_^"                   "pulifrici1996"            "bceijnopv"             "f" 
+;[retras];"ZooM"                     "EA2969"                   "bceijnopqv"            "f" 
+;[retras];"vOci.Why?"                "ploaie"                   "abcdefghijklmnopqrstu" "f" 
+;[retras];"Levi99"                   "22ticom22"                "bceijnopvt"            "f"  
+;[retras];"Mr.NeQ."                  "sabyna123"                "bceijnopv"             "f" 
+;[retras];"beastboy"                 "beast07"                  "abcdefghijkmnopqrst"   "f" ;donatie 3 euro pe 22.4 
+;[retras];"Afrezeu"                  "speaker1994"              "bceijnoptv"            "f" 
+;[retras];"1cekill3r"                "d9f37326AmUmU"            "bcdeijnopqt"           "f" ;donatie 4 euro pe 11.08
+;[retras];"eldoi."                   "muieponta"                "bceijnopvt"            "a" ;donatie 22.11 
+;[RETRAS]"mwheeldown.b1nder"         "misika006"                "bcdeijnopqt"           "f" ;reclama.
+;[retras];"vaLy # dR"                "darknessco"               "bcefijnopv"            "a" ;donatie 3 euro, 13.06
+;[absenta];"Cristian [;x]"           "florinel"                 "bceijnopqv"            "a"   
+;[absenta];"Dr0gaTuL"                "qwertystraniu"            "bceijnoptv"            "a" 
+;[retras];"STEAM_0:0:1231845704"     "200889"                   "bceijnopv"             "c" ;ghostmaker
+;[retras];"Quba # Logitech*"         "mariusflorin"             "bceijnopv"             "a"  
+;[retras];"ZeNN."          	     "zennpass12"         	"bcei"                  "f"
+;[retras];"eQual // Jayke.-" 	     "32x156"    		"abcdefghijkmnopqrst"   "f" ;donatie VIP pe 20.12+donatie 3 euro pe 15.4
+;[retras];"eQuaL // Swide."          "qazxswedc123"             "bceit" 		"f" ;  
+;[retras];"Afrezeu"         	     "maestrofanafre"           "abcdefghijkmnopqrst"   "f"
+;[retras];"zick"                     "zickerinodr"        	"bcei"  		"f" ;concurs
+;[retras]"PaUlL."                    "-jbk-"                    "bcdeijnopq"            "f" 
+;[retras]"78.96.220.200"             ""                         "bcdefijnopqrs"         "f" ;eddie
+;[retras];"eQuaL // .Bang"           "Godness"                  "bceijnopqvt"           "f"; donatie 7 euro
+;[retras];"zew" 		     "embar33"         		"bcei"  		"f"
+;[retras];"knife"		    "1231230c1231230c"	 "bceij"     "f"   
+
+;--------------------------------------------------------------;
+;Remove
+;--------------------------------------------------------------;
+ 
+;[remove];"Floy" "Floyutz.12" "bceijt" ;revive 1.01
+;[remove];"Hazard'"                    "minete10" 		 "bceij"     "f" ;concurs 
+;[remove];"spartanC3"		    "D3N1SACHE12239"	 "bceij"     "f" 
+;[remove];"Daky69"		"awesome11"		"bceij"	"f" 
+;[remove];"P0kerStarS"		    "239MAUF1"		 "bceij"     "f"
+;[remove];"trickz-"           	    "Satraefamilia" 	 "bceij"     "f" ;concurs 
+;[remove];EvolGeniuS - ThE king#"    "andreicicu123"      "bceij"     "f" ;concurs 
+;[remove];"default." 		    "drdefault99"		"bceij"	"f"
+;[remove];"dEz"               	    "nutu222"            "bceij"     "f" ;concurs 
+;[remove];"Bobitza"		    "bob345"		 "bceij"     "f" 
+;[remove];"OreD"		 	    "motorola2121" 	 "bceij"     "f" 
+;[remove];"Theo"                        "bjhew$c@3we"              "abcdefghijkmnopqrst"   "f" 
+;[remove];"SxR ! 1337"                  "sxreprost"                "abcdefghijkmnopqrst"   "f" 
+;[remove];"LiviuYOO"                    "liviutul99"               "abcdefghijkmnopqrst"   "f" 
+;[remove];"Catalyn ! Styles"            "12344321"                 "abcdefghijkmnopqrst"   "f" ;donatie 05.01+donatie 6 euro pe 15.4
+;[remove];"melodrama"                   "f10r1g1n4l"               "abcdefghijkmnopqrst"   "f" 
+;[remove];"Glibz#"                      "coaiemari"                "abcdefghijklmnopqrstu" "f" 
+;[remove];"Dudu.- ;o!"                  "mojangos1234"             "bcdeijnopqt"           "f" ;Donatie 
+;[remove];"yamis1"                      "malibu94"                 "bcdeijnopq"            "f" ;donatie 6 euro pe 4.1
+;[remove];"nx."                         "spikey"                   "bceijnopqvt"           "f"  
+;[remove];"PrajituraXXX"                "cstrike98"                "bceijnopqv"            "f" 
+;[remove];"~neXt~ NicolaSss"            "bisnitarul"               "bceijnopqv"            "f" 
+;[remove];"IrreguLar"                   "aarond"                   "bceijnopqv"            "f" 
+;[remove];"Tuborg"                      "show55"                   "bceijnopvt"            "f" 
+;[remove];"prno.fcuk"                   "qwerty"                   "bcei"  		           "f" 
+;[remove];"JaC"                         "politia112"               "bcei"  		           "f" 
+;[remove];"[F]a[k]e  cTc"               "mediatechmt2"             "bcei"  		           "f"  
+;[remove];"evo ;o ! 1337"               "thesurvivor015"           "bcei"  		           "f" 
+;[remove];"Wick3d"                      "123123"                   "bceit" 		           "f" 
+;[remove];"oxyex /notAfraid/"           "jumper2001"               "bcei"  		           "f"   
+;[remove];"Darck^Walkers - Geo"         "George_geo03"             "bcei"  		           "f" 
+;[remove];"[T.H.X] # Damian"            "d654987"                  "bcei"  		           "f"  
+;[remove];"hiDDeN"                      "anakiNNN112"              "bcei"  		           "f"  
+;[remove];"standUP.Fheazy"              "andreiu200"               "bcei"  		           "f" 
+;[remove];"Lery ! 1337"                 "lolipop99"                "bcei"           	   "f" 
+;[remove];"Darck^Walkers - S3lL3Ct"     "macanache"                "bcei"  	           	   "f"  
+;[remove];"PLUGS NOT DRUGS"             "chakra8papadiameleu"      "bcei"         		   "f" 
+;[remove];"rEpply"                      "wdasdawdagawgaw12"        "bcei"         		   "f" 
+;[remove];"dNy"                         "dani1q2w3e4r5t6y7u8i9o0p" "bcei"        		   "f"  
+;[remove];"Pandaaa :o3 ! 1337"          "blackzone"                "bcei"          		   "f" 
+;[remove];"La Misto."                   "Fstream"                  "bcei"         		   "f"  
+;[remove];"Kicoffibs"                   "Alabalaporto"             "bcei"            	   "f"  
+;[remove]"Robert."                      "minecraft"                "bcei"           	   "f" 
+;[remove];"123miei"                     "cliff_stevie"             "bcei"           	   "f" 
+;[remove];"flavi"                       "flavibossu"               "bcei"           	   "f" 
+;[remove];"Edyeedi"                     "uje47890"                 "bcei"          	       "f" 
+;[remove];"bLood <3 Boobies!"           "celtos123"                "bcei"            	   "f" 
+;[remove];"sNk#"                        "catalin1"                 "bcei"  		           "f"  
+;[remove];"growndex."                   "drmaster"                 "bcei"  		           "f"  
+;[remove];"Gulii" 		        "iphone" 	           "bcei"  		           "f" 
+;[remove];"eQuaL // AMX"                "dimajke123"               "bcei"  		           "f" 
+;[remove];"Microsoft"                   "bulanul123"               "bcei"  		           "f"  
+;[remove];"tpk"                         "madalindanger"            "bcei"  		           "f" 
+;[remove];"zeuS. ! 4everkinG"           "alexblack99"              "bcei" 		 	       "f" ;donatie 17.11 
+;[remove];"43v3r"                       "codbo2"                   "bcei"  		           "f" 
+;[remove];"AirRfaNs <3 Boobies!"        "permis132"                "bcei"  		           "f" 
+;[remove];"LoG1k^"                      "cosmin69"                 "bcei"  		           "f" 
+;[remove];"osxFTW"                      "league123"                "bcei"  		           "f" 
+;[remove];"Robert."                     "iulian98"                 "bceit" 		           "f" 
+;[remove];"NevA."                       "gm10gm10"                 "bceit" 		           "f" ;donatie vip 14.11
+;[remove];"th3# Lyke"                   "nitro"                    "bceit" 		           "f" 
+;[remove];"raiN"                        "mac28dli04cat29"          "bcei"  		           "f" 
+;[remove];"Edyeedi"                     "uje47890"                 "bcei"  		           "f" 
+;[remove];"Mont^Blanc"      	        "marincea123"    	   "bcei"   		      	   "f" 
+;[remove];"skepsisss"                   "dulica"         	   "bcei"   	           	  "f" 
+;[remove];"Zyp3r"                       "bogdan15"       	   "bcei"   		       "f"
+;[remove];"THIS IS SPARTA"    	        "Dumitru22"      	   "bceijnopqv"  	       "f" 
+;[remove];"Adyy"                        "Projetocs1997"            "bcei"   		       "f" 
+;[remove];"fane"                        "T1pgalateni/1"            "bcei"   		       "f" 
+;[remove];"william."                    "c3gg53ss"                 "bcei"   		       "f" 
+;[remove];"lemon"                       "George_geo02"         	   "bcei"   		       "f" 
+;[remove];"kolo1"                       "csgbba1163"           	   "bcei"   		       "f"
+;[remove];"underworld.bwin"             "daubine123"           	   "bcei"   		       "f" 
+;[remove];"DANI3L"                      "c1o2c3o4"             	   "bcei"   		       "f" 
+;[remove];"WincHesTeR"      	        "didi1337"                 "bcei"   		       "f" 
+;[remove];"IrreguLar"                   "Proplayer00"          	   "bcei"   		       "f" 
+;[remove];"RamJex"                      "jex123"               	   "bcei"   		       "f" 
+;[remove];"Diana."                      "diana09"              	   "bcei"   		       "f" ;pa pa paaaa retardat
+;[remove];"eQuaL // GearUP"             "fioriginal2016gearup"     "bceijnopqvt"           	"f" ;donatie 10 euro pe 26.12 absent
+;[remove];"LizZy tHe LezZy [L.G.B.T]"   "rubyroseislife"     	   "bcei"                  "f" ; 
+;[remove];"yaHoo"                       "deconectare"              "bceijnopvt"            "a" ;donatie 6 euro pe 30.08 remove pentru stabilizator
+;[remove]"STEAM_0:1:41714176"           "30011973"                 "bceit"                 "c" ; redbull ; donatie 25.08 
+;[remove]"je suis"                      "admin"                    "bcei"                  "a" 
+;[remove]"PrajituraXXX"                 "cstrike98"                "bcei"                  "a" 
+;[remove]"Fheazy ;xXx; FTB"             "andrey777"                "bcei"                  "a" 
+;[REMOVE]"Cristy !!! <3"                "fujitsu"                  "beit"                  "a" 
+;[REMOVE]"Marius ;x"                    "cretan"                   "bei"                   "a"   
+;[REMOVE]"Raz0r[; x] ! FTW"             "dobrindobrin123"          "bei"                   "a" 
+;[remove]"DjDead"                       "123456789qwerty"          "bei"                   "a"  
+;[remove]"aLy"                          "alexandru91"              "bei"                   "a" 
+;[REMOVE]"skary"                        "marius010"                "bei"                   "a" ;dat de mine si anca[pica cs.devil la comanda]
+;[REMOVE]"Tadeu = sm player"            "123456"                   "bcei"                  "a"    
+;[remove];"osxFTW"                      "flavius321"               "bceit"                 "a" ;vip-lista mosului
+;[remove]; "HiDDen"                     "29122001"                 "bcei"                  "a" 
+;[remove]"FrienDs"                      "nuke1992"                 "bcei"                  "a" ;donatie 8.12 5 euro  
+;[remove];"Rellowy -CsGlobalOffensive-" "proplayer71"              "bei"                   "a" 
+;[remove];"Tudii.<3 ! 1337"             "florinsalam"              "bei"                   "a" 
+;[remove];"AnduXIK"                     "muiefraiere"              "bei"                   "a" 
+;[remove];"Fearless"                    "Laura0491"                "bei"                   "a" 
+;[remove];"DucKBoys l Cola 3*vL"        "danielalin001"            "bei"                   "a" 
+;[remove];"intunERICK. ! 4everkinG"     "slot"                     "bei"                   "a" 
+;[remove];"SULTAN"                      "sebynhobajetu1"           "bei"                   "a" 
+;[remove];"dubioSss"                    "wowraizen1322"            "bei"                   "a" 
+;[remove];"eQuaL // boB =DD" 	        "ilikemario" 	           "bcei"                  "f"  
+;[remove];"eQuaL // MISHU KATARAMA" 	"mihaitza9703"        	   "bcei"  			"f" ;   
+;[remove];"Senerader # OFFGOD"      	"poponarul123"        	   "bcei"  			"f" ;   
+;[remove];"eQuaL // N3sQu1K"       	"kitara221"     	   "bcei"   			"f"
+;[remove];"JusT Red-X ;)"          	"yusuke123" 	           "bcei"  			"f" ; 
+;[remove];"Avr."    	     	     	"grenada"             	   "bcei"  			"f" ; 
+;[remove];"M!CROB3S" 	         	"deneuitat2131"            "bcei"  			"f" ;
+;[remove];;"Andreiutz"   		"focusmuculus"             "bcei"  			"f" ; 
+;[remove];;"krys||x"                	"amuncainecaorcare90"      "bcei"  			"f" ;concurs 
+;[remove];eQuaL // Walked.Flik" 	"permisauto123"            "bcdeijnopq"  		"f" ;  
+;[remove];"Mocanu_MD"         	  	"Mocanu.17_MD"             "bcei" 			"f" ; 
+;[remove];"jabb0k's | kolo1"        	"csgbba"                   "bcei"  			"f" ;concurs
+;[remove];"parkoureS [~] bTz^"      	"bTz^1"          	   "bcei"  			"f" ;   
+;[remove];"DarkWalkerz # DoNpAkaa" 	"spaimanebuna122"  	   "bcei"  			"f" ;
+;[remove];"iNs"             	     	"Docthebest97"    	   "bceit" 			"f" ; donatie 3 euro 13.03
+;[remove];"Reemes"                 	"Andrei52111"        	   "bcei"  			"f" ;concurs 
+;[remove];"Proxy."                 	"proxymaster"        	   "bcei" 			"f" ;concurs
+;[remove];"-rTg|ReaD1nG"           	"iphone5"	       	   "bcei"  			"f"
+;[remove];"LiviuYOO ;o ! 1337"     	"muietigau1"         	   "bcei"  			"f" ;concurs
+;[remove];"rob:)"                  	"Robert04"           	   "bceit" 			"f" ; donatie 6.02 3 euro  
+;[remove];"DoggyStyle"             	"Ahlen"              	   "bcei"  			"f" ;concurs
+;[remove];"Dana"                   	"zaqw1234"           	   "bcei"  			"f" ;concurs
+;[remove];"fursec"                 	"svenfucksyo"        	   "bcei"  			"f" ;concurs
+;[remove];"MLG"                    	"zggy77ftmlgpro"     	   "bcei"  			"f" ;concurs
+;[remove];"eQuaL // Hisouky"       	"alexalex"           	   "bcei"  			"f"
+;[remove];"Asdfq"                  	"florinel"           	   "bcei"  			"f" ;concurs   
+;[remove];"EL DRAKE"               	"123qwerty"          	   "bcei"  			"f" ;concurs
+;[remove];"LizZy tHe LezZy [L.G.B.T]" 	"katinkaftw"      	   "bceit" 			"f" ;concurs donatie de la maestro pe 12.05 
+;[remove];"Bolt.<3"                   	"smoken111"          	   "bceijnopvt" 		"f" ;concurs + loto ; revive 5 zile de la loto
+;[remove];"crazi #"                	"123qwe"          	   "bcei"  			"f"                         
+;[remove];"Ducke"                  	"king23"          	   "bcei"  			"f" ;concurs                 
+;[remove];"RaZeRWWW"               	"razer"           	   "bcei"  			"f" ;concurs                
+;[remove];"Fheazy"                 	"andreiu200"      	   "bcei"  			"f" ;concurs                
+;[remove];"Assasinul" 		 	"tc026354" 	  	   "bcei"  			"f"                                
+;[remove];"maketacke" 		 	"overp0wer2016"   	   "bcei"  			"f"                             
+;[remove];"jUSTIN" 			"sobolangazat123" 	   "bcei"  			"f"                                 
+;[remove];"Tetsuya" 			"tiganul97+" 	  	   "bcei"  			"f" 
+;[remove];"PaYnE"       		"drjack"          	   "bceijnopv"  		"f" ; 
+;[remove];"flavi"          	        "ItsSoFuckingHardToLh" 	   "bcei" 			"f" ;concurs
+;[remove];"KLEZ;["                      "at48"		           "bcei"  			"f" ;concurs
+;[remove];"rob:)"                  	"Robert0308"      	   "bceit" 			"f" ;donatie 6.02 3 euro
+;[remove];"LoG1k^" 		    	"cosmin99" 	  	   "bceij" 		        "f" ; concurs
+;[remove];"qRs."			    "solohd18"		 "bceij"     "f"
+;[remove];"Rippz."		   "fioriginalbest4ever" "bceijt"    "f"
+;[remove];"s3k" 		            "asdf97qwe" 	 "bceij"     "f"  
+;[remove];"|FTWGeorge|" 		    "R@ul1997" 		 "bceij"     "f" 
+;[remove];"axeljr" 	 	    "feelsgoodman"    	 "bceij"   "f"
+;[remove];"-oMg|Sonor" 		    "a32sc" 	  	 "bceij"     "f"
+;[remove];"FLVXSOW;["            	    "at48" 		 "bceij"     "f" ;concurs
+;[remove];"Sh0o7eR"                   "parola20"           "bceij"     "f" ;campanie
+;[remove];"Nod"        	   	    "Lucian2005" 	 "bceij"     "f" ;concurs   
+;[remove];"ZALE"			    "SfantaParascheva1"  "bceij"     "f"  
+;[remove];"MrSexyPanda.-"     "Musatalexx[]123"  "bceij"     "f" ;concurs; 
+;[remove];"kolo1"     "ws3av8SGS"  "bceij"     "f" ;concurs 
+;[remove];"Levi99"		    "22gg22"		 "bceij"      "f" ; 30.01
+;[remove];"wadafac!"	  	 "martalog99"		"bceij"	"f"; 

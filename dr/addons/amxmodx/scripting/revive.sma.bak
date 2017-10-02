@@ -1,0 +1,151 @@
+#include <amxmodx>
+#include <amxmisc>
+#include <fun>
+#include <hamsandwich>
+#include <ColorChat>
+
+new maxplayers
+new bool:cs
+
+public plugin_init()
+	{
+	new szMapName[ 64 ];
+	get_mapname( szMapName, 63 );
+	register_plugin( "Team Revive", "1.0", "Unknown" );
+	if( contain( szMapName, "training" )|contain( szMapName, "skills" ) != -1 )	
+    register_concmd("amx_revive","admin_revive",ADMIN_KICK);
+  else
+    register_concmd("amx_revive","admin_revive",ADMIN_RCON);
+	register_clcmd( "say", "HookClCmdSay" );
+	register_clcmd( "say_team", "HookClCmdSay" );
+	
+	maxplayers = get_maxplayers()
+	
+	new modname[32]
+	get_modname(modname,31)
+	
+	if(containi(modname,"cstrike")!=-1 || containi(modname,"czero")!=-1) cs=true
+}
+
+public admin_revive(id,level,cid)
+	{	
+	if(!cmd_access(id,level,cid,3))
+		{
+		return PLUGIN_HANDLED
+	}
+	new arg1[32]
+	read_argv(1,arg1,31)
+	new arg2[32]
+	read_argv(2,arg2,31)
+	
+	if(cs)
+		{
+		if(equal(arg1,"@CT"))
+			{
+			client_print(0,print_chat,"[AMXX] Admin revived all CTs.")
+			for(new i=1;i<=maxplayers;i++)
+				{
+				if(is_user_connected(i) && get_user_team(i)==2)
+					{
+					new param[1]
+					param[0]=str_to_num(arg2)
+					revive(i)
+					//set_task(0.5,"revive2",i,param,1)
+				}
+			}
+		}
+		if(equal(arg1,"@T"))
+			{
+			client_print(0,print_chat,"[AMXX] Admin revived all Ts.")
+			for(new i=1;i<=maxplayers;i++)
+				{
+				if(is_user_connected(i) && get_user_team(i)==1)
+					{
+					new param[1]
+					param[0]=str_to_num(arg2)
+					revive(i)
+					//set_task(0.5,"revive2",i,param,1)
+				}
+			}
+		}
+	}
+	if(equal(arg1,"@all"))
+		{
+		client_print(0,print_chat,"[AMXX] Admin revived everyone.")
+		for(new i=1;i<=maxplayers;i++)
+			{
+			if(is_user_connected(i))
+				{
+				new param[1]
+				param[0]=str_to_num(arg2)
+				revive(i)
+				//set_task(0.5,"revive2",i,param,1)
+			}
+		}
+	}
+	else
+	{
+		new target = cmd_target(id,arg1,3)
+		if(!target)
+			{
+			return PLUGIN_HANDLED;
+		}
+		new name[32]
+		get_user_name(target,name,31)
+		client_print(target,print_chat,"[AMXX] Admin revived you.")
+		console_print(id,"[AMXX] Revived %s",name)
+		new param[1]
+		param[0]=str_to_num(arg2)
+		revive(target)
+		//set_task(0.5,"revive2",target,param,1)
+	}
+	return PLUGIN_CONTINUE;
+}
+
+public revive(id)
+	{
+	//spawn(id)
+	ExecuteHamB(Ham_CS_RoundRespawn, id);
+}
+
+public HookClCmdSay(id)
+	{
+	static szSaid[ 192 ];
+	read_args( szSaid, sizeof ( szSaid ) -1 );
+	
+	if( !szSaid[ 0 ] )
+		return 0;
+	
+	
+	remove_quotes( szSaid );
+	
+	
+	
+	if( equal( szSaid, "!revive", strlen( "!revive" ) ) )
+		{
+		if(get_user_flags(id) & ADMIN_LEVEL_H)
+			{
+			revive2(id)
+		}
+		else
+		{
+			ColorChat(id, RED,"^4[^3AMX_REVIVE^4]^1 Nu esti VIP, nu ai acces la aceasta comanda.");
+		}
+		return PLUGIN_HANDLED;
+	}
+	return PLUGIN_CONTINUE;
+}
+public revive2(id)
+	{
+	new iPlayers[ 32 ];
+	new iPlayersNum;
+	get_players( iPlayers, iPlayersNum, "ache", "CT" );
+	if( iPlayersNum <= 2 )
+		{
+		ColorChat(id, RED, "^4[^3AMX_REVIVE^4]^1 Imi pare rau dar sunt mai putin de 2 playeri in viata.");
+		return PLUGIN_HANDLED;
+	}
+	revive(id);
+	ColorChat(id, RED, "^4[^3AMX_REVIVE^4]^1 Ai primit respawn.");
+	return PLUGIN_HANDLED;  
+}

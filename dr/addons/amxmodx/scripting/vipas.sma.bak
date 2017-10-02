@@ -1,0 +1,143 @@
+#include <amxmodx>
+#include <fakemeta>
+#include <hamsandwich>
+#include <cstrike>
+#include <amxmisc>
+#include <fun>
+#include <ColorChat>
+
+
+#define PLUGIN_NAME "vipas"
+#define PLUGIN_AUTHOR "Kukulis"
+#define PLUGIN_VERSION "0.1"
+
+new bool:fol = false;
+new bool:drop_id[33] = false;
+
+public plugin_init()
+	{
+	register_plugin(PLUGIN_NAME, PLUGIN_AUTHOR, PLUGIN_VERSION);
+	
+	register_clcmd( "say", "HookClCmdSay" );
+	register_clcmd( "say_team", "HookClCmdSay" );
+	
+	register_concmd("drop","antidrop");
+	register_clcmd("drop","antidrop");
+	
+	register_logevent( "eRound_start", 2, "1=Round_Start" );
+	RegisterHam(Ham_Spawn, "player", "fwHamPlayerSpawnPost", 1)
+	return PLUGIN_CONTINUE
+	
+}
+
+public eRound_start()
+	{
+	fol = false;
+}
+
+public fwHamPlayerSpawnPost(id)
+	{
+	drop_id[id] = true;
+	set_task( 10.0 , "drop_nana", id);
+}
+
+public drop_nana(id)
+	{
+	drop_id[id] = false;
+}
+
+public antidrop(id){
+	if(get_user_weapon(id) == CSW_SCOUT)
+		{
+		ColorChat(id, RED, "^3 Scout-ul este strict pentru perosanele cu ^4VIP^3 ! Nu poti arunca arma, asa ca o i-au eu de buna voie.");
+		ham_strip_weapon( id, "weapon_scout" );
+		give_item( id, "weapon_knife" );
+		return PLUGIN_HANDLED;
+	}
+	if(drop_id[id])
+	{
+    ColorChat(id, RED, "^4[DR] ^3 Nu poti arunca arma in primele 10secunde de la spawn !");
+		return PLUGIN_HANDLED;
+	}
+	return PLUGIN_CONTINUE;
+}
+
+public HookClCmdSay(id)
+	{
+	static szSaid[ 192 ];
+	read_args( szSaid, sizeof ( szSaid ) -1 );
+	
+	if( !szSaid[ 0 ] )
+		return 0;
+	
+	
+	remove_quotes( szSaid );
+	
+	
+	
+	if( equal( szSaid, "!scout", strlen( "!scout" ) ) )
+		{
+		give_stuff(id)
+		return PLUGIN_HANDLED;
+	}
+	
+	return PLUGIN_CONTINUE;
+}
+
+public give_stuff(id)
+	{
+	if(!is_user_connected(id))
+		return 1;
+	if(get_user_flags(id) & ADMIN_LEVEL_H)
+		{
+		if (get_user_weapon(id) != CSW_SCOUT)
+			{
+			new iScout = give_item( id, "weapon_scout" );
+			if( iScout > 0)
+				{
+				cs_set_weapon_ammo( iScout, 0 );
+				cs_set_user_bpammo( id, CSW_SCOUT, 0 );
+				if(fol == false)
+					{
+					cs_set_user_money(id, cs_get_user_money(id) + 1000);
+					fol = true;
+				}
+			}
+		}
+	}
+	else 
+	{
+		ColorChat(id, RED, "^3 Comanda poate fi folosita doar de jucatorii care au ^4VIP^3 ! Pentru detalii despre vip, scrie ^4/vip^3.");
+	}
+	return PLUGIN_CONTINUE;
+}
+
+stock ham_strip_weapon(id,weapon[])
+	{
+	if(!equal(weapon,"weapon_",7)) return 0;
+	
+	new wId = get_weaponid(weapon);
+	if(!wId) return 0;
+	
+	new wEnt;
+	while((wEnt = engfunc(EngFunc_FindEntityByString,wEnt,"classname",weapon)) && pev(wEnt,pev_owner) != id) {}
+	if(!wEnt) return 0;
+	
+	if(get_user_weapon(id) == wId) ExecuteHamB(Ham_Weapon_RetireWeapon,wEnt);
+	
+	if(!ExecuteHamB(Ham_RemovePlayerItem,id,wEnt)) return 0;
+	ExecuteHamB(Ham_Item_Kill,wEnt);
+	
+	set_pev(id,pev_weapons,pev(id,pev_weapons) & ~(1<<wId));
+	
+	// this block should be used for Counter-Strike:
+	/*if(wId == CSW_C4)
+	{
+		cs_set_user_plant(id,0,0);
+		cs_set_user_bpammo(id,CSW_C4,0);
+	}
+	else if(wId == CSW_SMOKEGRENADE || wId == CSW_FLASHBANG || wId == CSW_HEGRENADE)
+		cs_set_user_bpammo(id,wId,0);*/
+	
+	return 1;
+}

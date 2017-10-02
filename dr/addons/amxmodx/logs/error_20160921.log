@@ -1,0 +1,6 @@
+L 09/21/2016 - 17:18:10: Start of error session.
+L 09/21/2016 - 17:18:10: Info (map "deathrun_challenge_x") (file "addons/amxmodx/logs/error_20160921.log")
+L 09/21/2016 - 17:18:10: [CSTRIKE] Invalid player 7
+L 09/21/2016 - 17:18:10: [AMXX] Displaying debug trace (plugin "newtero3.amxx", version "1.0")
+L 09/21/2016 - 17:18:10: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 09/21/2016 - 17:18:10: [AMXX]    [0] newtero3.sma::askTero (line 346)

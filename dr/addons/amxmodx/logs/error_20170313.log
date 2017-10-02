@@ -1,0 +1,9 @@
+L 03/13/2017 - 20:00:19: Start of error session.
+L 03/13/2017 - 20:00:19: Info (map "deathrun_cliff") (file "addons/amxmodx/logs/error_20170313.log")
+L 03/13/2017 - 20:00:19: Forward-ul nu s-a putut executa.
+L 03/13/2017 - 20:00:19: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 03/13/2017 - 20:52:12: [AMXX] Plugin ("advanced_bans_sql.amxx") is setting itself as failed.
+L 03/13/2017 - 20:52:12: [AMXX] Plugin says: Could not connect to database.
+L 03/13/2017 - 20:52:12: [AMXX] Displaying debug trace (plugin "advanced_bans_sql.amxx", version "0.8.1")
+L 03/13/2017 - 20:52:12: [AMXX] Run time error 1: forced exit 
+L 03/13/2017 - 20:52:12: [AMXX]    [0] advanced_bans_sql.sma::QueryLoadBans (line 694)

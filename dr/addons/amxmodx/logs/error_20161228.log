@@ -1,0 +1,81 @@
+L 12/28/2016 - 12:57:09: Start of error session.
+L 12/28/2016 - 12:57:09: Info (map "deathrun_clarion_dojo_b3") (file "addons/amxmodx/logs/error_20161228.log")
+L 12/28/2016 - 12:57:09: Forward-ul nu s-a putut executa.
+L 12/28/2016 - 12:57:09: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/28/2016 - 14:24:06: Start of error session.
+L 12/28/2016 - 14:24:06: Info (map "deathrun_gb_winter_final4") (file "addons/amxmodx/logs/error_20161228.log")
+L 12/28/2016 - 14:24:06: Forward-ul nu s-a putut executa.
+L 12/28/2016 - 14:24:06: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/28/2016 - 14:25:22: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 14:25:22: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 14:25:22: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 14:25:22: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/28/2016 - 14:39:21: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 14:39:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 14:39:21: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 14:39:21: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/28/2016 - 14:39:31: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 14:39:31: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 14:39:31: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 14:39:31: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/28/2016 - 14:39:36: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 14:39:36: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 14:39:36: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 14:39:36: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/28/2016 - 15:58:31: Start of error session.
+L 12/28/2016 - 15:58:31: Info (map "deathrun_hertz") (file "addons/amxmodx/logs/error_20161228.log")
+L 12/28/2016 - 15:58:31: Forward-ul nu s-a putut executa.
+L 12/28/2016 - 15:58:31: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/28/2016 - 16:06:01: Start of error session.
+L 12/28/2016 - 16:06:01: Info (map "deathrun_laserspace") (file "addons/amxmodx/logs/error_20161228.log")
+L 12/28/2016 - 16:06:01: Forward-ul nu s-a putut executa.
+L 12/28/2016 - 16:06:01: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/28/2016 - 17:04:33: Start of error session.
+L 12/28/2016 - 17:04:33: Info (map "deathrun_clarion_dojo_b3") (file "addons/amxmodx/logs/error_20161228.log")
+L 12/28/2016 - 17:04:33: [AMXX] Plugin ("allchat3.amxx") is setting itself as failed.
+L 12/28/2016 - 17:04:33: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.104.2' (4)
+L 12/28/2016 - 17:04:33: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/28/2016 - 17:04:33: Forward-ul nu s-a putut executa.
+L 12/28/2016 - 17:04:33: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/28/2016 - 17:18:03: Start of error session.
+L 12/28/2016 - 17:18:03: Info (map "deathrun_clarion_dojo_b3") (file "addons/amxmodx/logs/error_20161228.log")
+L 12/28/2016 - 17:18:03: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 17:18:03: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 17:18:03: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 17:18:03: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/28/2016 - 17:18:51: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 17:18:51: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 17:18:51: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 17:18:51: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/28/2016 - 17:18:58: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 17:18:58: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 17:18:58: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 17:18:58: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/28/2016 - 17:19:00: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 17:19:00: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 17:19:00: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 17:19:00: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/28/2016 - 17:19:09: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 17:19:09: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 17:19:09: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 17:19:09: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/28/2016 - 17:20:11: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 17:20:11: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 17:20:11: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 17:20:11: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/28/2016 - 17:20:18: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 17:20:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 17:20:18: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 17:20:18: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/28/2016 - 18:03:10: Start of error session.
+L 12/28/2016 - 18:03:10: Info (map "deathrun_4rooms_fg") (file "addons/amxmodx/logs/error_20161228.log")
+L 12/28/2016 - 18:03:10: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 18:03:10: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 18:03:10: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 18:03:10: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/28/2016 - 19:20:27: Start of error session.
+L 12/28/2016 - 19:20:27: Info (map "deathrun_expres-game") (file "addons/amxmodx/logs/error_20161228.log")
+L 12/28/2016 - 19:20:27: String formatted incorrectly - parameter 2 (total 1)
+L 12/28/2016 - 19:20:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/28/2016 - 19:20:27: [AMXX] Run time error 25: parameter error 
+L 12/28/2016 - 19:20:27: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)

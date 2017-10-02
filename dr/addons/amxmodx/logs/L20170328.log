@@ -1,0 +1,453 @@
+L 03/28/2017 - 00:07:51: -------- Mapchange to deathrun_av2009 --------
+L 03/28/2017 - 00:07:53: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 00:07:54: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 00:26:31: [admin.amxx] Login: "william.<1737><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 00:33:26: -------- Mapchange to deathrun_insider --------
+L 03/28/2017 - 00:33:27: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 00:33:28: [admin.amxx] Login: "william.<1737><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 00:33:28: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 00:33:33: [admin.amxx] Login: "william.<1738><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 00:35:09: [admin.amxx] Login: "tiganu<1742><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 00:35:10: [admin.amxx] Login: "tiganu<1743><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 00:42:51: [admin.amxx] Login: "tiganu<1744><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 00:42:57: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1744><STEAM_0:0:187978272><>"
+L 03/28/2017 - 01:00:33: -------- Mapchange to deathrun_hell1337_final --------
+L 03/28/2017 - 01:00:34: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 01:00:35: [admin.amxx] Login: "tiganu<1744><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 01:00:35: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 01:00:36: [admin.amxx] Login: "tiganu<1745><STEAM_0:0:187978272><>" kicked due to invalid password (account "tiganu") (address "86.127.14.183")
+L 03/28/2017 - 01:00:46: [admin.amxx] Login: "tiganu<1749><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 01:16:47: [admin.amxx] Login: "tiganu<1751><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 01:16:52: [admin.amxx] Login: "tiganu<1753><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 01:16:56: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "COCO<1752><STEAM_0:0:312001747><>"
+L 03/28/2017 - 01:16:58: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1753><STEAM_0:0:187978272><>"
+L 03/28/2017 - 01:17:01: [admin.amxx] Login: "tiganu<1754><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 01:17:07: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1754><STEAM_0:0:187978272><>"
+L 03/28/2017 - 01:18:20: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "COCO<1755><STEAM_0:0:312001747><>"
+L 03/28/2017 - 01:18:29: [admin.amxx] Login: "tiganu<1756><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 01:18:35: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1756><STEAM_0:0:187978272><>"
+L 03/28/2017 - 01:39:07: [admin.amxx] Login: "tiganu<1756><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 01:43:15: [slayafk.amxx] razvan04 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/28/2017 - 01:44:13: [admin.amxx] Login: "tiganu<1762><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 01:46:09: [admin.amxx] Login: "tiganu<1763><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 01:46:15: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1763><STEAM_0:0:187978272><>"
+L 03/28/2017 - 01:46:18: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "COCO<1764><STEAM_0:0:312001747><>"
+L 03/28/2017 - 01:47:26: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "COCO<1765><STEAM_0:0:312001747><>"
+L 03/28/2017 - 01:50:47: [admin.amxx] Login: "tiganu<1766><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 01:51:13: [admin.amxx] Login: "tiganu<1767><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 01:51:19: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1767><STEAM_0:0:187978272><>"
+L 03/28/2017 - 02:20:04: -------- Mapchange to deathrun_toony_beta1 --------
+L 03/28/2017 - 02:20:06: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 02:20:07: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 02:36:08: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "COCO<1777><STEAM_0:0:312001747><>"
+L 03/28/2017 - 02:48:02: -------- Mapchange to deathrun_3sixty_fg_fix2 --------
+L 03/28/2017 - 02:48:04: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 02:48:05: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 04:28:01: -------- Mapchange to deathrun_army_blue_beta1 --------
+L 03/28/2017 - 04:28:03: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 04:28:04: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 04:30:43: [slayafk.amxx] -bk- @ champer a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/28/2017 - 04:53:15: -------- Mapchange to deathrun_expres-winter --------
+L 03/28/2017 - 04:53:17: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 04:53:18: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 07:32:42: -------- Mapchange to deathrun_laikiux7 --------
+L 03/28/2017 - 07:32:43: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 07:32:44: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 08:18:21: -------- Mapchange to deathrun_aventure --------
+L 03/28/2017 - 08:18:23: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 08:18:24: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 08:44:56: -------- Mapchange to deathrun_neon --------
+L 03/28/2017 - 08:44:58: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 08:44:59: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 09:10:44: -------- Mapchange to deathrun_c00l_f --------
+L 03/28/2017 - 09:10:45: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 09:10:46: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 10:05:56: -------- Mapchange to deathrun_bhopz --------
+L 03/28/2017 - 10:05:58: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 10:05:59: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 10:39:55: -------- Mapchange to deathrun_unreal_air --------
+L 03/28/2017 - 10:39:57: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 10:39:58: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 11:14:18: -------- Mapchange to deathrun_mc_nwk --------
+L 03/28/2017 - 11:14:20: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 11:14:21: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 11:30:51: [admin.amxx] Login: "FAKE ^^<1850><STEAM_0:0:272564954><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.3.7")
+L 03/28/2017 - 11:30:54: [admin.amxx] Login: "FAKE ^^<1851><STEAM_0:0:272564954><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.3.7")
+L 03/28/2017 - 11:35:54: [admin.amxx] Login: "cool<1852><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 11:35:58: [admin.amxx] Login: "cool<1853><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 11:43:46: [admin.amxx] Login: "cool<1856><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 11:43:53: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "cool<1856><STEAM_0:1:25922700><>"
+L 03/28/2017 - 12:09:34: [mapsmenu.amxx] Vote: "cool<1856><STEAM_0:1:25922700><>" vote maps (map#1 "deathrun_clarion_dojo_b3") (map#2 "deathrun_kings_never_die") (map#3 "") (map#4 "")
+L 03/28/2017 - 12:09:46: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_clarion_dojo_b3
+L 03/28/2017 - 12:14:29: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 03/28/2017 - 12:14:30: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 12:14:31: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 12:18:27: [admin.amxx] Login: "tiganu<1871><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 12:41:59: -------- Mapchange to deathrun_death --------
+L 03/28/2017 - 12:42:01: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 12:42:02: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 12:42:02: [admin.amxx] Login: "tiganu<1871><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 12:47:14: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Vincent Law<1890><STEAM_0:1:177205481><>"
+L 03/28/2017 - 12:50:17: [admin.amxx] Login: "tiganu<1891><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 12:50:23: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1891><STEAM_0:0:187978272><>"
+L 03/28/2017 - 13:13:37: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dNk|sCaRy<1903><VALVE_0:4:1529239411><>"
+L 03/28/2017 - 13:16:42: [admin.amxx] Login: "cool<1904><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 13:16:53: [admin.amxx] Login: "cool<1905><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 13:25:18: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dNk|RyuuKo<1910><VALVE_0:4:1021088628><>"
+L 03/28/2017 - 13:26:39: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dNk|sCaRy<1912><VALVE_0:4:1529239411><>"
+L 03/28/2017 - 13:26:47: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Vincent Law<1913><STEAM_0:1:177205481><>"
+L 03/28/2017 - 13:27:12: [admincmd.amxx] Cmd: "cool<1905><STEAM_0:1:25922700><>" slay "Vincent Law<1913><STEAM_0:1:177205481><>"
+L 03/28/2017 - 13:33:47: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dNk|sCaRy<1916><VALVE_0:4:1529239411><>"
+L 03/28/2017 - 13:35:45: [admin.amxx] Login: "cool<1920><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 13:35:50: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dNk|sCaRy<1919><VALVE_0:4:1529239411><>"
+L 03/28/2017 - 13:39:25: [admin.amxx] Login: "irregular<1923><STEAM_0:1:101181073><>" became an admin (account "Irregular") (access "bi") (address "79.119.237.113")
+L 03/28/2017 - 13:39:28: [admin.amxx] Login: "irregular<1924><STEAM_0:1:101181073><>" became an admin (account "Irregular") (access "bi") (address "79.119.237.113")
+L 03/28/2017 - 13:41:41: [admincmd.amxx] Kick: "IrreguLar<1924><STEAM_0:1:101181073><>" kick "cool<1920><STEAM_0:1:25922700><>" (reason "")
+L 03/28/2017 - 13:41:44: [admin.amxx] Login: "IrreguLar<1925><STEAM_0:1:101181073><>" became an admin (account "Irregular") (access "bi") (address "79.119.237.113")
+L 03/28/2017 - 13:41:50: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "IrreguLar<1925><STEAM_0:1:101181073><>"
+L 03/28/2017 - 13:42:23: [admin.amxx] Login: "cool<1926><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 13:44:21: [adminchat.amxx] Chat: "IrreguLar<1925><STEAM_0:1:101181073><>" chat "In al doilea rand ma doare in pula ca oricum am admin castigat la loterie. Asa ca, nu trebuie sa am grija."
+L 03/28/2017 - 13:44:54: [adminchat.amxx] Chat: "IrreguLar<1925><STEAM_0:1:101181073><>" chat "Mai inapt ca tine nu sunt."
+L 03/28/2017 - 13:45:06: [admin.amxx] Login: "IrreguLar<1927><STEAM_0:1:101181073><>" became an admin (account "Irregular") (access "bi") (address "79.119.237.113")
+L 03/28/2017 - 13:45:13: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "IrreguLar<1927><STEAM_0:1:101181073><>"
+L 03/28/2017 - 13:47:01: [admin.amxx] Login: "EvolGeniuS - ThE King#<1928><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "5.14.164.24")
+L 03/28/2017 - 13:53:10: [admin.amxx] Login: "EvolGeniuS - ThE King#<1930><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "5.14.164.24")
+L 03/28/2017 - 14:01:03: [admin.amxx] Login: "tiganu<1933><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 14:15:57: [admin.amxx] Login: "FAKE ^^<1941><STEAM_0:0:272564954><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.3.7")
+L 03/28/2017 - 14:16:32: -------- Mapchange to deathrun_atacama_beta2 --------
+L 03/28/2017 - 14:16:33: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 14:16:34: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 14:16:34: [admin.amxx] Login: "FAKE ^^<1941><STEAM_0:0:272564954><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.3.7")
+L 03/28/2017 - 14:35:24: [admin.amxx] Login: "tiganu<1951><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 14:35:31: [admin.amxx] Login: "irregular<1952><STEAM_0:1:101181073><>" became an admin (account "Irregular") (access "bi") (address "79.119.237.113")
+L 03/28/2017 - 14:36:19: [mapsmenu.amxx] Vote: "irregular<1952><STEAM_0:1:101181073><>" vote maps (map#1 "deathrun_gohard_final") (map#2 "") (map#3 "") (map#4 "")
+L 03/28/2017 - 14:36:31: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_gohard_final
+L 03/28/2017 - 14:43:40: -------- Mapchange to deathrun_gohard_final --------
+L 03/28/2017 - 14:43:42: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 14:43:43: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 14:43:43: [admin.amxx] Login: "irregular<1952><STEAM_0:1:101181073><>" became an admin (account "Irregular") (access "bi") (address "79.119.237.113")
+L 03/28/2017 - 14:43:43: [admin.amxx] Login: "tiganu<1951><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 15:08:49: -------- Mapchange to deathrun_death_hard --------
+L 03/28/2017 - 15:08:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 15:08:51: [admin.amxx] Login: "irregular<1952><STEAM_0:1:101181073><>" became an admin (account "Irregular") (access "bi") (address "79.119.237.113")
+L 03/28/2017 - 15:08:51: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 15:08:54: [admin.amxx] Login: "irregular<1967><STEAM_0:1:101181073><>" became an admin (account "Irregular") (access "bi") (address "79.119.237.113")
+L 03/28/2017 - 15:08:55: [admin.amxx] Login: "tiganu<1968><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 15:10:14: [mapsmenu.amxx] Vote: "irregular<1967><STEAM_0:1:101181073><>" vote maps (map#1 "deathrun_gohard_final") (map#2 "") (map#3 "") (map#4 "")
+L 03/28/2017 - 15:10:26: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_gohard_final
+L 03/28/2017 - 15:10:32: [admin.amxx] Login: "tiganu<1972><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 15:10:38: [admin.amxx] Login: "tiganu<1973><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 15:10:44: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1973><STEAM_0:0:187978272><>"
+L 03/28/2017 - 15:20:42: [admin.amxx] Login: "tiganu<1978><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 15:20:46: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dj smash<1977><STEAM_0:0:94732836><>"
+L 03/28/2017 - 15:20:48: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1978><STEAM_0:0:187978272><>"
+L 03/28/2017 - 15:21:20: [admin.amxx] Login: "tiganu<1979><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 15:21:26: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1979><STEAM_0:0:187978272><>"
+L 03/28/2017 - 15:24:58: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dj smash<1984><STEAM_0:0:1293081612><>"
+L 03/28/2017 - 15:25:30: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dj smash<1987><STEAM_0:0:497565787><>"
+L 03/28/2017 - 15:28:48: [admin.amxx] Login: "wadafac!<1989><VALVE_0:4:1712769915><>" became an admin (account "wadafac!") (access "bi") (address "79.116.113.101")
+L 03/28/2017 - 15:28:53: [admin.amxx] Login: "wadafac!<1990><VALVE_0:4:1712769915><>" became an admin (account "wadafac!") (access "bi") (address "79.116.113.101")
+L 03/28/2017 - 15:32:41: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "SkiLL*Fanatic#Andrei<1996><VALVE_0:4:1185372019><>"
+L 03/28/2017 - 15:32:46: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Bubică ღ<1997><STEAM_0:0:156562299><>"
+L 03/28/2017 - 15:33:04: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dj smash<1998><STEAM_0:0:456267045><>"
+L 03/28/2017 - 15:50:02: [admin.amxx] Login: "Scooby1^ @like's that69<2004><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 03/28/2017 - 15:50:15: [admin.amxx] Login: "wadafac!<2005><VALVE_0:4:1712769915><>" became an admin (account "wadafac!") (access "bi") (address "79.116.113.101")
+L 03/28/2017 - 15:51:18: [admin.amxx] Login: "william.<2006><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 15:51:24: [admin.amxx] Login: "william.<2007><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 15:52:20: -------- Mapchange to deathrun_gohard_final --------
+L 03/28/2017 - 15:52:22: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 15:52:23: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 15:52:23: [admin.amxx] Login: "wadafac!<2005><VALVE_0:4:1712769915><>" became an admin (account "wadafac!") (access "bi") (address "79.116.113.101")
+L 03/28/2017 - 15:52:23: [admin.amxx] Login: "Scooby1^ @like's that69<2004><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 03/28/2017 - 15:52:23: [admin.amxx] Login: "william.<2007><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 16:02:41: [admin.amxx] Login: "william.<2017><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 16:02:49: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "william.<2017><STEAM_0:1:123359479><>"
+L 03/28/2017 - 16:05:33: [admin.amxx] Login: "tiganu<2018><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 16:32:30: -------- Mapchange to deathrun_mici_f --------
+L 03/28/2017 - 16:32:32: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 16:32:33: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 16:32:33: [admin.amxx] Login: "william.<2017><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 16:32:37: [admin.amxx] Login: "tiganu<2035><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 16:33:10: [admin.amxx] Login: "william.<2040><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 16:33:16: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "william.<2040><STEAM_0:1:123359479><>"
+L 03/28/2017 - 16:33:29: [admin.amxx] Login: "william.<2043><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 16:33:36: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "william.<2043><STEAM_0:1:123359479><>"
+L 03/28/2017 - 16:33:40: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Tw1sT IS heRE<2044><STEAM_0:0:451745025><>"
+L 03/28/2017 - 16:48:24: [admin.amxx] Login: "william.<2052><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 16:48:30: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "william.<2052><STEAM_0:1:123359479><>"
+L 03/28/2017 - 16:55:43: [admin.amxx] Login: "tiganu<2053><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 17:04:59: [admin.amxx] Login: "tiganu<2057><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 17:05:05: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2057><STEAM_0:0:187978272><>"
+L 03/28/2017 - 17:09:35: [admin.amxx] Login: "tiganu<2062><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 17:09:40: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2062><STEAM_0:0:187978272><>"
+L 03/28/2017 - 17:11:14: [admin.amxx] Login: "tiganu<2064><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 17:11:20: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2064><STEAM_0:0:187978272><>"
+L 03/28/2017 - 17:23:38: [admin.amxx] Login: "tiganu<2067><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 17:26:02: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "~[M7md Ata]~ ^Veg`as^<2070><VALVE_0:4:1612440779><>"
+L 03/28/2017 - 17:36:17: -------- Mapchange to deathrun_pacman_v2 --------
+L 03/28/2017 - 17:36:18: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 17:36:19: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 17:38:45: [admin.amxx] Login: "tiganu<2078><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 17:45:37: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Outlawz # f0rest<2086><VALVE_0:4:322587638><>"
+L 03/28/2017 - 17:47:10: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Outlawz # f0rest<2090><VALVE_0:4:322587638><>"
+L 03/28/2017 - 17:50:57: [admin.amxx] Login: "cool<2095><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 17:51:02: [admin.amxx] Login: "cool<2096><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 17:51:55: -------- Mapchange to deathrun_xstrafers --------
+L 03/28/2017 - 17:51:56: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 17:51:57: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 17:51:57: [admin.amxx] Login: "cool<2096><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 17:51:59: [admin.amxx] Login: "Outlawz # f0rest<2098><VALVE_0:4:322587638><>" became an admin (account "Outlawz # f0rest") (access "bit") (address "84.117.40.143")
+L 03/28/2017 - 17:52:05: [admin.amxx] Login: "cool<2099><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 17:52:24: [admincmd.amxx] Cmd: "Outlawz # f0rest<2098><VALVE_0:4:322587638><>" ask for players list
+L 03/28/2017 - 17:53:43: [admincmd.amxx] Cmd: "cool<2099><STEAM_0:1:25922700><>" ask for players list
+L 03/28/2017 - 18:00:08: [adminchat.amxx] Chat: "cool<2099><STEAM_0:1:25922700><>" chat " :)))"
+L 03/28/2017 - 18:00:11: [adminchat.amxx] Chat: "Outlawz # f0rest<2098><VALVE_0:4:322587638><>" chat " ,}]"
+L 03/28/2017 - 18:01:49: [admin.amxx] Login: "FAKE ^^<2109><STEAM_0:0:272564954><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.3.7")
+L 03/28/2017 - 18:01:53: [admin.amxx] Login: "FAKE ^^<2110><STEAM_0:0:272564954><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.3.7")
+L 03/28/2017 - 18:02:37: [adminchat.amxx] Chat: "cool<2099><STEAM_0:1:25922700><>" chat "salut fake"
+L 03/28/2017 - 18:02:42: [adminchat.amxx] Chat: "FAKE ^^<2110><STEAM_0:0:272564954><>" chat " re"
+L 03/28/2017 - 18:02:44: [adminchat.amxx] Chat: "Outlawz # f0rest<2098><VALVE_0:4:322587638><>" chat " moderator level 2?"
+L 03/28/2017 - 18:02:48: [adminchat.amxx] Chat: "Outlawz # f0rest<2098><VALVE_0:4:322587638><>" chat " parca erai slot :]]"
+L 03/28/2017 - 18:02:49: [adminchat.amxx] Chat: "FAKE ^^<2110><STEAM_0:0:272564954><>" chat "1"
+L 03/28/2017 - 18:02:52: [adminchat.amxx] Chat: "Outlawz # f0rest<2098><VALVE_0:4:322587638><>" chat " cool izc"
+L 03/28/2017 - 18:02:53: [adminchat.amxx] Chat: "FAKE ^^<2110><STEAM_0:0:272564954><>" chat "aa"
+L 03/28/2017 - 18:02:53: [adminchat.amxx] Chat: "cool<2099><STEAM_0:1:25922700><>" chat " :)))"
+L 03/28/2017 - 18:02:54: [adminchat.amxx] Chat: "Outlawz # f0rest<2098><VALVE_0:4:322587638><>" chat " zic"
+L 03/28/2017 - 18:02:58: [adminchat.amxx] Chat: "Outlawz # f0rest<2098><VALVE_0:4:322587638><>" chat " ma da-te"
+L 03/28/2017 - 18:03:02: [adminchat.amxx] Chat: "Outlawz # f0rest<2098><VALVE_0:4:322587638><>" chat " ,]"
+L 03/28/2017 - 18:03:05: [adminchat.amxx] Chat: "cool<2099><STEAM_0:1:25922700><>" chat "is admin aici"
+L 03/28/2017 - 18:03:11: [adminchat.amxx] Chat: "cool<2099><STEAM_0:1:25922700><>" chat "de ceva vreme"
+L 03/28/2017 - 18:03:14: [adminchat.amxx] Chat: "Outlawz # f0rest<2098><VALVE_0:4:322587638><>" chat " ,]"
+L 03/28/2017 - 18:03:25: [adminchat.amxx] Chat: "cool<2099><STEAM_0:1:25922700><>" chat "mai am racai cu anca "
+L 03/28/2017 - 18:13:37: [mapsmenu.amxx] Vote: "FAKE ^^<2110><STEAM_0:0:272564954><>" vote maps (map#1 "deathrun_laikiux_rawr") (map#2 "deathrun_hybrid") (map#3 "") (map#4 "")
+L 03/28/2017 - 18:13:49: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_laikiux_rawr
+L 03/28/2017 - 18:16:10: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dNk|RyuuKo<2120><VALVE_0:4:1021088628><>"
+L 03/28/2017 - 18:17:58: -------- Mapchange to deathrun_laikiux_rawr --------
+L 03/28/2017 - 18:18:00: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 18:18:01: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 18:18:01: [admin.amxx] Login: "FAKE ^^<2110><STEAM_0:0:272564954><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.3.7")
+L 03/28/2017 - 18:20:44: [admin.amxx] Login: "tiganu<2128><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 18:27:13: [admin.amxx] Login: "tiganu<2131><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 18:27:18: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2131><STEAM_0:0:187978272><>"
+L 03/28/2017 - 18:34:12: [admin.amxx] Login: "deadpool<2135><STEAM_0:0:30403765><>" kicked due to invalid password (account "deadpool") (address "86.125.82.233")
+L 03/28/2017 - 18:34:18: [admin.amxx] Login: "deadpool<2136><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "86.125.82.233")
+L 03/28/2017 - 18:40:49: [admin.amxx] Login: "cool<2144><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 18:40:53: [admin.amxx] Login: "cool<2145><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 18:41:46: [slayafk.amxx] deadpool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/28/2017 - 18:43:31: [mapsmenu.amxx] Vote: "cool<2145><STEAM_0:1:25922700><>" vote maps (map#1 "deathrun_sk_occult") (map#2 "deathrun_3sixty_fg_fix3") (map#3 "") (map#4 "")
+L 03/28/2017 - 18:43:43: -------- Mapchange to deathrun_kings_never_die --------
+L 03/28/2017 - 18:43:44: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 18:43:45: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 18:43:45: [admin.amxx] Login: "cool<2145><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 18:43:49: [admin.amxx] Login: "tiganu<2146><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 18:43:51: [admin.amxx] Login: "deadpool<2147><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "86.125.82.233")
+L 03/28/2017 - 18:49:21: -------- Mapchange to deathrun_3sixty_fg_fix2 --------
+L 03/28/2017 - 18:49:23: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 18:49:24: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 18:49:24: [admin.amxx] Login: "tiganu<2146><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 18:49:24: [admin.amxx] Login: "cool<2145><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 18:49:24: [admin.amxx] Login: "deadpool<2147><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "86.125.82.233")
+L 03/28/2017 - 18:49:26: [admin.amxx] Login: "cool<2158><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 18:58:42: [admin.amxx] Login: "tiganu<2167><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 18:58:48: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2167><STEAM_0:0:187978272><>"
+L 03/28/2017 - 19:00:06: [admin.amxx] Login: "cool<2168><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 19:02:34: [admin.amxx] Login: "tiganu<2169><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 19:02:40: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2169><STEAM_0:0:187978272><>"
+L 03/28/2017 - 19:04:56: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "CaPi.<2175><VALVE_0:4:2031176187><>"
+L 03/28/2017 - 19:10:50: [admin.amxx] Login: "tiganu<2180><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 19:10:51: [mapsmenu.amxx] Vote: "cool<2168><STEAM_0:1:25922700><>" vote maps (map#1 "deathrun_ghosts") (map#2 "deathrun_clarion_dojo_b3") (map#3 "") (map#4 "")
+L 03/28/2017 - 19:10:56: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2180><STEAM_0:0:187978272><>"
+L 03/28/2017 - 19:11:03: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_ghosts
+L 03/28/2017 - 19:11:12: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "CaPi.<2181><VALVE_0:4:2031176187><>"
+L 03/28/2017 - 19:16:22: -------- Mapchange to deathrun_ghosts --------
+L 03/28/2017 - 19:16:24: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 19:16:25: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 19:16:25: [admin.amxx] Login: "cool<2168><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 19:16:28: [admin.amxx] Login: "cool<2185><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 19:17:49: [admin.amxx] Login: "cool<2191><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 19:18:11: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "axeljr<2192><VALVE_0:4:2031176187><>"
+L 03/28/2017 - 19:35:06: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "GUm[]ball<2210><STEAM_0:0:1781628253><>"
+L 03/28/2017 - 19:49:56: [admin.amxx] Login: "tiganu<2228><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 19:50:02: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2228><STEAM_0:0:187978272><>"
+L 03/28/2017 - 19:52:30: [admin.amxx] Login: "tiganu<2231><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 19:52:35: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2231><STEAM_0:0:187978272><>"
+L 03/28/2017 - 19:53:46: [admin.amxx] Login: "tiganu<2232><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 19:53:52: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2232><STEAM_0:0:187978272><>"
+L 03/28/2017 - 19:57:53: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Am3nTi<2236><VALVE_0:4:987515643><>"
+L 03/28/2017 - 20:02:45: -------- Mapchange to deathrun_demolish --------
+L 03/28/2017 - 20:02:46: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 20:02:47: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 20:02:47: [admin.amxx] Login: "tiganu<2232><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 20:04:02: [admin.amxx] Login: "tiganu<2262><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 20:04:07: [admin.amxx] Login: "tiganu<2264><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 20:04:12: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "mendiego<2263><STEAM_0:0:77647261><>"
+L 03/28/2017 - 20:04:13: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2264><STEAM_0:0:187978272><>"
+L 03/28/2017 - 20:11:01: [admin.amxx] Login: "tiganu<2271><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 20:11:06: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2271><STEAM_0:0:187978272><>"
+L 03/28/2017 - 20:13:06: [admin.amxx] Login: "tiganu<2278><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 20:14:09: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "boGDAN<2279><STEAM_0:0:1781628253><>"
+L 03/28/2017 - 20:14:10: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Am3nTi<2280><VALVE_0:4:987515643><>"
+L 03/28/2017 - 20:14:14: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dNk|sCaRy<2281><VALVE_0:4:1529239411><>"
+L 03/28/2017 - 20:14:16: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dNk|RyuuKo<2282><VALVE_0:4:1021088628><>"
+L 03/28/2017 - 20:14:22: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "boGDAN<2283><STEAM_0:0:1781628253><>"
+L 03/28/2017 - 20:15:14: [admin.amxx] Login: "FAKE ^^<2284><STEAM_0:0:272564954><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.3.7")
+L 03/28/2017 - 20:21:29: [mapsmenu.amxx] Vote: "FAKE ^^<2284><STEAM_0:0:272564954><>" vote maps (map#1 "deathrun_gohard_final") (map#2 "deathrun_av2009_recolored-ez") (map#3 "") (map#4 "")
+L 03/28/2017 - 20:21:41: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_gohard_final
+L 03/28/2017 - 20:27:18: [admin.amxx] Login: "william.<2295><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 20:30:19: -------- Mapchange to deathrun_gohard_final --------
+L 03/28/2017 - 20:30:21: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 20:30:22: [admin.amxx] Login: "FAKE ^^<2284><STEAM_0:0:272564954><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.3.7")
+L 03/28/2017 - 20:30:22: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 20:30:22: [admin.amxx] Login: "tiganu<2278><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 20:31:22: [admin.amxx] Login: "cool<2308><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 20:31:24: [admin.amxx] Login: "cool<2309><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 20:31:42: [admin.amxx] Login: "SWAGGIE. XD<2310><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/28/2017 - 20:34:42: [admincmd.amxx] Cmd: "FAKE ^^<2284><STEAM_0:0:272564954><>" slay "ips darkside<2315><VALVE_0:4:499403387><>"
+L 03/28/2017 - 20:47:27: [admin.amxx] Login: "cool<2328><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 20:49:53: [admin.amxx] Login: "Outlawz # f0rest<2332><VALVE_0:4:322587638><>" became an admin (account "Outlawz # f0rest") (access "bit") (address "84.117.40.143")
+L 03/28/2017 - 20:54:22: [mapsmenu.amxx] Vote: "cool<2328><STEAM_0:1:25922700><>" vote maps (map#1 "deathrun_sentinel_mini") (map#2 "deathrun_heaven") (map#3 "") (map#4 "")
+L 03/28/2017 - 20:54:34: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_sentinel_mini
+L 03/28/2017 - 20:56:19: -------- Mapchange to deathrun_sentinel_mini --------
+L 03/28/2017 - 20:56:20: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 20:56:21: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 20:56:21: [admin.amxx] Login: "Outlawz # f0rest<2332><VALVE_0:4:322587638><>" became an admin (account "Outlawz # f0rest") (access "bit") (address "84.117.40.143")
+L 03/28/2017 - 20:56:21: [admin.amxx] Login: "tiganu<2278><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 20:56:27: [admin.amxx] Login: "Outlawz # f0rest<2342><VALVE_0:4:322587638><>" became an admin (account "Outlawz # f0rest") (access "bit") (address "84.117.40.143")
+L 03/28/2017 - 20:57:57: [admin.amxx] Login: "tiganu<2349><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 20:58:03: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2349><STEAM_0:0:187978272><>"
+L 03/28/2017 - 20:59:11: [admin.amxx] Login: "cool<2352><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 20:59:13: [admin.amxx] Login: "cool<2353><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 21:01:42: [admincmd.amxx] Cmd: "Outlawz # f0rest<2342><VALVE_0:4:322587638><>" ask for players list
+L 03/28/2017 - 21:17:15: [admincmd.amxx] Cmd: "cool<2353><STEAM_0:1:25922700><>" ask for players list
+L 03/28/2017 - 21:17:25: [adminchat.amxx] Chat: "cool<2353><STEAM_0:1:25922700><>" chat "lasam scoby next?"
+L 03/28/2017 - 21:20:52: [admin.amxx] Login: "william.<2375><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 21:22:07: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "24Ghz.<2377><STEAM_0:0:1414069522><>"
+L 03/28/2017 - 21:22:11: -------- Mapchange to deathrun_scooby-doo --------
+L 03/28/2017 - 21:22:13: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 21:22:14: [admin.amxx] Login: "Outlawz # f0rest<2342><VALVE_0:4:322587638><>" became an admin (account "Outlawz # f0rest") (access "bit") (address "84.117.40.143")
+L 03/28/2017 - 21:22:14: [admin.amxx] Login: "william.<2375><STEAM_0:1:123359479><>" became an admin (account "william.") (access "bi") (address "89.136.66.210")
+L 03/28/2017 - 21:22:14: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 21:22:14: [admin.amxx] Login: "tiganu<2349><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 21:22:14: [admin.amxx] Login: "cool<2353><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 21:22:16: [admin.amxx] Login: "cool<2379><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.99.188")
+L 03/28/2017 - 21:22:16: [admin.amxx] Login: "Outlawz # f0rest<2380><VALVE_0:4:322587638><>" became an admin (account "Outlawz # f0rest") (access "bit") (address "84.117.40.143")
+L 03/28/2017 - 21:26:49: [admin.amxx] Login: "tiganu<2390><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 21:26:53: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dzn<2389><VALVE_0:4:573662960><>"
+L 03/28/2017 - 21:26:55: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2390><STEAM_0:0:187978272><>"
+L 03/28/2017 - 21:29:37: [admin.amxx] Login: "SWAGGIE. XD<2392><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/28/2017 - 21:30:21: [admin.amxx] Login: "tiganu<2393><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 21:33:10: [admin.amxx] Login: "Outlawz # f0rest<2399><VALVE_0:4:322587638><>" became an admin (account "Outlawz # f0rest") (access "bit") (address "84.117.40.143")
+L 03/28/2017 - 21:33:16: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Outlawz # f0rest<2399><VALVE_0:4:322587638><>"
+L 03/28/2017 - 21:42:47: [adminchat.amxx] Chat: "Outlawz # f0rest<2399><VALVE_0:4:322587638><>" csay "Bafta"
+L 03/28/2017 - 21:42:49: [adminchat.amxx] Chat: "Outlawz # f0rest<2399><VALVE_0:4:322587638><>" csay "Bafta "
+L 03/28/2017 - 21:49:43: -------- Mapchange to deathrun_laikiux_dev --------
+L 03/28/2017 - 21:49:45: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 21:49:46: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 21:50:39: [admin.amxx] Login: "Xstrafers # |LOL|XXX<2423><STEAM_0:1:24069958><>" became an admin (account "Xstrafers # |LOL|XXX") (access "bi") (address "5.15.96.136")
+L 03/28/2017 - 21:57:42: [admin.amxx] Login: "Dudu.- ;o!<2425><STEAM_0:0:170398926><>" became an admin (account "Dudu.- ;o!") (access "bit") (address "5.13.45.65")
+L 03/28/2017 - 22:12:54: [admin.amxx] Login: "Xstrafers # |LOL|XXX<2439><STEAM_0:1:24069958><>" became an admin (account "Xstrafers # |LOL|XXX") (access "bi") (address "5.15.96.136")
+L 03/28/2017 - 22:14:50: [admincmd.amxx] Cmd: "Xstrafers # |LOL|XXX<2439><STEAM_0:1:24069958><>" changelevel "deathrun_bhopz_v2"
+L 03/28/2017 - 22:14:52: -------- Mapchange to deathrun_bhopz_v2 --------
+L 03/28/2017 - 22:14:54: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 22:14:55: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 22:14:55: [admin.amxx] Login: "Xstrafers # |LOL|XXX<2439><STEAM_0:1:24069958><>" became an admin (account "Xstrafers # |LOL|XXX") (access "bi") (address "5.15.96.136")
+L 03/28/2017 - 22:16:02: [admin.amxx] Login: "anca<2443><STEAM_0:0:58514266><>" became an admin (account "anca") (access "bit") (address "109.103.126.196")
+L 03/28/2017 - 22:16:23: [admin.amxx] Login: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "109.96.111.96")
+L 03/28/2017 - 22:17:32: [admincmd.amxx] Kick: "anca<2443><STEAM_0:0:58514266><>" kick "anonima<2445><STEAM_0:0:165876880><>" (reason "")
+L 03/28/2017 - 22:20:09: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "E"
+L 03/28/2017 - 22:22:12: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " vedeti de dj smash asta"
+L 03/28/2017 - 22:22:25: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " ca are ceva"
+L 03/28/2017 - 22:22:30: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " ca pe oao deathrun"
+L 03/28/2017 - 22:22:35: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " a facut toate rec-urile"
+L 03/28/2017 - 22:22:56: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " e un server scroll"
+L 03/28/2017 - 22:23:03: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " de dr"
+L 03/28/2017 - 22:23:08: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " si dj smash asta"
+L 03/28/2017 - 22:23:13: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " a facut doar rec-uri"
+L 03/28/2017 - 22:23:16: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " cu hack"
+L 03/28/2017 - 22:23:52: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " eu v-am zis :))"
+L 03/28/2017 - 22:24:06: [adminchat.amxx] Chat: "anca<2443><STEAM_0:0:58514266><>" chat "nu te uiti pe ala?"
+L 03/28/2017 - 22:24:08: [adminchat.amxx] Chat: "anca<2443><STEAM_0:0:58514266><>" chat "ca nu stiu"
+L 03/28/2017 - 22:24:14: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "ba da imd"
+L 03/28/2017 - 22:24:22: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "sa nu se prinda"
+L 03/28/2017 - 22:24:26: [admin.amxx] Login: "J.smith<2450><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 03/28/2017 - 22:24:27: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "ca mai zic si pe chat.."
+L 03/28/2017 - 22:25:01: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " SPEC DJ SMASH"
+L 03/28/2017 - 22:25:06: [admin.amxx] Login: "krayzie<2451><STEAM_0:0:142854834><>" became an admin (account "Krayzie") (access "bit") (address "109.96.63.19")
+L 03/28/2017 - 22:25:10: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " NU L VEDETI MA ?"
+L 03/28/2017 - 22:25:19: [adminchat.amxx] Chat: "FLVXSOW;[<2449><STEAM_0:0:77647261><>" chat " da swap si stai pe el"
+L 03/28/2017 - 22:25:34: [admin.amxx] Login: "FAKE ^^<2452><STEAM_0:0:272564954><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.3.7")
+L 03/28/2017 - 22:25:44: [advanced_bans_sql.amxx] -rTg|maEsTrOo <STEAM_0:1:154430568> banned dj smash <199.188.236.83> || Reason: "hack" || Ban Length: 6 days, 22 hours, 39 minutes
+L 03/28/2017 - 22:25:54: [adminchat.amxx] Chat: "anca<2443><STEAM_0:0:58514266><>" chat "si ce hack avea?"
+L 03/28/2017 - 22:26:00: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "speed si ss"
+L 03/28/2017 - 22:26:11: [adminchat.amxx] Chat: "anca<2443><STEAM_0:0:58514266><>" chat "aa cu speed a trecu? sau ce?:))"
+L 03/28/2017 - 22:26:15: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "DA:))"
+L 03/28/2017 - 22:26:24: [adminchat.amxx] Chat: "anca<2443><STEAM_0:0:58514266><>" chat "credeam ca l-a impins ala si a avut noroc"
+L 03/28/2017 - 22:26:37: [admin.amxx] Login: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/28/2017 - 22:26:54: [admincmd.amxx] Cmd: "J.smith<2450><STEAM_0:0:59563675><>" ask for players list
+L 03/28/2017 - 22:26:55: [admin.amxx] Login: "krayzie<2456><STEAM_0:0:142854834><>" became an admin (account "Krayzie") (access "bit") (address "109.96.63.19")
+L 03/28/2017 - 22:28:53: [advanced_bans_sql.amxx] -rTg|maEsTrOo <STEAM_0:1:154430568> banned dj smash <69.22.184.80> || Reason: "hack" || Ban Length: 6 days, 22 hours, 39 minutes
+L 03/28/2017 - 22:29:15: [advanced_bans_sql.amxx] -rTg|maEsTrOo <STEAM_0:1:154430568> banned smash <STEAM_0:0:431783674> || Reason: "hack" || Ban Length: 6 days, 22 hours, 39 minutes
+L 03/28/2017 - 22:29:49: [adminchat.amxx] Chat: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" chat "maie"
+L 03/28/2017 - 22:29:52: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "?"
+L 03/28/2017 - 22:30:01: [adminchat.amxx] Chat: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" chat " dupa ce fac6/6 trebuie sa astept o luna si dupa fac cerere mod3?"
+L 03/28/2017 - 22:30:14: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "la lv 2 nu faci 6/6"
+L 03/28/2017 - 22:30:14: [adminchat.amxx] Chat: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" chat " sau cum"
+L 03/28/2017 - 22:30:17: [adminchat.amxx] Chat: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" chat " pai"
+L 03/28/2017 - 22:30:19: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "dupa o luna ce ai lv 2 poti face"
+L 03/28/2017 - 22:30:22: [admincmd.amxx] Kick: "anca<2443><STEAM_0:0:58514266><>" kick "dj smash<2457><STEAM_0:0:1406715013><>" (reason "")
+L 03/28/2017 - 22:30:22: [adminchat.amxx] Chat: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" chat " :|"
+L 03/28/2017 - 22:30:25: [adminchat.amxx] Chat: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" chat " VORBESTI SERIOS"
+L 03/28/2017 - 22:30:30: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "de cat timp il ai?"
+L 03/28/2017 - 22:30:38: [adminchat.amxx] Chat: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" chat " cred ca am peste o luna"
+L 03/28/2017 - 22:30:42: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "na pai fa cerere atunci"
+L 03/28/2017 - 22:30:46: [adminchat.amxx] Chat: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" chat " unde vad"
+L 03/28/2017 - 22:30:48: [adminchat.amxx] Chat: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" chat " cat am?:))"
+L 03/28/2017 - 22:30:50: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "la activitatea sapt"
+L 03/28/2017 - 22:30:54: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2444><STEAM_0:1:154430568><>" chat "de cand apari la lv 2"
+L 03/28/2017 - 22:31:00: [adminchat.amxx] Chat: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" chat "  bnn"
+L 03/28/2017 - 22:31:03: [adminchat.amxx] Chat: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" chat " brb"
+L 03/28/2017 - 22:32:29: [adminchat.amxx] Chat: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" chat " de pe 27 feb am deci ieri am facut o luna :))"
+L 03/28/2017 - 22:35:30: [slayafk.amxx] J.smith a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/28/2017 - 22:35:41: [mapsmenu.amxx] Vote: "anca<2443><STEAM_0:0:58514266><>" vote maps (map#1 "deathrun_green_h") (map#2 "deathrun_laikiux_rawr") (map#3 "") (map#4 "")
+L 03/28/2017 - 22:35:53: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_green_h
+L 03/28/2017 - 22:38:10: [admin.amxx] Login: "krayzie<2468><STEAM_0:0:142854834><>" became an admin (account "Krayzie") (access "bit") (address "109.96.63.19")
+L 03/28/2017 - 22:39:25: [slayafk.amxx] krayzie a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/28/2017 - 22:42:35: [slayafk.amxx] krayzie a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/28/2017 - 22:42:38: -------- Mapchange to deathrun_green_h --------
+L 03/28/2017 - 22:42:40: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 22:42:41: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 22:42:41: [admin.amxx] Login: "J.smith<2450><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 03/28/2017 - 22:42:41: [admin.amxx] Login: "SWAGGIE. XD<2454><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/28/2017 - 22:42:41: [admin.amxx] Login: "FAKE ^^<2452><STEAM_0:0:272564954><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.3.7")
+L 03/28/2017 - 22:42:41: [admin.amxx] Login: "krayzie<2468><STEAM_0:0:142854834><>" became an admin (account "Krayzie") (access "bit") (address "109.96.63.19")
+L 03/28/2017 - 22:42:42: [admin.amxx] Login: "krayzie<2471><STEAM_0:0:142854834><>" became an admin (account "Krayzie") (access "bit") (address "109.96.63.19")
+L 03/28/2017 - 22:42:48: [admin.amxx] Login: "J.smith<2473><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 03/28/2017 - 22:45:17: [admin.amxx] Login: "krayzie<2477><STEAM_0:0:142854834><>" became an admin (account "Krayzie") (access "bit") (address "109.96.63.19")
+L 03/28/2017 - 22:49:57: [admincmd.amxx] Cmd: "FAKE ^^<2452><STEAM_0:0:272564954><>" slay "SWAGGIE. XD<2454><VALVE_0:4:862961770><>"
+L 03/28/2017 - 22:55:05: [admincmd.amxx] Cmd: "FAKE ^^<2452><STEAM_0:0:272564954><>" slay "SWAGGIE. XD<2454><VALVE_0:4:862961770><>"
+L 03/28/2017 - 22:55:55: [admincmd.amxx] Cmd: "FAKE ^^<2452><STEAM_0:0:272564954><>" slay "SWAGGIE. XD<2454><VALVE_0:4:862961770><>"
+L 03/28/2017 - 23:07:14: [admin.amxx] Login: "FAKE ^^<2481><STEAM_0:0:272564954><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.3.7")
+L 03/28/2017 - 23:07:35: [admin.amxx] Login: "SWAGGIE. XD<2482><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/28/2017 - 23:21:21: [slayafk.amxx] sPaNky.#; a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/28/2017 - 23:27:41: [admin.amxx] Login: "tiganu<2492><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 23:30:45: [admin.amxx] Login: "tiganu<2494><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 23:30:51: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2494><STEAM_0:0:187978272><>"
+L 03/28/2017 - 23:31:42: [admin.amxx] Login: "SWAGGIE. XD<2495><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/28/2017 - 23:32:33: [mapsmenu.amxx] Vote: "SWAGGIE. XD<2495><VALVE_0:4:862961770><>" vote maps (map#1 "deathrun_heaven") (map#2 "deathrun_jinglebells") (map#3 "") (map#4 "")
+L 03/28/2017 - 23:32:45: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_heaven
+L 03/28/2017 - 23:33:41: -------- Mapchange to deathrun_heaven --------
+L 03/28/2017 - 23:33:42: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 23:33:43: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 23:33:43: [admin.amxx] Login: "tiganu<2494><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 23:33:43: [admin.amxx] Login: "SWAGGIE. XD<2495><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/28/2017 - 23:50:07: [admin.amxx] Login: "tiganu<2502><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 23:50:13: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<2502><STEAM_0:0:187978272><>"
+L 03/28/2017 - 23:54:53: [mapsmenu.amxx] Vote: "SWAGGIE. XD<2495><VALVE_0:4:862961770><>" vote maps (map#1 "deathrun_flipfloodz") (map#2 "deathrun_jinglebells") (map#3 "") (map#4 "")
+L 03/28/2017 - 23:55:05: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_flipfloodz
+L 03/28/2017 - 23:59:25: -------- Mapchange to deathrun_flipfloodz --------
+L 03/28/2017 - 23:59:26: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/28/2017 - 23:59:27: [walkguard.amxx] no zone-file found
+L 03/28/2017 - 23:59:27: [admin.amxx] Login: "tiganu<2502><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 23:59:27: [admin.amxx] Login: "SWAGGIE. XD<2495><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/28/2017 - 23:59:28: [admin.amxx] Login: "tiganu<2505><STEAM_0:0:187978272><>" became an admin (account "tiganu") (access "bi") (address "86.127.14.183")
+L 03/28/2017 - 23:59:28: [admin.amxx] Login: "SWAGGIE. XD<2506><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")

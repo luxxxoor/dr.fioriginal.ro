@@ -1,0 +1,13 @@
+L 03/09/2017 - 15:56:47: Start of error session.
+L 03/09/2017 - 15:56:47: Info (map "deathrun_lies_f") (file "addons/amxmodx/logs/error_20170309.log")
+L 03/09/2017 - 15:56:47: Forward-ul nu s-a putut executa.
+L 03/09/2017 - 15:56:47: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 03/09/2017 - 15:56:47: Forward-ul nu s-a putut executa.
+L 03/09/2017 - 15:56:47: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 03/09/2017 - 23:00:00: Start of error session.
+L 03/09/2017 - 23:00:00: Info (map "deathrun_roadoffear_final") (file "addons/amxmodx/logs/error_20170309.log")
+L 03/09/2017 - 23:00:00: Forward-ul nu s-a putut executa.
+L 03/09/2017 - 23:00:00: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 03/09/2017 - 23:00:00: [AMXX] Run time error 1: forced exit 
+L 03/09/2017 - 23:00:00: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 03/09/2017 - 23:00:00: [AMXX]    [1] comp_timer2.sma::checkIfNameExists (line 753)

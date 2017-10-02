@@ -1,0 +1,14 @@
+L 03/18/2017 - 12:12:15: Start of error session.
+L 03/18/2017 - 12:12:15: Info (map "deathrun_y_snow_wind_v3") (file "addons/amxmodx/logs/error_20170318.log")
+L 03/18/2017 - 12:12:15: [CSTRIKE] Invalid player 4
+L 03/18/2017 - 12:12:15: [AMXX] Displaying debug trace (plugin "newtero3.amxx", version "1.0")
+L 03/18/2017 - 12:12:15: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 03/18/2017 - 12:12:15: [AMXX]    [0] newtero3.sma::askTero (line 393)
+L 03/18/2017 - 12:50:17: Start of error session.
+L 03/18/2017 - 12:50:17: Info (map "deathrun_adelina") (file "addons/amxmodx/logs/error_20170318.log")
+L 03/18/2017 - 12:50:17: Forward-ul nu s-a putut executa.
+L 03/18/2017 - 12:50:17: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 03/18/2017 - 22:42:55: Start of error session.
+L 03/18/2017 - 22:42:55: Info (map "deathrun_coolf_3") (file "addons/amxmodx/logs/error_20170318.log")
+L 03/18/2017 - 22:42:55: Forward-ul nu s-a putut executa.
+L 03/18/2017 - 22:42:55: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit

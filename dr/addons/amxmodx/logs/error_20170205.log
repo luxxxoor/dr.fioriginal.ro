@@ -1,0 +1,5 @@
+L 02/05/2017 - 14:55:41: Start of error session.
+L 02/05/2017 - 14:55:41: Info (map "deathrun_unreal") (file "addons/amxmodx/logs/error_20170205.log")
+L 02/05/2017 - 14:55:41: Invalid map handle provided (0)
+L 02/05/2017 - 14:55:41: [AMXX] Run time error 10 (plugin "allchat3.amxx") (native "TrieSetString") - debug not enabled!
+L 02/05/2017 - 14:55:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

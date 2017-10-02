@@ -1,0 +1,13 @@
+L 10/20/2016 - 13:53:50: Start of error session.
+L 10/20/2016 - 13:53:50: Info (map "deathrun_latexx") (file "addons/amxmodx/logs/error_20161020.log")
+L 10/20/2016 - 13:53:50: [FAKEMETA] Invalid entity
+L 10/20/2016 - 13:53:50: [AMXX] Displaying debug trace (plugin "use_button_once.amxx", version "1.3")
+L 10/20/2016 - 13:53:50: [AMXX] Run time error 10: native error (native "pev")
+L 10/20/2016 - 13:53:50: [AMXX]    [0] use_button_once.sma::get_ent_index (line 225)
+L 10/20/2016 - 13:53:50: [AMXX]    [1] use_button_once.sma::set_start_value (line 212)
+L 10/20/2016 - 13:53:50: [AMXX]    [2] use_button_once.sma::plugin_cfg (line 173)
+L 10/20/2016 - 20:54:01: Start of error session.
+L 10/20/2016 - 20:54:01: Info (map "deathrun_gamebox") (file "addons/amxmodx/logs/error_20161020.log")
+L 10/20/2016 - 20:54:01: Couldn't write file "cstrike/20/parole/parole.log"
+L 10/20/2016 - 20:54:01: [AMXX] Run time error 10 (plugin "passchecker.amxx") (native "write_file") - debug not enabled!
+L 10/20/2016 - 20:54:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

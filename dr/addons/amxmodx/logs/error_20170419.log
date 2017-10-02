@@ -1,0 +1,11 @@
+L 04/19/2017 - 12:51:13: Start of error session.
+L 04/19/2017 - 12:51:13: Info (map "deathrun_jinglebells2") (file "addons/amxmodx/logs/error_20170419.log")
+L 04/19/2017 - 12:51:13: Forward-ul nu s-a putut executa.
+L 04/19/2017 - 12:51:13: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 04/19/2017 - 12:51:13: [AMXX] Run time error 1: forced exit 
+L 04/19/2017 - 12:51:13: [AMXX]    [0] revive2.sma::checkSQLConditions (line 488)
+L 04/19/2017 - 12:51:13: [AMXX]    [1] revive2.sma::getSettings (line 314)
+L 04/19/2017 - 20:06:03: Start of error session.
+L 04/19/2017 - 20:06:03: Info (map "deathrun_rayxzen_x") (file "addons/amxmodx/logs/error_20170419.log")
+L 04/19/2017 - 20:06:03: Forward-ul nu s-a putut executa.
+L 04/19/2017 - 20:06:03: [AMXX] Run time error 1 (plugin "bhop.amxx") - forced exit

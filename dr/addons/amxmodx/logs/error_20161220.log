@@ -1,0 +1,22 @@
+L 12/20/2016 - 15:44:07: Start of error session.
+L 12/20/2016 - 15:44:07: Info (map "deathrun_sammal") (file "addons/amxmodx/logs/error_20161220.log")
+L 12/20/2016 - 15:44:07: Forward-ul nu s-a putut executa.
+L 12/20/2016 - 15:44:07: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/20/2016 - 17:55:38: Start of error session.
+L 12/20/2016 - 17:55:38: Info (map "deathrun_easy_v1") (file "addons/amxmodx/logs/error_20161220.log")
+L 12/20/2016 - 17:55:38: [AMXX] Plugin ("allchat3.amxx") is setting itself as failed.
+L 12/20/2016 - 17:55:38: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.104.2' (4)
+L 12/20/2016 - 17:55:38: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/20/2016 - 17:55:38: Forward-ul nu s-a putut executa.
+L 12/20/2016 - 17:55:38: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/20/2016 - 18:36:30: Start of error session.
+L 12/20/2016 - 18:36:30: Info (map "deathrun_queen") (file "addons/amxmodx/logs/error_20161220.log")
+L 12/20/2016 - 18:36:30: [AMXX] Plugin ("allchat3.amxx") is setting itself as failed.
+L 12/20/2016 - 18:36:30: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.104.2' (4)
+L 12/20/2016 - 18:36:30: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/20/2016 - 18:36:30: Forward-ul nu s-a putut executa.
+L 12/20/2016 - 18:36:30: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/20/2016 - 21:15:10: Start of error session.
+L 12/20/2016 - 21:15:10: Info (map "deathrun_supra") (file "addons/amxmodx/logs/error_20161220.log")
+L 12/20/2016 - 21:15:10: Forward-ul nu s-a putut executa.
+L 12/20/2016 - 21:15:10: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit

@@ -1,0 +1,7 @@
+L 04/09/2017 - 16:07:12: Start of error session.
+L 04/09/2017 - 16:07:12: Info (map "deathrun_adi_snowycliff") (file "addons/amxmodx/logs/error_20170409.log")
+L 04/09/2017 - 16:07:12: [AMXX] Plugin ("gravity.amxx") is setting itself as failed.
+L 04/09/2017 - 16:07:12: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.104.2' (4)
+L 04/09/2017 - 16:07:12: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 04/09/2017 - 16:07:12: Forward-ul nu s-a putut executa.
+L 04/09/2017 - 16:07:12: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit

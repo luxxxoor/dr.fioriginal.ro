@@ -1,0 +1,7 @@
+L 06/21/2017 - 22:37:22: Start of error session.
+L 06/21/2017 - 22:37:22: Info (map "deathrun_discovery3") (file "addons/amxmodx/logs/error_20170621.log")
+L 06/21/2017 - 22:37:22: Forward-ul nu s-a putut executa.
+L 06/21/2017 - 22:37:22: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 06/21/2017 - 22:37:22: [AMXX] Run time error 1: forced exit 
+L 06/21/2017 - 22:37:22: [AMXX]    [0] revive2.sma::checkSQLConditions (line 488)
+L 06/21/2017 - 22:37:22: [AMXX]    [1] revive2.sma::getSettings (line 314)

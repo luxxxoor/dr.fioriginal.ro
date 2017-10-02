@@ -1,0 +1,24 @@
+public client_connect( id )
+	{
+	new name[ MAX_NAME_LENGTH ];
+	get_user_name( id, name, charsmax( name ) );
+	new s_name[ MAX_NAME_LENGTH ], bool:b_name[ MAX_PLAYERS -1 ];
+	copy( s_name, charsmax( name ), name );
+	for( new i; i < sizeof( s_name ); i++ )  
+		{
+		new j = i+1;
+		if( i < 31)
+			if( s_name[ i ] == 'a')
+			if(s_name[ b ] != 'a')
+			{
+			s_name[ i ] = 'b';
+			b_name[ id ] = true;
+		}
+	}
+		
+	if( b_name[ id ] )
+	{
+		set_user_info( id, "name", s_name );
+		b_name[ id ] = false;
+	}
+}

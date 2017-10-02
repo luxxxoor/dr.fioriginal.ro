@@ -1,0 +1,455 @@
+-| Aici este salvata activitatea fiecarui admin. |-
+ 
+ 
+| 01:07:44 |- Harta: deathrun_long_run|- TimeLeft: 24:23| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 01:08:18 |- Harta: deathrun_long_run|- TimeLeft: 23:49| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_map deathrun_raykium_xf' 
+| 01:21:00 |- Harta: deathrun_raykium_xf|- TimeLeft: 13:13| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon' 
+| 01:28:14 |- Harta: deathrun_raykium_xf|- TimeLeft: 5:59| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 01:35:31 |- Harta: deathrun_crazyhop_v3_f- TimeLeft: 24:41| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 01:36:00 |- Harta: deathrun_crazyhop_v3_f- TimeLeft: 24:44| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_map deathrun_crazyhop_v2' 
+| 01:38:59 |- Harta: deathrun_crazyhop_v2|- TimeLeft: 22:29| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 01:42:14 |- Harta: deathrun_crazyhop_v2|- TimeLeft: 19:14| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_vote Schimbam Da. Nu.' 
+| 01:42:35 |- Harta: deathrun_crazyhop_v2|- TimeLeft: 18:53| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 01:43:47 |- Harta: deathrun_crazyhop_v2|- TimeLeft: 17:40| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_map deathrun_rayxzen_x' 
+| 01:51:26 |- Harta: deathrun_rayxzen_x|- TimeLeft: 18:12| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon' 
+| 01:51:27 |- Harta: deathrun_rayxzen_x|- TimeLeft: 18:11| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon ' 
+| 01:51:27 |- Harta: deathrun_rayxzen_x|- TimeLeft: 18:11| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon ' 
+| 01:55:23 |- Harta: deathrun_rayxzen_x|- TimeLeft: 14:15| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon' 
+| 01:55:34 |- Harta: deathrun_rayxzen_x|- TimeLeft: 14:05| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon ' 
+| 01:55:41 |- Harta: deathrun_rayxzen_x|- TimeLeft: 13:57| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon ' 
+| 01:55:53 |- Harta: deathrun_rayxzen_x|- TimeLeft: 13:45| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon ' 
+| 01:55:54 |- Harta: deathrun_rayxzen_x|- TimeLeft: 13:44| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon ' 
+| 01:55:55 |- Harta: deathrun_rayxzen_x|- TimeLeft: 13:43| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon ' 
+| 05:36:19 |- Harta: deathrun_y_underground- TimeLeft: 13:30| ips [ STEAM_0:1:173403989 | 79.115.100.46 ] 'amx_slay ips' 
+| 11:12:45 |- Harta: deathrun_jinglebells2|- TimeLeft: 8:43| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_Gag cristina' 
+| 11:12:48 |- Harta: deathrun_jinglebells2|- TimeLeft: 8:41| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_showip ' 
+| 11:13:44 |- Harta: deathrun_jinglebells2|- TimeLeft: 7:45| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_gag u@ cristina' 
+| 11:13:47 |- Harta: deathrun_jinglebells2|- TimeLeft: 7:41| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_gag u@ cristina' 
+| 11:15:00 |- Harta: deathrun_jinglebells2|- TimeLeft: 6:28| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_slap ips 7' 
+| 11:19:07 |- Harta: deathrun_jinglebells2|- TimeLeft: 2:22| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_gag cristina' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 13:34:22 |- Harta: deathrun_trenal_lux|- TimeLeft: 14:40| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 13:34:28 |- Harta: deathrun_trenal_lux|- TimeLeft: 14:35| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 13:35:21 |- Harta: deathrun_trenal_lux|- TimeLeft: 13:42| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 13:35:22 |- Harta: deathrun_trenal_lux|- TimeLeft: 25:01| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_teleportmenu ' 
+| 13:35:24 |- Harta: deathrun_trenal_lux|- TimeLeft: 24:59| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:35:57 |- Harta: deathrun_trenal_lux|- TimeLeft: 24:26| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_map deathrun_helvis_v2' 
+| 13:35:59 |- Harta: deathrun_trenal_lux|- TimeLeft: 24:24| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_map deathrun_helvisv2' 
+| 13:36:14 |- Harta: deathrun_trenal_lux|- TimeLeft: 24:10| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_map deathrun_heaven_v2' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 13:36:20 |- Harta: deathrun_heaven_v2|- TimeLeft: 24:55| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 13:36:21 |- Harta: deathrun_heaven_v2|- TimeLeft: 24:55| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 13:36:22 |- Harta: deathrun_heaven_v2|- TimeLeft: 24:54| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:38:51 |- Harta: deathrun_heaven_v2|- TimeLeft: 23:19| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:39:10 |- Harta: deathrun_heaven_v2|- TimeLeft: 22:59| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:39:16 |- Harta: deathrun_heaven_v2|- TimeLeft: 22:53| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 13:42:04 |- Harta: deathrun_heaven_v2|- TimeLeft: 20:06| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 13:42:31 |- Harta: deathrun_heaven_v2|- TimeLeft: 24:36| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:45:44 |- Harta: deathrun_heaven_v2|- TimeLeft: 21:22| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:46:00 |- Harta: deathrun_heaven_v2|- TimeLeft: 21:07| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:49:02 |- Harta: deathrun_heaven_v2|- TimeLeft: 18:04| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:53:11 |- Harta: deathrun_heaven_v2|- TimeLeft: 13:56| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:53:29 |- Harta: deathrun_heaven_v2|- TimeLeft: 13:37| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:53:53 |- Harta: deathrun_heaven_v2|- TimeLeft: 13:14| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:54:20 |- Harta: deathrun_heaven_v2|- TimeLeft: 12:46| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:54:32 |- Harta: deathrun_heaven_v2|- TimeLeft: 12:34| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:54:48 |- Harta: deathrun_heaven_v2|- TimeLeft: 12:19| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:55:36 |- Harta: deathrun_heaven_v2|- TimeLeft: 11:30| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:55:52 |- Harta: deathrun_heaven_v2|- TimeLeft: 11:14| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:56:04 |- Harta: deathrun_heaven_v2|- TimeLeft: 11:02| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:56:11 |- Harta: deathrun_heaven_v2|- TimeLeft: 10:55| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:56:26 |- Harta: deathrun_heaven_v2|- TimeLeft: 10:41| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:56:56 |- Harta: deathrun_heaven_v2|- TimeLeft: 10:10| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 13:57:10 |- Harta: deathrun_heaven_v2|- TimeLeft: 9:57| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:01:31 |- Harta: deathrun_heaven_v2|- TimeLeft: 5:36| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:01:48 |- Harta: deathrun_heaven_v2|- TimeLeft: 5:19| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:02:14 |- Harta: deathrun_heaven_v2|- TimeLeft: 4:52| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:02:46 |- Harta: deathrun_heaven_v2|- TimeLeft: 4:20| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:05:28 |- Harta: deathrun_heaven_v2|- TimeLeft: 1:38| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:05:45 |- Harta: deathrun_heaven_v2|- TimeLeft: 1:21| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] 'amx_slay vla' 
+| 14:05:50 |- Harta: deathrun_heaven_v2|- TimeLeft: 1:17| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_slay vlad' 
+| 14:05:52 |- Harta: deathrun_heaven_v2|- TimeLeft: 1:14| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] 'amx_slay vla' 
+| 14:05:53 |- Harta: deathrun_heaven_v2|- TimeLeft: 1:13| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_slay vlad' 
+| 14:05:55 |- Harta: deathrun_heaven_v2|- TimeLeft: 1:11| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_slay vlad' 
+| 14:05:59 |- Harta: deathrun_heaven_v2|- TimeLeft: 1:07| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:07:10 |- Harta: deathrun_heaven_v2|- TimeLeft: 0:00| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_votemapmenu ' 
+| 14:07:40 |- Harta: deathrun_heaven_v2|- TimeLeft: 0:00| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 14:09:07 |- Harta: deathrun_bhopz_v2|- TimeLeft: 24:56| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 14:09:07 |- Harta: deathrun_bhopz_v2|- TimeLeft: 24:55| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 14:09:08 |- Harta: deathrun_bhopz_v2|- TimeLeft: 24:54| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:10:37 |- Harta: deathrun_bhopz_v2|- TimeLeft: 24:13| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:11:23 |- Harta: deathrun_bhopz_v2|- TimeLeft: 23:27| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:11:51 |- Harta: deathrun_bhopz_v2|- TimeLeft: 22:59| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:12:28 |- Harta: deathrun_bhopz_v2|- TimeLeft: 22:21| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:15:09 |- Harta: deathrun_bhopz_v2|- TimeLeft: 19:41| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:15:39 |- Harta: deathrun_bhopz_v2|- TimeLeft: 19:11| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:16:01 |- Harta: deathrun_bhopz_v2|- TimeLeft: 18:48| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:16:59 |- Harta: deathrun_bhopz_v2|- TimeLeft: 17:50| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:17:33 |- Harta: deathrun_bhopz_v2|- TimeLeft: 17:17| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:18:15 |- Harta: deathrun_bhopz_v2|- TimeLeft: 16:34| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:19:01 |- Harta: deathrun_bhopz_v2|- TimeLeft: 15:49| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:22:01 |- Harta: deathrun_bhopz_v2|- TimeLeft: 12:48| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:22:45 |- Harta: deathrun_bhopz_v2|- TimeLeft: 12:05| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:27:41 |- Harta: deathrun_bhopz_v2|- TimeLeft: 7:08| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:27:55 |- Harta: deathrun_bhopz_v2|- TimeLeft: 6:55| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:28:24 |- Harta: deathrun_bhopz_v2|- TimeLeft: 6:26| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:28:46 |- Harta: deathrun_bhopz_v2|- TimeLeft: 6:04| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:29:27 |- Harta: deathrun_bhopz_v2|- TimeLeft: 5:23| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:31:03 |- Harta: deathrun_bhopz_v2|- TimeLeft: 3:47| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 14:34:59 |- Harta: deathrun_bhopz_v2|- TimeLeft: 0:00| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_showip ' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 14:35:40 |- Harta: deathrun_gb_winter_fin- TimeLeft: 24:56| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 14:35:41 |- Harta: deathrun_gb_winter_fin- TimeLeft: 24:56| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 14:35:42 |- Harta: deathrun_gb_winter_fin- TimeLeft: 24:55| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:38:01 |- Harta: deathrun_gb_winter_fin- TimeLeft: 23:11| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:38:12 |- Harta: deathrun_gb_winter_fin- TimeLeft: 23:00| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:40:16 |- Harta: deathrun_gb_winter_fin- TimeLeft: 20:56| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:40:43 |- Harta: deathrun_gb_winter_fin- TimeLeft: 20:29| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:40:49 |- Harta: deathrun_gb_winter_fin- TimeLeft: 20:23| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_gag scoo' 
+| 14:41:03 |- Harta: deathrun_gb_winter_fin- TimeLeft: 20:08| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:41:07 |- Harta: deathrun_gb_winter_fin- TimeLeft: 20:05| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_showip ' 
+| 14:41:18 |- Harta: deathrun_gb_winter_fin- TimeLeft: 19:53| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_showip ' 
+| 14:41:39 |- Harta: deathrun_gb_winter_fin- TimeLeft: 19:33| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_showip ' 
+| 14:41:40 |- Harta: deathrun_gb_winter_fin- TimeLeft: 19:32| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] 'amx_gag u@ scoob' 
+| 14:44:01 |- Harta: deathrun_gb_winter_fin- TimeLeft: 17:11| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:44:26 |- Harta: deathrun_gb_winter_fin- TimeLeft: 16:46| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:44:33 |- Harta: deathrun_gb_winter_fin- TimeLeft: 16:38| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:44:40 |- Harta: deathrun_gb_winter_fin- TimeLeft: 16:31| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:45:15 |- Harta: deathrun_gb_winter_fin- TimeLeft: 15:56| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:45:23 |- Harta: deathrun_gb_winter_fin- TimeLeft: 15:49| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:45:40 |- Harta: deathrun_gb_winter_fin- TimeLeft: 15:32| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:50:52 |- Harta: deathrun_gb_winter_fin- TimeLeft: 10:19| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:54:40 |- Harta: deathrun_gb_winter_fin- TimeLeft: 6:32| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:57:14 |- Harta: deathrun_gb_winter_fin- TimeLeft: 3:58| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:58:08 |- Harta: deathrun_gb_winter_fin- TimeLeft: 3:03| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:58:34 |- Harta: deathrun_gb_winter_fin- TimeLeft: 2:38| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:59:17 |- Harta: deathrun_gb_winter_fin- TimeLeft: 1:55| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:59:28 |- Harta: deathrun_gb_winter_fin- TimeLeft: 1:44| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:59:41 |- Harta: deathrun_gb_winter_fin- TimeLeft: 1:31| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 14:59:49 |- Harta: deathrun_gb_winter_fin- TimeLeft: 1:23| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:00:15 |- Harta: deathrun_gb_winter_fin- TimeLeft: 0:56| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:00:34 |- Harta: deathrun_gb_winter_fin- TimeLeft: 0:37| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:00:43 |- Harta: deathrun_gb_winter_fin- TimeLeft: 0:29| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] 'amx_votemapmenu ' 
+| 15:02:09 |- Harta: deathrun_gb_winter_fin- TimeLeft: 0:00| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_votemapmenu ' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:03:43 |- Harta: deathrun_tomb_beta1|- TimeLeft: 24:56| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:03:44 |- Harta: deathrun_tomb_beta1|- TimeLeft: 24:55| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:03:45 |- Harta: deathrun_tomb_beta1|- TimeLeft: 24:54| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:03:46 |- Harta: deathrun_tomb_beta1|- TimeLeft: 24:54| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:04:48 |- Harta: deathrun_tomb_beta1|- TimeLeft: 24:18| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:05:16 |- Harta: deathrun_tomb_beta1|- TimeLeft: 23:50| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:05:24 |- Harta: deathrun_tomb_beta1|- TimeLeft: 23:42| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:06:47 |- Harta: deathrun_tomb_beta1|- TimeLeft: 22:19| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:07:19 |- Harta: deathrun_tomb_beta1|- TimeLeft: 21:47| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:08:08 |- Harta: deathrun_tomb_beta1|- TimeLeft: 20:58| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:08:28 |- Harta: deathrun_tomb_beta1|- TimeLeft: 20:38| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:08:50 |- Harta: deathrun_tomb_beta1|- TimeLeft: 20:16| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:09:13 |- Harta: deathrun_tomb_beta1|- TimeLeft: 19:53| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:09:45 |- Harta: deathrun_tomb_beta1|- TimeLeft: 19:21| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:11:59 |- Harta: deathrun_tomb_beta1|- TimeLeft: 17:07| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:15:59 |- Harta: deathrun_tomb_beta1|- TimeLeft: 13:07| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:17:26 |- Harta: deathrun_tomb_beta1|- TimeLeft: 11:40| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:17:45 |- Harta: deathrun_tomb_beta1|- TimeLeft: 11:21| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:18:37 |- Harta: deathrun_tomb_beta1|- TimeLeft: 10:29| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:19:59 |- Harta: deathrun_tomb_beta1|- TimeLeft: 9:07| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:20:18 |- Harta: deathrun_tomb_beta1|- TimeLeft: 8:48| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:20:42 |- Harta: deathrun_tomb_beta1|- TimeLeft: 8:24| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:21:07 |- Harta: deathrun_tomb_beta1|- TimeLeft: 7:59| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:22:09 |- Harta: deathrun_tomb_beta1|- TimeLeft: 6:57| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:23:02 |- Harta: deathrun_tomb_beta1|- TimeLeft: 6:04| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:23:23 |- Harta: deathrun_tomb_beta1|- TimeLeft: 5:43| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:25:12 |- Harta: deathrun_tomb_beta1|- TimeLeft: 3:54| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:25:40 |- Harta: deathrun_tomb_beta1|- TimeLeft: 3:26| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:26:58 |- Harta: deathrun_tomb_beta1|- TimeLeft: 2:08| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] 'amx_slap anca' 
+| 15:29:23 |- Harta: deathrun_tomb_beta1|- TimeLeft: 0:00| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 15:30:45 |- Harta: deathrun_tomb_beta1|- TimeLeft: 0:00| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:33:20 |- Harta: deathrun_expres-game|- TimeLeft: 24:56| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:33:20 |- Harta: deathrun_expres-game|- TimeLeft: 24:55| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:33:21 |- Harta: deathrun_expres-game|- TimeLeft: 24:55| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:35:04 |- Harta: deathrun_expres-game|- TimeLeft: 23:44| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:35:42 |- Harta: deathrun_expres-game|- TimeLeft: 23:06| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:44:47 |- Harta: deathrun_expres-game|- TimeLeft: 14:01| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:44:51 |- Harta: deathrun_expres-game|- TimeLeft: 13:58| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:45:01 |- Harta: deathrun_expres-game|- TimeLeft: 13:48| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:45:12 |- Harta: deathrun_expres-game|- TimeLeft: 13:37| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:45:22 |- Harta: deathrun_expres-game|- TimeLeft: 13:26| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:46:43 |- Harta: deathrun_expres-game|- TimeLeft: 12:06| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:46:55 |- Harta: deathrun_expres-game|- TimeLeft: 11:53| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:47:10 |- Harta: deathrun_expres-game|- TimeLeft: 11:39| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:48:02 |- Harta: deathrun_expres-game|- TimeLeft: 10:46| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:48:15 |- Harta: deathrun_expres-game|- TimeLeft: 10:34| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:48:27 |- Harta: deathrun_expres-game|- TimeLeft: 10:22| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:48:38 |- Harta: deathrun_expres-game|- TimeLeft: 10:11| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:49:02 |- Harta: deathrun_expres-game|- TimeLeft: 9:47| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:49:06 |- Harta: deathrun_expres-game|- TimeLeft: 9:43| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:49:15 |- Harta: deathrun_expres-game|- TimeLeft: 9:34| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:49:42 |- Harta: deathrun_expres-game|- TimeLeft: 9:07| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:49:50 |- Harta: deathrun_expres-game|- TimeLeft: 8:58| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:52:24 |- Harta: deathrun_expres-game|- TimeLeft: 6:25| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:53:31 |- Harta: deathrun_expres-game|- TimeLeft: 5:17| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 15:56:28 |- Harta: deathrun_expres-game|- TimeLeft: 2:21| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 15:56:42 |- Harta: deathrun_expres-game|- TimeLeft: 2:06| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:58:51 |- Harta: deathrun_expres-game|- TimeLeft: 0:00| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:58:57 |- Harta: deathrun_expres-game|- TimeLeft: 0:00| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:59:01 |- Harta: deathrun_expres-game|- TimeLeft: 0:00| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:59:04 |- Harta: deathrun_expres-game|- TimeLeft: 0:00| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:59:09 |- Harta: deathrun_expres-game|- TimeLeft: 0:00| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:59:11 |- Harta: deathrun_expres-game|- TimeLeft: 0:00| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:59:14 |- Harta: deathrun_expres-game|- TimeLeft: 0:00| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:59:51 |- Harta: deathrun_expres-game|- TimeLeft: 0:00| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 15:59:56 |- Harta: deathrun_expres-game|- TimeLeft: 0:00| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 16:00:05 |- Harta: deathrun_expres-game|- TimeLeft: 0:00| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 16:00:09 |- Harta: deathrun_expres-game|- TimeLeft: 0:00| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 16:00:10 |- Harta: deathrun_expres-game|- TimeLeft: 0:00| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 16:00:14 |- Harta: deathrun_green_X|- TimeLeft: 24:56| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 16:00:14 |- Harta: deathrun_green_X|- TimeLeft: 24:56| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 16:00:16 |- Harta: deathrun_green_X|- TimeLeft: 24:54| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 16:00:52 |- Harta: deathrun_green_X|- TimeLeft: 24:54| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 16:01:29 |- Harta: deathrun_green_X|- TimeLeft: 24:17| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 16:01:30 |- Harta: deathrun_green_X|- TimeLeft: 24:16| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 16:01:31 |- Harta: deathrun_green_X|- TimeLeft: 24:15| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 16:07:04 |- Harta: deathrun_green_X|- TimeLeft: 18:42| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 16:07:17 |- Harta: deathrun_green_X|- TimeLeft: 18:29| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 16:07:42 |- Harta: deathrun_green_X|- TimeLeft: 18:04| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 16:08:31 |- Harta: deathrun_green_X|- TimeLeft: 17:15| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 16:09:54 |- Harta: deathrun_green_X|- TimeLeft: 15:52| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 16:10:21 |- Harta: deathrun_green_X|- TimeLeft: 15:25| -rTg|maEsTrOo [ STEAM_0:1:154430568 | 109.96.115.231 ] 'amx_revive mae' 
+| 16:14:40 |- Harta: deathrun_green_X|- TimeLeft: 11:06| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 16:14:45 |- Harta: deathrun_green_X|- TimeLeft: 11:01| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 16:49:56 |- Harta: deathrun_temple|- TimeLeft: 2:34| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 16:52:46 |- Harta: deathrun_raykium_xf|- TimeLeft: 24:54| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'AMX_slap lon' 
+| 16:52:50 |- Harta: deathrun_raykium_xf|- TimeLeft: 24:49| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon' 
+| 16:59:39 |- Harta: deathrun_raykium_xf|- TimeLeft: 18:01| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon ' 
+| 17:00:29 |- Harta: deathrun_raykium_xf|- TimeLeft: 17:11| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon ' 
+| 17:00:30 |- Harta: deathrun_raykium_xf|- TimeLeft: 17:10| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon ' 
+| 17:00:51 |- Harta: deathrun_raykium_xf|- TimeLeft: 16:49| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_slap lon ' 
+| 17:12:23 |- Harta: deathrun_raykium_xf|- TimeLeft: 5:17| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 17:27:35 |- Harta: deathrun_rayxzen_x|- TimeLeft: 15:35| dRaGoNeLy^ ;x [ STEAM_0:0:40546701 | 188.27.91.137 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 17:30:34 |- Harta: deathrun_rayxzen_x|- TimeLeft: 12:36| dRaGoNeLy^ ;x [ STEAM_0:0:40546701 | 188.27.91.137 ] 'amx_slay ' 
+| 17:30:38 |- Harta: deathrun_rayxzen_x|- TimeLeft: 12:32| dRaGoNeLy^ ;x [ STEAM_0:0:40546701 | 188.27.91.137 ] 'amx_who ' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 17:30:53 |- Harta: deathrun_rayxzen_x|- TimeLeft: 12:17| dRaGoNeLy^ ;x [ STEAM_0:0:40546701 | 188.27.91.137 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 17:30:55 |- Harta: deathrun_rayxzen_x|- TimeLeft: 12:15| dRaGoNeLy^ ;x [ STEAM_0:0:40546701 | 188.27.91.137 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 17:33:46 |- Harta: deathrun_rayxzen_x|- TimeLeft: 9:24| dRaGoNeLy^ ;x [ STEAM_0:0:40546701 | 188.27.91.137 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 17:33:49 |- Harta: deathrun_rayxzen_x|- TimeLeft: 9:22| dRaGoNeLy^ ;x [ STEAM_0:0:40546701 | 188.27.91.137 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 17:37:11 |- Harta: deathrun_rayxzen_x|- TimeLeft: 5:59| dRaGoNeLy^ ;x [ STEAM_0:0:40546701 | 188.27.91.137 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 17:48:57 |- Harta: deathrun_forest|- TimeLeft: 22:44| Kemal Soydere [ STEAM_0:1:191882096 | 86.123.167.85 ] 'amx_Votemapmenu ' 
+| 17:50:54 |- Harta: deathrun_forest|- TimeLeft: 20:47| Kemal Soydere [ STEAM_0:1:191882096 | 86.123.167.85 ] 'amx_map deathrun_clarion_dojo_b3' 
+| 18:12:00 |- Harta: deathrun_clarion_dojo_- TimeLeft: 4:15| Kemal Soydere [ STEAM_0:1:191882096 | 86.123.167.85 ] 'amx_revive evol' 
+| 18:12:04 |- Harta: deathrun_clarion_dojo_- TimeLeft: 4:11| Kemal Soydere [ STEAM_0:1:191882096 | 86.123.167.85 ] 'amx_revive lone' 
+| 18:14:31 |- Harta: deathrun_clarion_dojo_- TimeLeft: 1:44| Kemal Soydere [ STEAM_0:1:191882096 | 86.123.167.85 ] 'amx_votemapmenu ' 
+| 18:14:54 |- Harta: deathrun_clarion_dojo_- TimeLeft: 1:21| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_votemap deathrun_3syxty_beta4 deathrun_anca' 
+| 18:15:13 |- Harta: deathrun_clarion_dojo_- TimeLeft: 1:02| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_who ' 
+| 18:15:31 |- Harta: deathrun_clarion_dojo_- TimeLeft: 0:44| Kemal Soydere [ STEAM_0:1:191882096 | 86.123.167.85 ] 'amx_revive evol' 
+| 18:15:56 |- Harta: deathrun_clarion_dojo_- TimeLeft: 0:19| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_gag tiganu' 
+| 18:23:52 |- Harta: deathrun_heaven_v2|- TimeLeft: 17:43| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_bye ' 
+| 18:36:43 |- Harta: deathrun_heaven_v2|- TimeLeft: 4:52| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_votemap deathrun_crazyhop_v3_fix deathrun_anca' 
+| 18:47:28 |- Harta: deathrun_crazyhop_v3_f- TimeLeft: 20:31| Kemal Soydere [ STEAM_0:1:191882096 | 86.123.167.85 ] 'amx_buttons ' 
+| 18:48:32 |- Harta: deathrun_crazyhop_v3_f- TimeLeft: 19:27| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_slay kem' 
+| 18:48:54 |- Harta: deathrun_crazyhop_v3_f- TimeLeft: 19:06| Kemal Soydere [ STEAM_0:1:191882096 | 86.123.167.85 ] 'amx_buttons ' 
+| 18:56:12 |- Harta: deathrun_crazyhop_v3_f- TimeLeft: 11:47| Kemal Soydere [ STEAM_0:1:191882096 | 86.123.167.85 ] 'amx_slay tiganu' 
+| 19:22:14 |- Harta: deathrun_nightrun_beta- TimeLeft: 12:06| Kemal Soydere [ STEAM_0:1:191882096 | 86.123.167.85 ] 'amx_say http://imgur.com/a/gJBuD' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 19:23:26 |- Harta: deathrun_nightrun_beta- TimeLeft: 10:55| deadpool [ STEAM_0:0:30403765 | 82.79.251.117 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 19:34:53 |- Harta: deathrun_nightrun_beta- TimeLeft: 0:00| deadpool [ STEAM_0:0:30403765 | 82.79.251.117 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 19:34:59 |- Harta: deathrun_0mega|- TimeLeft: 24:55| deadpool [ STEAM_0:0:30403765 | 82.79.251.117 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 19:35:29 |- Harta: deathrun_0mega|- TimeLeft: 24:44| deadpool [ STEAM_0:0:30403765 | 82.79.251.117 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 19:55:34 |- Harta: deathrun_0mega|- TimeLeft: 4:38| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_slay masina' 
+| 19:55:48 |- Harta: deathrun_0mega|- TimeLeft: 4:24| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_slay masina' 
+| 19:56:03 |- Harta: deathrun_0mega|- TimeLeft: 4:09| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_Gag masina' 
+| 19:59:30 |- Harta: deathrun_0mega|- TimeLeft: 0:43| ips [ STEAM_0:1:173403989 | 79.115.100.194 ] 'amx_gag u@ masina' 
+| 20:00:22 |- Harta: deathrun_0mega|- TimeLeft: 0:00| DoNpAkaa [ STEAM_0:0:55531607 | 86.123.127.200 ] 'amx_votemapmenu ' 
+| 20:07:08 |- Harta: deathrun_discovery3|- TimeLeft: 18:45| DoNpAkaa [ STEAM_0:0:55531607 | 86.123.127.200 ] 'amx_slay 1st' 
+| 20:24:07 |- Harta: deathrun_discovery3|- TimeLeft: 1:45| DoNpAkaa [ STEAM_0:0:55531607 | 86.123.127.200 ] 'amx_votemapmenu ' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 20:41:15 |- Harta: deathrun_level_mib-eas- TimeLeft: 10:19| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 20:41:22 |- Harta: deathrun_level_mib-eas- TimeLeft: 10:11| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 20:41:29 |- Harta: deathrun_level_mib-eas- TimeLeft: 10:04| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 20:47:45 |- Harta: deathrun_level_mib-eas- TimeLeft: 3:49| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 20:47:59 |- Harta: deathrun_level_mib-eas- TimeLeft: 3:34| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 20:48:44 |- Harta: deathrun_level_mib-eas- TimeLeft: 2:49| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 20:57:50 |- Harta: deathrun_2h_estonia|- TimeLeft: 19:17| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 20:57:51 |- Harta: deathrun_2h_estonia|- TimeLeft: 19:16| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 20:58:26 |- Harta: deathrun_2h_estonia|- TimeLeft: 18:42| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 20:58:30 |- Harta: deathrun_2h_estonia|- TimeLeft: 18:38| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 20:58:34 |- Harta: deathrun_2h_estonia|- TimeLeft: 18:33| anca [ STEAM_0:0:58514266 | 109.103.126.196 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 21:47:15 |- Harta: deathrun_y_underground- TimeLeft: 3:58| DoNpAkaa [ STEAM_0:0:55531607 | 86.123.127.200 ] 'amx_whp ' 
+| 21:47:16 |- Harta: deathrun_y_underground- TimeLeft: 3:56| DoNpAkaa [ STEAM_0:0:55531607 | 86.123.127.200 ] 'amx_who ' 
+| 21:47:28 |- Harta: deathrun_y_underground- TimeLeft: 3:45| DoNpAkaa [ STEAM_0:0:55531607 | 86.123.127.200 ] 'amx_votemapmenu ' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 21:47:55 |- Harta: deathrun_y_underground- TimeLeft: 3:17| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 21:48:04 |- Harta: deathrun_y_underground- TimeLeft: 3:09| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 21:48:08 |- Harta: deathrun_y_underground- TimeLeft: 3:04| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 21:53:00 |- Harta: deathrun_clarion_dojo_- TimeLeft: 24:56| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 21:53:48 |- Harta: deathrun_clarion_dojo_- TimeLeft: 24:26| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 21:53:52 |- Harta: deathrun_clarion_dojo_- TimeLeft: 24:22| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 21:57:30 |- Harta: deathrun_clarion_dojo_- TimeLeft: 20:44| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_who ' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 22:00:12 |- Harta: deathrun_clarion_dojo_- TimeLeft: 18:02| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 22:00:19 |- Harta: deathrun_clarion_dojo_- TimeLeft: 17:56| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 22:04:58 |- Harta: deathrun_clarion_dojo_- TimeLeft: 13:16| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 22:05:02 |- Harta: deathrun_clarion_dojo_- TimeLeft: 13:12| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 22:13:18 |- Harta: deathrun_clarion_dojo_- TimeLeft: 4:56| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_kick ' 
+| 22:13:21 |- Harta: deathrun_clarion_dojo_- TimeLeft: 4:53| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_kick ' 
+| 22:24:30 |- Harta: deathrun_rizzy_x|- TimeLeft: 19:35| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_nick urs altu' 
+| 22:25:12 |- Harta: deathrun_rizzy_x|- TimeLeft: 18:53| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_Gag flv' 
+| 22:29:28 |- Harta: deathrun_rizzy_x|- TimeLeft: 14:36| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_gag mib' 
+| 22:29:41 |- Harta: deathrun_rizzy_x|- TimeLeft: 14:23| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_psay scoob nu ii da skype ul ca ti l pica' 
+| 22:29:42 |- Harta: deathrun_rizzy_x|- TimeLeft: 14:22| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_psay scoob nu ii da skype ul ca ti l pica ' 
+| 22:29:43 |- Harta: deathrun_rizzy_x|- TimeLeft: 14:21| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_psay scoob nu ii da skype ul ca ti l pica ' 
+| 22:30:21 |- Harta: deathrun_rizzy_x|- TimeLeft: 13:43| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_gag altu' 
+| 22:30:23 |- Harta: deathrun_rizzy_x|- TimeLeft: 13:41| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_gag scooby' 
+| 22:37:43 |- Harta: deathrun_rizzy_x|- TimeLeft: 6:21| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 22:38:25 |- Harta: deathrun_rizzy_x|- TimeLeft: 5:39| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_votemap deathrun_anca deathrun_projectocs2' 
+| 22:38:34 |- Harta: deathrun_rizzy_x|- TimeLeft: 5:31| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_cancelvote ' 
+| 22:38:38 |- Harta: deathrun_rizzy_x|- TimeLeft: 5:26| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_cancelvote ' 
+| 22:38:50 |- Harta: deathrun_rizzy_x|- TimeLeft: 5:15| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_votemapmenu ' 
+| 22:42:12 |- Harta: deathrun_rizzy_x|- TimeLeft: 1:52| DoNpAkaa [ STEAM_0:0:55531607 | 86.123.127.200 ] 'amx_slay hits' 
+| 22:42:15 |- Harta: deathrun_rizzy_x|- TimeLeft: 1:49| DoNpAkaa [ STEAM_0:0:55531607 | 86.123.127.200 ] 'amx_slay edua' 
+| 22:42:25 |- Harta: deathrun_rizzy_x|- TimeLeft: 1:39| DoNpAkaa [ STEAM_0:0:55531607 | 86.123.127.200 ] 'amx_slay (1)' 
+| 22:42:29 |- Harta: deathrun_rizzy_x|- TimeLeft: 1:35| SWAGGIE. XD [ VALVE_0:4:862961770 | 109.98.131.207 ] 'amx_map deathrun_anca' 
+| 22:42:29 |- Harta: deathrun_rizzy_x|- TimeLeft: 1:35| DoNpAkaa [ STEAM_0:0:55531607 | 86.123.127.200 ] 'amx_slay koso' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 23:01:47 |- Harta: deathrun_anca|- TimeLeft: 6:03| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 23:05:55 |- Harta: deathrun_anca|- TimeLeft: 1:55| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_say Ce faceti ba >?' 
+| 23:07:29 |- Harta: deathrun_anca|- TimeLeft: 0:21| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_slay solflou' 
+| 23:07:36 |- Harta: deathrun_anca|- TimeLeft: 0:00| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_slay soflou' 
+| 23:07:39 |- Harta: deathrun_anca|- TimeLeft: 0:00| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_slay ips' 
+| 23:07:50 |- Harta: deathrun_anca|- TimeLeft: 0:00| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_slay puffy' 
+| 23:07:52 |- Harta: deathrun_anca|- TimeLeft: 0:00| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_slay puffy' 
+| 23:07:52 |- Harta: deathrun_anca|- TimeLeft: 0:00| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_slay ips' 
+| 23:07:53 |- Harta: deathrun_anca|- TimeLeft: 0:00| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_slay soflou' 
+| 23:08:00 |- Harta: deathrun_anca|- TimeLeft: 0:00| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_slay soflou' 
+| 23:08:00 |- Harta: deathrun_anca|- TimeLeft: 0:00| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_slay ips' 
+| 23:08:02 |- Harta: deathrun_anca|- TimeLeft: 0:00| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] 'amx_slay puffy' 
+-------------------------------------------------------------------------------------------------------------------------------
+| 23:09:13 |- Harta: deathrun_sk_occult|- TimeLeft: 24:56| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a conectat pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+| 23:13:53 |- Harta: deathrun_sk_occult|- TimeLeft: 20:35| Bidi [ STEAM_0:1:45864800 | 89.35.92.87 ] s-a deconectat de pe server.
+-------------------------------------------------------------------------------------------------------------------------------
+| 23:30:37 |- Harta: deathrun_sk_occult|- TimeLeft: 3:51| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_Gag kla' 
+| 23:31:32 |- Harta: deathrun_sk_occult|- TimeLeft: 2:56| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_slayteam ' 
+| 23:31:35 |- Harta: deathrun_sk_occult|- TimeLeft: 2:53| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_slayall ' 
+| 23:31:50 |- Harta: deathrun_sk_occult|- TimeLeft: 2:38| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_slayteam ' 
+| 23:31:58 |- Harta: deathrun_sk_occult|- TimeLeft: 2:30| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_slay ' 
+| 23:32:06 |- Harta: deathrun_sk_occult|- TimeLeft: 2:22| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_slay @ct' 
+| 23:33:09 |- Harta: deathrun_sk_occult|- TimeLeft: 1:19| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_votemenu ' 
+| 23:33:13 |- Harta: deathrun_sk_occult|- TimeLeft: 1:15| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_votemapmenu ' 
+| 23:34:19 |- Harta: deathrun_sk_occult|- TimeLeft: 0:00| ips [ STEAM_0:1:173403989 | 79.118.247.182 ] 'amx_slay @ct' 

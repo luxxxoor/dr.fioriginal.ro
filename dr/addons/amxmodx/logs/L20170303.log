@@ -1,0 +1,643 @@
+L 03/03/2017 - 00:59:29: -------- Mapchange to deathrun_bhopz_v2 --------
+L 03/03/2017 - 00:59:31: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 00:59:32: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 01:00:08: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "mester jekir jumb<915><STEAM_0:0:689553004><>"
+L 03/03/2017 - 01:54:49: -------- Mapchange to deathrun_hertz --------
+L 03/03/2017 - 01:54:51: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 01:54:52: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 03:30:12: -------- Mapchange to deathrun_minimalism_beta2 --------
+L 03/03/2017 - 03:30:13: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 03:30:14: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 04:31:32: -------- Mapchange to deathrun_pacman --------
+L 03/03/2017 - 04:31:33: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 04:31:34: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 04:33:29: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Rusu<937><STEAM_0:0:1134474968><>"
+L 03/03/2017 - 08:11:22: -------- Mapchange to deathrun_snow_wind --------
+L 03/03/2017 - 08:11:23: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 08:11:24: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 08:16:20: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "[RSO] SINIY KIT 18+<952><STEAM_0:0:837245017><>"
+L 03/03/2017 - 08:17:24: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "[RSO] SINIY KIT 18+<953><STEAM_0:0:837245017><>"
+L 03/03/2017 - 08:21:49: [slayafk.amxx] [RSO] SINIY KIT 18+ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 08:34:41: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Yijox<957><STEAM_0:0:660503307><>"
+L 03/03/2017 - 08:43:11: -------- Mapchange to deathrun_helvis --------
+L 03/03/2017 - 08:43:12: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 08:43:13: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 09:03:39: [admin.amxx] Login: "Pyky<961><VALVE_0:4:1494801266><>" kicked due to invalid password (account "Pyky") (address "92.84.109.27")
+L 03/03/2017 - 09:03:49: [admin.amxx] Login: "Pyky<962><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 03/03/2017 - 09:05:30: [mapsmenu.amxx] Vote: "Pyky<962><VALVE_0:4:1494801266><>" vote maps (map#1 "deathrun_level_mib-easy") (map#2 "deathrun_mib_level") (map#3 "") (map#4 "")
+L 03/03/2017 - 09:05:42: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_level_mib-easy
+L 03/03/2017 - 09:08:28: -------- Mapchange to deathrun_level_mib-easy --------
+L 03/03/2017 - 09:08:29: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 09:08:30: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 09:08:30: [admin.amxx] Login: "Pyky<962><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 03/03/2017 - 09:08:33: [admin.amxx] Login: "Pyky<963><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 03/03/2017 - 09:11:04: [admin.amxx] Login: "Pyky<969><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 03/03/2017 - 09:11:10: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Pyky<969><VALVE_0:4:1494801266><>"
+L 03/03/2017 - 09:48:39: -------- Mapchange to deathrun_xstrafers --------
+L 03/03/2017 - 09:48:40: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 09:48:41: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 09:50:20: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "ZYZZ<989><STEAM_0:0:951394853><>"
+L 03/03/2017 - 09:52:07: [admin.amxx] Login: "deadpool<990><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "86.125.82.233")
+L 03/03/2017 - 10:06:39: [admin.amxx] Login: "cool<998><STEAM_0:1:25922700><>" kicked due to invalid password (account "cool") (address "5.14.100.218")
+L 03/03/2017 - 10:06:56: [admin.amxx] Login: "cool<999><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 03/03/2017 - 10:06:59: [admin.amxx] Login: "cool<1000><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 03/03/2017 - 10:10:41: [admin.amxx] Login: "cool<1001><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 03/03/2017 - 10:11:31: [slayafk.amxx] cool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 10:48:44: [admin.amxx] Login: "Levi99<1006><STEAM_0:0:183716598><>" became an admin (account "Levi99") (access "bi") (address "79.113.139.236")
+L 03/03/2017 - 10:48:46: [admin.amxx] Login: "Levi99<1007><STEAM_0:0:183716598><>" became an admin (account "Levi99") (access "bi") (address "79.113.139.236")
+L 03/03/2017 - 10:50:25: [admin.amxx] Login: "cool<1008><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 03/03/2017 - 10:50:29: -------- Mapchange to deathrun_alpin_spring --------
+L 03/03/2017 - 10:50:31: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 10:50:32: [admin.amxx] Login: "cool<1008><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 03/03/2017 - 10:50:34: [admin.amxx] Login: "cool<1009><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 03/03/2017 - 10:50:39: [admin.amxx] Login: "Levi99<1010><STEAM_0:0:183716598><>" became an admin (account "Levi99") (access "bi") (address "79.113.139.236")
+L 03/03/2017 - 10:50:41: [admin.amxx] Login: "Levi99<1011><STEAM_0:0:183716598><>" became an admin (account "Levi99") (access "bi") (address "79.113.139.236")
+L 03/03/2017 - 11:16:36: -------- Mapchange to deathrun_unreal --------
+L 03/03/2017 - 11:16:37: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 11:16:38: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 11:26:34: [admin.amxx] Login: "Pyky<1032><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 03/03/2017 - 11:27:17: [admin.amxx] Login: "Pyky<1035><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 03/03/2017 - 11:27:23: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Pyky<1035><VALVE_0:4:1494801266><>"
+L 03/03/2017 - 11:36:15: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "NOOB<1038><STEAM_0:0:854973727><>"
+L 03/03/2017 - 11:40:02: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "NOOB<1040><STEAM_0:0:854973727><>"
+L 03/03/2017 - 12:03:55: [admin.amxx] Login: "Pyky<1042><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 03/03/2017 - 12:04:43: [mapsmenu.amxx] Vote: "Pyky<1042><VALVE_0:4:1494801266><>" vote maps (map#1 "deathrun_long_run") (map#2 "deathrun_flipfloodz") (map#3 "") (map#4 "")
+L 03/03/2017 - 12:04:55: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_flipfloodz
+L 03/03/2017 - 12:08:54: [admincmd.amxx] Cmd: "Pyky<1042><VALVE_0:4:1494801266><>" slay "ZYZZ<1045><STEAM_0:0:951394853><>"
+L 03/03/2017 - 12:08:57: -------- Mapchange to deathrun_flipfloodz --------
+L 03/03/2017 - 12:08:58: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 12:08:59: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 12:08:59: [admin.amxx] Login: "Pyky<1042><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 03/03/2017 - 12:15:22: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "NOOB<1055><STEAM_0:0:854973727><>"
+L 03/03/2017 - 12:18:23: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "NOOB<1057><STEAM_0:0:854973727><>"
+L 03/03/2017 - 12:41:21: -------- Mapchange to deathrun_expres-game --------
+L 03/03/2017 - 12:41:22: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 12:41:23: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 12:44:28: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "NOOB<1067><STEAM_0:0:854973727><>"
+L 03/03/2017 - 12:44:55: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "NOOB<1069><STEAM_0:0:854973727><>"
+L 03/03/2017 - 12:52:07: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "NOOB<1073><STEAM_0:0:854973727><>"
+L 03/03/2017 - 13:12:34: -------- Mapchange to deathrun_legendz --------
+L 03/03/2017 - 13:12:35: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 13:12:36: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 13:18:40: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "zivoin<1080><STEAM_0:0:582226405><>"
+L 03/03/2017 - 13:37:33: [admin.amxx] Login: "cool<1083><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 03/03/2017 - 14:00:13: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "zivoin<1095><STEAM_0:0:582226405><>"
+L 03/03/2017 - 14:06:25: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 03/03/2017 - 14:06:27: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 14:06:28: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 14:10:02: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "DoZe<1106><STEAM_0:0:1518108911><>"
+L 03/03/2017 - 14:10:48: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "DoZe<1107><STEAM_0:0:1518108911><>"
+L 03/03/2017 - 14:21:27: [admin.amxx] Login: "SWAGGIE. XD<1110><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 14:28:28: [admin.amxx] Login: "default.<1111><VALVE_0:4:61757299><>" became an admin (account "default.") (access "bi") (address "95.76.0.174")
+L 03/03/2017 - 14:35:50: [admin.amxx] Login: "SWAGGIE. XD<1113><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 14:37:47: [admin.amxx] Login: "cool<1114><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 03/03/2017 - 14:37:49: [admin.amxx] Login: "cool<1115><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 03/03/2017 - 14:45:38: [admin.amxx] Login: "SWAGGIE. XD<1123><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 14:59:56: [admin.amxx] Login: "SWAGGIE. XD<1126><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 15:00:56: [mapsmenu.amxx] Vote: "SWAGGIE. XD<1126><VALVE_0:4:862961770><>" vote maps (map#1 "deathrun_planks") (map#2 "deathrun_elite_b3") (map#3 "") (map#4 "")
+L 03/03/2017 - 15:01:08: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_elite_b3
+L 03/03/2017 - 15:04:19: -------- Mapchange to deathrun_elite_b3 --------
+L 03/03/2017 - 15:04:21: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 15:04:22: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 15:04:22: [admin.amxx] Login: "SWAGGIE. XD<1126><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 15:04:23: [admin.amxx] Login: "SWAGGIE. XD<1131><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 15:05:39: [admincmd.amxx] Cmd: "SWAGGIE. XD<1131><VALVE_0:4:862961770><>" slay "DoZe<1132><STEAM_0:0:1518108911><>"
+L 03/03/2017 - 15:14:01: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "zivoin<1144><STEAM_0:0:582226405><>"
+L 03/03/2017 - 15:18:00: [admin.amxx] Login: "SWAGGIE. XD<1145><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 15:21:09: [admin.amxx] Login: "SWAGGIE. XD<1146><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 15:24:40: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "ssaacc.<1150><STEAM_0:0:1844758109><>"
+L 03/03/2017 - 15:25:01: [admin.amxx] Login: "SWAGGIE. XD<1153><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 15:28:44: [adminvote.amxx] Vote: "SWAGGIE. XD<1153><VALVE_0:4:862961770><>" vote custom (question "Schimbam?") (option#1 "Da.") (option#2 "Nu.")
+L 03/03/2017 - 15:28:56: [adminvote.amxx] Vote: Voting successful (got "1") (needed "1") (result "Schimbam? - Da.")
+L 03/03/2017 - 15:40:52: [admin.amxx] Login: "FAKE ^^<1167><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.0.36")
+L 03/03/2017 - 15:40:53: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "S3v3n^uP^<1166><STEAM_0:0:1404105953><>"
+L 03/03/2017 - 15:40:56: [admin.amxx] Login: "FAKE ^^<1168><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.0.36")
+L 03/03/2017 - 15:43:10: [mapsmenu.amxx] Vote: "FAKE ^^<1168><STEAM_0:0:334408724><>" vote maps (map#1 "deathrun_laikiux_rawr") (map#2 "deathrun_adi_snowycliff") (map#3 "") (map#4 "")
+L 03/03/2017 - 15:43:22: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_laikiux_rawr
+L 03/03/2017 - 15:44:53: [admin.amxx] Login: "default.<1171><VALVE_0:4:61757299><>" became an admin (account "default.") (access "bi") (address "95.76.0.174")
+L 03/03/2017 - 15:44:55: [admin.amxx] Login: "default.<1172><VALVE_0:4:61757299><>" became an admin (account "default.") (access "bi") (address "95.76.0.174")
+L 03/03/2017 - 15:45:45: [admin.amxx] Login: "EvolGenius - ThE king#<1173><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.127.32.118")
+L 03/03/2017 - 15:47:44: [admin.amxx] Login: "SWAGGIE. XD<1174><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 15:51:01: -------- Mapchange to deathrun_laikiux_rawr --------
+L 03/03/2017 - 15:51:02: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 15:51:03: [admin.amxx] Login: "EvolGenius - ThE king#<1173><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.127.32.118")
+L 03/03/2017 - 15:51:03: [admin.amxx] Login: "FAKE ^^<1168><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.0.36")
+L 03/03/2017 - 15:51:03: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 15:51:03: [admin.amxx] Login: "SWAGGIE. XD<1174><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 15:51:03: [admin.amxx] Login: "default.<1172><VALVE_0:4:61757299><>" became an admin (account "default.") (access "bi") (address "95.76.0.174")
+L 03/03/2017 - 15:51:05: [admin.amxx] Login: "default.<1175><VALVE_0:4:61757299><>" became an admin (account "default.") (access "bi") (address "95.76.0.174")
+L 03/03/2017 - 15:51:38: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 15:52:13: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 15:54:23: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 15:55:28: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 15:55:32: [admin.amxx] Login: "Pyky<1183><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 03/03/2017 - 15:55:33: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 15:56:13: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 15:57:13: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 15:57:18: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 15:58:13: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 15:58:13: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 15:58:58: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:00:13: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:00:18: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:01:08: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:01:08: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:01:29: [admin.amxx] Login: "FAKE ^^<1185><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.0.36")
+L 03/03/2017 - 16:02:03: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:03:03: [admincmd.amxx] Cmd: "Pyky<1183><VALVE_0:4:1494801266><>" slay "Pyky<1183><VALVE_0:4:1494801266><>"
+L 03/03/2017 - 16:03:38: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:03:43: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:04:38: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:07:03: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:08:53: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:09:11: [mapsmenu.amxx] Vote: "SWAGGIE. XD<1174><VALVE_0:4:862961770><>" vote maps (map#1 "deathrun_bhopz_v2") (map#2 "deathrun_hertz") (map#3 "") (map#4 "")
+L 03/03/2017 - 16:09:23: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_bhopz_v2
+L 03/03/2017 - 16:10:03: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:11:38: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:12:48: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:14:23: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:16:18: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:17:08: -------- Mapchange to deathrun_bhopz_v2 --------
+L 03/03/2017 - 16:17:09: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 16:17:10: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 16:17:10: [admin.amxx] Login: "SWAGGIE. XD<1174><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 16:17:10: [admin.amxx] Login: "default.<1175><VALVE_0:4:61757299><>" became an admin (account "default.") (access "bi") (address "95.76.0.174")
+L 03/03/2017 - 16:17:10: [admin.amxx] Login: "EvolGenius - ThE king#<1173><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.127.32.118")
+L 03/03/2017 - 16:18:52: [admin.amxx] Login: "Scooby1^<1188><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^") (access "bi") (address "109.103.32.23")
+L 03/03/2017 - 16:26:55: [admin.amxx] Login: "Sol<1196><STEAM_0:1:191882096><>" kicked due to invalid password (account "Sol") (address "188.27.152.126")
+L 03/03/2017 - 16:26:58: [admin.amxx] Login: "Sol<1197><STEAM_0:1:191882096><>" kicked due to invalid password (account "Sol") (address "188.27.152.126")
+L 03/03/2017 - 16:27:05: [admin.amxx] Login: "Spectru<1198><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 16:31:27: [admin.amxx] Login: "default.<1200><VALVE_0:4:61757299><>" became an admin (account "default.") (access "bi") (address "95.76.0.174")
+L 03/03/2017 - 16:31:34: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "default.<1200><VALVE_0:4:61757299><>"
+L 03/03/2017 - 16:38:28: [mapsmenu.amxx] Vote: "Spectru<1198><STEAM_0:1:191882096><>" vote maps (map#1 "deathrun_long_run") (map#2 "deathrun_clarion_dojo_b3") (map#3 "") (map#4 "")
+L 03/03/2017 - 16:38:40: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_long_run
+L 03/03/2017 - 16:38:46: [admincmd.amxx] Cmd: "Spectru<1198><STEAM_0:1:191882096><>" changelevel "deathrun_long_run"
+L 03/03/2017 - 16:38:48: -------- Mapchange to deathrun_long_run --------
+L 03/03/2017 - 16:38:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 16:38:51: [admin.amxx] Login: "Spectru<1198><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 16:38:51: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 16:38:51: [admin.amxx] Login: "SWAGGIE. XD<1174><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 16:38:51: [admin.amxx] Login: "default.<1200><VALVE_0:4:61757299><>" became an admin (account "default.") (access "bi") (address "95.76.0.174")
+L 03/03/2017 - 16:39:26: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:40:01: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:41:01: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:42:11: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:49:26: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:49:26: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:54:06: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:54:06: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:55:11: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:55:11: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:56:11: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:56:11: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:56:11: [slayafk.amxx] LJ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:56:44: [admincmd.amxx] Cmd: "Spectru<1198><STEAM_0:1:191882096><>" slay "FLVXSOW;[<1206><STEAM_0:0:77647261><>"
+L 03/03/2017 - 16:57:21: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:59:28: [admin.amxx] Login: "-rTg|maEsTrOo<1226><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "109.96.112.28")
+L 03/03/2017 - 16:59:41: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:59:45: [mapsmenu.amxx] Vote: "Spectru<1198><STEAM_0:1:191882096><>" vote maps (map#1 "deathrun_abstract") (map#2 "deathrun_rizzy_x") (map#3 "deathrun_gb_winter_final4") (map#4 "")
+L 03/03/2017 - 16:59:46: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 16:59:57: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_gb_winter_final4
+L 03/03/2017 - 17:00:56: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 17:01:29: [admincmd.amxx] Cmd: "Spectru<1198><STEAM_0:1:191882096><>" slay "cs1.bg<1223><STEAM_0:0:682063182><>"
+L 03/03/2017 - 17:02:01: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 17:05:11: -------- Mapchange to deathrun_gb_winter_final4 --------
+L 03/03/2017 - 17:05:12: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 17:05:14: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 17:05:14: [admin.amxx] Login: "SWAGGIE. XD<1174><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 17:05:14: [admin.amxx] Login: "Spectru<1198><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 17:05:14: [admin.amxx] Login: "-rTg|maEsTrOo<1226><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "109.96.112.28")
+L 03/03/2017 - 17:05:15: [admin.amxx] Login: "Spectru<1230><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 17:05:35: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "MiB #CTC Sfanta Treime<1238><STEAM_0:0:1940015179><>"
+L 03/03/2017 - 17:05:46: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "banzai<1239><STEAM_0:1:166549758><>"
+L 03/03/2017 - 17:07:05: [admincmd.amxx] Cmd: "Spectru<1230><STEAM_0:1:191882096><>" slay "RuslaNNN<1213><STEAM_0:0:80262703><>"
+L 03/03/2017 - 17:11:33: [admin.amxx] Login: "Spectru<1242><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 17:25:08: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 17:25:35: [admin.amxx] Login: "-rTg|maEsTrOo<1255><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "109.96.112.28")
+L 03/03/2017 - 17:32:14: -------- Mapchange to deathrun_astro --------
+L 03/03/2017 - 17:32:16: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 17:32:17: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 17:42:36: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "xRestr1cT<1271><STEAM_0:0:1531991600><>"
+L 03/03/2017 - 17:43:24: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "xRestr1cT<1273><STEAM_0:0:1531991600><>"
+L 03/03/2017 - 17:46:07: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "DoZe<1277><STEAM_0:0:1518108911><>"
+L 03/03/2017 - 17:46:20: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "DoZe<1280><STEAM_0:0:1518108911><>"
+L 03/03/2017 - 17:46:27: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "DoZe<1283><STEAM_0:0:1518108911><>"
+L 03/03/2017 - 17:46:35: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "DoZe<1284><STEAM_0:0:1518108911><>"
+L 03/03/2017 - 17:46:56: [admin.amxx] Login: "SWAGGIE. XD<1285><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 18:06:08: [admin.amxx] Login: "SWAGGIE. XD<1303><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 18:06:32: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Samitzu<1304><STEAM_0:0:1205494251><>"
+L 03/03/2017 - 18:14:12: -------- Mapchange to deathrun_lies_f --------
+L 03/03/2017 - 18:14:14: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 18:14:15: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 18:25:12: [admin.amxx] Login: "Xstrafers # |LOL|XXX<1314><STEAM_0:1:24069958><>" became an admin (account "Xstrafers # |LOL|XXX") (access "bi") (address "5.15.236.167")
+L 03/03/2017 - 18:25:37: [admin.amxx] Login: "SWAGGIE. XD<1315><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 18:26:37: [admincmd.amxx] Cmd: "Xstrafers # |LOL|XXX<1314><STEAM_0:1:24069958><>" ask for players list
+L 03/03/2017 - 18:30:05: [admincmd.amxx] Cmd: "Xstrafers # |LOL|XXX<1314><STEAM_0:1:24069958><>" changelevel "deathrun_lost"
+L 03/03/2017 - 18:30:07: -------- Mapchange to deathrun_lost --------
+L 03/03/2017 - 18:30:09: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 18:30:10: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 18:30:10: [admin.amxx] Login: "Xstrafers # |LOL|XXX<1314><STEAM_0:1:24069958><>" became an admin (account "Xstrafers # |LOL|XXX") (access "bi") (address "5.15.236.167")
+L 03/03/2017 - 18:30:12: [admin.amxx] Login: "Xstrafers # |LOL|XXX<1316><STEAM_0:1:24069958><>" became an admin (account "Xstrafers # |LOL|XXX") (access "bi") (address "5.15.236.167")
+L 03/03/2017 - 18:31:44: [admin.amxx] Login: "Dudu.- ;o!<1320><STEAM_0:0:170398926><>" became an admin (account "Dudu.- ;o!") (access "bit") (address "5.13.7.33")
+L 03/03/2017 - 18:31:47: [admin.amxx] Login: "Dudu.- ;o!<1321><STEAM_0:0:170398926><>" became an admin (account "Dudu.- ;o!") (access "bit") (address "5.13.7.33")
+L 03/03/2017 - 18:38:25: [slayafk.amxx] xRestr1cT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 18:41:50: [slayafk.amxx] Xstrafers # |LOL|XXX a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 18:42:30: [slayafk.amxx] Xstrafers # |LOL|XXX a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 18:43:10: [slayafk.amxx] Xstrafers # |LOL|XXX a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 18:44:10: [slayafk.amxx] Xstrafers # |LOL|XXX a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 18:45:10: [slayafk.amxx] Xstrafers # |LOL|XXX a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 18:48:25: [slayafk.amxx] Xstrafers # |LOL|XXX a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 18:48:28: [admin.amxx] Login: "SWAGGIE. XD<1329><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 18:48:30: [admin.amxx] Login: "SWAGGIE. XD<1330><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 18:49:43: [admin.amxx] Login: "wadafac!<1331><VALVE_0:4:1393806203><>" became an admin (account "wadafac!") (access "bi") (address "79.116.123.15")
+L 03/03/2017 - 18:49:47: [admin.amxx] Login: ".ryder.<1325><STEAM_0:0:1179693161><>" became an admin (account ".ryder.") (access "bi") (address "92.115.204.216")
+L 03/03/2017 - 18:49:49: [admin.amxx] Login: "wadafac!<1332><VALVE_0:4:1393806203><>" became an admin (account "wadafac!") (access "bi") (address "79.116.123.15")
+L 03/03/2017 - 18:50:20: [slayafk.amxx] Xstrafers # |LOL|XXX a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 18:51:11: [adminchat.amxx] Chat: "wadafac!<1332><VALVE_0:4:1393806203><>" chat "ati dat vot?"
+L 03/03/2017 - 18:51:15: [adminchat.amxx] Chat: ".ryder.<1325><STEAM_0:0:1179693161><>" chat "nu"
+L 03/03/2017 - 18:51:18: [adminchat.amxx] Chat: "wadafac!<1332><VALVE_0:4:1393806203><>" chat "nu?"
+L 03/03/2017 - 18:51:20: [adminchat.amxx] Chat: ".ryder.<1325><STEAM_0:0:1179693161><>" chat "Nu"
+L 03/03/2017 - 18:51:20: [adminchat.amxx] Chat: "wadafac!<1332><VALVE_0:4:1393806203><>" chat "lasam latexx?"
+L 03/03/2017 - 18:51:23: [adminchat.amxx] Chat: ".ryder.<1325><STEAM_0:0:1179693161><>" chat "nu"
+L 03/03/2017 - 18:51:29: [adminchat.amxx] Chat: "wadafac!<1332><VALVE_0:4:1393806203><>" chat "pai dai tu vote"
+L 03/03/2017 - 18:51:30: [adminchat.amxx] Chat: ".ryder.<1325><STEAM_0:0:1179693161><>" chat "evilhouse te rog <3"
+L 03/03/2017 - 18:51:33: [adminchat.amxx] Chat: ".ryder.<1325><STEAM_0:0:1179693161><>" chat "cu slot?"
+L 03/03/2017 - 18:51:33: [adminchat.amxx] Chat: "wadafac!<1332><VALVE_0:4:1393806203><>" chat "n-am inspiratie"
+L 03/03/2017 - 18:51:38: [adminchat.amxx] Chat: "wadafac!<1332><VALVE_0:4:1393806203><>" chat "nu mai ai admin?"
+L 03/03/2017 - 18:51:43: [adminchat.amxx] Chat: ".ryder.<1325><STEAM_0:0:1179693161><>" chat "nu."
+L 03/03/2017 - 18:51:54: [mapsmenu.amxx] Vote: "wadafac!<1332><VALVE_0:4:1393806203><>" vote maps (map#1 "deathrun_y_underground") (map#2 "deathrun_greyskull") (map#3 "") (map#4 "")
+L 03/03/2017 - 18:51:54: [adminchat.amxx] Chat: ".ryder.<1325><STEAM_0:0:1179693161><>" chat " KUSH COMA !"
+L 03/03/2017 - 18:52:02: [adminchat.amxx] Chat: ".ryder.<1325><STEAM_0:0:1179693161><>" chat " KUsH CoMa!"
+L 03/03/2017 - 18:52:06: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_y_underground
+L 03/03/2017 - 18:52:35: [slayafk.amxx] Xstrafers # |LOL|XXX a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 18:53:18: [admin.amxx] Login: "EvolGenius - ThE king#<1333><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.127.32.118")
+L 03/03/2017 - 18:53:19: [admin.amxx] Login: "Spectru<1334><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 18:53:21: [admin.amxx] Login: "Spectru<1335><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 18:54:20: [admin.amxx] Login: "EvolGenius - ThE king#<1338><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.127.32.118")
+L 03/03/2017 - 18:57:13: [adminchat.amxx] Chat: ".ryder.<1325><STEAM_0:0:1179693161><>" chat "Sol"
+L 03/03/2017 - 18:57:25: [adminchat.amxx] Chat: ".ryder.<1325><STEAM_0:0:1179693161><>" chat "am revive platit pe un nume,mi`l muti :D?"
+L 03/03/2017 - 18:57:29: -------- Mapchange to deathrun_y_underground --------
+L 03/03/2017 - 18:57:30: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 18:57:31: [admin.amxx] Login: "EvolGenius - ThE king#<1338><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.127.32.118")
+L 03/03/2017 - 18:57:31: [admin.amxx] Login: "wadafac!<1332><VALVE_0:4:1393806203><>" became an admin (account "wadafac!") (access "bi") (address "79.116.123.15")
+L 03/03/2017 - 18:57:31: [admin.amxx] Login: ".ryder.<1325><STEAM_0:0:1179693161><>" became an admin (account ".ryder.") (access "bi") (address "92.115.204.216")
+L 03/03/2017 - 18:57:31: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 18:57:31: [admin.amxx] Login: "SWAGGIE. XD<1330><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 18:57:31: [admin.amxx] Login: "Spectru<1335><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 18:57:31: [admin.amxx] Login: "Xstrafers # |LOL|XXX<1316><STEAM_0:1:24069958><>" became an admin (account "Xstrafers # |LOL|XXX") (access "bi") (address "5.15.236.167")
+L 03/03/2017 - 18:57:32: [admin.amxx] Login: ".ryder.<1339><STEAM_0:0:1179693161><>" became an admin (account ".ryder.") (access "bi") (address "92.115.204.216")
+L 03/03/2017 - 18:57:33: [admin.amxx] Login: "Spectru<1340><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 18:57:41: [admin.amxx] Login: ".ryder.<1344><STEAM_0:0:1179693161><>" became an admin (account ".ryder.") (access "bi") (address "92.115.204.216")
+L 03/03/2017 - 18:57:44: [admin.amxx] Login: "EvolGenius - ThE king#<1345><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.127.32.118")
+L 03/03/2017 - 18:57:50: [admin.amxx] Login: "EvolGenius - ThE king#<1346><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.127.32.118")
+L 03/03/2017 - 18:57:56: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "EvolGenius - ThE king#<1346><STEAM_0:1:84045719><>"
+L 03/03/2017 - 18:58:20: [admin.amxx] Login: ".ryder.<1348><STEAM_0:0:1179693161><>" kicked due to invalid password (account ".ryder.") (address "92.115.204.216")
+L 03/03/2017 - 18:58:26: [admin.amxx] Login: "UmBro<1349><STEAM_0:0:1179693161><>" became an admin (account "UmBro") (access "bit") (address "92.115.204.216")
+L 03/03/2017 - 18:58:51: [adminchat.amxx] Chat: "UmBro<1349><STEAM_0:0:1179693161><>" chat "imi muti revive-ul pe ryder?"
+L 03/03/2017 - 18:59:27: [admin.amxx] Login: "EvolGenius - ThE king#<1353><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.127.32.118")
+L 03/03/2017 - 18:59:34: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "EvolGenius - ThE king#<1353><STEAM_0:1:84045719><>"
+L 03/03/2017 - 18:59:46: [adminchat.amxx] Chat: "UmBro<1349><STEAM_0:0:1179693161><>" chat "shtroly/wicked=dekciw"
+L 03/03/2017 - 19:01:07: [admincmd.amxx] Cmd: "wadafac!<1332><VALVE_0:4:1393806203><>" ask for players list
+L 03/03/2017 - 19:01:19: [admin.amxx] Login: "Xstrafers # |LOL|XXX<1316><STEAM_0:1:24069958><>" became an admin (account "Xstrafers # |LOL|XXX") (access "bi") (address "5.15.236.167")
+L 03/03/2017 - 19:01:19: [admin.amxx] Login: "UmBro<1349><STEAM_0:0:1179693161><>" became an admin (account "UmBro") (access "bit") (address "92.115.204.216")
+L 03/03/2017 - 19:01:19: [admin.amxx] Login: "EvolGenius - ThE king#<1353><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.127.32.118")
+L 03/03/2017 - 19:01:19: [admin.amxx] Login: "Spectru<1340><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 19:01:19: [admin.amxx] Login: "SWAGGIE. XD<1330><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 19:01:19: [admin.amxx] Login: "wadafac!<1332><VALVE_0:4:1393806203><>" became an admin (account "wadafac!") (access "bi") (address "79.116.123.15")
+L 03/03/2017 - 19:01:39: [admin.amxx] Login: "deadpool<1358><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "86.125.82.233")
+L 03/03/2017 - 19:01:51: [slayafk.amxx] UmBro a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 19:03:50: [adminchat.amxx] Chat: "UmBro<1349><STEAM_0:0:1179693161><>" chat "gata specre"
+L 03/03/2017 - 19:05:00: [adminchat.amxx] Chat: "Spectru<1340><STEAM_0:1:191882096><>" chat "fmm"
+L 03/03/2017 - 19:05:04: [adminchat.amxx] Chat: "Spectru<1340><STEAM_0:1:191882096><>" chat "ce trambuline"
+L 03/03/2017 - 19:05:18: [adminchat.amxx] Chat: "UmBro<1349><STEAM_0:0:1179693161><>" chat "imi schimbi ?"
+L 03/03/2017 - 19:05:22: [adminchat.amxx] Chat: "UmBro<1349><STEAM_0:0:1179693161><>" chat "am facut cererea."
+L 03/03/2017 - 19:09:01: [slayafk.amxx] EvolGenius - ThE king# a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 19:11:22: [admin.amxx] Login: "FAKE ^^<1366><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bi") (address "95.76.0.36")
+L 03/03/2017 - 19:14:51: [slayafk.amxx] FAKE ^^ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 19:17:31: [slayafk.amxx] deadpool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 19:18:16: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's that69' AND Map = 'deathrun_y_underground'' at line 1
+L 03/03/2017 - 19:18:16: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 03/03/2017 - 19:18:59: [mapsmenu.amxx] Vote: "Xstrafers # |LOL|XXX<1316><STEAM_0:1:24069958><>" vote maps (map#1 "deathrun_0mega") (map#2 "deathrun_standup") (map#3 "deathrun_supra") (map#4 "")
+L 03/03/2017 - 19:19:01: [slayafk.amxx] EvolGenius - ThE king# a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 19:19:01: [slayafk.amxx] deadpool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 19:19:11: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_standup
+L 03/03/2017 - 19:22:36: [slayafk.amxx] EvolGenius - ThE king# a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 19:22:36: [slayafk.amxx] deadpool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 19:25:35: -------- Mapchange to deathrun_standup --------
+L 03/03/2017 - 19:25:37: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 19:25:38: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 19:25:38: [admin.amxx] Login: "UmBro<1349><STEAM_0:0:1179693161><>" became an admin (account "UmBro") (access "bit") (address "92.115.204.216")
+L 03/03/2017 - 19:25:38: [admin.amxx] Login: "Xstrafers # |LOL|XXX<1316><STEAM_0:1:24069958><>" became an admin (account "Xstrafers # |LOL|XXX") (access "bi") (address "5.15.236.167")
+L 03/03/2017 - 19:25:38: [admin.amxx] Login: "EvolGenius - ThE king#<1353><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.127.32.118")
+L 03/03/2017 - 19:25:42: [admin.amxx] Login: "UmBro<1376><STEAM_0:0:1179693161><>" became an admin (account "UmBro") (access "bit") (address "92.115.204.216")
+L 03/03/2017 - 19:26:03: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "MiB^ @like's that69<1383><STEAM_0:0:1940015179><>"
+L 03/03/2017 - 19:26:06: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "89[.]40[.]233[.232 [4]<1384><STEAM_0:0:424609341><>"
+L 03/03/2017 - 19:26:37: [admincmd.amxx] Cmd: "Xstrafers # |LOL|XXX<1316><STEAM_0:1:24069958><>" change nick to "dr.fioriginal.ro-player" "89[.]40[.]233[.232 [4]<1384><STEAM_0:0:424609341><>"
+L 03/03/2017 - 19:34:11: [admin.amxx] Login: "EvolGenius - ThE king#<1391><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.127.32.118")
+L 03/03/2017 - 19:35:31: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Made in China :D<1392><STEAM_0:0:1064187846><>"
+L 03/03/2017 - 19:40:52: [admin.amxx] Login: "Spectru<1393><STEAM_0:1:191882096><>" kicked due to invalid password (account "Spectru") (address "188.27.152.126")
+L 03/03/2017 - 19:40:56: [admin.amxx] Login: "Spectru<1394><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 19:40:57: [admin.amxx] Login: "Spectru<1395><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 19:45:37: [admin.amxx] Login: "cool<1398><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 03/03/2017 - 19:45:38: [adminchat.amxx] Chat: "UmBro<1376><STEAM_0:0:1179693161><>" chat "coaie"
+L 03/03/2017 - 19:45:39: [admin.amxx] Login: "cool<1399><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 03/03/2017 - 19:45:44: [adminchat.amxx] Chat: "UmBro<1376><STEAM_0:0:1179693161><>" chat "cand imi schimbi revive-ul"
+L 03/03/2017 - 19:45:48: [mapsmenu.amxx] Vote: "Spectru<1395><STEAM_0:1:191882096><>" vote maps (map#1 "deathrun_clarion_dojo_b3") (map#2 "deathrun_long_run") (map#3 "") (map#4 "")
+L 03/03/2017 - 19:46:00: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_long_run
+L 03/03/2017 - 19:48:04: [adminchat.amxx] Chat: "UmBro<1376><STEAM_0:0:1179693161><>" chat "ma"
+L 03/03/2017 - 19:48:12: [adminchat.amxx] Chat: "UmBro<1376><STEAM_0:0:1179693161><>" chat "schimba-mi odata revive-ul ."
+L 03/03/2017 - 19:49:12: [admin.amxx] Login: "Spectru<1405><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 19:50:58: [admin.amxx] Login: "spartanC3<1406><STEAM_0:0:1219032291><>" kicked due to invalid password (account "spartanC3") (address "92.85.94.203")
+L 03/03/2017 - 19:51:48: -------- Mapchange to deathrun_long_run --------
+L 03/03/2017 - 19:51:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 19:51:51: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 19:51:51: [admin.amxx] Login: "UmBro<1376><STEAM_0:0:1179693161><>" became an admin (account "UmBro") (access "bit") (address "92.115.204.216")
+L 03/03/2017 - 19:51:51: [admin.amxx] Login: "Spectru<1405><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "188.27.152.126")
+L 03/03/2017 - 19:51:51: [admin.amxx] Login: "Xstrafers # |LOL|XXX<1316><STEAM_0:1:24069958><>" became an admin (account "Xstrafers # |LOL|XXX") (access "bi") (address "5.15.236.167")
+L 03/03/2017 - 19:58:54: [adminchat.amxx] Chat: "UmBro<1376><STEAM_0:0:1179693161><>" chat "spectre accepta-mi si baga-mi revive pe ryder"
+L 03/03/2017 - 20:06:48: [admin.amxx] Login: "deadpool<1424><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "86.125.82.233")
+L 03/03/2017 - 20:10:40: [slayafk.amxx] BlacKDeviL a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 20:15:20: [slayafk.amxx] Lonely. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 20:17:41: -------- Mapchange to deathrun_wild --------
+L 03/03/2017 - 20:17:43: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 20:17:44: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 20:24:56: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "DoZe<1441><STEAM_0:0:1518108911><>"
+L 03/03/2017 - 20:25:09: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "DoZe<1442><STEAM_0:0:1518108911><>"
+L 03/03/2017 - 20:26:51: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "DoZe<1445><STEAM_0:0:1518108911><>"
+L 03/03/2017 - 20:47:44: [admin.amxx] Login: "SWAGGIE. XD<1468><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 20:47:45: [admin.amxx] Login: "SWAGGIE. XD<1469><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 20:52:28: [mapsmenu.amxx] Vote: "SWAGGIE. XD<1469><VALVE_0:4:862961770><>" vote maps (map#1 "deathrun_laikiux_pizdec") (map#2 "deathrun_gb_winter_final4") (map#3 "") (map#4 "")
+L 03/03/2017 - 20:52:40: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_laikiux_pizdec
+L 03/03/2017 - 20:52:41: -------- Mapchange to deathrun_all_green --------
+L 03/03/2017 - 20:52:42: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 20:52:43: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 20:52:54: [admin.amxx] Login: "SWAGGIE. XD<1482><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 20:52:55: [admin.amxx] Login: "SWAGGIE. XD<1483><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 20:54:10: [admin.amxx] Login: "Pyky<1484><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 03/03/2017 - 21:18:32: -------- Mapchange to deathrun_av2009 --------
+L 03/03/2017 - 21:18:34: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 21:18:35: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 21:24:35: [admin.amxx] Login: "Joker$*<1504><VALVE_0:4:2071222386><>" became an admin (account "Joker$*") (access "bi") (address "92.82.180.95")
+L 03/03/2017 - 21:24:41: [admin.amxx] Login: "Joker$*<1505><VALVE_0:4:2071222386><>" became an admin (account "Joker$*") (access "bi") (address "92.82.180.95")
+L 03/03/2017 - 21:28:30: [admincmd.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slay "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:36: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:36: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:36: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:37: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:37: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:37: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:37: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:37: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:38: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:38: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:38: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:38: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:38: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:39: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:39: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:39: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:39: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:39: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:40: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:40: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:40: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:40: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:40: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:41: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:41: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:41: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:52: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:52: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:52: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:52: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:52: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:53: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:53: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:53: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:53: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:53: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:54: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:54: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:54: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:54: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:54: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:55: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:55: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:55: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:55: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:55: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:56: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:56: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:56: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:56: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:56: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:29:57: [plmenu.amxx] Cmd: "Joker$*<1505><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1505><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 21:31:51: [admin.amxx] Login: "Spectru<1507><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "86.123.236.131")
+L 03/03/2017 - 21:31:55: [admincmd.amxx] Cmd: "Spectru<1507><STEAM_0:1:191882096><>" changelevel "deathrun_clarion_dojo_b3"
+L 03/03/2017 - 21:31:57: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 03/03/2017 - 21:31:59: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 21:32:00: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 21:32:00: [admin.amxx] Login: "Spectru<1507><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "86.123.236.131")
+L 03/03/2017 - 21:33:20: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 21:34:05: [admin.amxx] Login: "Spectru<1507><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "86.123.236.131")
+L 03/03/2017 - 21:42:09: [admincmd.amxx] Cmd: "Spectru<1507><STEAM_0:1:191882096><>" slay "NOOB<1498><STEAM_0:0:854973727><>"
+L 03/03/2017 - 21:49:31: [admin.amxx] Login: "SWAGGIE. XD<1515><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 21:54:04: [admin.amxx] Login: "SWAGGIE. XD<1518><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 21:54:06: [mapsmenu.amxx] Vote: "Spectru<1507><STEAM_0:1:191882096><>" vote maps (map#1 "deathrun_grievance") (map#2 "deathrun_mario_nigga2") (map#3 "") (map#4 "")
+L 03/03/2017 - 21:54:18: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_grievance
+L 03/03/2017 - 21:57:56: -------- Mapchange to deathrun_grievance --------
+L 03/03/2017 - 21:57:58: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 21:57:59: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 21:57:59: [admin.amxx] Login: "Spectru<1507><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "86.123.236.131")
+L 03/03/2017 - 21:57:59: [admin.amxx] Login: "SWAGGIE. XD<1518><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 21:58:00: [admin.amxx] Login: "SWAGGIE. XD<1525><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 21:58:01: [admin.amxx] Login: "Spectru<1526><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "86.123.236.131")
+L 03/03/2017 - 22:14:05: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1541><STEAM_0:0:1715760849><>"
+L 03/03/2017 - 22:16:53: [admin.amxx] Login: "Joker$*<1546><VALVE_0:4:2071222386><>" became an admin (account "Joker$*") (access "bi") (address "92.82.180.95")
+L 03/03/2017 - 22:17:00: [admin.amxx] Login: "Joker$*<1547><VALVE_0:4:2071222386><>" became an admin (account "Joker$*") (access "bi") (address "92.82.180.95")
+L 03/03/2017 - 22:17:18: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "Baga cutitul in ei"
+L 03/03/2017 - 22:17:28: [admin.amxx] Login: "SWAGGIE. XD<1549><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 22:18:23: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "nu stiu mapa"
+L 03/03/2017 - 22:19:48: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "i speak englosh =))"
+L 03/03/2017 - 22:24:17: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "e okapa*"
+L 03/03/2017 - 22:25:45: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "hai baietiiiiiiii"
+L 03/03/2017 - 22:25:48: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "hai baietiiiiiiii "
+L 03/03/2017 - 22:27:02: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "ma grabesc si nu trec de alea care se lasa sus/jos"
+L 03/03/2017 - 22:29:02: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "ajung si eu aici si te duci tu..."
+L 03/03/2017 - 22:29:38: [admin.amxx] Login: "SWAGGIE. XD<1558><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 22:29:44: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:30:18: [admin.amxx] Login: "wKn<1562><STEAM_0:0:196614190><>" kicked due to invalid password (account "wKn") (address "92.80.113.216")
+L 03/03/2017 - 22:30:24: [adminchat.amxx] Chat: "FLVXSOW;[<1554><STEAM_0:0:77647261><>" chat " slay"
+L 03/03/2017 - 22:30:27: [admin.amxx] Login: "wKn<1563><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.113.216")
+L 03/03/2017 - 22:30:31: [admincmd.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slay "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:30:34: [admincmd.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slay "wKn<1563><STEAM_0:0:196614190><>"
+L 03/03/2017 - 22:31:38: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "la fel si eu make"
+L 03/03/2017 - 22:34:23: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "m-am si blocat"
+L 03/03/2017 - 22:35:03: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "nu am activat timeru"
+L 03/03/2017 - 22:36:08: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:08: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:08: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:08: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:10: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:10: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:11: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:11: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:11: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:11: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:11: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:12: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:13: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:13: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:13: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:13: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:13: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:14: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:14: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:14: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:14: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:14: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:14: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:15: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:15: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:15: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:15: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:15: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:15: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:36:15: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "SWAGGIE. XD<1558><VALVE_0:4:862961770><>"
+L 03/03/2017 - 22:38:37: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "la mine nu pleaca liftu fututi ranitii ma-tii"
+L 03/03/2017 - 22:38:38: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "la mine nu pleaca liftu fututi ranitii ma-tii "
+L 03/03/2017 - 22:38:38: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "la mine nu pleaca liftu fututi ranitii ma-tii "
+L 03/03/2017 - 22:38:39: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "la mine nu pleaca liftu fututi ranitii ma-tii "
+L 03/03/2017 - 22:38:39: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "la mine nu pleaca liftu fututi ranitii ma-tii "
+L 03/03/2017 - 22:38:39: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "la mine nu pleaca liftu fututi ranitii ma-tii "
+L 03/03/2017 - 22:38:53: [admincmd.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "tiganu<1545><STEAM_0:0:1715760849><>"
+L 03/03/2017 - 22:38:54: [admincmd.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "tiganu<1545><STEAM_0:0:1715760849><>"
+L 03/03/2017 - 22:38:54: [admincmd.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "tiganu<1545><STEAM_0:0:1715760849><>"
+L 03/03/2017 - 22:38:54: [admincmd.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "tiganu<1545><STEAM_0:0:1715760849><>"
+L 03/03/2017 - 22:38:55: [admincmd.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "tiganu<1545><STEAM_0:0:1715760849><>"
+L 03/03/2017 - 22:39:02: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "de ce nu pleaca liftu ?"
+L 03/03/2017 - 22:41:05: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "iar e blocat liftu fututi"
+L 03/03/2017 - 22:41:05: [admin.amxx] Login: "SWAGGIE. XD<1567><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 22:41:11: [admin.amxx] Login: "SWAGGIE. XD<1568><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 22:41:16: [admin.amxx] Login: "SWAGGIE. XD<1569><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 22:41:25: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:25: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:26: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:26: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:26: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:26: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:26: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:27: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:27: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:27: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:27: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:27: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:27: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:28: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:28: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:28: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:28: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:28: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:28: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:29: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:29: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:29: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:29: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:29: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:29: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:30: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:30: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:30: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:31: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:31: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:31: [admin.amxx] Login: "SWAGGIE. XD<1570><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 22:41:36: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:36: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:36: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:37: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:37: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:37: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:37: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:37: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:37: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:38: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:38: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:38: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:38: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:38: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:38: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:39: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:39: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:39: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:39: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:39: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:40: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:40: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:40: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:40: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:40: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:40: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:41: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:41: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:41: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:41: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:41: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:42: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:42: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:42: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:42: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:42: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:42: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:43: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:43: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:43: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:44: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:44: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:44: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:44: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:44: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:45: [plmenu.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slap with 0 damage "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:41:52: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "e blocat"
+L 03/03/2017 - 22:42:07: [mapsmenu.amxx] Vote: "SWAGGIE. XD<1570><VALVE_0:4:862961770><>" vote maps (map#1 "deathrun_challenge_x") (map#2 "deathrun_rizzy_x") (map#3 "") (map#4 "")
+L 03/03/2017 - 22:42:19: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_challenge_x
+L 03/03/2017 - 22:42:36: [admincmd.amxx] Cmd: "Joker$*<1547><VALVE_0:4:2071222386><>" slay "Joker$*<1547><VALVE_0:4:2071222386><>"
+L 03/03/2017 - 22:43:05: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "de la mine e blocat"
+L 03/03/2017 - 22:43:14: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "am stat vreo 3 minute pe el"
+L 03/03/2017 - 22:43:44: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "facem record pe chall, no ?"
+L 03/03/2017 - 22:43:54: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "make"
+L 03/03/2017 - 22:44:04: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "imi dai mie daca mori life ?"
+L 03/03/2017 - 22:44:33: -------- Mapchange to deathrun_challenge_x --------
+L 03/03/2017 - 22:44:35: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 22:44:36: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 22:44:36: [admin.amxx] Login: "Joker$*<1547><VALVE_0:4:2071222386><>" became an admin (account "Joker$*") (access "bi") (address "92.82.180.95")
+L 03/03/2017 - 22:44:36: [admin.amxx] Login: "SWAGGIE. XD<1570><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 22:45:09: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "foarte slab"
+L 03/03/2017 - 22:45:16: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 22:45:23: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "nu stiu mapa.."
+L 03/03/2017 - 22:45:51: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 22:47:01: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "si eu fac asa.."
+L 03/03/2017 - 22:47:05: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "cu 250 fps"
+L 03/03/2017 - 22:47:11: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 22:50:21: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 22:51:37: [admin.amxx] Login: "trickz-<1577><STEAM_0:0:42210206><>" became an admin (account "trickz-") (access "bi") (address "109.166.137.202")
+L 03/03/2017 - 22:51:42: [admin.amxx] Login: "trickz-<1578><STEAM_0:0:42210206><>" became an admin (account "trickz-") (access "bi") (address "109.166.137.202")
+L 03/03/2017 - 22:52:01: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 22:55:01: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 22:56:35: [admin.amxx] Login: "wKn<1580><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.113.216")
+L 03/03/2017 - 23:00:11: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 23:03:06: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 03/03/2017 - 23:03:53: [admin.amxx] Login: "SWAGGIE. XD<1583><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 23:06:33: [adminchat.amxx] Chat: "Joker$*<1547><VALVE_0:4:2071222386><>" say "scoteam tot cam pe acolo.. un 3.50"
+L 03/03/2017 - 23:11:55: -------- Mapchange to deathrun_3sixty_fg_fix2 --------
+L 03/03/2017 - 23:11:57: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 03/03/2017 - 23:11:58: [walkguard.amxx] no zone-file found
+L 03/03/2017 - 23:12:12: [admin.amxx] Login: "SWAGGIE. XD<1590><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 23:39:04: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Kenvelo<1599><VALVE_0:4:356600059><>"
+L 03/03/2017 - 23:45:55: [admin.amxx] Login: "SWAGGIE. XD<1606><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 23:56:08: [admin.amxx] Login: "SWAGGIE. XD<1612><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 23:56:45: [admin.amxx] Login: "SWAGGIE. XD<1613><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 23:56:50: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "SWAGGIE. XD<1613><VALVE_0:4:862961770><>"
+L 03/03/2017 - 23:58:57: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1616><STEAM_0:0:1715760849><>"
+L 03/03/2017 - 23:59:00: [admin.amxx] Login: "SWAGGIE. XD<1618><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 03/03/2017 - 23:59:04: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "tiganu<1617><STEAM_0:0:1715760849><>"
+L 03/03/2017 - 23:59:06: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "SWAGGIE. XD<1618><VALVE_0:4:862961770><>"

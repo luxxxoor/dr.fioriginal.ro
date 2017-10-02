@@ -1,0 +1,46 @@
+﻿[en]
+ADV_MOTD1_MUSIC_HELP = - Ajutor Muzica -
+ADV_MOTD1_PLAYER_COMMANDS = Comenzi Jucator:
+ADV_MOTD1_MUSIC_COMMAND = Deschideti lista cu toate melodiile adaugate in server.
+ADV_MOTD1_SEARCH_COMMAND = Cautati o melodie specifica. [ Fara ghilimele ]
+ADV_MOTD1_REPLAY_COMMAND = Reaprindeti ultima melodie ascultata de dumneavoastra.
+ADV_MOTD1_COPY_COMMAND = Copiaza ultima melodie asculta de ultimul jucator.
+ADV_MOTD1_STOP_COMMAND = Opreste muzica.
+ADV_MOTD1_ADMIN_COMMAND = Comenzi admin:
+ADV_MOTD1_ADDSONG_COMMAND = Folosire: amx_addsong "Nume melodie" "URL/Link" | Atentie: Puneti si ghilimele
+
+ADV_MOTD2_MUSIC_STOPPED = Muzica s-a oprit.
+ADV_MOTD2_BROUGHT_TO_YOU = Aceasta a fost adusa pentru tine de %s.
+ADV_MOTD2_POWERFUL_PLAYER = %s este cel mai puternic music player plugin din lume !
+ADV_MOTD2_HOPE_FUN_LISTENING = Speram ca te distrezi ascultand melodii frumoase !
+
+ADV_MENU1_SETTINGS_TITLE = Alegeti setarile:
+ADV_MENU1_PLAY_SONG = Porneste melodia
+ADV_MENU1_STOP_SONG = Opreste melodia
+ADV_MENU1_MUSIC_COMMANDS = Comenzi Melodie
+ADV_MENU1_SEARCH_SONGS = Cauta melodii
+ADV_MENU1_REPEAT = Repeta Melodii \w[\r%L
+ADV_MENU1_REPEAT_ON = Pornit\w]
+ADV_MENU1_REPEAT_OFF = Oprit\w]
+ADV_MENU1_VOLUME = Volum \r%d
+ADV_MENU1_VOLUME_UP = Volum Mai Mare
+ADV_MENU1_VOLUME_DOWN = Volume Mai Mic
+ADV_MENU1_SETTINGS = Salveaza setarile \w[\r%L
+ADV_MENU1_SETTINGS_SAVED = Salvate\w]
+ADV_MENU1_SETTINGS_NOT_SAVED = Nu-s Salvate\w]
+
+ADV_MENU2_SONG_LIST_TITLE = Alege o melodie pentru a o asculta:
+
+ADV_MENU3_CMD_SEARCH_TITLE = Rezultate cautare:
+
+ADV_CONNECT_MSG = \YEL Bine ai venit \TEM%s\YEL. Scrie \GRN!music \YELdaca vrei sa asculti muzica.
+ADV_NO_SONG_PLAYED = Nu ai ascultat nicio \GRNmelodie \YELinca.
+ADV_NO_SONG_TO_COPY = Nu există nici o \GRNmelodie \YELpentru a o copia.
+ADV_SEARCHED_FOR = Rezultatele pentru '\GRN%s\YEL': \TEMCautare reusita \YEL.
+ADV_NOT_FOUND = Resultatele pentru '\GRN%s\YEL': \TEMN-am gasit nimic\YEL.
+ADV_SONG_COPIED = \TEM%s \YELa copiat \GRN%s \YELmelodie de la \TEM%s\YEL.
+ADV_LISTENING_TO = \TEM%s \YELasculta acum \GRN%s\YEL. Scrie \GRN!copy \YELpentru a-i copia melodia.
+ADV_TYPE_SONG_NAME = Acum scrie numele melodiei sau numele autorului pentru a asculta si apasa enter!
+
+ADV_SONG_ADDED = * Adaugat "%s" melodie in fisierul songlist.ini ! *
+ADV_FILE_ADDED = * Fisierul a fost adaugat in: %s *

@@ -1,0 +1,33 @@
+L 01/21/2017 - 06:56:58: Start of error session.
+L 01/21/2017 - 06:56:58: Info (map "deathrun_hell1337_final") (file "addons/amxmodx/logs/error_20170121.log")
+L 01/21/2017 - 06:56:58: [AMXX] Plugin ("advanced_bans_sql.amxx") is setting itself as failed.
+L 01/21/2017 - 06:56:58: [AMXX] Plugin says: Could not connect to database.
+L 01/21/2017 - 06:56:58: [AMXX] Displaying debug trace (plugin "advanced_bans_sql.amxx", version "0.8.1")
+L 01/21/2017 - 06:56:58: [AMXX] Run time error 1: forced exit 
+L 01/21/2017 - 06:56:58: [AMXX]    [0] advanced_bans_sql.sma::QueryLoadBans (line 694)
+L 01/21/2017 - 06:59:20: Forward-ul nu s-a putut executa.
+L 01/21/2017 - 06:59:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 01/21/2017 - 06:59:20: [AMXX] Run time error 1: forced exit 
+L 01/21/2017 - 06:59:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 01/21/2017 - 06:59:20: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 187)
+L 01/21/2017 - 07:00:20: Forward-ul nu s-a putut executa.
+L 01/21/2017 - 07:00:20: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 01/21/2017 - 12:35:39: Start of error session.
+L 01/21/2017 - 12:35:39: Info (map "deathrun_crystals_b1") (file "addons/amxmodx/logs/error_20170121.log")
+L 01/21/2017 - 12:35:39: Forward-ul nu s-a putut executa.
+L 01/21/2017 - 12:35:39: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 01/21/2017 - 12:35:39: [AMXX] Run time error 1: forced exit 
+L 01/21/2017 - 12:35:39: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 01/21/2017 - 12:35:39: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 187)
+L 01/21/2017 - 20:38:23: Start of error session.
+L 01/21/2017 - 20:38:23: Info (map "deathrun_massive") (file "addons/amxmodx/logs/error_20170121.log")
+L 01/21/2017 - 20:38:23: Forward-ul nu s-a putut executa.
+L 01/21/2017 - 20:38:23: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 01/21/2017 - 21:21:26: Start of error session.
+L 01/21/2017 - 21:21:26: Info (map "deathrun_green_h2_final") (file "addons/amxmodx/logs/error_20170121.log")
+L 01/21/2017 - 21:21:26: Forward-ul nu s-a putut executa.
+L 01/21/2017 - 21:21:26: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 01/21/2017 - 22:35:34: Start of error session.
+L 01/21/2017 - 22:35:34: Info (map "deathrun_horror") (file "addons/amxmodx/logs/error_20170121.log")
+L 01/21/2017 - 22:35:34: Forward-ul nu s-a putut executa.
+L 01/21/2017 - 22:35:34: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit

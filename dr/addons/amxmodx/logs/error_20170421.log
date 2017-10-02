@@ -1,0 +1,7 @@
+L 04/21/2017 - 21:36:57: Start of error session.
+L 04/21/2017 - 21:36:57: Info (map "deathrun_y_underground") (file "addons/amxmodx/logs/error_20170421.log")
+L 04/21/2017 - 21:36:57: Forward-ul nu s-a putut executa.
+L 04/21/2017 - 21:36:57: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 04/21/2017 - 21:36:57: [AMXX] Run time error 1: forced exit 
+L 04/21/2017 - 21:36:57: [AMXX]    [0] revive2.sma::checkSQLConditions (line 488)
+L 04/21/2017 - 21:36:57: [AMXX]    [1] revive2.sma::getSettings (line 314)

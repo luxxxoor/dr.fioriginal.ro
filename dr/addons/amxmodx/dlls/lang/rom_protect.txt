@@ -1,0 +1,67 @@
+// *ROM-Protect// Plugin OpenSource anti-IsFlooding/bug-fix pentru orice server. 
+// Versiunea : 1.0.4s-dev. Bulid : 93. Data lansarii versiunii : 11.08.2016.
+// Autor : lüxor # Dr.Fio & DR2.IND (+ eNd.) - SteamID (contact) : luxxxoor
+// O productie FioriGinal.ro - site : www.fioriginal.ro
+// Link forum de dezvoltare : http://forum.fioriginal.ro/amxmodx-plugins-pluginuri/rom-protect-anti-flood-bug-fix-t28292.html
+// Link sursa : https://github.com/luxxxoor/ROM-Protect
+
+// Colori : ^1 - Culoarea aleasa de jucator cu con_color.
+//          ^3 - Culoare gri.
+//          ^4 - Culoare verde.
+
+
+
+[en]
+
+ROM_UPDATE_CFG = %s : Am actualizat fisierul CFG : rom_protect.cfg.
+ROM_UPDATE_LANG = %s : Am actualizat fisierul LANG : rom_protect.txt.
+ROM_FAKE_PLAYERS = %s : S-a observat un numar prea mare de persoane de pe ip-ul : %s .
+ROM_FAKE_PLAYERS_PUNISH = %s : Ip-ul a primit ban %s minute pentru a nu afecta jocul.
+ROM_FAKE_PLAYERS_LOG = %s : S-a depistat un atac de "xFake-Players" de la IP-ul : %s .
+ROM_FAKE_PLAYERS_KICK = %s : Nu poti intra pe server, deoarece sunt inca %s jucatori cu acelasi ip-ul ca al tau.
+ROM_FAKE_PLAYERS_DETECT = %s : Ai primit kick deoarece deoarece esti suspect de fake-client. Te rugam sa folosesti alt client.
+ROM_FAKE_PLAYERS_DETECT_LOG = %s : L-am detectat pe "%s" [ %s | %s ] ca suspect de "xFake-Players" sau "xSpammer".
+ROM_PLUGIN_PAUSE = %s : Ne pare rau, dar din anumite motive, acest plugin nu poate fi pus pe pauza.
+ROM_PLUGIN_PAUSE_LOG = %s : S-a depistat o incercare a opririi pluginului de protectie %s. Operatiune a fost blocata.
+ROM_ADMIN_WRONG_NAME = %s : Nu s-a gasit nici un admin care sa poarte acest nickname.
+ROM_ADMIN_WRONG_NAME_PRINT = %s : Nu s-a gasit nici un admin care sa poarte acest nickname.
+ROM_ADMIN_WRONG_PASS = %s : Parola introdusa de tine este incorecta.
+ROM_ADMIN_WRONG_PASS_PRINT = %s : Parola introdusa de tine este incorecta.
+ROM_ADMIN_LOADED = %s : Admin-ul tau a fost incarcat.
+ROM_ADMIN_LOADED_PRINT = %s : Admin-ul tau a fost incarcat.
+ROM_ADMIN_ALREADY_LOADED = %s : Admin-ul tau este deja incarcat.
+ROM_ADMIN_ALREADY_LOADED_PRINT = %s : Admin-ul tau este deja incarcat.
+ROM_ADMIN_WITHOUT_PASS = %s : Nu ai introdus nici o parola, comanda se scris in consola astfel : login "parola ta".
+ROM_ADMIN_HASNT_SLOT = %s : Nu iti poti incarca adminul daca nu ai slot.
+ROM_ADMIN_WITHOUT_PASS_PRINT = %s : Nu ai introdus nici o parola, comanda se scris in consola astfel : login "parola ta".
+ROM_CMD_BUG = %s : S-au observat caractere interzise in textul trimis de tine. Mesajul tau a fost eliminat.
+ROM_CMD_BUG_LOG = %s : L-am detectat pe "%s" [ %s | %s ] ca a incercat sa foloseasca "CMD_BUG" ca sa strice buna functionare a serverului.
+ROM_CMD_BUG_PRINT = %s : S-au observat caractere interzise in textul trimis de tine. Mesajul tau a fost eliminat.
+ROM_COLOR_BUG = %s : S-au observat caractere suspecte in textul trimis de tine. Mesajul tau a fost eliminat.
+ROM_COLOR_BUG_LOG = %s : L-am detectat pe "%s" [ %s | %s ] ca a incercat sa foloseasca "COLOR_BUG" ca sa alerteze playerii sau adminii.
+ROM_COLOR_BUG_PRINT = %s : S-au observat caractere suspecte in textul trimis de tine. Mesajul tau a fost eliminat.
+ROM_SPEC_BUG = %s : Ai facut o miscare suspecta asa ca te-am mutat la echipa precedenta.
+ROM_SPEC_BUG_LOG = %s : L-am detectat pe "%s" [ %s | %s ] ca a incercat sa foloseasca "SPEC_BUG" ca sa strice buna functionare a serverului.
+ROM_AUTOBUY = %s : Comanda trimisa de tine are valori suspecte, asa ca am blocat-o.
+ROM_AUTOBUY_LOG = %s : L-am detectat pe "%s" [ %s | %s ] ca a incercat sa foloseasca "AUTOBUY_BUG" ca sa strice buna functionare a serverului.
+ROM_FILE_NOT_FOUND = %s : Fisierul %s nu exista.
+ROM_ADMIN_DEBUG = Nume : %s - Parola : %s - Acces : %s - Flag : %s
+ROM_MOTDFILE = %s : S-a detectat o miscare suspecta din partea ta, comanda ta a fost blocata.
+ROM_MOTDFILE_LOG = %s : L-am detectat pe "%s" [ %s | %s ] ca a incercat sa foloseasca cvar-ul "motdfile" ca sa fure informatii din acest server.
+ROM_ADVERTISE = %s : Acest server este supravegheat de plugin-ul de protectie %s versiunea %s .
+ROM_ANTI_BAN_CLASS = %s : S-au detectat u numar prea mare de ban-uri pe clasa de ip, comanda ta a fost blocata.
+ROM_ANTI_ANY_BAN_CLASS_LOG = %s : L-am detectat pe "%s" [ %s | %s ] ca a incercat sa dea ban pe clasa de ip.
+ROM_ANTI_SOME_BAN_CLASS_LOG = %s : L-am detectat pe "%s" [ %s | %s ] ca a incercat sa dea ban pe mai mult de %s clase de ip.
+ROM_AUTO_UPDATE_SUCCEED = %s : S-a efectuat auto-actualizarea pluginului.
+ROM_AUTO_UPDATE_FAILED = %s : S-a intampinat o eroare la descarcare, iar plugin-ul nu s-a putut auto-actualiza.
+ROM_XFAKE_PLAYERS_SPAM_WARN = %s : Mesajul tau a fost eliminat pentru a elimina o tentativa de "BOT SPAM".
+ROM_XFAKE_PLAYERS_SPAM = %s : S-a depistat o tentativa de "BOT SPAM" de la ip-ul : %s .
+ROM_XFAKE_PLAYERS_SPAM_PUNISH = %s : Ip-ul a primit ban %s minute pentru a nu afecta jocul.
+ROM_XFAKE_PLAYERS_SPAM_BAN = %s : Ai fost detectat ca fiind un bot xfake_player, asa ca ai fost banat pentru %s minute.
+ROM_XFAKE_PLAYERS_SPAM_KICK = %s : Ai fost detectat ca fiind un bot xfake_player, asa ca ai primit kick.
+ROM_XFAKE_PLAYERS_SPAM_GAG = %s : Ai fost detectat ca fiind un bot xfake_player, nu vei mai putea folosi chat-ul pana nu te vei reconecta.
+ROM_XFAKE_PLAYERS_SPAM_LOG = %s : S-a depistat un atac de "BOT SPAM" de la IP-ul : %s .
+ROM_XFAKE_PLAYERS_ALLOW_USE_CHAT = %s : Ai introdus capcha-ul corect, acum vei putea folosi chat-ul.
+ROM_XFAKE_PLAYERS_CAPCHA = %s : Pentru a folosi chat-ul scrie urmatorul cod : %s.
+ROM_PROTCVARS = %s : Cvar-ururile acestui plugin sunt protejate, comanda ta nu a avut efect.
+ROM_PROTCVARS_LOG = %s : L-am detectat pe "%s" [ %s | %s ] ca a incercat sa schimbe cvar-urile pluginului de protectie, astea pot fi schimbate doar din fisierul configurator.

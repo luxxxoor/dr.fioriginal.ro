@@ -1,0 +1,794 @@
+L 02/17/2017 - 00:00:56: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<2283><STEAM_0:1:154430568><>" server console (cmdline "wg_damage")
+L 02/17/2017 - 00:00:57: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<2283><STEAM_0:1:154430568><>" server console (cmdline "wg_damage1")
+L 02/17/2017 - 00:00:59: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<2283><STEAM_0:1:154430568><>" server console (cmdline "wg_damage 1")
+L 02/17/2017 - 00:02:17: [admin.amxx] Login: "-rTg|maEsTrOo<2283><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 00:02:39: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<2283><STEAM_0:1:154430568><>" server console (cmdline "wg_damage 99")
+L 02/17/2017 - 00:02:52: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<2283><STEAM_0:1:154430568><>" server console (cmdline "wg_damage 99")
+L 02/17/2017 - 00:03:29: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<2283><STEAM_0:1:154430568><>" server console (cmdline "zone_mode_blocking")
+L 02/17/2017 - 00:09:42: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 00:18:04: [plmenu.amxx] Cmd: "-rTg|maEsTrOo<2283><STEAM_0:1:154430568><>" transfer "-Eq- George<2305><STEAM_0:1:182939447><>" (team "TERRORIST")
+L 02/17/2017 - 00:20:47: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 00:21:42: [slayafk.amxx] Furōrin * (1) a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 00:21:56: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "fas<2306><STEAM_0:1:154430568><>"
+L 02/17/2017 - 00:22:16: [adminchat.amxx] Chat: "fas<2306><STEAM_0:1:154430568><>" chat ""
+L 02/17/2017 - 00:22:17: [adminchat.amxx] Chat: "fas<2306><STEAM_0:1:154430568><>" chat ""
+L 02/17/2017 - 00:22:32: [admin.amxx] Login: "-rTg|maEsTrOo<2306><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 00:55:53: -------- Mapchange to deathrun_abtropicano2 --------
+L 02/17/2017 - 00:55:55: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 00:55:56: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 01:03:50: [slayafk.amxx] PrajituraXXX a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 01:04:30: [slayafk.amxx] PrajituraXXX a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 01:44:20: -------- Mapchange to deathrun_trap_canyon --------
+L 02/17/2017 - 01:44:21: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 01:44:22: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 02:30:35: -------- Mapchange to deathrun_blabla_hard --------
+L 02/17/2017 - 02:30:37: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 02:30:38: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 03:17:16: -------- Mapchange to deathrun_massive --------
+L 02/17/2017 - 03:17:17: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 03:17:18: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 05:07:37: -------- Mapchange to deathrun_green_h2_final --------
+L 02/17/2017 - 05:07:38: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 05:07:39: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 07:57:10: -------- Mapchange to deathrun_abstract --------
+L 02/17/2017 - 07:57:12: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 07:57:13: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 08:41:43: -------- Mapchange to deathrun_coolf2 --------
+L 02/17/2017 - 08:41:45: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 08:41:46: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 08:43:55: [slayafk.amxx] TwinPix a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 08:44:33: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "TwinPix<2371><STEAM_0:0:1588506904><>"
+L 02/17/2017 - 08:56:50: [admin.amxx] Login: "d@rc@ # VANDALIZM<2372><STEAM_0:1:63870684><>" became an admin (account "d@rc@ # VANDALIZM") (access "bi") (address "109.101.22.139")
+L 02/17/2017 - 09:09:13: -------- Mapchange to deathrun_coolf_3 --------
+L 02/17/2017 - 09:09:15: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 09:09:15: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 09:12:59: [admin.amxx] Login: "wKn<2377><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 09:23:10: [slayafk.amxx] sykka #4:20 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 09:25:49: [admin.amxx] Login: "wKn<2380><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 09:35:15: -------- Mapchange to deathrun_air_final --------
+L 02/17/2017 - 09:35:16: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 09:35:17: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 09:41:49: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "I LoVe YoU ! <3<2390><STEAM_0:1:171215522><>"
+L 02/17/2017 - 09:53:44: [admin.amxx] Login: "deadpool<2393><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/17/2017 - 10:08:06: [admin.amxx] Login: "fl0ppy<2397><VALVE_0:4:69193463><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.161")
+L 02/17/2017 - 10:08:17: [admin.amxx] Login: "fl0ppy<2398><VALVE_0:4:69193463><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.161")
+L 02/17/2017 - 10:09:37: -------- Mapchange to deathrun_cliff --------
+L 02/17/2017 - 10:09:38: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 10:09:39: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 10:09:39: [admin.amxx] Login: "fl0ppy<2398><VALVE_0:4:69193463><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.161")
+L 02/17/2017 - 10:09:49: [admin.amxx] Login: "fl0ppy<2402><VALVE_0:4:69193463><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.161")
+L 02/17/2017 - 10:24:25: [admin.amxx] Login: "Pyky<2406><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 02/17/2017 - 10:25:34: [admincmd.amxx] Cmd: "Pyky<2406><VALVE_0:4:1494801266><>" slap with 0 damage "Vlad<2403><STEAM_0:0:507818967><>"
+L 02/17/2017 - 10:26:04: [admincmd.amxx] Cmd: "Pyky<2406><VALVE_0:4:1494801266><>" slap with 0 damage "Vallentina<2405><STEAM_0:0:602944204><>"
+L 02/17/2017 - 10:26:19: [admincmd.amxx] Cmd: "Pyky<2406><VALVE_0:4:1494801266><>" slap with 0 damage "Vallentina<2405><STEAM_0:0:602944204><>"
+L 02/17/2017 - 10:26:22: [admincmd.amxx] Cmd: "Pyky<2406><VALVE_0:4:1494801266><>" slap with 0 damage "Vallentina<2405><STEAM_0:0:602944204><>"
+L 02/17/2017 - 10:26:25: [admincmd.amxx] Cmd: "Pyky<2406><VALVE_0:4:1494801266><>" slap with 0 damage "Vallentina<2405><STEAM_0:0:602944204><>"
+L 02/17/2017 - 10:28:08: [admin.amxx] Login: "deadpool<2407><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/17/2017 - 10:30:03: [admin.amxx] Login: "-rTg|maEsTrOo<2408><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 10:36:00: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<2408><STEAM_0:1:154430568><>" changelevel "deathrun_c00l_f"
+L 02/17/2017 - 10:36:02: -------- Mapchange to deathrun_c00l_f --------
+L 02/17/2017 - 10:36:04: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 10:36:05: [admin.amxx] Login: "-rTg|maEsTrOo<2408><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 10:36:05: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 10:37:21: [admin.amxx] Login: "-rTg|maEsTrOo<2415><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 10:39:39: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 10:40:08: [admin.amxx] Login: "fl0ppy<2420><VALVE_0:4:69193463><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.161")
+L 02/17/2017 - 10:40:36: [adminchat.amxx] Chat: "fl0ppy<2420><VALVE_0:4:69193463><>" chat "mae"
+L 02/17/2017 - 10:41:10: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 10:42:16: [adminchat.amxx] Chat: "fl0ppy<2420><VALVE_0:4:69193463><>" chat "."
+L 02/17/2017 - 10:44:55: [slayafk.amxx] I LoVe YoU ! <3 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 10:45:29: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 10:51:56: [admincmd.amxx] Cmd: "fl0ppy<2420><VALVE_0:4:69193463><>" slay "I LoVe YoU ! <3<2418><STEAM_0:1:171215522><>"
+L 02/17/2017 - 10:52:05: [admin.amxx] Login: "fl0ppy<2420><VALVE_0:4:69193463><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.161")
+L 02/17/2017 - 10:59:10: [slayafk.amxx] I LoVe YoU ! <3 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 11:01:53: [admin.amxx] Login: "LoV3<2415><STEAM_0:1:154430568><>" became an admin (account "LoV3") (access "bi") (address "89.123.68.3")
+L 02/17/2017 - 11:02:16: [admin.amxx] Login: "-rTg|maEsTrOo<2415><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 11:02:34: [slayafk.amxx] I LoVe YoU ! <3 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 11:04:54: -------- Mapchange to deathrun_surf --------
+L 02/17/2017 - 11:04:55: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 11:04:56: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 11:05:03: [admin.amxx] Login: "-rTg|maEsTrOo<2425><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 11:12:13: [admin.amxx] Login: "-rTg|maEsTrOo<2430><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 11:16:26: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 11:30:44: -------- Mapchange to deathrun_hard_cspgames2 --------
+L 02/17/2017 - 11:30:45: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 11:30:46: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 11:30:46: [admin.amxx] Login: "-rTg|maEsTrOo<2430><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 11:30:46: [admin.amxx] Login: "-rTg|maEsTrOo<2438><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 11:35:53: [admin.amxx] Login: "EvolGeniuS - ThE king#<2443><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "5.14.134.66")
+L 02/17/2017 - 11:55:40: [admin.amxx] Login: "-rTg|maEsTrOo<2447><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 11:58:31: -------- Mapchange to deathrun_bom2 --------
+L 02/17/2017 - 11:58:32: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 11:58:33: [admin.amxx] Login: "-rTg|maEsTrOo<2447><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 11:58:33: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 11:58:33: [admin.amxx] Login: "EvolGeniuS - ThE king#<2443><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "5.14.134.66")
+L 02/17/2017 - 12:21:47: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "maketacke<2460><STEAM_0:0:1715760849><>"
+L 02/17/2017 - 12:27:22: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "A$AP Rocky<2469><STEAM_0:0:1960989564><>"
+L 02/17/2017 - 12:51:07: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Puffy.<2473><STEAM_0:1:173403989><>"
+L 02/17/2017 - 13:01:01: [admin.amxx] Login: "Spectru<2478><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.114.189.157")
+L 02/17/2017 - 13:01:03: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "adysialtele<2477><STEAM_0:0:1006633258><>"
+L 02/17/2017 - 13:01:03: [admin.amxx] Login: "Spectru<2479><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.114.189.157")
+L 02/17/2017 - 13:01:24: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "adysialtele<2480><STEAM_0:0:1006633258><>"
+L 02/17/2017 - 13:26:50: [admin.amxx] Login: "Spectru<2492><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.114.189.157")
+L 02/17/2017 - 13:27:04: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "A$AP Rocky<2495><STEAM_0:0:1960989564><>"
+L 02/17/2017 - 13:27:32: [admin.amxx] Login: "-rTg|maEsTrOo<2496><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 13:28:04: [mapsmenu.amxx] Vote: "-rTg|maEsTrOo<2496><STEAM_0:1:154430568><>" vote maps (map#1 "deathrun_clarion_dojo_b3") (map#2 "deathrun_bhopz_v2") (map#3 "") (map#4 "")
+L 02/17/2017 - 13:28:16: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_clarion_dojo_b3
+L 02/17/2017 - 13:30:14: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<2496><STEAM_0:1:154430568><>" changelevel "deathrun_clarion_dojo_b3"
+L 02/17/2017 - 13:30:16: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 02/17/2017 - 13:30:17: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 13:30:18: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 13:30:18: [admin.amxx] Login: "Spectru<2492><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.114.189.157")
+L 02/17/2017 - 13:30:18: [admin.amxx] Login: "-rTg|maEsTrOo<2496><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 13:31:31: [admin.amxx] Login: "Cuppy # LePatron<2501><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/17/2017 - 13:31:41: [admin.amxx] Login: "Cuppy # LePatron<2502><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/17/2017 - 13:36:22: [admin.amxx] Login: "EvolGeniuS - ThE king#<2505><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "5.14.134.66")
+L 02/17/2017 - 13:42:00: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<2496><STEAM_0:1:154430568><>" slay counter-terrorists team
+L 02/17/2017 - 13:49:28: [slayafk.amxx] The Pro a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 13:49:43: [slayafk.amxx] Scooby1^ @like's that69 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 13:53:06: [mapsmenu.amxx] Vote: "Cuppy # LePatron<2502><STEAM_0:1:193294027><>" vote maps (map#1 "deathrun_bhopz_v2") (map#2 "deathrun_nuclear") (map#3 "") (map#4 "")
+L 02/17/2017 - 13:53:18: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_bhopz_v2
+L 02/17/2017 - 13:55:54: [adminchat.amxx] Chat: "Spectru<2492><STEAM_0:1:191882096><>" chat "ce vrei ma"
+L 02/17/2017 - 13:56:01: [adminchat.amxx] Chat: "Cuppy # LePatron<2502><STEAM_0:1:193294027><>" chat "nu ca ce vreau"
+L 02/17/2017 - 13:56:03: [adminchat.amxx] Chat: "Cuppy # LePatron<2502><STEAM_0:1:193294027><>" chat "taci odata"
+L 02/17/2017 - 13:56:08: [adminchat.amxx] Chat: "Spectru<2492><STEAM_0:1:191882096><>" chat "cu ce ocazie ?"
+L 02/17/2017 - 13:56:14: [adminchat.amxx] Chat: "Cuppy # LePatron<2502><STEAM_0:1:193294027><>" chat "ca asa vreau eu"
+L 02/17/2017 - 13:57:53: -------- Mapchange to deathrun_bhopz_v2 --------
+L 02/17/2017 - 13:57:55: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 13:57:56: [admin.amxx] Login: "Spectru<2492><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.114.189.157")
+L 02/17/2017 - 13:57:56: [admin.amxx] Login: "EvolGeniuS - ThE king#<2505><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "5.14.134.66")
+L 02/17/2017 - 13:57:56: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 13:57:56: [admin.amxx] Login: "Cuppy # LePatron<2502><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/17/2017 - 13:57:56: [admin.amxx] Login: "-rTg|maEsTrOo<2496><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 14:01:23: [adminchat.amxx] Chat: "EvolGeniuS - ThE king#<2505><STEAM_0:1:84045719><>" chat " ba mae dai ba iar clarion"
+L 02/17/2017 - 14:08:17: [admin.amxx] Login: "deadpool<2521><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/17/2017 - 14:10:43: [admin.amxx] Login: "deadpool<2526><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/17/2017 - 14:13:44: [admin.amxx] Login: "Spectru<2527><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "86.123.237.24")
+L 02/17/2017 - 14:16:45: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 14:18:20: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 14:21:17: [mapsmenu.amxx] Vote: "Spectru<2527><STEAM_0:1:191882096><>" vote maps (map#1 "deathrun_long_run") (map#2 "deathrun_bhopz") (map#3 "") (map#4 "")
+L 02/17/2017 - 14:21:30: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_long_run
+L 02/17/2017 - 14:24:01: -------- Mapchange to deathrun_long_run --------
+L 02/17/2017 - 14:24:03: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 14:24:04: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 14:24:04: [admin.amxx] Login: "Spectru<2527><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "86.123.237.24")
+L 02/17/2017 - 14:24:19: [admin.amxx] Login: "deadpool<2533><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/17/2017 - 14:35:29: [admin.amxx] Login: "Pyky<2540><VALVE_0:4:1494801266><>" kicked due to invalid password (account "Pyky") (address "92.84.109.27")
+L 02/17/2017 - 14:35:36: [admin.amxx] Login: "Pyky<2541><VALVE_0:4:1494801266><>" kicked due to invalid password (account "Pyky") (address "92.84.109.27")
+L 02/17/2017 - 14:36:00: [admin.amxx] Login: "Pyky<2542><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 02/17/2017 - 14:45:51: [mapsmenu.amxx] Vote: "Spectru<2527><STEAM_0:1:191882096><>" vote maps (map#1 "deathrun_3sixty_fg_fix3") (map#2 "deathrun_gb_winter_final4") (map#3 "deathrun_industry") (map#4 "")
+L 02/17/2017 - 14:45:53: [admin.amxx] Login: "deadpool<2546><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/17/2017 - 14:46:03: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_gb_winter_final4
+L 02/17/2017 - 14:49:54: -------- Mapchange to deathrun_gb_winter_final4 --------
+L 02/17/2017 - 14:49:55: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 14:49:56: [admin.amxx] Login: "Pyky<2542><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 02/17/2017 - 14:49:56: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 14:49:56: [admin.amxx] Login: "deadpool<2546><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/17/2017 - 14:59:09: [admin.amxx] Login: "Panda<2559><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 14:59:11: [admin.amxx] Login: "Panda<2560><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 15:03:08: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "DoZe<2561><STEAM_0:0:1518108911><>"
+L 02/17/2017 - 15:26:51: [admin.amxx] Login: "Panda<2575><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 15:34:46: -------- Mapchange to deathrun_snow_wind --------
+L 02/17/2017 - 15:34:48: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 15:34:49: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 15:34:49: [admin.amxx] Login: "Panda<2575><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 15:34:50: [admin.amxx] Login: "Panda<2589><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 15:48:05: [admincmd.amxx] Cmd: "Panda<2589><STEAM_0:0:126187006><>" slay "maketacke<2586><STEAM_0:0:1715760849><>"
+L 02/17/2017 - 15:52:33: [slayafk.amxx] Lonely. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 15:52:38: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 15:55:24: [advanced_bans_sql.amxx] Ban time is up for: Jumper|TryNova22 [188.24.244.138]
+L 02/17/2017 - 16:00:27: -------- Mapchange to deathrun_helvis --------
+L 02/17/2017 - 16:00:28: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 16:00:29: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 16:03:39: [slayafk.amxx] DeVo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 16:24:29: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 16:24:34: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "GreeN<2639><VALVE_0:4:1212169989><>"
+L 02/17/2017 - 16:25:49: -------- Mapchange to deathrun_challenge_x --------
+L 02/17/2017 - 16:25:51: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 16:25:52: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 16:26:36: [admin.amxx] Login: "Spectru<2645><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "86.123.237.24")
+L 02/17/2017 - 16:26:38: [admin.amxx] Login: "Spectru<2646><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "86.123.237.24")
+L 02/17/2017 - 16:28:29: [admin.amxx] Login: "Panda<2651><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 16:29:11: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 16:33:16: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 16:34:21: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 16:38:11: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 16:40:11: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 16:44:16: [admin.amxx] Login: "DoNpAkaa<2676><STEAM_0:0:55531607><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 16:44:46: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 16:46:46: [adminchat.amxx] Chat: "Jumper|TryNova22<2673><VALVE_0:4:659160322><>" chat " green are script"
+L 02/17/2017 - 16:47:39: [mapsmenu.amxx] Vote: "DoNpAkaa<2676><STEAM_0:0:55531607><>" vote maps (map#1 "deathrun_clarion_dojo_b3") (map#2 "deathrun_xstrafers") (map#3 "") (map#4 "")
+L 02/17/2017 - 16:47:41: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 16:47:46: [slayafk.amxx] L3m0n a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 16:47:51: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_clarion_dojo_b3
+L 02/17/2017 - 16:49:46: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 16:52:15: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 02/17/2017 - 16:52:16: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 16:52:17: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 16:52:17: [admin.amxx] Login: "DoNpAkaa<2676><STEAM_0:0:55531607><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 16:57:46: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "xTrusT.<2689><STEAM_0:0:363435534><>"
+L 02/17/2017 - 17:05:08: [admin.amxx] Login: "-rTg|maEsTrOo<2698><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 17:06:13: [admin.amxx] Login: "Cuppy # LePatron<2701><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/17/2017 - 17:06:18: [admin.amxx] Login: "Cuppy # LePatron<2702><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/17/2017 - 17:08:37: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 17:12:40: [admin.amxx] Login: "Panda<2711><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 17:15:28: [admin.amxx] Login: "cool<2713><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 02/17/2017 - 17:16:11: [adminchat.amxx] Chat: "-rTg|maEsTrOo<2698><STEAM_0:1:154430568><>" chat "don"
+L 02/17/2017 - 17:18:04: [admincmd.amxx] Cmd: "DoNpAkaa<2676><STEAM_0:0:55531607><>" slay "Reso Tupeu.<2710><VALVE_0:4:1652742386><>"
+L 02/17/2017 - 17:18:59: -------- Mapchange to deathrun_alpin_spring --------
+L 02/17/2017 - 17:19:01: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 17:19:02: [admin.amxx] Login: "-rTg|maEsTrOo<2698><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 17:19:02: [admin.amxx] Login: "DoNpAkaa<2676><STEAM_0:0:55531607><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 17:19:02: [admin.amxx] Login: "Panda<2711><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 17:19:02: [admin.amxx] Login: "cool<2713><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 02/17/2017 - 17:19:04: [admin.amxx] Login: "Panda<2717><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 17:19:10: [admin.amxx] Login: "EvolGeniuS - ThE king#<2719><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.122.179.221")
+L 02/17/2017 - 17:19:37: [admin.amxx] Login: "EvolGeniuS - ThE king#<2724><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.122.179.221")
+L 02/17/2017 - 17:19:43: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "EvolGeniuS - ThE king#<2724><STEAM_0:1:84045719><>"
+L 02/17/2017 - 17:26:53: [admin.amxx] Login: "EvolGeniuS - ThE king#<2728><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.122.179.221")
+L 02/17/2017 - 17:30:40: [admin.amxx] Login: "Scooby1^ @like's that69<2731><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 17:30:43: [admin.amxx] Login: "Scooby1^ @like's that69<2732><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 17:33:41: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 17:37:57: [admin.amxx] Login: "EvolGeniuS - ThE king#<2745><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.122.179.221")
+L 02/17/2017 - 17:45:00: [admin.amxx] Login: "Panda<2750><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 17:45:02: [admin.amxx] Login: "Panda<2751><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 17:45:17: [mapsmenu.amxx] Vote: "DoNpAkaa<2676><STEAM_0:0:55531607><>" vote maps (map#1 "deathrun_bhopz_v3_ka") (map#2 "deathrun_inferno_beta1") (map#3 "") (map#4 "")
+L 02/17/2017 - 17:45:29: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_bhopz_v3_ka
+L 02/17/2017 - 17:45:44: -------- Mapchange to deathrun_bhopz_v3_ka --------
+L 02/17/2017 - 17:45:45: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 17:45:46: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 17:45:46: [admin.amxx] Login: "-rTg|maEsTrOo<2698><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 17:45:46: [admin.amxx] Login: "Scooby1^ @like's that69<2732><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 17:45:46: [admin.amxx] Login: "DoNpAkaa<2676><STEAM_0:0:55531607><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 17:45:46: [admin.amxx] Login: "Panda<2751><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 17:45:46: [admin.amxx] Login: "cool<2713><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 02/17/2017 - 17:45:48: [admin.amxx] Login: "Panda<2755><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 17:45:48: [admin.amxx] Login: "DoNpAkaa<2756><STEAM_0:0:55531607><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 17:45:49: [admin.amxx] Login: "Scooby1^ @like's that69<2757><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 17:46:09: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "The Pro<2764><STEAM_0:0:1753564637><>"
+L 02/17/2017 - 17:48:35: [admin.amxx] Login: "EvolGeniuS - ThE king#<2767><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.122.179.221")
+L 02/17/2017 - 17:56:18: [adminchat.amxx] Chat: "FLVXSOW;[<2758><STEAM_0:0:77647261><>" chat " de ce mi-ai dat gag?"
+L 02/17/2017 - 17:58:09: [admin.amxx] Login: "-rTg|maEsTrOo<2777><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 17:59:52: [adminchat.amxx] Chat: "Panda<2755><STEAM_0:0:126187006><>" chat "s"
+L 02/17/2017 - 17:59:56: [adminchat.amxx] Chat: "DoNpAkaa<2756><STEAM_0:0:55531607><>" chat "Dă-mi și mie"
+L 02/17/2017 - 17:59:59: [adminchat.amxx] Chat: "DoNpAkaa<2756><STEAM_0:0:55531607><>" chat "Să nu bată la ochi"
+L 02/17/2017 - 18:00:01: [adminchat.amxx] Chat: "EvolGeniuS - ThE king#<2767><STEAM_0:1:84045719><>" chat " vezi sa nu il uiti si pe ala"
+L 02/17/2017 - 18:01:08: [adminchat.amxx] Chat: "EvolGeniuS - ThE king#<2767><STEAM_0:1:84045719><>" chat " distractie sa iei recuri cu dev a"
+L 02/17/2017 - 18:01:16: [adminchat.amxx] Chat: "Scooby1^ @like's that69<2757><VALVE_0:4:1597915882><>" chat " nc*"
+L 02/17/2017 - 18:04:59: [admincmd.amxx] Cmd: "cool<2713><STEAM_0:1:25922700><>" ask for players list
+L 02/17/2017 - 18:05:39: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "daniiiii ;x<2789><STEAM_0:0:79254803><>"
+L 02/17/2017 - 18:10:56: -------- Mapchange to deathrun_anca --------
+L 02/17/2017 - 18:10:58: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 18:10:59: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 18:10:59: [admin.amxx] Login: "Scooby1^ @like's that69<2757><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 18:10:59: [admin.amxx] Login: "cool<2713><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 02/17/2017 - 18:10:59: [admin.amxx] Login: "-rTg|maEsTrOo<2777><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 18:10:59: [admin.amxx] Login: "DoNpAkaa<2756><STEAM_0:0:55531607><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 18:10:59: [admin.amxx] Login: "Panda<2755><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 18:10:59: [admin.amxx] Login: "EvolGeniuS - ThE king#<2767><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.122.179.221")
+L 02/17/2017 - 18:11:01: [admin.amxx] Login: "Panda<2801><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 18:11:01: [admin.amxx] Login: "Scooby1^ @like's that69<2802><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 18:11:01: [admin.amxx] Login: "cool<2803><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.100.218")
+L 02/17/2017 - 18:11:31: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "RelaxDox<2812><STEAM_0:0:1584669858><>"
+L 02/17/2017 - 18:14:28: [slayafk.amxx] daniiiii ;x a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 18:15:35: [admin.amxx] Login: "DoNpAkaa<2816><STEAM_0:0:55531607><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 18:19:03: [admin.amxx] Login: "FAKE ^^<2817><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.3.166")
+L 02/17/2017 - 18:19:06: [admin.amxx] Login: "FAKE ^^<2818><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.3.166")
+L 02/17/2017 - 18:28:31: [admin.amxx] Login: "DoNpAkaa<2823><STEAM_0:0:290291399><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 18:28:33: [admin.amxx] Login: "DoNpAkaa<2824><STEAM_0:0:338154475><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 18:29:23: [admin.amxx] Login: "DoNpAkaa<2825><STEAM_0:0:797997786><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 18:37:00: -------- Mapchange to deathrun_expres-game --------
+L 02/17/2017 - 18:37:01: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 18:37:02: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 18:37:02: [admin.amxx] Login: "DoNpAkaa<2825><STEAM_0:0:797997786><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 18:37:02: [admin.amxx] Login: "Panda<2801><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 18:37:04: [admin.amxx] Login: "DoNpAkaa<2829><STEAM_0:0:210913703><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 18:37:05: [admin.amxx] Login: "Panda<2830><STEAM_0:0:126187006><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 18:43:14: [admin.amxx] Login: "wKn<2839><STEAM_0:0:196614190><>" kicked due to invalid password (account "wKn") (address "92.80.89.92")
+L 02/17/2017 - 18:43:23: [admin.amxx] Login: "wKn<2840><STEAM_0:0:196614190><>" kicked due to invalid password (account "wKn") (address "92.80.89.92")
+L 02/17/2017 - 18:43:46: [admin.amxx] Login: "wKn<2841><STEAM_0:0:196614190><>" kicked due to invalid password (account "wKn") (address "92.80.89.92")
+L 02/17/2017 - 18:43:59: [admin.amxx] Login: "wKn<2842><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 18:46:17: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 18:49:46: [admin.amxx] Login: "wKn<2847><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 18:49:53: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "wKn<2847><STEAM_0:0:196614190><>"
+L 02/17/2017 - 18:50:01: [admin.amxx] Login: "wKn<2848><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 18:50:08: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "wKn<2848><STEAM_0:0:196614190><>"
+L 02/17/2017 - 18:50:16: [admin.amxx] Login: "wKn<2849><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 18:50:23: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "wKn<2849><STEAM_0:0:196614190><>"
+L 02/17/2017 - 18:51:29: [admin.amxx] Login: "wKn<2850><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 18:51:36: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "wKn<2850><STEAM_0:0:196614190><>"
+L 02/17/2017 - 18:51:39: [admincmd.amxx] Cmd: "DoNpAkaa<2829><STEAM_0:0:210913703><>" slay "wKn<2850><STEAM_0:0:196614190><>"
+L 02/17/2017 - 18:51:41: [admincmd.amxx] Cmd: "DoNpAkaa<2829><STEAM_0:0:210913703><>" slay "wKn<2850><STEAM_0:0:196614190><>"
+L 02/17/2017 - 18:51:44: [admincmd.amxx] Cmd: "DoNpAkaa<2829><STEAM_0:0:210913703><>" slay "wKn<2850><STEAM_0:0:196614190><>"
+L 02/17/2017 - 18:51:48: [admincmd.amxx] Cmd: "DoNpAkaa<2829><STEAM_0:0:210913703><>" slay "wKn<2850><STEAM_0:0:196614190><>"
+L 02/17/2017 - 18:51:50: [admincmd.amxx] Cmd: "DoNpAkaa<2829><STEAM_0:0:210913703><>" slay "wKn<2850><STEAM_0:0:196614190><>"
+L 02/17/2017 - 18:51:52: [admincmd.amxx] Cmd: "DoNpAkaa<2829><STEAM_0:0:210913703><>" slay "wKn<2850><STEAM_0:0:196614190><>"
+L 02/17/2017 - 18:53:19: [admin.amxx] Login: "BloDy<2854><VALVE_0:4:2079768955><>" kicked due to invalid password (account "BloDy") (address "78.96.177.94")
+L 02/17/2017 - 18:53:33: [admin.amxx] Login: "BloDy<2856><VALVE_0:4:2079768955><>" kicked due to invalid password (account "BloDy") (address "78.96.177.94")
+L 02/17/2017 - 18:53:43: [admin.amxx] Login: "Panda<2858><VALVE_0:4:541939826><>" kicked due to invalid password (account "Panda") (address "92.82.198.233")
+L 02/17/2017 - 18:53:55: [admin.amxx] Login: "Panda<2860><VALVE_0:4:541939826><>" kicked due to invalid password (account "Panda") (address "92.82.198.233")
+L 02/17/2017 - 18:54:10: [admin.amxx] Login: "Panda<2863><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 18:54:12: [admin.amxx] Login: "Panda<2864><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 18:55:08: [admin.amxx] Login: "deadpool<2866><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/17/2017 - 18:56:36: [admincmd.amxx] Cmd: "DoNpAkaa<2829><STEAM_0:0:210913703><>" ask for players list
+L 02/17/2017 - 18:57:22: [slayafk.amxx] maketacke a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 18:57:55: [admin.amxx] Login: "FAKE ^^<2869><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.3.166")
+L 02/17/2017 - 18:58:46: [admin.amxx] Login: "wKn<2873><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 18:58:52: [admin.amxx] Login: "wKn<2874><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 18:58:54: [admin.amxx] Login: "wKn<2875><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 18:59:01: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "wKn<2875><STEAM_0:0:196614190><>"
+L 02/17/2017 - 19:00:22: [slayafk.amxx] maketacke a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 19:00:57: [slayafk.amxx] deadpool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 19:03:54: [mapsmenu.amxx] Vote: "Panda<2864><VALVE_0:4:541939826><>" vote maps (map#1 "deathrun_anca") (map#2 "deathrun_hybrid") (map#3 "") (map#4 "")
+L 02/17/2017 - 19:04:06: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_anca
+L 02/17/2017 - 19:04:30: -------- Mapchange to deathrun_anca --------
+L 02/17/2017 - 19:04:32: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 19:04:33: [admin.amxx] Login: "FAKE ^^<2869><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.3.166")
+L 02/17/2017 - 19:04:33: [admin.amxx] Login: "wKn<2875><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 19:04:33: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 19:04:33: [admin.amxx] Login: "DoNpAkaa<2829><STEAM_0:0:210913703><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 19:04:33: [admin.amxx] Login: "Panda<2864><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 19:04:33: [admin.amxx] Login: "Panda<2878><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 19:04:34: [admin.amxx] Login: "Panda<2880><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 19:06:09: [admincmd.amxx] Cmd: "Panda<2880><VALVE_0:4:541939826><>" ask for players list
+L 02/17/2017 - 19:08:38: [admin.amxx] Login: "wKn<2887><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 19:10:12: [slayafk.amxx] maketacke a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 19:11:35: [admin.amxx] Login: "joki<2890><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/17/2017 - 19:11:37: [admin.amxx] Login: "joki<2891><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/17/2017 - 19:16:54: [admin.amxx] Login: "wKn<2896><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 19:17:38: [admin.amxx] Login: "deadpool<2897><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/17/2017 - 19:20:57: [mapsmenu.amxx] Vote: "DoNpAkaa<2829><STEAM_0:0:210913703><>" vote maps (map#1 "deathrun_inferno_beta1") (map#2 "deathrun_sammal_3sixty_beta1") (map#3 "") (map#4 "")
+L 02/17/2017 - 19:21:09: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_sammal_3sixty_beta1
+L 02/17/2017 - 19:24:49: [admin.amxx] Login: "seconD ;HNSk<2904><STEAM_0:1:39271980><>" became an admin (account "seconD ;HNSk") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 19:24:53: [admin.amxx] Login: "seconD ;HNSk<2905><STEAM_0:1:39271980><>" became an admin (account "seconD ;HNSk") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 19:25:51: [admin.amxx] Login: "wKn<2906><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 19:26:41: [adminchat.amxx] Chat: "seconD ;HNSk<2905><STEAM_0:1:39271980><>" chat ","
+L 02/17/2017 - 19:26:44: [admincmd.amxx] Cmd: "seconD ;HNSk<2905><STEAM_0:1:39271980><>" ask for players list
+L 02/17/2017 - 19:27:12: [admin.amxx] Login: "Daky69<2908><STEAM_0:0:523798960><>" became an admin (account "Daky69") (access "bi") (address "109.96.108.176")
+L 02/17/2017 - 19:29:27: [admin.amxx] Login: "seconD ;HNSk<2912><STEAM_0:1:39271980><>" became an admin (account "seconD ;HNSk") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 19:29:35: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "seconD ;HNSk<2912><STEAM_0:1:39271980><>"
+L 02/17/2017 - 19:30:06: [admin.amxx] Login: "seconD ;HNSk<2913><STEAM_0:1:39271980><>" became an admin (account "seconD ;HNSk") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 19:30:38: -------- Mapchange to deathrun_sammal_3sixty_beta1 --------
+L 02/17/2017 - 19:30:40: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 19:30:41: [admin.amxx] Login: "seconD ;HNSk<2913><STEAM_0:1:39271980><>" became an admin (account "seconD ;HNSk") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 19:30:41: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 19:30:41: [admin.amxx] Login: "Panda<2880><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 19:30:41: [admin.amxx] Login: "DoNpAkaa<2829><STEAM_0:0:210913703><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 19:30:41: [admin.amxx] Login: "Daky69<2908><STEAM_0:0:523798960><>" became an admin (account "Daky69") (access "bi") (address "109.96.108.176")
+L 02/17/2017 - 19:30:41: [admin.amxx] Login: "joki<2891><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/17/2017 - 19:30:42: [admin.amxx] Login: "Panda<2914><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 19:30:42: [admin.amxx] Login: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 19:30:42: [admin.amxx] Login: "joki<2916><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/17/2017 - 19:30:46: [admin.amxx] Login: "seconD ;HNSk<2919><STEAM_0:1:39271980><>" became an admin (account "seconD ;HNSk") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 19:31:45: [admincmd.amxx] Cmd: "seconD ;HNSk<2919><STEAM_0:1:39271980><>" ask for players list
+L 02/17/2017 - 19:34:20: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 19:36:55: [slayafk.amxx] Panda a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 19:40:00: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 19:42:05: [admin.amxx] Login: "Levi99<2935><STEAM_0:0:183716598><>" became an admin (account "Levi99") (access "bi") (address "79.115.14.22")
+L 02/17/2017 - 19:42:08: [admin.amxx] Login: "Levi99<2936><STEAM_0:0:183716598><>" became an admin (account "Levi99") (access "bi") (address "79.115.14.22")
+L 02/17/2017 - 19:45:19: [admin.amxx] Login: "Scooby1^ @like's that69<2937><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 19:45:22: [admin.amxx] Login: "Levi99<2938><STEAM_0:0:183716598><>" became an admin (account "Levi99") (access "bi") (address "79.115.14.22")
+L 02/17/2017 - 19:45:23: [admin.amxx] Login: "Scooby1^ @like's that69<2939><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 19:45:30: [admin.amxx] Login: "Levi99<2940><STEAM_0:0:183716598><>" became an admin (account "Levi99") (access "bi") (address "79.115.14.22")
+L 02/17/2017 - 19:46:05: [adminchat.amxx] Chat: "maketacke<2881><STEAM_0:0:1715760849><>" chat "FLVXSOW cf"
+L 02/17/2017 - 19:48:05: [slayafk.amxx] JustKILL a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 19:48:48: [admin.amxx] Login: "Daky69<2941><STEAM_0:0:523798960><>" became an admin (account "Daky69") (access "bi") (address "109.96.108.176")
+L 02/17/2017 - 19:49:35: [slayafk.amxx] Daky69 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 19:51:19: [admin.amxx] Login: "Scooby1^ @like's that69<2942><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 19:51:35: [slayafk.amxx] maketacke a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 19:51:35: [slayafk.amxx] Daky69 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 19:51:39: [mapsmenu.amxx] Vote: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" vote maps (map#1 "deathrun_clarion_dojo_b3") (map#2 "deathrun_3sixty_fg_fix3") (map#3 "") (map#4 "")
+L 02/17/2017 - 19:51:51: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_clarion_dojo_b3
+L 02/17/2017 - 19:55:20: [adminchat.amxx] Chat: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" chat "wtf asta chiar ma crede >))))"
+L 02/17/2017 - 19:56:44: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 02/17/2017 - 19:56:46: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 19:56:47: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 19:56:47: [admin.amxx] Login: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 19:56:47: [admin.amxx] Login: "Daky69<2941><STEAM_0:0:523798960><>" became an admin (account "Daky69") (access "bi") (address "109.96.108.176")
+L 02/17/2017 - 19:56:47: [admin.amxx] Login: "Levi99<2940><STEAM_0:0:183716598><>" became an admin (account "Levi99") (access "bi") (address "79.115.14.22")
+L 02/17/2017 - 19:56:47: [admin.amxx] Login: "joki<2916><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/17/2017 - 19:57:21: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dNk|RyuuKo<2957><VALVE_0:4:2015811443><>"
+L 02/17/2017 - 19:58:06: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" slay "FLVXSOW;[<2926><STEAM_0:0:77647261><>"
+L 02/17/2017 - 19:58:52: [slayafk.amxx] dNk|RyuuKo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:00:04: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" ask for players list
+L 02/17/2017 - 20:10:27: [admin.amxx] Login: "Scooby1^ @like's that69<2967><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 20:11:40: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "JustKILL<2968><STEAM_0:0:516949682><>"
+L 02/17/2017 - 20:11:44: [adminchat.amxx] Chat: "JustKILL<2968><STEAM_0:0:516949682><>" chat " din cauza lui make fmmm"
+L 02/17/2017 - 20:15:58: [admin.amxx] Login: "Panda<2975><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 20:16:00: [admin.amxx] Login: "Panda<2976><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 20:19:47: [slayafk.amxx] salty guy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:20:34: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" slap with 0 damage "FLVXSOW;[<2926><STEAM_0:0:77647261><>"
+L 02/17/2017 - 20:20:37: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" slap with 0 damage "FLVXSOW;[<2926><STEAM_0:0:77647261><>"
+L 02/17/2017 - 20:20:39: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" slap with 0 damage "FLVXSOW;[<2926><STEAM_0:0:77647261><>"
+L 02/17/2017 - 20:20:39: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" slap with 0 damage "FLVXSOW;[<2926><STEAM_0:0:77647261><>"
+L 02/17/2017 - 20:20:40: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" slap with 0 damage "FLVXSOW;[<2926><STEAM_0:0:77647261><>"
+L 02/17/2017 - 20:20:47: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" slap with 0 damage "FLVXSOW;[<2926><STEAM_0:0:77647261><>"
+L 02/17/2017 - 20:20:52: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" slap with 0 damage "FLVXSOW;[<2926><STEAM_0:0:77647261><>"
+L 02/17/2017 - 20:20:52: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" slap with 0 damage "FLVXSOW;[<2926><STEAM_0:0:77647261><>"
+L 02/17/2017 - 20:20:52: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" slap with 0 damage "FLVXSOW;[<2926><STEAM_0:0:77647261><>"
+L 02/17/2017 - 20:20:52: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" slap with 0 damage "FLVXSOW;[<2926><STEAM_0:0:77647261><>"
+L 02/17/2017 - 20:21:18: [admincmd.amxx] Cmd: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" slay "FLVXSOW;[<2926><STEAM_0:0:77647261><>"
+L 02/17/2017 - 20:22:36: [admin.amxx] Login: "Scooby1^ @like's that69<2982><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 20:23:49: -------- Mapchange to deathrun_isle_beta1 --------
+L 02/17/2017 - 20:23:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 20:23:51: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 20:23:51: [admin.amxx] Login: "Scooby1^ @like's that69<2982><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 20:23:51: [admin.amxx] Login: "DoNpAkaa<2915><STEAM_0:0:2109383397><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 20:23:52: [admin.amxx] Login: "Panda<2976><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 20:23:52: [admin.amxx] Login: "joki<2916><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/17/2017 - 20:23:53: [admin.amxx] Login: "DoNpAkaa<2985><STEAM_0:0:2082970655><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 20:23:53: [admin.amxx] Login: "Panda<2986><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 20:23:53: [admin.amxx] Login: "joki<2987><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/17/2017 - 20:24:26: [slayafk.amxx] maketacke a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:25:01: [slayafk.amxx] maketacke a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:26:21: [slayafk.amxx] maketacke a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:26:24: [admin.amxx] Login: "Scooby1^ @like's that69<2996><VALVE_0:4:1597915882><>" became an admin (account "Scooby1^ @like's that69") (access "bi") (address "109.103.32.23")
+L 02/17/2017 - 20:28:31: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:29:32: [admin.amxx] Login: "FAKE ^^<2997><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.3.166")
+L 02/17/2017 - 20:30:41: [slayafk.amxx] JustKILL a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:31:41: [admin.amxx] Login: "Bidi<3005><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "bit") (address "93.118.236.54")
+L 02/17/2017 - 20:31:45: [admin.amxx] Login: "Bidi<3006><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "bit") (address "93.118.236.54")
+L 02/17/2017 - 20:35:01: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:37:03: [admincmd.amxx] Cmd: "Bidi<3006><STEAM_0:1:45864800><>" ask for players list
+L 02/17/2017 - 20:38:03: [admin.amxx] Login: "Daky69<3012><STEAM_0:0:523798960><>" became an admin (account "Daky69") (access "bi") (address "109.96.108.176")
+L 02/17/2017 - 20:38:56: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:39:58: [admin.amxx] Login: "Pyky<3015><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 02/17/2017 - 20:40:46: [slayafk.amxx] Puffy. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:40:46: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:44:36: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:44:41: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:44:58: [adminchat.amxx] Chat: "Bidi<3006><STEAM_0:1:45864800><>" chat "daky"
+L 02/17/2017 - 20:45:00: [adminchat.amxx] Chat: "Bidi<3006><STEAM_0:1:45864800><>" chat "zi mape"
+L 02/17/2017 - 20:45:07: [adminchat.amxx] Chat: "Daky69<3012><STEAM_0:0:523798960><>" chat " occult v2"
+L 02/17/2017 - 20:45:08: [admincmd.amxx] Cmd: "Bidi<3006><STEAM_0:1:45864800><>" ask for players list
+L 02/17/2017 - 20:45:08: [adminchat.amxx] Chat: "Pyky<3015><VALVE_0:4:1494801266><>" chat "dojo"
+L 02/17/2017 - 20:45:13: [adminchat.amxx] Chat: "Pyky<3015><VALVE_0:4:1494801266><>" chat "dojo"
+L 02/17/2017 - 20:45:17: [adminchat.amxx] Chat: "Daky69<3012><STEAM_0:0:523798960><>" chat " si hertz"
+L 02/17/2017 - 20:45:31: [adminchat.amxx] Chat: "Daky69<3012><STEAM_0:0:523798960><>" chat " da e mai ok occult ziic eu"
+L 02/17/2017 - 20:45:35: [adminchat.amxx] Chat: "Bidi<3006><STEAM_0:1:45864800><>" chat "nu-i occult v2"
+L 02/17/2017 - 20:45:35: [adminchat.amxx] Chat: "Daky69<3012><STEAM_0:0:523798960><>" chat " si populata"
+L 02/17/2017 - 20:45:43: [adminchat.amxx] Chat: "Daky69<3012><STEAM_0:0:523798960><>" chat " occult ma :))"
+L 02/17/2017 - 20:45:51: [mapsmenu.amxx] Vote: "Bidi<3006><STEAM_0:1:45864800><>" vote maps (map#1 "deathrun_hertz") (map#2 "deathrun_sk_occult") (map#3 "") (map#4 "")
+L 02/17/2017 - 20:45:56: [adminchat.amxx] Chat: "Bidi<3006><STEAM_0:1:45864800><>" chat "aa , tu ziceau occult"
+L 02/17/2017 - 20:45:58: [adminchat.amxx] Chat: "Bidi<3006><STEAM_0:1:45864800><>" chat "vw"
+L 02/17/2017 - 20:46:02: [adminchat.amxx] Chat: "Daky69<3012><STEAM_0:0:523798960><>" chat " da :))"
+L 02/17/2017 - 20:46:04: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_sk_occult
+L 02/17/2017 - 20:46:36: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:46:36: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:49:43: [admincmd.amxx] Cmd: "Daky69<3012><STEAM_0:0:523798960><>" slay "hTc.exe ;[<3023><STEAM_0:1:147245904><>"
+L 02/17/2017 - 20:49:46: -------- Mapchange to deathrun_sk_occult --------
+L 02/17/2017 - 20:49:48: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 20:49:49: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 20:49:49: [admin.amxx] Login: "DoNpAkaa<2985><STEAM_0:0:2082970655><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 20:49:49: [admin.amxx] Login: "Daky69<3012><STEAM_0:0:523798960><>" became an admin (account "Daky69") (access "bi") (address "109.96.108.176")
+L 02/17/2017 - 20:49:49: [admin.amxx] Login: "Pyky<3015><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 02/17/2017 - 20:49:49: [admin.amxx] Login: "Bidi<3006><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "bit") (address "93.118.236.54")
+L 02/17/2017 - 20:49:50: [admin.amxx] Login: "DoNpAkaa<3026><STEAM_0:0:983193223><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 20:49:54: [admin.amxx] Login: "Bidi<3028><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "bit") (address "93.118.236.54")
+L 02/17/2017 - 20:50:23: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:50:38: [adminchat.amxx] Chat: "Pyky<3015><VALVE_0:4:1494801266><>" psay "hTc.exe ;[<3027><STEAM_0:1:147245904><>" "da adresa la srv"
+L 02/17/2017 - 20:50:38: [adminchat.amxx] Chat: "Pyky<3015><VALVE_0:4:1494801266><>" psay "hTc.exe ;[<3027><STEAM_0:1:147245904><>" "da adresa la srv "
+L 02/17/2017 - 20:50:58: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:53:01: [admincmd.amxx] Cmd: "Daky69<3012><STEAM_0:0:523798960><>" slay "hTc.exe ;[<3027><STEAM_0:1:147245904><>"
+L 02/17/2017 - 20:54:05: [admincmd.amxx] Cmd: "Daky69<3012><STEAM_0:0:523798960><>" slay "NormalBhop!<3038><STEAM_0:0:2122723958><>"
+L 02/17/2017 - 20:54:28: [admincmd.amxx] Cmd: "Bidi<3028><STEAM_0:1:45864800><>" ask for players list
+L 02/17/2017 - 20:54:58: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:55:13: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:55:33: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:56:08: [slayafk.amxx] Bidi a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:56:58: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 20:58:17: [admin.amxx] Login: "Pyky<3050><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 02/17/2017 - 21:00:08: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:00:08: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:02:32: [admincmd.amxx] Cmd: "Bidi<3028><STEAM_0:1:45864800><>" slay "Jumper|TryNova22<3054><VALVE_0:4:433454338><>"
+L 02/17/2017 - 21:03:08: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:03:08: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:05:59: [admincmd.amxx] Cmd: "Bidi<3028><STEAM_0:1:45864800><>" ask for players list
+L 02/17/2017 - 21:06:01: [adminchat.amxx] Chat: "Puffy.<3034><STEAM_0:1:173403989><>" chat "admin ocupa-te"
+L 02/17/2017 - 21:06:02: [adminchat.amxx] Chat: "Puffy.<3034><STEAM_0:1:173403989><>" chat "de astia"
+L 02/17/2017 - 21:06:04: [adminchat.amxx] Chat: "Puffy.<3034><STEAM_0:1:173403989><>" chat "uite cum injura"
+L 02/17/2017 - 21:06:28: [slayafk.amxx] soft99 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:06:34: [adminchat.amxx] Chat: "KlaNdEsTiN<3047><STEAM_0:1:161408205><>" chat " puff ii dau eliminate?"
+L 02/17/2017 - 21:08:17: [adminchat.amxx] Chat: "Jumper|TryNova22<3054><VALVE_0:4:433454338><>" chat " dai gag lu ratatu de diavol"
+L 02/17/2017 - 21:09:03: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:09:03: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:09:28: [slayafk.amxx] Puffy. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:09:28: [slayafk.amxx] Bidi a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:15:26: [mapsmenu.amxx] Vote: "Bidi<3028><STEAM_0:1:45864800><>" vote maps (map#1 "deathrun_laikiux_rawr") (map#2 "deathrun_projetocs2") (map#3 "") (map#4 "")
+L 02/17/2017 - 21:15:38: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_laikiux_rawr
+L 02/17/2017 - 21:15:45: [admincmd.amxx] Cmd: "Bidi<3028><STEAM_0:1:45864800><>" slay counter-terrorists team
+L 02/17/2017 - 21:15:49: -------- Mapchange to deathrun_laikiux_rawr --------
+L 02/17/2017 - 21:15:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 21:15:51: [admin.amxx] Login: "Bidi<3028><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "bit") (address "93.118.236.54")
+L 02/17/2017 - 21:15:51: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 21:15:51: [admin.amxx] Login: "DoNpAkaa<3026><STEAM_0:0:983193223><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 21:15:53: [admin.amxx] Login: "DoNpAkaa<3063><STEAM_0:0:1789679092><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 21:16:26: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:16:26: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:16:31: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:17:01: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:17:01: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:17:06: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:17:44: [admincmd.amxx] Cmd: "Bidi<3028><STEAM_0:1:45864800><>" slay "DeVo<3001><VALVE_0:4:1928087803><>"
+L 02/17/2017 - 21:19:11: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:19:11: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:20:05: [adminchat.amxx] Chat: "-Eq- George<3062><STEAM_0:1:182939447><>" chat "slay devo =))))"
+L 02/17/2017 - 21:20:58: [admincmd.amxx] Cmd: "Bidi<3028><STEAM_0:1:45864800><>" slay "DeVo<3001><VALVE_0:4:1928087803><>"
+L 02/17/2017 - 21:21:36: [slayafk.amxx] Puffy. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:21:36: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:21:36: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:21:36: [slayafk.amxx] xTrusT. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:21:36: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:23:31: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:23:31: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:23:31: [slayafk.amxx] xTrusT. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:23:31: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:23:56: [admincmd.amxx] Cmd: "Bidi<3028><STEAM_0:1:45864800><>" slay "DeVo<3001><VALVE_0:4:1928087803><>"
+L 02/17/2017 - 21:24:09: [admin.amxx] Login: "wKn<3086><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/17/2017 - 21:24:46: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:24:46: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:24:46: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:26:46: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:26:46: [slayafk.amxx] Bidi a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:26:46: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:26:46: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:28:51: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:28:51: [slayafk.amxx] Bidi a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:28:51: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:28:51: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:30:45: [admin.amxx] Login: "Panda<3093><VALVE_0:4:541939826><>" kicked due to invalid password (account "Panda") (address "92.82.198.233")
+L 02/17/2017 - 21:30:57: [admin.amxx] Login: "Panda<3094><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 21:30:59: [admin.amxx] Login: "Panda<3095><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 21:31:21: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:31:21: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:31:21: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:33:21: [slayafk.amxx] G7 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:33:26: [slayafk.amxx] DeVo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:33:26: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:33:26: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:33:26: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:34:56: [slayafk.amxx] DeVo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:34:56: [slayafk.amxx] G7 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:34:56: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:34:56: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:37:16: [slayafk.amxx] DeVo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:37:16: [slayafk.amxx] G7 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:37:16: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:37:16: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:37:16: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:38:51: [slayafk.amxx] G7 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:38:51: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:38:51: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:39:26: [admin.amxx] Login: "Spectru<3106><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.77.198")
+L 02/17/2017 - 21:40:41: [admincmd.amxx] ExtendMap: "Spectru<3106><STEAM_0:1:191882096><>" extended map "deathrun_laikiux_rawr" for 2 minutes.
+L 02/17/2017 - 21:41:36: [slayafk.amxx] DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:41:36: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:41:36: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 21:41:37: [mapsmenu.amxx] Vote: "Spectru<3106><STEAM_0:1:191882096><>" vote maps (map#1 "deathrun_3sixty_fg_fix3") (map#2 "deathrun_rizzy_x") (map#3 "deathrun_industry") (map#4 "")
+L 02/17/2017 - 21:41:49: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_3sixty_fg_fix3
+L 02/17/2017 - 21:43:13: [admincmd.amxx] Kick: "Spectru<3106><STEAM_0:1:191882096><>" kick "DeVo<3001><VALVE_0:4:1928087803><>" (reason "")
+L 02/17/2017 - 21:43:23: [admincmd.amxx] Cmd: "Spectru<3106><STEAM_0:1:191882096><>" slay "Panda<3095><VALVE_0:4:541939826><>"
+L 02/17/2017 - 21:43:26: -------- Mapchange to deathrun_3sixty_fg_fix3 --------
+L 02/17/2017 - 21:43:28: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 21:43:29: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 21:43:29: [admin.amxx] Login: "DoNpAkaa<3063><STEAM_0:0:1789679092><>" became an admin (account "DoNpAkaa") (access "bi") (address "79.119.91.47")
+L 02/17/2017 - 21:43:29: [admin.amxx] Login: "Panda<3095><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 21:43:29: [admin.amxx] Login: "Spectru<3106><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.77.198")
+L 02/17/2017 - 21:43:31: [admin.amxx] Login: "Panda<3108><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 21:44:23: [admin.amxx] Login: "EvolGeniuS - ThE king#<3114><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.122.179.221")
+L 02/17/2017 - 21:44:26: [advanced_bans_sql.amxx] Spectru <STEAM_0:1:191882096> banned hTc.exe ;[ <STEAM_0:1:147245904> || Reason: "reclama" || Ban Length: 6 days, 22 hours, 39 minutes
+L 02/17/2017 - 21:47:19: [admincmd.amxx] Cmd: "Spectru<3106><STEAM_0:1:191882096><>" slay "Lucifer. #<3118><STEAM_0:0:938473220><>"
+L 02/17/2017 - 21:47:22: [admincmd.amxx] Cmd: "Spectru<3106><STEAM_0:1:191882096><>" slay "m-emo<3120><STEAM_0:0:240493395><>"
+L 02/17/2017 - 21:47:25: [admincmd.amxx] Cmd: "Spectru<3106><STEAM_0:1:191882096><>" slay "Panda<3108><VALVE_0:4:541939826><>"
+L 02/17/2017 - 21:51:48: [admin.amxx] Login: "Panda<3126><VALVE_0:4:541939826><>" kicked due to invalid password (account "Panda") (address "92.82.198.233")
+L 02/17/2017 - 21:51:57: [admin.amxx] Login: "Panda<3127><VALVE_0:4:541939826><>" became an admin (account "Panda") (access "bi") (address "92.82.198.233")
+L 02/17/2017 - 21:55:00: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "ssaacc.<3128><STEAM_0:0:1844758109><>"
+L 02/17/2017 - 22:01:55: [admin.amxx] Login: "Spectru<3136><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.77.198")
+L 02/17/2017 - 22:03:57: [admincmd.amxx] Cmd: "Spectru<3136><STEAM_0:1:191882096><>" slay "DoZe<3096><STEAM_0:0:1518108911><>"
+L 02/17/2017 - 22:06:37: [admin.amxx] Login: "-rTg|maEsTrOo<3137><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 22:07:13: [admincmd.amxx] ExtendMap: "Spectru<3136><STEAM_0:1:191882096><>" extended map "deathrun_3sixty_fg_fix3" for 1 minutes.
+L 02/17/2017 - 22:07:45: [mapsmenu.amxx] Vote: "Spectru<3136><STEAM_0:1:191882096><>" vote maps (map#1 "deathrun_clarion_dojo_b3") (map#2 "deathrun_rizzy_x") (map#3 "") (map#4 "")
+L 02/17/2017 - 22:07:57: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_clarion_dojo_b3
+L 02/17/2017 - 22:08:11: [admincmd.amxx] Cmd: "Spectru<3136><STEAM_0:1:191882096><>" changelevel "deathrun_clarion_dojo_b3"
+L 02/17/2017 - 22:08:14: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 02/17/2017 - 22:08:15: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 22:08:16: [admin.amxx] Login: "EvolGeniuS - ThE king#<3114><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.122.179.221")
+L 02/17/2017 - 22:08:16: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 22:08:16: [admin.amxx] Login: "Spectru<3136><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.77.198")
+L 02/17/2017 - 22:08:16: [admin.amxx] Login: "-rTg|maEsTrOo<3137><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 22:11:50: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "ssaacc.<3144><STEAM_0:0:1844758109><>"
+L 02/17/2017 - 22:11:53: [admincmd.amxx] Cmd: "Spectru<3136><STEAM_0:1:191882096><>" slay "ssaacc.<3144><STEAM_0:0:1844758109><>"
+L 02/17/2017 - 22:11:55: [admincmd.amxx] Cmd: "Spectru<3136><STEAM_0:1:191882096><>" slay "ssaacc.<3144><STEAM_0:0:1844758109><>"
+L 02/17/2017 - 22:11:59: [admincmd.amxx] Cmd: "Spectru<3136><STEAM_0:1:191882096><>" slay "ssaacc.<3144><STEAM_0:0:1844758109><>"
+L 02/17/2017 - 22:17:33: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "A$AP Zhaar<3154><STEAM_0:0:1960989564><>"
+L 02/17/2017 - 22:18:57: [admin.amxx] Login: "Spectru<3157><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.77.198")
+L 02/17/2017 - 22:29:21: [mapsmenu.amxx] Vote: "Spectru<3157><STEAM_0:1:191882096><>" vote maps (map#1 "deathrun_alleywinter") (map#2 "deathrun_bhopz") (map#3 "deathrun_bhopz_v2") (map#4 "")
+L 02/17/2017 - 22:29:33: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_alleywinter
+L 02/17/2017 - 22:30:12: [admin.amxx] Login: "joki<3163><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/17/2017 - 22:34:38: -------- Mapchange to deathrun_alleywinter --------
+L 02/17/2017 - 22:34:40: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 22:34:41: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 22:34:41: [admin.amxx] Login: "Spectru<3157><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.77.198")
+L 02/17/2017 - 22:34:41: [admin.amxx] Login: "-rTg|maEsTrOo<3137><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 22:34:41: [admin.amxx] Login: "joki<3163><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/17/2017 - 22:34:43: [admin.amxx] Login: "joki<3170><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/17/2017 - 22:34:43: [admin.amxx] Login: "EvolGeniuS - ThE king#<3171><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "86.122.179.221")
+L 02/17/2017 - 22:34:43: [admin.amxx] Login: "Spectru<3173><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.77.198")
+L 02/17/2017 - 22:34:46: [admin.amxx] Login: "-rTg|maEsTrOo<3177><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 22:35:20: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:35:20: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:35:30: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:35:55: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:35:55: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:36:05: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:36:24: [admin.amxx] Login: "FAKE ^^<3182><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.3.166")
+L 02/17/2017 - 22:36:28: [admin.amxx] Login: "FAKE ^^<3183><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.3.166")
+L 02/17/2017 - 22:36:55: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:37:25: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:37:25: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:37:30: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:38:50: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:38:50: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:38:50: [slayafk.amxx] FAKE ^^ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:38:50: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:38:50: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:40:30: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:40:30: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:40:30: [slayafk.amxx] FAKE ^^ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:40:30: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:40:30: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:41:35: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:41:35: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:41:35: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:41:35: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:42:16: [admincmd.amxx] Kick: "-rTg|maEsTrOo<3177><STEAM_0:1:154430568><>" kick "DeVo<3187><VALVE_0:4:1928087803><>" (reason "")
+L 02/17/2017 - 22:44:10: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:44:10: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:46:15: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:46:15: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:46:15: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:46:51: [admin.amxx] Login: "DnD<3195><STEAM_0:0:970363837><>" became an admin (account "DnD") (access "bi") (address "93.118.230.224")
+L 02/17/2017 - 22:48:15: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:48:15: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:48:15: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:48:35: [admin.amxx] Login: "ZALE<3196><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.101.58.235")
+L 02/17/2017 - 22:48:44: [admin.amxx] Login: "ZALE<3197><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.101.58.235")
+L 02/17/2017 - 22:48:55: [admin.amxx] Login: "ZALE<3198><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.101.58.235")
+L 02/17/2017 - 22:49:35: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:49:35: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:49:35: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:50:18: [adminchat.amxx] Chat: "DnD<3195><STEAM_0:0:970363837><>" chat "ce comenteaza asta"
+L 02/17/2017 - 22:51:05: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:51:05: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:51:16: [adminchat.amxx] Chat: "DnD<3195><STEAM_0:0:970363837><>" chat "care dai vot?"
+L 02/17/2017 - 22:51:48: [telemenu.amxx] Cmd: "-rTg|maEsTrOo<3177><STEAM_0:1:154430568><>" teleport "DoZe<3169><STEAM_0:0:1518108911><>"
+L 02/17/2017 - 22:52:30: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:52:30: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:52:30: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:53:35: [adminchat.amxx] Chat: "ZALE<3198><STEAM_0:0:179153939><>" chat " mae"
+L 02/17/2017 - 22:53:38: [adminchat.amxx] Chat: "-rTg|maEsTrOo<3177><STEAM_0:1:154430568><>" chat "?"
+L 02/17/2017 - 22:53:40: [adminchat.amxx] Chat: "ZALE<3198><STEAM_0:0:179153939><>" chat " care mai e treaba pe server"
+L 02/17/2017 - 22:53:50: [adminchat.amxx] Chat: "-rTg|maEsTrOo<3177><STEAM_0:1:154430568><>" chat "niciuna"
+L 02/17/2017 - 22:53:50: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:53:50: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:53:50: [slayafk.amxx] JeffTheKiller a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:53:50: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:53:50: [adminchat.amxx] Chat: "-rTg|maEsTrOo<3177><STEAM_0:1:154430568><>" chat ":))"
+L 02/17/2017 - 22:53:54: [adminchat.amxx] Chat: "DnD<3195><STEAM_0:0:970363837><>" chat "mae"
+L 02/17/2017 - 22:53:54: [adminchat.amxx] Chat: "ZALE<3198><STEAM_0:0:179153939><>" chat " nimic nou?"
+L 02/17/2017 - 22:53:56: [adminchat.amxx] Chat: "-rTg|maEsTrOo<3177><STEAM_0:1:154430568><>" chat "?"
+L 02/17/2017 - 22:53:57: [adminchat.amxx] Chat: "-rTg|maEsTrOo<3177><STEAM_0:1:154430568><>" chat "nup"
+L 02/17/2017 - 22:53:58: [adminchat.amxx] Chat: "DnD<3195><STEAM_0:0:970363837><>" chat "dc imi apare 800"
+L 02/17/2017 - 22:54:02: [adminchat.amxx] Chat: "DnD<3195><STEAM_0:0:970363837><>" chat "cand eu joc 700"
+L 02/17/2017 - 22:55:09: [admin.amxx] Login: "-rTg|maEsTrOo<3208><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/17/2017 - 22:55:39: [adminchat.amxx] Chat: "ZALE<3198><STEAM_0:0:179153939><>" chat " eu vot"
+L 02/17/2017 - 22:55:53: [mapsmenu.amxx] Vote: "ZALE<3198><STEAM_0:0:179153939><>" vote maps (map#1 "deathrun_long_run") (map#2 "deathrun_christmas") (map#3 "") (map#4 "")
+L 02/17/2017 - 22:55:55: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:55:55: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:55:55: [slayafk.amxx] JeffTheKiller a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:55:55: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:56:05: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_long_run
+L 02/17/2017 - 22:56:22: [adminchat.amxx] Chat: "ZALE<3198><STEAM_0:0:179153939><>" chat " chiar"
+L 02/17/2017 - 22:56:25: [adminchat.amxx] Chat: "ZALE<3198><STEAM_0:0:179153939><>" chat " cine esti?"
+L 02/17/2017 - 22:56:32: [adminchat.amxx] Chat: "ZALE<3198><STEAM_0:0:179153939><>" chat " de imi comentezi votul?"
+L 02/17/2017 - 22:56:42: [adminchat.amxx] Chat: "DnD<3195><STEAM_0:0:970363837><>" chat "stifler"
+L 02/17/2017 - 22:56:43: [adminchat.amxx] Chat: "DnD<3195><STEAM_0:0:970363837><>" chat "sunt"
+L 02/17/2017 - 22:56:45: [adminchat.amxx] Chat: "ZALE<3198><STEAM_0:0:179153939><>" chat " :)"
+L 02/17/2017 - 22:57:38: [admin.amxx] Login: "Bidi<3209><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "bit") (address "93.118.236.54")
+L 02/17/2017 - 22:57:42: [admin.amxx] Login: "Bidi<3210><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "bit") (address "93.118.236.54")
+L 02/17/2017 - 22:58:05: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:58:05: [slayafk.amxx] JeffTheKiller a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:58:05: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:59:25: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:59:25: [slayafk.amxx] JeffTheKiller a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 22:59:25: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:00:10: [slayafk.amxx] Bidi a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:00:15: -------- Mapchange to deathrun_long_run --------
+L 02/17/2017 - 23:00:17: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 23:00:18: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 23:00:18: [admin.amxx] Login: "ZALE<3198><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.101.58.235")
+L 02/17/2017 - 23:00:18: [admin.amxx] Login: "Bidi<3210><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "bit") (address "93.118.236.54")
+L 02/17/2017 - 23:00:23: [admin.amxx] Login: "ZALE<3213><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.101.58.235")
+L 02/17/2017 - 23:00:32: [admin.amxx] Login: "ZALE<3217><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.101.58.235")
+L 02/17/2017 - 23:00:39: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "ZALE<3217><STEAM_0:0:179153939><>"
+L 02/17/2017 - 23:00:52: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:00:52: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:00:57: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:00:57: [slayafk.amxx] JeffTheKiller a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:01:27: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:01:27: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:02:17: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:02:17: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:02:17: [slayafk.amxx] JeffTheKiller a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:02:17: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:04:27: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:04:27: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:04:27: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:05:22: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:05:22: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:06:27: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:06:32: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:08:02: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:08:02: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:09:22: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:09:22: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:10:00: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "ssaacc.<3222><STEAM_0:0:1844758109><>"
+L 02/17/2017 - 23:10:18: [admincmd.amxx] Cmd: "Bidi<3210><STEAM_0:1:45864800><>" slay "ssaacc.<3222><STEAM_0:0:1844758109><>"
+L 02/17/2017 - 23:10:27: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:10:27: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:13:32: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:14:27: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:15:51: [admin.amxx] Login: "Pyky<3226><VALVE_0:4:1494801266><>" kicked due to invalid password (account "Pyky") (address "92.84.109.27")
+L 02/17/2017 - 23:15:52: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:16:15: [admin.amxx] Login: "Pyky<3227><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 02/17/2017 - 23:16:32: [slayafk.amxx] IrreguLar a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:17:22: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:19:59: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dNk|vLadDy<3237><VALVE_0:4:1630001011><>"
+L 02/17/2017 - 23:20:52: [admincmd.amxx] Cmd: "Bidi<3210><STEAM_0:1:45864800><>" ask for players list
+L 02/17/2017 - 23:21:27: [slayafk.amxx] A$AP Zhaar a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:21:27: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:21:54: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "PlayerHRHRT<3239><STEAM_0:0:69535170><>"
+L 02/17/2017 - 23:22:08: [admincmd.amxx] Cmd: "Bidi<3210><STEAM_0:1:45864800><>" slay "PlayerHRHRT<3239><STEAM_0:0:69535170><>"
+L 02/17/2017 - 23:22:14: [admincmd.amxx] Cmd: "Bidi<3210><STEAM_0:1:45864800><>" slay "PlayerHRHRT<3239><STEAM_0:0:69535170><>"
+L 02/17/2017 - 23:22:27: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:24:27: [slayafk.amxx] A$AP Zhaar a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:24:32: [slayafk.amxx] PlayerHRHRT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:28:47: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:28:52: [slayafk.amxx] A$AP Zhaar a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:29:42: [slayafk.amxx] A$AP Zhaar a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:29:42: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:30:05: [admincmd.amxx] Cmd: "Bidi<3210><STEAM_0:1:45864800><>" ask for players list
+L 02/17/2017 - 23:30:42: [slayafk.amxx] Bidi a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:30:42: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:32:11: [admin.amxx] Login: "Daky69<3243><STEAM_0:0:523798960><>" became an admin (account "Daky69") (access "bi") (address "109.96.108.176")
+L 02/17/2017 - 23:33:00: [admincmd.amxx] Cmd: "Daky69<3243><STEAM_0:0:523798960><>" slay "IrreguLar<3223><STEAM_0:1:101181073><>"
+L 02/17/2017 - 23:33:32: [slayafk.amxx] A$AP Zhaar a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:33:37: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:33:47: [admin.amxx] Login: "Daky69<3244><STEAM_0:0:523798960><>" became an admin (account "Daky69") (access "bi") (address "109.96.108.176")
+L 02/17/2017 - 23:35:42: [slayafk.amxx] **123** a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:38:02: [slayafk.amxx] IrreguLar a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:38:27: [slayafk.amxx] A$AP Zhaar a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:38:27: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:38:32: [slayafk.amxx] **123** a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:39:42: [slayafk.amxx] Daky69 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:39:47: [slayafk.amxx] A$AP Zhaar a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:39:47: [slayafk.amxx] **123** a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:39:47: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:41:25: [admin.amxx] Login: "Bidi<3248><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "bit") (address "93.118.236.54")
+L 02/17/2017 - 23:42:22: [adminchat.amxx] Chat: "Daky69<3244><STEAM_0:0:523798960><>" chat " dr_friends dr_scoobydoo si inca una"
+L 02/17/2017 - 23:42:50: [mapsmenu.amxx] Vote: "Bidi<3248><STEAM_0:1:45864800><>" vote maps (map#1 "deathrun_jigsaw2") (map#2 "deathrun_scooby-doo") (map#3 "") (map#4 "")
+L 02/17/2017 - 23:43:02: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_scooby-doo
+L 02/17/2017 - 23:43:22: [slayafk.amxx] A$AP Zhaar a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:43:22: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:44:12: [slayafk.amxx] **123** a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:45:02: [slayafk.amxx] A$AP Zhaar a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:45:02: [slayafk.amxx] Lucifer. # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/17/2017 - 23:47:05: -------- Mapchange to deathrun_scooby-doo --------
+L 02/17/2017 - 23:47:06: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 02/17/2017 - 23:47:07: [admin.amxx] Login: "Pyky<3227><VALVE_0:4:1494801266><>" became an admin (account "Pyky") (access "bi") (address "92.84.109.27")
+L 02/17/2017 - 23:47:07: [admin.amxx] Login: "Daky69<3244><STEAM_0:0:523798960><>" became an admin (account "Daky69") (access "bi") (address "109.96.108.176")
+L 02/17/2017 - 23:47:07: [walkguard.amxx] no zone-file found
+L 02/17/2017 - 23:47:07: [admin.amxx] Login: "Bidi<3248><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "bit") (address "93.118.236.54")
+L 02/17/2017 - 23:47:28: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "-Eq- George<3256><STEAM_0:1:182939447><>"
+L 02/17/2017 - 23:50:29: [admin.amxx] Login: "kaka<3258><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 02/17/2017 - 23:54:09: [admin.amxx] Login: "kaka<3259><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")

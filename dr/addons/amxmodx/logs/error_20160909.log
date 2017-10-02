@@ -1,0 +1,23 @@
+L 09/09/2016 - 10:38:46: Start of error session.
+L 09/09/2016 - 10:38:46: Info (map "deathrun_forest") (file "addons/amxmodx/logs/error_20160909.log")
+L 09/09/2016 - 10:38:46: [AMXX] Plugin file open error (plugin "chat_logger.amxx")
+L 09/09/2016 - 10:38:46: [AMXX] Plugin file open error (plugin "rom_protect.amxx")
+L 09/09/2016 - 10:38:46: [AMXX] Plugin file open error (plugin "amx_gag3.amxx")
+L 09/09/2016 - 10:38:46: [AMXX] Plugin file open error (plugin "dr.amxx")
+L 09/09/2016 - 10:40:36: Start of error session.
+L 09/09/2016 - 10:40:36: Info (map "deathrun_surf") (file "addons/amxmodx/logs/error_20160909.log")
+L 09/09/2016 - 10:40:36: [AMXX] Plugin file open error (plugin "chat_logger.amxx")
+L 09/09/2016 - 10:40:36: [AMXX] Plugin file open error (plugin "rom_protect.amxx")
+L 09/09/2016 - 10:40:36: [AMXX] Plugin file open error (plugin "amx_gag3.amxx")
+L 09/09/2016 - 10:40:36: [AMXX] Plugin file open error (plugin "dr.amxx")
+L 09/09/2016 - 10:46:09: Start of error session.
+L 09/09/2016 - 10:46:09: Info (map "deathrun_forest") (file "addons/amxmodx/logs/error_20160909.log")
+L 09/09/2016 - 10:46:09: [AMXX] Plugin file open error (plugin "rom_protect.amxx")
+L 09/09/2016 - 10:46:09: [AMXX] Plugin file open error (plugin "bhop.amxx")
+L 09/09/2016 - 10:46:09: [AMXX] Plugin file open error (plugin "dr.amxx")
+L 09/09/2016 - 15:02:13: Start of error session.
+L 09/09/2016 - 15:02:13: Info (map "deathrun_2010_rmk") (file "addons/amxmodx/logs/error_20160909.log")
+L 09/09/2016 - 15:02:13: [CSTRIKE] Invalid player 4
+L 09/09/2016 - 15:02:13: [AMXX] Displaying debug trace (plugin "newtero3.amxx", version "1.0")
+L 09/09/2016 - 15:02:13: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 09/09/2016 - 15:02:13: [AMXX]    [0] newtero3.sma::askTero (line 346)

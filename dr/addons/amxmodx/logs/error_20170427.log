@@ -1,0 +1,14 @@
+L 04/27/2017 - 01:57:13: Start of error session.
+L 04/27/2017 - 01:57:13: Info (map "deathrun_2h_estonia") (file "addons/amxmodx/logs/error_20170427.log")
+L 04/27/2017 - 01:57:13: Forward-ul nu s-a putut executa.
+L 04/27/2017 - 01:57:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 04/27/2017 - 01:57:13: [AMXX] Run time error 1: forced exit 
+L 04/27/2017 - 01:57:13: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 04/27/2017 - 01:57:13: [AMXX]    [1] comp_timer2.sma::makeMapTop (line 579)
+L 04/27/2017 - 19:25:53: Start of error session.
+L 04/27/2017 - 19:25:53: Info (map "deathrun_gohard_final") (file "addons/amxmodx/logs/error_20170427.log")
+L 04/27/2017 - 19:25:53: [AMXX] Plugin ("gravity.amxx") is setting itself as failed.
+L 04/27/2017 - 19:25:53: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.104.2' (4)
+L 04/27/2017 - 19:25:53: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 04/27/2017 - 19:25:53: Forward-ul nu s-a putut executa.
+L 04/27/2017 - 19:25:53: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit

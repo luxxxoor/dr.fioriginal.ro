@@ -1,0 +1,11 @@
+include <amxmodx>
+ 
+public plugin_init() 
+{
+  register_plugin( "Reload Admins", "1.0", "CoLd- #Lunetistii.Ro" ); 
+  register_logevent("runda_start", 2, "1=Round_Start");
+}
+ 
+public runda_start( id ) {
+server_cmd("amx_reloadadmins");
+}

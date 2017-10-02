@@ -1,0 +1,143 @@
+L 12/17/2016 - 11:49:24: Start of error session.
+L 12/17/2016 - 11:49:24: Info (map "deathrun_av2009_recolored-ez") (file "addons/amxmodx/logs/error_20161217.log")
+L 12/17/2016 - 11:49:24: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 11:49:24: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 11:49:24: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 11:49:24: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 11:49:24: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 11:51:38: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 11:51:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 11:51:38: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 11:51:38: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 11:51:38: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 11:51:38: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 11:51:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 11:51:38: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 11:51:38: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 11:51:38: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 11:51:38: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 11:51:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 11:51:38: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 11:51:38: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 11:51:38: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 11:51:43: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 11:51:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 11:51:43: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 11:51:43: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 11:51:43: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 11:54:07: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 11:54:07: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 11:54:07: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 11:54:07: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 11:54:07: [AMXX]    [1] comp_timer2.sma::checkIfNameExists (line 706)
+L 12/17/2016 - 13:13:17: Start of error session.
+L 12/17/2016 - 13:13:17: Info (map "deathrun_clarion_dojo_b3") (file "addons/amxmodx/logs/error_20161217.log")
+L 12/17/2016 - 13:13:17: [CSTRIKE] Invalid player 15
+L 12/17/2016 - 13:13:17: [AMXX] Displaying debug trace (plugin "newtero3.amxx", version "1.0")
+L 12/17/2016 - 13:13:17: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 12/17/2016 - 13:13:17: [AMXX]    [0] newtero3.sma::askTero (line 393)
+L 12/17/2016 - 14:58:12: Start of error session.
+L 12/17/2016 - 14:58:12: Info (map "deathrun_av2009_recolored-ez") (file "addons/amxmodx/logs/error_20161217.log")
+L 12/17/2016 - 14:58:12: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 14:58:12: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 14:58:12: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 14:58:12: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 14:58:12: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 14:58:12: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 14:58:12: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 14:58:12: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 14:58:12: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 14:58:12: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 15:27:14: Start of error session.
+L 12/17/2016 - 15:27:14: Info (map "deathrun_expres-game") (file "addons/amxmodx/logs/error_20161217.log")
+L 12/17/2016 - 15:27:14: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 15:27:14: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 15:27:14: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 15:27:14: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 173)
+L 12/17/2016 - 15:27:14: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 16:06:25: Start of error session.
+L 12/17/2016 - 16:06:25: Info (map "deathrun_inferno_beta1") (file "addons/amxmodx/logs/error_20161217.log")
+L 12/17/2016 - 16:06:25: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 16:06:25: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 16:06:25: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 16:06:25: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 16:06:25: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 16:06:26: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 16:06:26: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 16:06:26: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 16:06:26: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 16:06:26: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 16:06:26: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 16:06:26: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 16:06:26: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 16:06:26: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 16:06:26: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 16:09:04: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 16:09:04: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 16:09:04: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 16:09:04: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 16:09:04: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 19:18:15: Start of error session.
+L 12/17/2016 - 19:18:15: Info (map "deathrun_mib-easy") (file "addons/amxmodx/logs/error_20161217.log")
+L 12/17/2016 - 19:18:15: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 19:18:15: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/17/2016 - 22:02:55: Start of error session.
+L 12/17/2016 - 22:02:55: Info (map "deathrun_clarion_dojo_b3") (file "addons/amxmodx/logs/error_20161217.log")
+L 12/17/2016 - 22:02:55: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 22:02:55: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 22:02:55: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 22:02:55: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 22:02:55: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 22:02:55: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 22:02:55: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 22:02:55: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 22:02:55: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 22:02:55: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 22:02:55: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 22:02:55: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 22:02:55: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 22:02:55: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 22:02:55: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 22:03:27: Forward-ul nu s-a putut executa.
+L 12/17/2016 - 22:03:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/17/2016 - 22:03:27: [AMXX] Run time error 1: forced exit 
+L 12/17/2016 - 22:03:27: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/17/2016 - 22:03:27: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/17/2016 - 23:51:29: Start of error session.
+L 12/17/2016 - 23:51:29: Info (map "deathrun_crash_future") (file "addons/amxmodx/logs/error_20161217.log")
+L 12/17/2016 - 23:51:29: [FUN] Invalid player 7
+L 12/17/2016 - 23:51:29: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "strip_user_weapons") - debug not enabled!
+L 12/17/2016 - 23:51:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/17/2016 - 23:51:30: [FUN] Invalid player 9
+L 12/17/2016 - 23:51:30: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "strip_user_weapons") - debug not enabled!
+L 12/17/2016 - 23:51:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/17/2016 - 23:51:36: [FUN] Invalid player 11
+L 12/17/2016 - 23:51:36: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "strip_user_weapons") - debug not enabled!
+L 12/17/2016 - 23:51:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/17/2016 - 23:51:38: [FUN] Invalid player 5
+L 12/17/2016 - 23:51:38: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "strip_user_weapons") - debug not enabled!
+L 12/17/2016 - 23:51:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/17/2016 - 23:51:43: [FUN] Invalid player 4
+L 12/17/2016 - 23:51:43: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "strip_user_weapons") - debug not enabled!
+L 12/17/2016 - 23:51:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/17/2016 - 23:51:43: [FUN] Invalid player 12
+L 12/17/2016 - 23:51:43: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "strip_user_weapons") - debug not enabled!
+L 12/17/2016 - 23:51:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/17/2016 - 23:51:46: [FUN] Invalid player 17
+L 12/17/2016 - 23:51:46: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "strip_user_weapons") - debug not enabled!
+L 12/17/2016 - 23:51:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/17/2016 - 23:51:49: [FUN] Invalid player 8
+L 12/17/2016 - 23:51:49: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "strip_user_weapons") - debug not enabled!
+L 12/17/2016 - 23:51:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/17/2016 - 23:52:13: [FUN] Invalid player 15
+L 12/17/2016 - 23:52:13: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "strip_user_weapons") - debug not enabled!
+L 12/17/2016 - 23:52:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/17/2016 - 23:53:10: [FUN] Invalid player 10
+L 12/17/2016 - 23:53:10: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "strip_user_weapons") - debug not enabled!
+L 12/17/2016 - 23:53:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/17/2016 - 23:56:02: [FUN] Invalid player 5
+L 12/17/2016 - 23:56:02: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "strip_user_weapons") - debug not enabled!
+L 12/17/2016 - 23:56:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 12/17/2016 - 23:56:21: [FUN] Invalid player 6
+L 12/17/2016 - 23:56:21: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "strip_user_weapons") - debug not enabled!
+L 12/17/2016 - 23:56:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

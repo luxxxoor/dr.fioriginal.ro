@@ -1,0 +1,59 @@
+L 12/27/2016 - 12:19:05: Start of error session.
+L 12/27/2016 - 12:19:05: Info (map "deathrun_trap_canyon") (file "addons/amxmodx/logs/error_20161227.log")
+L 12/27/2016 - 12:19:05: [AMXX] Plugin ("allchat3.amxx") is setting itself as failed.
+L 12/27/2016 - 12:19:05: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.104.2' (4)
+L 12/27/2016 - 12:19:05: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/27/2016 - 12:19:05: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 12:19:05: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/27/2016 - 12:58:32: Start of error session.
+L 12/27/2016 - 12:58:32: Info (map "deathrun_laserspace") (file "addons/amxmodx/logs/error_20161227.log")
+L 12/27/2016 - 12:58:32: String formatted incorrectly - parameter 2 (total 1)
+L 12/27/2016 - 12:58:32: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/27/2016 - 12:58:32: [AMXX] Run time error 25: parameter error 
+L 12/27/2016 - 12:58:32: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/27/2016 - 14:08:51: Start of error session.
+L 12/27/2016 - 14:08:51: Info (map "deathrun_expres-game") (file "addons/amxmodx/logs/error_20161227.log")
+L 12/27/2016 - 14:08:51: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 14:08:51: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/27/2016 - 14:50:29: Start of error session.
+L 12/27/2016 - 14:50:29: Info (map "deathrun_clarion_dojo_b3") (file "addons/amxmodx/logs/error_20161227.log")
+L 12/27/2016 - 14:50:29: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 14:50:29: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/27/2016 - 15:27:26: String formatted incorrectly - parameter 2 (total 1)
+L 12/27/2016 - 15:27:26: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/27/2016 - 15:27:26: [AMXX] Run time error 25: parameter error 
+L 12/27/2016 - 15:27:26: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/27/2016 - 16:03:37: Start of error session.
+L 12/27/2016 - 16:03:37: Info (map "deathrun_laikiux_pizdec") (file "addons/amxmodx/logs/error_20161227.log")
+L 12/27/2016 - 16:03:37: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 16:03:37: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/27/2016 - 17:59:33: Start of error session.
+L 12/27/2016 - 17:59:33: Info (map "deathrun_mici_f") (file "addons/amxmodx/logs/error_20161227.log")
+L 12/27/2016 - 17:59:33: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 17:59:33: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/27/2016 - 19:24:54: Start of error session.
+L 12/27/2016 - 19:24:54: Info (map "deathrun_mici_f") (file "addons/amxmodx/logs/error_20161227.log")
+L 12/27/2016 - 19:24:54: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 19:24:54: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/27/2016 - 20:21:36: Start of error session.
+L 12/27/2016 - 20:21:36: Info (map "deathrun_clarion_dojo_b3") (file "addons/amxmodx/logs/error_20161227.log")
+L 12/27/2016 - 20:21:36: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 20:21:36: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 12/27/2016 - 20:21:59: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 20:21:59: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 12/27/2016 - 20:22:12: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 20:22:12: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 12/27/2016 - 20:22:12: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 20:22:12: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 12/27/2016 - 20:22:55: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 20:22:55: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 12/27/2016 - 20:23:07: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 20:23:07: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 12/27/2016 - 20:23:22: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 20:23:22: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 12/27/2016 - 22:23:38: Start of error session.
+L 12/27/2016 - 22:23:38: Info (map "deathrun_expres-winter") (file "addons/amxmodx/logs/error_20161227.log")
+L 12/27/2016 - 22:23:38: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 22:23:38: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/27/2016 - 22:40:55: Forward-ul nu s-a putut executa.
+L 12/27/2016 - 22:40:55: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit

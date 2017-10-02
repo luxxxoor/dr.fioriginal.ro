@@ -1,0 +1,55 @@
+[en]
+;SERVER_MSG_1 = You should add your own messages.\nLook at the server_messages.txt.\n(./cstrike/addons/amxmodx/data/lang/server_messages.txt)
+;SERVER_MSG_2 = You can add more messages.\nPlease use a consecutive numbering.
+;SERVER_MSG_3 = Use ''\*n'' without ''*'' to create a word wrap.\nHello World.
+;SERVER_MSG_4 = Valid placeholders:\nHostname: #hostname#\nPlayername: #playername#\nNextmap: #nextmap#\nCurrentmap: #currentmap#\nTime: #time#\nTimeleft: #timeleft#\nPlaytime: #playtime#
+
+;SERVER_RULE_1 = Cheating will be result in a permanent ban.
+;SERVER_RULE_2 = Advertisement and voicespamming are not allowed.
+;SERVER_RULE_3 = Intentionally teamattacks and teamkills are not allowed.\nThis behavior will be result in a ban.\nThe length of the ban depends of the admin.
+
+SERVER_INFO_1 = Pentru a-ti rezerva numele, scrie !slot !
+SERVER_INFO_2 = Pentru a fi unul din Admini, apasati pe Y si scrieti !preturi.
+SERVER_INFO_3 = La VIP pentru a avea Scout scrie !scout !
+
+SM_NO_CLIENT = None player found.
+SM_ERROR_FILE = [ERROR] File not found. (%s)
+SM_ERROR_SEARCH = [ERROR] Can't set the search parameter.
+SM_ERROR_NUMBER = [ERROR] Second parameter must be a number.
+SM_ERROR_MESSAGE = [ERROR] Message not found.
+SM_RULE_PREFIX = Rule %i:
+SM_START_MSG_LISTING = Server Messages
+SM_START_RULE_LISTING = Server Rules
+SM_START_INFO_LISTING = Server Informations
+SM_RESTART_THE_GAME = You should restart the game to activate\nsome new features for Counter-Strike.
+SM_CAN_NOT_READ = If you can not read the messages on the top\nright corner, you should restart the game.
+SM_PRINT_LOG = Admin %s sent a message to %s. (Message: %s, Mode %i)
+SM_CUSTOM_USAGE = Usage: amx_print_custom @ALL ''Have fun and good luck'' 4 2
+
+[de]
+SERVER_MSG_1 = Du solltest deine eigenen Nachrichten hinzufügen.\nSiehe in die server_messages.txt.\n(./cstrike/addons/amxmodx/data/lang/server_messages.txt)
+SERVER_MSG_2 = Du kannst mehr Nachrichten hinzufügen.\nBitte benutze eine fortlaufende Nummerierung.
+SERVER_MSG_3 = Benutze ''\*n'' ohne ''*'' um einen Zeilenumbruch zu erzeugen.\nHallo Welt.
+SERVER_MSG_4 = Gültige Platzhalter:\nServername: #hostname#\nSpielername: #playername#\nNächste Map: #nextmap#\nAktuelle Map: #currentmap#\nUhrzeit: #time#\nNoch zu spielen: #timeleft#\nSpielzeit: #playtime#
+
+SERVER_RULE_1 = Cheaten wird mit einem permanenten Bann bestarft.
+SERVER_RULE_2 = Werbung und Voicespam sind nicht erlaubt.
+SERVER_RULE_3 = Absichtliche Teamangriffe und Teamkills sind nicht erlaubt.\nDieses Benehmen wird mit einem Bann bestraft.\nDie Länge des Bannes liegt im ermessen des Admins.
+
+SERVER_INFO_1 = Lade dir unser Soundpack herunter von\nxxx.xxxx-xxxxxxxx.xx
+SERVER_INFO_2 = Besuche unser Forum auf\nxxx.xxxx-xxxxxxxx.xx
+SERVER_INFO_3 = Schreibe ''amx_list_rule'' in die Konsole um alle Regeln zu lesen.
+
+SM_NO_CLIENT = Keinen Spieler gefunden.
+SM_ERROR_FILE = [ERROR] Datei nicht gefunden. (%s)
+SM_ERROR_SEARCH = [ERROR] Ungültiger Suchparameter.
+SM_ERROR_NUMBER = [ERROR] Der zweite Parameter muss eine Zahl sein.
+SM_ERROR_MESSAGE = [ERROR] Nachricht wurde nicht gefunden.
+SM_RULE_PREFIX = Regel %i:
+SM_START_MSG_LISTING = Server Nachrichten
+SM_START_RULE_LISTING = Server Reglen
+SM_START_INFO_LISTING = Server Informationen
+SM_RESTART_THE_GAME = Du solltest das Spiel neu starten, um\nneue Funktionen für Counter-Strike zu aktivieren.
+SM_CAN_NOT_READ = Wenn du keine Nachrichten in der oberen rechten\nEcke lesen kannst, solltest du das Spiel neu starten.
+SM_PRINT_LOG = Admin %s sendete eine Nachricht zu %s. (Message: %s, Mode %i)
+SM_CUSTOM_USAGE = Usage: amx_print_custom @ALL ''Have fun and good luck'' 4 2

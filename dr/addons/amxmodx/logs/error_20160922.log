@@ -1,0 +1,6 @@
+L 09/22/2016 - 19:09:48: Start of error session.
+L 09/22/2016 - 19:09:48: Info (map "deathrun_clarion_dojo_b3") (file "addons/amxmodx/logs/error_20160922.log")
+L 09/22/2016 - 19:09:48: [CSTRIKE] Invalid player 11
+L 09/22/2016 - 19:09:48: [AMXX] Displaying debug trace (plugin "newtero3.amxx", version "1.0")
+L 09/22/2016 - 19:09:48: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 09/22/2016 - 19:09:48: [AMXX]    [0] newtero3.sma::askTero (line 346)

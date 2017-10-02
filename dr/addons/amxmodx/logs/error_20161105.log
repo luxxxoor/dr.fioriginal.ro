@@ -1,0 +1,30 @@
+L 11/05/2016 - 14:09:04: Start of error session.
+L 11/05/2016 - 14:09:04: Info (map "deathrun_genius") (file "addons/amxmodx/logs/error_20161105.log")
+L 11/05/2016 - 14:09:04: [AMXX] Plugin ("gravity.amxx") is setting itself as failed.
+L 11/05/2016 - 14:09:04: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.104.2' (4)
+L 11/05/2016 - 14:09:04: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 11/05/2016 - 14:21:06: Start of error session.
+L 11/05/2016 - 14:21:06: Info (map "deathrun_genius") (file "addons/amxmodx/logs/error_20161105.log")
+L 11/05/2016 - 14:21:06: [AMXX] Plugin ("advanced_bans_sql.amxx") is setting itself as failed.
+L 11/05/2016 - 14:21:06: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.233.75' (4)
+L 11/05/2016 - 14:21:06: [AMXX] Displaying debug trace (plugin "advanced_bans_sql.amxx", version "0.8.1")
+L 11/05/2016 - 14:21:06: [AMXX] Run time error 1: forced exit 
+L 11/05/2016 - 14:21:06: [AMXX]    [0] advanced_bans_sql.sma::onSqlConnection (line 106)
+L 11/05/2016 - 14:22:06: [AMXX] Plugin ("gravity.amxx") is setting itself as failed.
+L 11/05/2016 - 14:22:06: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.233.75' (4)
+L 11/05/2016 - 14:22:06: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 11/05/2016 - 14:24:48: Start of error session.
+L 11/05/2016 - 14:24:48: Info (map "deathrun_forest") (file "addons/amxmodx/logs/error_20161105.log")
+L 11/05/2016 - 14:24:48: [AMXX] Plugin ("advanced_bans_sql.amxx") is setting itself as failed.
+L 11/05/2016 - 14:24:48: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.233.75' (4)
+L 11/05/2016 - 14:24:48: [AMXX] Displaying debug trace (plugin "advanced_bans_sql.amxx", version "0.8.1")
+L 11/05/2016 - 14:24:48: [AMXX] Run time error 1: forced exit 
+L 11/05/2016 - 14:24:48: [AMXX]    [0] advanced_bans_sql.sma::onSqlConnection (line 106)
+L 11/05/2016 - 21:28:44: Start of error session.
+L 11/05/2016 - 21:28:44: Info (map "deathrun_latexx") (file "addons/amxmodx/logs/error_20161105.log")
+L 11/05/2016 - 21:28:44: [FAKEMETA] Invalid entity
+L 11/05/2016 - 21:28:44: [AMXX] Displaying debug trace (plugin "use_button_once.amxx", version "1.3")
+L 11/05/2016 - 21:28:44: [AMXX] Run time error 10: native error (native "pev")
+L 11/05/2016 - 21:28:44: [AMXX]    [0] use_button_once.sma::get_ent_index (line 225)
+L 11/05/2016 - 21:28:44: [AMXX]    [1] use_button_once.sma::set_start_value (line 212)
+L 11/05/2016 - 21:28:44: [AMXX]    [2] use_button_once.sma::plugin_cfg (line 173)

@@ -1,0 +1,372 @@
+L 05/26/2017 - 12:02:18: Start of error session.
+L 05/26/2017 - 12:02:18: Info (map "deathrun_jinglebells") (file "addons/amxmodx/logs/error_20170526.log")
+L 05/26/2017 - 12:02:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:02:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:02:18: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:02:18: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:02:18: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 187)
+L 05/26/2017 - 12:03:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:03:18: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 05/26/2017 - 12:03:18: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:03:18: [AMXX]    [0] revive2.sma::checkSQLConditions (line 488)
+L 05/26/2017 - 12:03:18: [AMXX]    [1] revive2.sma::getSettings (line 314)
+L 05/26/2017 - 12:04:18: [AMXX] Plugin ("gravity.amxx") is setting itself as failed.
+L 05/26/2017 - 12:04:18: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.104.2' (4)
+L 05/26/2017 - 12:04:18: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 05/26/2017 - 12:04:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:04:18: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 05/26/2017 - 12:05:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:05:18: [AMXX] Run time error 1 (plugin "bhop.amxx") - forced exit
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 3 (plugin "pistols_sql.amxx") - debug not enabled!
+L 05/26/2017 - 12:13:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:13:18: [AMXX]    [0] revive2.sma::checkSQLConditions (line 488)
+L 05/26/2017 - 12:13:18: [AMXX]    [1] revive2.sma::addInSql (line 54)
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:13:18: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:13:18: [AMXX]    [1] comp_timer2.sma::getBestRecord (line 107)
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:13:18: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:13:18: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:13:18: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:13:18: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 12:13:18: [AMXX] Plugin ("advanced_bans_sql.amxx") is setting itself as failed.
+L 05/26/2017 - 12:13:18: [AMXX] Plugin says: Could not connect to database.
+L 05/26/2017 - 12:13:18: [AMXX] Displaying debug trace (plugin "advanced_bans_sql.amxx", version "0.8.1")
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:13:18: [AMXX]    [0] advanced_bans_sql.sma::QueryLoadBans (line 694)
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 05/26/2017 - 12:13:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:13:18: [AMXX] Run time error 1 (plugin "bhop.amxx") - forced exit
+L 05/26/2017 - 12:14:18: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:14:18: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 05/26/2017 - 12:14:18: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:14:18: [AMXX]    [0] revive2.sma::checkSQLConditions (line 488)
+L 05/26/2017 - 12:14:18: [AMXX]    [1] revive2.sma::addInSql (line 54)
+L 05/26/2017 - 12:27:19: Start of error session.
+L 05/26/2017 - 12:27:19: Info (map "deathrun_long_run") (file "addons/amxmodx/logs/error_20170526.log")
+L 05/26/2017 - 12:27:19: [AMXX] Plugin ("advanced_bans_sql.amxx") is setting itself as failed.
+L 05/26/2017 - 12:27:19: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.104.2' (4)
+L 05/26/2017 - 12:27:19: [AMXX] Displaying debug trace (plugin "advanced_bans_sql.amxx", version "0.8.1")
+L 05/26/2017 - 12:27:19: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:27:19: [AMXX]    [0] advanced_bans_sql.sma::onSqlConnection (line 106)
+L 05/26/2017 - 12:28:19: [AMXX] Plugin ("gravity.amxx") is setting itself as failed.
+L 05/26/2017 - 12:28:19: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.104.2' (4)
+L 05/26/2017 - 12:28:19: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 05/26/2017 - 12:36:19: [AMXX] Run time error 3 (plugin "pistols_sql.amxx") - debug not enabled!
+L 05/26/2017 - 12:36:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/26/2017 - 12:36:19: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:19: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:36:19: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:19: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:36:19: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:19: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:36:19: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:19: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:36:19: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:19: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:36:19: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:19: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:36:19: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:19: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:36:19: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:19: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 12:36:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:20: [AMXX] Run time error 1 (plugin "bhop.amxx") - forced exit
+L 05/26/2017 - 12:36:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:36:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:36:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:36:20: [AMXX]    [1] comp_timer2.sma::getBestRecord (line 107)
+L 05/26/2017 - 12:36:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:36:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:36:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:36:20: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 12:36:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:36:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:36:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:36:20: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 12:36:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:36:20: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 05/26/2017 - 12:36:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:36:20: [AMXX]    [0] revive2.sma::checkSQLConditions (line 488)
+L 05/26/2017 - 12:36:20: [AMXX]    [1] revive2.sma::addInSql (line 54)
+L 05/26/2017 - 12:37:19: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:37:19: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 05/26/2017 - 12:38:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:38:20: [AMXX] Run time error 1 (plugin "bhop.amxx") - forced exit
+L 05/26/2017 - 12:38:57: [FUN] Item "weapon_glo" failed to create
+L 05/26/2017 - 12:38:57: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 05/26/2017 - 12:38:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/26/2017 - 12:39:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:39:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:39:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:39:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:39:20: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 12:40:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:40:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:40:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:40:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:40:20: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 12:40:23: [FUN] Item "weapon_glo" failed to create
+L 05/26/2017 - 12:40:23: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 05/26/2017 - 12:40:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/26/2017 - 12:41:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:41:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:41:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:41:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:41:20: [AMXX]    [1] comp_timer2.sma::getBestRecord (line 107)
+L 05/26/2017 - 12:42:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:42:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:42:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:42:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:42:20: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 12:43:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:43:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:43:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:43:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:43:20: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 12:43:54: [FUN] Item "weapon_glo" failed to create
+L 05/26/2017 - 12:43:54: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 05/26/2017 - 12:43:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/26/2017 - 12:49:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:49:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:49:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:49:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:49:20: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 187)
+L 05/26/2017 - 12:50:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:50:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:50:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:50:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:50:20: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 187)
+L 05/26/2017 - 12:51:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:51:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:51:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:51:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:51:20: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 187)
+L 05/26/2017 - 12:52:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:52:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 12:52:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:52:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 12:52:20: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 187)
+L 05/26/2017 - 12:53:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:53:20: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 05/26/2017 - 12:53:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 12:53:20: [AMXX]    [0] revive2.sma::checkSQLConditions (line 488)
+L 05/26/2017 - 12:53:20: [AMXX]    [1] revive2.sma::getSettings (line 314)
+L 05/26/2017 - 12:53:42: [FUN] Item "weapon_glo" failed to create
+L 05/26/2017 - 12:53:42: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 05/26/2017 - 12:53:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/26/2017 - 12:54:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 12:54:20: [AMXX] Run time error 1 (plugin "bhop.amxx") - forced exit
+L 05/26/2017 - 13:02:20: [AMXX] Run time error 3 (plugin "pistols_sql.amxx") - debug not enabled!
+L 05/26/2017 - 13:02:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/26/2017 - 13:02:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:02:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:02:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:02:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:02:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:02:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:02:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:02:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:02:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:02:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:02:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:02:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:02:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:02:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:02:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:02:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:02:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:02:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:07:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:07:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:07:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:07:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:07:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:07:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:07:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:07:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:07:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:07:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:07:45: [FUN] Item "weapon_usp" failed to create
+L 05/26/2017 - 13:07:45: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 05/26/2017 - 13:07:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/26/2017 - 13:12:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:12:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 13:12:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 13:12:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 13:12:20: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 187)
+L 05/26/2017 - 13:13:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:13:20: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 05/26/2017 - 13:13:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 13:13:20: [AMXX]    [0] revive2.sma::checkSQLConditions (line 488)
+L 05/26/2017 - 13:13:20: [AMXX]    [1] revive2.sma::getSettings (line 314)
+L 05/26/2017 - 13:14:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:14:20: [AMXX] Run time error 1 (plugin "bhop.amxx") - forced exit
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 3 (plugin "pistols_sql.amxx") - debug not enabled!
+L 05/26/2017 - 13:22:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 13:22:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 13:22:20: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 187)
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 13:22:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 13:22:20: [AMXX]    [1] comp_timer2.sma::getBestRecord (line 107)
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 13:22:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 13:22:20: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 13:22:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:22:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 13:22:20: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 13:22:20: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 13:22:20: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 13:26:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:26:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:26:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:26:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:26:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:26:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:26:20: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:26:20: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 3 (plugin "pistols_sql.amxx") - debug not enabled!
+L 05/26/2017 - 13:38:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 13:38:21: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 13:38:21: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 13:38:21: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 13:38:21: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 13:38:21: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 13:38:21: [AMXX]    [1] comp_timer2.sma::getBestRecord (line 107)
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 13:38:21: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 13:38:21: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 13:38:21: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 13:38:21: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 05/26/2017 - 13:38:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 13:38:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 13:38:21: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 13:38:21: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 13:38:21: [AMXX]    [1] comp_timer2.sma::getBestRecord (line 107)
+L 05/26/2017 - 15:02:21: [MySQL] Thread worker was unable to start.
+L 05/26/2017 - 15:02:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 15:02:21: [AMXX] Run time error 10: native error (native "SQL_ThreadQuery")
+L 05/26/2017 - 15:02:21: [AMXX]    [0] comp_timer2.sma::onSqlConnection (line 93)
+L 05/26/2017 - 15:02:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 15:02:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 15:02:21: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 15:02:21: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 15:02:21: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 15:02:21: [MySQL] Thread worker was unable to start.
+L 05/26/2017 - 15:02:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 15:02:21: [AMXX] Run time error 10: native error (native "SQL_ThreadQuery")
+L 05/26/2017 - 15:02:21: [AMXX]    [0] comp_timer2.sma::onSqlConnection (line 93)
+L 05/26/2017 - 15:02:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 15:02:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 15:02:21: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 15:02:21: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 15:02:21: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)
+L 05/26/2017 - 15:02:21: [MySQL] Thread worker was unable to start.
+L 05/26/2017 - 15:02:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 15:02:21: [AMXX] Run time error 10: native error (native "SQL_ThreadQuery")
+L 05/26/2017 - 15:02:21: [AMXX]    [0] comp_timer2.sma::onSqlConnection (line 93)
+L 05/26/2017 - 15:02:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 15:02:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 15:02:21: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 15:02:21: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 15:02:21: [AMXX]    [1] comp_timer2.sma::getBestRecord (line 107)
+L 05/26/2017 - 15:02:21: [MySQL] Thread worker was unable to start.
+L 05/26/2017 - 15:02:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 15:02:21: [AMXX] Run time error 10: native error (native "SQL_ThreadQuery")
+L 05/26/2017 - 15:02:21: [AMXX]    [0] comp_timer2.sma::onSqlConnection (line 93)
+L 05/26/2017 - 15:02:21: Forward-ul nu s-a putut executa.
+L 05/26/2017 - 15:02:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 05/26/2017 - 15:02:21: [AMXX] Run time error 1: forced exit 
+L 05/26/2017 - 15:02:21: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 05/26/2017 - 15:02:21: [AMXX]    [1] comp_timer2.sma::addInSql (line 809)

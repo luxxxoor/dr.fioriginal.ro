@@ -1,0 +1,108 @@
+L 10/14/2016 - 11:47:43: Start of error session.
+L 10/14/2016 - 11:47:43: Info (map "deathrun_snow_wind_v2") (file "addons/amxmodx/logs/error_20161014.log")
+L 10/14/2016 - 11:47:43: [AMXX] Plugin ("advanced_bans_sql.amxx") is setting itself as failed.
+L 10/14/2016 - 11:47:43: [AMXX] Plugin says: Could not connect to database.
+L 10/14/2016 - 11:47:43: [AMXX] Displaying debug trace (plugin "advanced_bans_sql.amxx", version "0.8.1")
+L 10/14/2016 - 11:47:43: [AMXX] Run time error 1: forced exit 
+L 10/14/2016 - 11:47:43: [AMXX]    [0] advanced_bans_sql.sma::QueryLoadBans (line 694)
+L 10/14/2016 - 11:59:30: [AMXX] Run time error 3 (plugin "pistols_sql.amxx") - debug not enabled!
+L 10/14/2016 - 11:59:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 11:59:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 11:59:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 11:59:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 11:59:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 11:59:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 11:59:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 11:59:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 11:59:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 11:59:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 11:59:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 11:59:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 11:59:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 11:59:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 11:59:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 11:59:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 11:59:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 11:59:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 11:59:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 12:07:30: [AMXX] Run time error 3 (plugin "pistols_sql.amxx") - debug not enabled!
+L 10/14/2016 - 12:07:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 12:07:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 12:07:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 12:07:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 12:07:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 12:07:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 12:07:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 12:07:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 12:07:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 12:07:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 12:07:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 12:07:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 12:07:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 12:07:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 12:07:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 12:07:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 12:07:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 12:07:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 12:07:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 12:09:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 12:09:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 12:09:30: Forward-ul nu s-a putut executa.
+L 10/14/2016 - 12:09:30: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 10/14/2016 - 12:23:10: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 12:23:10: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 12:23:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 12:26:31: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 12:26:31: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 12:26:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 12:33:46: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 12:33:46: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 12:33:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 12:41:55: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 12:41:55: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 12:41:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 12:42:44: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 12:42:44: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 12:42:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 12:45:25: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 12:45:25: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 12:45:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 12:46:59: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 12:46:59: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 12:46:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 12:49:44: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 12:49:44: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 12:49:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 12:50:55: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 12:50:55: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 12:50:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 12:53:12: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 12:53:12: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 12:53:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 13:01:18: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 13:01:18: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 13:01:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 13:01:21: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 13:01:21: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 13:01:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 13:01:25: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 13:01:25: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 13:01:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 13:01:32: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 13:01:32: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 13:01:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 13:03:55: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 13:03:55: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 13:03:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 13:05:43: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 13:05:43: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 13:05:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 13:09:02: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 13:09:02: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 13:09:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 13:09:02: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 13:09:02: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 13:09:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/14/2016 - 13:09:44: [FUN] Item "weapon_glock1:4" failed to create
+L 10/14/2016 - 13:09:44: [AMXX] Run time error 10 (plugin "pistols_sql.amxx") (native "give_item") - debug not enabled!
+L 10/14/2016 - 13:09:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

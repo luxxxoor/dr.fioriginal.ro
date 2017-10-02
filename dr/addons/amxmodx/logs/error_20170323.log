@@ -1,0 +1,9 @@
+L 03/23/2017 - 11:51:21: Start of error session.
+L 03/23/2017 - 11:51:21: Info (map "deathrun_standup2") (file "addons/amxmodx/logs/error_20170323.log")
+L 03/23/2017 - 11:51:21: [AMXX] Plugin ("gravity.amxx") is setting itself as failed.
+L 03/23/2017 - 11:51:21: [AMXX] Plugin says: Can't connect to MySQL server on '89.40.104.2' (4)
+L 03/23/2017 - 11:51:21: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 03/23/2017 - 11:51:21: Forward-ul nu s-a putut executa.
+L 03/23/2017 - 11:51:21: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 03/23/2017 - 11:52:21: Forward-ul nu s-a putut executa.
+L 03/23/2017 - 11:52:21: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit

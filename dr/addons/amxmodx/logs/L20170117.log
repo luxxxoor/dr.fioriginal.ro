@@ -1,0 +1,973 @@
+L 01/17/2017 - 00:01:19: [admincmd.amxx] Kick: "kaka<2440><VALVE_0:4:1033726963><>" kick "razi ca un prost ce esti<2466><STEAM_0:0:499862343><>" (reason "")
+L 01/17/2017 - 00:01:28: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "razi ca un prost ce esti<2467><STEAM_0:0:499862343><>"
+L 01/17/2017 - 00:01:40: [admincmd.amxx] Cmd: "kaka<2440><VALVE_0:4:1033726963><>" change nick to "fioriginal" "razi ca un prost ce esti<2467><STEAM_0:0:499862343><>"
+L 01/17/2017 - 00:02:06: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "moe<2468><STEAM_0:0:499862343><>"
+L 01/17/2017 - 00:02:16: [admincmd.amxx] Cmd: "kaka<2440><VALVE_0:4:1033726963><>" change nick to "fan.fioriginal" "moe<2468><STEAM_0:0:499862343><>"
+L 01/17/2017 - 00:04:39: [advanced_bans_sql.amxx] Cuppy # LePatron <STEAM_0:1:193294027> banned sclavi <STEAM_0:0:499862343> || Reason: "calmeaza-te" || Ban Length: 30 minutes
+L 01/17/2017 - 00:19:56: [mapsmenu.amxx] Vote: "kaka<2440><VALVE_0:4:1033726963><>" vote maps (map#1 "deathrun_junbee_beta3") (map#2 "deathrun_hybrid2_v2") (map#3 "") (map#4 "")
+L 01/17/2017 - 00:20:08: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_junbee_beta3
+L 01/17/2017 - 00:24:43: -------- Mapchange to deathrun_junbee_beta3 --------
+L 01/17/2017 - 00:24:44: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 00:24:44: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 00:24:45: [admin.amxx] Login: "kaka<2440><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 00:34:40: [advanced_bans_sql.amxx] Ban time is up for: sclavi [STEAM_0:0:499862343]
+L 01/17/2017 - 00:42:50: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "¤ BuBu ¤<2494><STEAM_0:0:181545687><>"
+L 01/17/2017 - 00:44:07: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "¤ BuBu ¤<2495><STEAM_0:0:181545687><>"
+L 01/17/2017 - 00:46:16: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "¤ BuBu ¤<2503><STEAM_0:0:181545687><>"
+L 01/17/2017 - 00:46:37: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "maketacke<2504><STEAM_0:0:1715760849><>"
+L 01/17/2017 - 00:46:50: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "maketacke<2505><STEAM_0:0:1715760849><>"
+L 01/17/2017 - 00:48:44: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "ukuphila<2508><STEAM_0:0:412668290><>"
+L 01/17/2017 - 00:48:46: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "maketacke<2509><STEAM_0:0:1715760849><>"
+L 01/17/2017 - 00:49:43: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "maketacke<2512><STEAM_0:0:1715760849><>"
+L 01/17/2017 - 00:49:50: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "ukuphila<2513><STEAM_0:0:412668290><>"
+L 01/17/2017 - 00:50:57: -------- Mapchange to deathrun_scooby-doo --------
+L 01/17/2017 - 00:50:58: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 00:50:58: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 01:27:34: [admin.amxx] Login: "SWAGGIE. XD<2521><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 01:28:06: -------- Mapchange to deathrun_laikiux_dev --------
+L 01/17/2017 - 01:28:07: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 01:28:07: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 01:46:38: [admin.amxx] Login: "SWAGGIE. XD<2527><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 01:49:16: [admin.amxx] Login: "SWAGGIE. XD<2528><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 01:53:18: -------- Mapchange to deathrun_winterfg_lux --------
+L 01/17/2017 - 01:53:19: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 01:53:19: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 01:59:19: [admin.amxx] Login: "SWAGGIE. XD<2533><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 02:18:03: [mapsmenu.amxx] Vote: "SWAGGIE. XD<2533><VALVE_0:4:862961770><>" vote maps (map#1 "deathrun_laikiux_rawr") (map#2 "deathrun_clarion_l98_final") (map#3 "deathrun_bhopz_v2") (map#4 "")
+L 01/17/2017 - 02:18:15: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_bhopz_v2
+L 01/17/2017 - 02:26:47: -------- Mapchange to deathrun_bhopz_v2 --------
+L 01/17/2017 - 02:26:48: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 02:26:48: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 02:26:49: [admin.amxx] Login: "SWAGGIE. XD<2533><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 02:53:16: -------- Mapchange to deathrun_standup2 --------
+L 01/17/2017 - 02:53:18: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 02:53:18: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 02:53:18: [admin.amxx] Login: "SWAGGIE. XD<2533><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 03:03:28: [admin.amxx] Login: "knife<2552><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 01/17/2017 - 03:03:30: [admin.amxx] Login: "knife<2553><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 01/17/2017 - 03:34:34: -------- Mapchange to deathrun_xstrafers --------
+L 01/17/2017 - 03:34:36: [admin.amxx] Login: "knife<2553><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 01/17/2017 - 03:34:36: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 03:34:36: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 03:34:37: [admin.amxx] Login: "knife<2556><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 01/17/2017 - 03:36:20: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "6AM<2563><VALVE_0:4:1792038645><>"
+L 01/17/2017 - 04:04:55: -------- Mapchange to deathrun_holiday --------
+L 01/17/2017 - 04:04:58: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 04:04:58: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 04:04:58: [admin.amxx] Login: "knife<2556><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 01/17/2017 - 04:05:00: [admin.amxx] Login: "knife<2570><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 01/17/2017 - 04:05:37: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 04:07:12: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 04:08:27: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 04:10:12: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 04:11:12: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 04:12:02: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 04:13:07: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 04:14:02: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 04:15:22: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 04:16:12: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 04:17:02: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 04:17:42: [slayafk.amxx] Andrew;psssK a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 04:18:17: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 05:06:19: -------- Mapchange to deathrun_purplez --------
+L 01/17/2017 - 05:06:20: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 05:06:20: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 05:27:28: [admin.amxx] Login: "knife<2581><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 01/17/2017 - 05:27:29: [admin.amxx] Login: "knife<2582><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 01/17/2017 - 05:28:15: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 05:28:55: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 05:29:35: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 05:30:15: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 05:31:20: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 05:32:00: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 05:32:04: -------- Mapchange to deathrun_cityhotel_v2 --------
+L 01/17/2017 - 05:32:05: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 05:32:05: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 05:32:06: [admin.amxx] Login: "knife<2582><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 01/17/2017 - 05:32:08: [admin.amxx] Login: "knife<2583><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 01/17/2017 - 05:32:45: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 05:33:25: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 05:34:05: [slayafk.amxx] knife a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 06:50:28: -------- Mapchange to deathrun_abtropicano2 --------
+L 01/17/2017 - 06:50:30: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 06:50:30: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 08:06:28: -------- Mapchange to deathrun_trap_canyon --------
+L 01/17/2017 - 08:06:29: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 08:06:29: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 08:15:59: [slayafk.amxx] Joey a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 08:22:58: [admin.amxx] Login: "fl0ppy<2604><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 08:23:01: [admin.amxx] Login: "fl0ppy<2605><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 08:24:40: -------- Mapchange to deathrun_neon --------
+L 01/17/2017 - 08:24:41: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 08:24:41: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 08:24:42: [admin.amxx] Login: "fl0ppy<2605><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 08:24:42: [admin.amxx] Login: "wKn<2606><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bit") (address "92.80.103.185")
+L 01/17/2017 - 08:24:44: [admin.amxx] Login: "fl0ppy<2607><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 08:24:47: [admin.amxx] Login: "wKn<2609><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bit") (address "92.80.103.185")
+L 01/17/2017 - 08:25:10: -------- Mapchange to deathrun_forest --------
+L 01/17/2017 - 08:25:14: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 08:25:14: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 08:25:16: [admin.amxx] Login: "fl0ppy<1><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 08:25:20: [admin.amxx] Login: "wKn<2><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bit") (address "92.80.103.185")
+L 01/17/2017 - 08:25:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// *ROM-Protect// Plugin OpenSource anti-IsFlooding/bug-fix pentru orice server." lang "")
+L 01/17/2017 - 08:25:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Versiunea : 1.0.4s-dev. Bulid : 98. Data lansarii versiunii : 03.12.2016." lang "")
+L 01/17/2017 - 08:25:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Autor : l�xor # Dr.Fio & DR2.IND (+ eNd.) - SteamID (contact) : luxxxoor" lang "")
+L 01/17/2017 - 08:25:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// O productie FioriGinal.ro - site : www.fioriginal.ro" lang "")
+L 01/17/2017 - 08:25:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link forum de dezvoltare : http://forum.fioriginal.ro/amxmodx-plugins-pluginuri/rom-protect-anti-flood-bug-fix-t28292.html" lang "")
+L 01/17/2017 - 08:25:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link sursa : https://github.com/luxxxoor/ROM-Protect" lang "")
+L 01/17/2017 - 08:25:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Colori : ^1 - Culoarea aleasa de jucator cu con_color." lang "")
+L 01/17/2017 - 08:25:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^3 - Culoare gri." lang "")
+L 01/17/2017 - 08:25:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^4 - Culoare verde." lang "")
+L 01/17/2017 - 08:25:25: [admin.amxx] Login: "wKn<6><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bit") (address "92.80.103.185")
+L 01/17/2017 - 08:34:56: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:35:51: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:35:51: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:35:51: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:35:51: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:36:48: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:36:54: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:36:54: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:36:55: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:36:55: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:36:56: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:36:56: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:36:56: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:37:05: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:38:32: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slap with 0 damage "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:38:57: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slay "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:40:50: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slay "wKn<6><STEAM_0:0:196614190><>"
+L 01/17/2017 - 08:47:00: [mapsmenu.amxx] Vote: "fl0ppy<1><VALVE_0:4:840945399><>" vote maps (map#1 "deathrun_atacama_beta2") (map#2 "deathrun_hardsurf_v2") (map#3 "") (map#4 "")
+L 01/17/2017 - 08:47:12: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_atacama_beta2
+L 01/17/2017 - 08:50:37: -------- Mapchange to deathrun_atacama_beta2 --------
+L 01/17/2017 - 08:50:38: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 08:50:38: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 08:50:39: [admin.amxx] Login: "fl0ppy<1><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 08:50:39: [admin.amxx] Login: "wKn<6><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bit") (address "92.80.103.185")
+L 01/17/2017 - 08:50:43: [admin.amxx] Login: "wKn<16><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bit") (address "92.80.103.185")
+L 01/17/2017 - 08:53:23: [admincmd.amxx] Cmd: "fl0ppy<1><VALVE_0:4:840945399><>" slay "wKn<16><STEAM_0:0:196614190><>"
+L 01/17/2017 - 09:05:25: [admin.amxx] Login: "fl0ppy<24><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 09:05:36: [admincmd.amxx] Cmd: "fl0ppy<24><VALVE_0:4:840945399><>" ask for players list
+L 01/17/2017 - 09:05:48: [admincmd.amxx] Cmd: "fl0ppy<24><VALVE_0:4:840945399><>" ask for players list
+L 01/17/2017 - 09:10:54: [slayafk.amxx] Super Gold a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 09:18:33: -------- Mapchange to deathrun_mici_f --------
+L 01/17/2017 - 09:18:34: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 09:18:34: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 09:28:26: [admin.amxx] Login: "deadpool<32><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 01/17/2017 - 09:46:44: [admin.amxx] Login: "fl0ppy<37><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 09:46:49: [admin.amxx] Login: "fl0ppy<38><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 09:54:18: -------- Mapchange to deathrun_pacman_v2 --------
+L 01/17/2017 - 09:54:20: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 09:54:20: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 09:54:20: [admin.amxx] Login: "fl0ppy<38><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 09:54:22: [admin.amxx] Login: "fl0ppy<39><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 09:57:35: [admin.amxx] Login: "deadpool<43><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 01/17/2017 - 10:01:10: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:05:49: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:07:54: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:10:19: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:11:14: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:12:55: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:13:49: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:22:50: [slayafk.amxx] Super Gold a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:22:53: -------- Mapchange to deathrun_purplez_v2_b3 --------
+L 01/17/2017 - 10:22:55: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 10:22:55: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 10:23:44: [slayafk.amxx] Super Gold a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:24:59: [slayafk.amxx] Super Gold a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:26:29: [slayafk.amxx] Super Gold a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:27:34: [slayafk.amxx] Super Gold a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:28:39: [slayafk.amxx] Super Gold a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:31:43: [admin.amxx] Login: "cool<58><VALVE_0:4:563934814><>" became an admin (account "cool") (access "bi") (address "5.14.101.234")
+L 01/17/2017 - 10:31:45: [admin.amxx] Login: "cool<59><VALVE_0:4:563934814><>" became an admin (account "cool") (access "bi") (address "5.14.101.234")
+L 01/17/2017 - 10:32:27: [admincmd.amxx] Cmd: "cool<59><VALVE_0:4:563934814><>" ask for players list
+L 01/17/2017 - 10:32:59: [slayafk.amxx] Super Gold a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:34:14: [slayafk.amxx] fursec a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:41:07: [admin.amxx] Login: "cool<68><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.101.234")
+L 01/17/2017 - 10:41:09: [slayafk.amxx] Super Gold a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:41:10: [admin.amxx] Login: "cool<69><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.101.234")
+L 01/17/2017 - 10:42:29: [slayafk.amxx] velica' omidA a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:48:59: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 10:49:16: -------- Mapchange to deathrun_shit_v2 --------
+L 01/17/2017 - 10:49:18: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 10:49:18: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 11:00:43: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:08:08: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:09:08: [admin.amxx] Login: "flawless.<85><STEAM_0:1:175372971><>" kicked due to invalid password (account "flawless.") (address "84.232.251.59")
+L 01/17/2017 - 11:09:13: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:09:13: [admin.amxx] Login: "flawless.<86><STEAM_0:1:175372971><>" became an admin (account "flawless.") (access "bi") (address "84.232.251.59")
+L 01/17/2017 - 11:09:14: [admin.amxx] Login: "flawless.<87><STEAM_0:1:175372971><>" kicked due to invalid password (account "flawless.") (address "84.232.251.59")
+L 01/17/2017 - 11:09:19: [admin.amxx] Login: "flawless.<88><STEAM_0:1:175372971><>" kicked due to invalid password (account "flawless.") (address "84.232.251.59")
+L 01/17/2017 - 11:09:25: [admin.amxx] Login: "flawless.<89><STEAM_0:1:175372971><>" became an admin (account "flawless.") (access "bi") (address "84.232.251.59")
+L 01/17/2017 - 11:10:18: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:12:12: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "zivoin<91><STEAM_0:0:582226405><>"
+L 01/17/2017 - 11:12:33: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:14:03: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:15:10: -------- Mapchange to deathrun_kings_never_die --------
+L 01/17/2017 - 11:15:12: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 11:15:12: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 11:15:56: [slayafk.amxx] zivoin a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:17:21: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:17:41: [slayafk.amxx] zivoin a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:17:56: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:19:21: [slayafk.amxx] zivoin a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:19:21: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:20:16: [slayafk.amxx] zivoin a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:20:16: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:21:36: [slayafk.amxx] zivoin a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:21:36: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:22:18: [admin.amxx] Login: "flawless.<100><STEAM_0:1:175372971><>" became an admin (account "flawless.") (access "bi") (address "84.232.251.59")
+L 01/17/2017 - 11:22:20: [admin.amxx] Login: "flawless.<101><STEAM_0:1:175372971><>" became an admin (account "flawless.") (access "bi") (address "84.232.251.59")
+L 01/17/2017 - 11:22:45: [admin.amxx] Login: "flawless.<102><STEAM_0:1:175372971><>" became an admin (account "flawless.") (access "bi") (address "84.232.251.59")
+L 01/17/2017 - 11:22:56: [slayafk.amxx] zivoin a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:22:56: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:24:13: [admincmd.amxx] Cmd: "flawless.<102><STEAM_0:1:175372971><>" slay "DeVo<93><VALVE_0:4:1624132091><>"
+L 01/17/2017 - 11:24:56: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:31:36: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "AssAsIn<110><STEAM_0:0:1872809799><>"
+L 01/17/2017 - 11:35:16: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "zivoin<114><STEAM_0:0:582226405><>"
+L 01/17/2017 - 11:35:41: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:35:41: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:35:55: [admin.amxx] Login: "kaka<115><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 11:36:31: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:37:11: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:37:27: [mapsmenu.amxx] Vote: "kaka<115><VALVE_0:4:1033726963><>" vote maps (map#1 "deathrun_easy_v4") (map#2 "deathrun_herb") (map#3 "") (map#4 "")
+L 01/17/2017 - 11:37:39: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_easy_v4
+L 01/17/2017 - 11:37:49: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "zivoin<118><STEAM_0:0:582226405><>"
+L 01/17/2017 - 11:38:01: [admincmd.amxx] Cmd: "kaka<115><VALVE_0:4:1033726963><>" slay "zivoin<118><STEAM_0:0:582226405><>"
+L 01/17/2017 - 11:38:21: [admincmd.amxx] Cmd: "kaka<115><VALVE_0:4:1033726963><>" slay "DeVo<93><VALVE_0:4:1624132091><>"
+L 01/17/2017 - 11:38:51: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:40:01: [slayafk.amxx] BEBY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:40:01: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 11:41:09: -------- Mapchange to deathrun_easy_v4 --------
+L 01/17/2017 - 11:41:11: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 11:41:11: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 11:41:11: [admin.amxx] Login: "kaka<115><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 11:41:18: [admin.amxx] Login: "kaka<123><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 11:41:52: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "zivoin<127><STEAM_0:0:582226405><>"
+L 01/17/2017 - 11:43:33: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "zivoin<128><STEAM_0:0:582226405><>"
+L 01/17/2017 - 11:54:03: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "zivoin<132><STEAM_0:0:582226405><>"
+L 01/17/2017 - 11:54:07: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "BEBY<133><VALVE_0:4:999771895><>"
+L 01/17/2017 - 11:54:12: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "DeVo<134><VALVE_0:4:1624132091><>"
+L 01/17/2017 - 11:54:16: [admincmd.amxx] Cmd: "kaka<123><VALVE_0:4:1033726963><>" slay "zivoin<132><STEAM_0:0:582226405><>"
+L 01/17/2017 - 11:54:17: [admincmd.amxx] Cmd: "kaka<123><VALVE_0:4:1033726963><>" slay "DeVo<134><VALVE_0:4:1624132091><>"
+L 01/17/2017 - 11:54:25: [admincmd.amxx] Cmd: "kaka<123><VALVE_0:4:1033726963><>" slay "BEBY<133><VALVE_0:4:999771895><>"
+L 01/17/2017 - 12:04:50: [slayafk.amxx] BEBY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:06:38: -------- Mapchange to deathrun_coolf4 --------
+L 01/17/2017 - 12:06:39: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 12:06:39: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 12:07:15: [slayafk.amxx] BEBY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:07:21: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "zivoin<140><STEAM_0:0:582226405><>"
+L 01/17/2017 - 12:07:50: [slayafk.amxx] BEBY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:07:54: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:08:30: [slayafk.amxx] zivoin a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:08:30: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:09:04: [slayafk.amxx] BEBY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:09:10: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:09:49: [slayafk.amxx] BEBY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:09:49: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:10:29: [slayafk.amxx] BEBY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:10:29: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:11:34: [slayafk.amxx] BEBY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:13:10: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:15:09: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:15:50: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:16:29: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:18:05: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:20:19: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:22:15: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:22:35: [slayafk.amxx] BEBY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:23:14: [admin.amxx] Login: "kaka<148><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 12:23:15: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:24:24: [slayafk.amxx] BEBY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:25:25: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:26:15: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:28:00: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:28:14: [mapsmenu.amxx] Vote: "kaka<148><VALVE_0:4:1033726963><>" vote maps (map#1 "deathrun_temple2") (map#2 "deathrun_skyzzar") (map#3 "") (map#4 "")
+L 01/17/2017 - 12:28:26: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_temple2
+L 01/17/2017 - 12:29:50: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:31:40: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:32:34: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:33:11: -------- Mapchange to deathrun_temple2 --------
+L 01/17/2017 - 12:33:13: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 12:33:13: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 12:33:53: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:34:28: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:36:38: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:37:43: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:38:23: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:41:48: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:42:48: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:45:13: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:47:13: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:48:23: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:50:43: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:53:03: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:54:53: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:55:33: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:56:13: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:57:53: [slayafk.amxx] Semaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 12:59:51: -------- Mapchange to deathrun_y_snow_wind_v3 --------
+L 01/17/2017 - 12:59:52: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 12:59:52: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 13:05:38: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Evanescence<184><VALVE_0:4:1040925674><>"
+L 01/17/2017 - 13:13:56: [admin.amxx] Login: "kaka<187><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 13:15:21: -------- Mapchange to deathrun_inferno_beta1 --------
+L 01/17/2017 - 13:15:23: [admin.amxx] Login: "kaka<187><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 13:15:23: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 13:15:23: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 13:26:57: [adminchat.amxx] Chat: "BEBY<198><VALVE_0:4:999771895><>" chat "fmm de bulangiu labar"
+L 01/17/2017 - 13:27:01: [adminchat.amxx] Chat: "BEBY<198><VALVE_0:4:999771895><>" chat "dc activezi ma"
+L 01/17/2017 - 13:27:03: [admincmd.amxx] Kick: "kaka<187><VALVE_0:4:1033726963><>" kick "BEBY<198><VALVE_0:4:999771895><>" (reason "")
+L 01/17/2017 - 13:36:37: [mapsmenu.amxx] Vote: "kaka<187><VALVE_0:4:1033726963><>" vote maps (map#1 "deathrun_supra") (map#2 "deathrun_discovery3") (map#3 "") (map#4 "")
+L 01/17/2017 - 13:36:49: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_supra
+L 01/17/2017 - 13:39:39: [admincmd.amxx] Cmd: "kaka<187><VALVE_0:4:1033726963><>" slay "adysialtele<208><STEAM_0:0:1006633258><>"
+L 01/17/2017 - 13:41:12: -------- Mapchange to deathrun_supra --------
+L 01/17/2017 - 13:41:14: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 13:41:14: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 13:41:15: [admin.amxx] Login: "kaka<187><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 13:41:43: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "maketacke<225><STEAM_0:0:1715760849><>"
+L 01/17/2017 - 14:05:38: [mapsmenu.amxx] Vote: "kaka<187><VALVE_0:4:1033726963><>" vote maps (map#1 "deathrun_caves") (map#2 "deathrun_standup") (map#3 "") (map#4 "")
+L 01/17/2017 - 14:05:50: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_caves
+L 01/17/2017 - 14:06:36: -------- Mapchange to deathrun_caves --------
+L 01/17/2017 - 14:06:38: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 14:06:38: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 14:06:38: [admin.amxx] Login: "kaka<187><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 14:17:59: [admin.amxx] Login: "spartanC3<246><STEAM_0:0:1219032291><>" became an admin (account "spartanC3") (access "bi") (address "109.97.110.4")
+L 01/17/2017 - 14:18:03: [admin.amxx] Login: "spartanC3<247><STEAM_0:0:1219032291><>" became an admin (account "spartanC3") (access "bi") (address "109.97.110.4")
+L 01/17/2017 - 14:21:39: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "ce plm e asta<251><STEAM_0:0:499862343><>"
+L 01/17/2017 - 14:25:07: [slayafk.amxx] ce plm e asta a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:28:41: [mapsmenu.amxx] Vote: "kaka<187><VALVE_0:4:1033726963><>" vote maps (map#1 "deathrun_purplez") (map#2 "deathrun_unreal_tuscan") (map#3 "") (map#4 "")
+L 01/17/2017 - 14:28:53: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_purplez
+L 01/17/2017 - 14:32:45: -------- Mapchange to deathrun_purplez --------
+L 01/17/2017 - 14:32:47: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 14:32:47: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 14:32:47: [admin.amxx] Login: "kaka<187><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 14:33:08: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "ce plm e asta<266><STEAM_0:0:499862343><>"
+L 01/17/2017 - 14:33:32: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:33:37: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:36:02: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:36:02: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:36:17: [slayafk.amxx] Andrei. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:36:41: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "ce plm e asta<271><STEAM_0:0:499862343><>"
+L 01/17/2017 - 14:36:51: [admin.amxx] Login: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 14:36:57: [slayafk.amxx] Andrei. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:36:57: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:37:13: [admin.amxx] Login: "spartanC3<275><STEAM_0:0:1219032291><>" became an admin (account "spartanC3") (access "bi") (address "109.97.110.4")
+L 01/17/2017 - 14:39:27: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:39:42: [slayafk.amxx] Deoha (Steam ON *_*) a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:39:42: [slayafk.amxx] shto a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:40:02: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:41:20: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "ala o dat 289 cu 90 fps?"
+L 01/17/2017 - 14:41:24: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "serios?"
+L 01/17/2017 - 14:41:52: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:41:52: [slayafk.amxx] Deoha (Steam ON *_*) a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:41:52: [slayafk.amxx] shto a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:43:47: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:43:47: [slayafk.amxx] Deoha (Steam ON *_*) a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:43:47: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:43:47: [slayafk.amxx] shto a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:43:57: [slayafk.amxx] spartanC3 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:45:27: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:45:27: [slayafk.amxx] Deoha (Steam ON *_*) a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:45:27: [slayafk.amxx] spartanC3 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:47:32: [slayafk.amxx] Deoha (Steam ON *_*) a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:47:32: [slayafk.amxx] shto a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:48:32: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:48:33: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "ba spartan"
+L 01/17/2017 - 14:48:36: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "?"
+L 01/17/2017 - 14:48:37: [slayafk.amxx] Deoha (Steam ON *_*) a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:48:37: [slayafk.amxx] shto a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:48:38: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "cum ma bag la spec?"
+L 01/17/2017 - 14:48:43: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "nush.."
+L 01/17/2017 - 14:48:55: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "are kzh ala frate"
+L 01/17/2017 - 14:48:57: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "david"
+L 01/17/2017 - 14:49:00: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "stiu"
+L 01/17/2017 - 14:49:09: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "pai trb sa-i fac demo sa-i dau ban........."
+L 01/17/2017 - 14:49:10: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "n-are cum cu 99 fps sa dea 289 cj"
+L 01/17/2017 - 14:49:18: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "asta am zis si eu"
+L 01/17/2017 - 14:49:19: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "ce astepti ?"
+L 01/17/2017 - 14:49:27: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "pai nu stiu cum sa ma bag la spec..."
+L 01/17/2017 - 14:50:37: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "incearca si tu !spec vezi de la bagat"
+L 01/17/2017 - 14:50:44: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "in comenzi n-avem astfel de comenzi.."
+L 01/17/2017 - 14:51:12: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:51:12: [slayafk.amxx] Deoha (Steam ON *_*) a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:51:12: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:51:12: [slayafk.amxx] [P]@Z! [N]!$4m [N]0Rm4l4N a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:51:12: [slayafk.amxx] shto a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:53:01: [plmenu.amxx] Cmd: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" transfer "Cuppy # LePatron<274><STEAM_0:1:193294027><>" (team "SPECTATOR")
+L 01/17/2017 - 14:53:07: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:53:07: [slayafk.amxx] Deoha (Steam ON *_*) a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:53:07: [slayafk.amxx] shto a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:53:11: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "gata ba"
+L 01/17/2017 - 14:53:12: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "cum ai facut ? :))"
+L 01/17/2017 - 14:53:15: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "am gasit=]]"
+L 01/17/2017 - 14:53:19: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "zi si mie"
+L 01/17/2017 - 14:53:22: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "cand o iesit ala.."
+L 01/17/2017 - 14:53:33: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "da ma rog dar cum ai dat?"
+L 01/17/2017 - 14:53:48: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "cu amx_teammenu"
+L 01/17/2017 - 14:53:57: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "a"
+L 01/17/2017 - 14:54:03: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "de asta nu-mi mergea mie"
+L 01/17/2017 - 14:54:10: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "nu ma uitam pe console"
+L 01/17/2017 - 14:54:15: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "n-am acc la ea"
+L 01/17/2017 - 14:54:16: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat ":))"
+L 01/17/2017 - 14:54:25: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "doar level 3"
+L 01/17/2017 - 14:54:28: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "..."
+L 01/17/2017 - 14:54:36: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "o scos ala kzh acu..."
+L 01/17/2017 - 14:54:57: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "da-l drq "
+L 01/17/2017 - 14:55:02: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "mai tarziu iar il baga"
+L 01/17/2017 - 14:55:11: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat "are un cacat nush tremura :)"
+L 01/17/2017 - 14:55:15: [adminchat.amxx] Chat: "Cuppy # LePatron<274><STEAM_0:1:193294027><>" chat ":)))"
+L 01/17/2017 - 14:55:40: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "adica gen.. nici urs nu da mai mult de 275 cj cu dev on si 99 fps.. deci da"
+L 01/17/2017 - 14:56:04: [admin.amxx] Login: "Cuppy # LePatron<294><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 14:56:28: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "acum are strafe hack :))"
+L 01/17/2017 - 14:56:29: [plmenu.amxx] Cmd: "Cuppy # LePatron<294><STEAM_0:1:193294027><>" transfer "Cuppy # LePatron<294><STEAM_0:1:193294027><>" (team "SPECTATOR")
+L 01/17/2017 - 14:57:02: [adminchat.amxx] Chat: "Cuppy # LePatron<294><STEAM_0:1:193294027><>" chat "kaka"
+L 01/17/2017 - 14:57:05: [adminchat.amxx] Chat: "kaka<187><VALVE_0:4:1033726963><>" chat " e"
+L 01/17/2017 - 14:57:07: [slayafk.amxx] Deoha (Steam ON *_*) a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:57:09: [adminchat.amxx] Chat: "Cuppy # LePatron<294><STEAM_0:1:193294027><>" chat "cum se cheama hacku ala de tremuri?"
+L 01/17/2017 - 14:57:14: [adminchat.amxx] Chat: "kaka<187><VALVE_0:4:1033726963><>" chat " kzh"
+L 01/17/2017 - 14:57:16: [adminchat.amxx] Chat: "kaka<187><VALVE_0:4:1033726963><>" chat " dc?"
+L 01/17/2017 - 14:57:17: [adminchat.amxx] Chat: "Cuppy # LePatron<294><STEAM_0:1:193294027><>" chat "asa.."
+L 01/17/2017 - 14:57:18: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "khz"
+L 01/17/2017 - 14:57:26: [adminchat.amxx] Chat: "kaka<187><VALVE_0:4:1033726963><>" chat " dai ban"
+L 01/17/2017 - 14:57:27: [adminchat.amxx] Chat: "Cuppy # LePatron<294><STEAM_0:1:193294027><>" chat "nu ma duc sa halesc ii fac demo lu ala"
+L 01/17/2017 - 14:57:32: [adminchat.amxx] Chat: "kaka<187><VALVE_0:4:1033726963><>" chat " stiu"
+L 01/17/2017 - 14:57:33: [adminchat.amxx] Chat: "Cuppy # LePatron<294><STEAM_0:1:193294027><>" chat "acu.."
+L 01/17/2017 - 14:57:38: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat " e tero acu"
+L 01/17/2017 - 14:57:59: [adminchat.amxx] Chat: "kaka<187><VALVE_0:4:1033726963><>" chat " cupy"
+L 01/17/2017 - 14:58:02: [slayafk.amxx] shto a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:58:07: [slayafk.amxx] Deoha (Steam ON *_*) a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 14:58:14: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "are 90 fps"
+L 01/17/2017 - 14:58:20: [adminchat.amxx] Chat: "Cuppy # LePatron<294><STEAM_0:1:193294027><>" chat "vad.."
+L 01/17/2017 - 14:58:21: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat "78"
+L 01/17/2017 - 14:58:44: [adminchat.amxx] Chat: "Cuppy # LePatron<294><STEAM_0:1:193294027><>" chat "7 zile e banu nu?"
+L 01/17/2017 - 14:58:48: [adminchat.amxx] Chat: "kaka<187><VALVE_0:4:1033726963><>" chat " da"
+L 01/17/2017 - 14:58:50: [adminchat.amxx] Chat: "Cuppy # LePatron<294><STEAM_0:1:193294027><>" chat "ok"
+L 01/17/2017 - 14:59:04: [advanced_bans_sql.amxx] Cuppy # LePatron <STEAM_0:1:193294027> banned David # CuBulanulHaHaHa <STEAM_0:0:1932697494> || Reason: "kzh" || Ban Length: 7 days
+L 01/17/2017 - 14:59:09: [adminchat.amxx] Chat: "spartanC3<275><STEAM_0:0:1219032291><>" chat ":))"
+L 01/17/2017 - 14:59:29: [admincmd.amxx] Cmd: "Cuppy # LePatron<294><STEAM_0:1:193294027><>" slay "kaka<187><VALVE_0:4:1033726963><>"
+L 01/17/2017 - 14:59:32: -------- Mapchange to deathrun_bricks_lux --------
+L 01/17/2017 - 14:59:33: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 14:59:33: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 14:59:34: [admin.amxx] Login: "kaka<187><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 14:59:34: [admin.amxx] Login: "spartanC3<275><STEAM_0:0:1219032291><>" became an admin (account "spartanC3") (access "bi") (address "109.97.110.4")
+L 01/17/2017 - 14:59:34: [admin.amxx] Login: "Cuppy # LePatron<294><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 14:59:47: [adminchat.amxx] Chat: "kaka<187><VALVE_0:4:1033726963><>" chat " cupy"
+L 01/17/2017 - 15:02:48: [admin.amxx] Login: "kaka<305><STEAM_0:0:762093675><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 15:02:54: [admin.amxx] Login: "kaka<306><STEAM_0:0:762093675><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 15:05:45: [admin.amxx] Login: "cool<307><VALVE_0:4:563934814><>" became an admin (account "cool") (access "bi") (address "5.14.101.234")
+L 01/17/2017 - 15:05:48: [admin.amxx] Login: "cool<308><VALVE_0:4:563934814><>" became an admin (account "cool") (access "bi") (address "5.14.101.234")
+L 01/17/2017 - 15:07:45: [admincmd.amxx] Cmd: "cool<308><VALVE_0:4:563934814><>" change nick to "dr.fioriginal.ro" "ce plm e asta<298><STEAM_0:0:499862343><>"
+L 01/17/2017 - 15:14:59: [admin.amxx] Login: "Cuppy # LePatron<317><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 15:20:29: [mapsmenu.amxx] Vote: "Cuppy # LePatron<317><STEAM_0:1:193294027><>" vote maps (map#1 "deathrun_0mega") (map#2 "") (map#3 "") (map#4 "")
+L 01/17/2017 - 15:20:41: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_0mega
+L 01/17/2017 - 15:24:55: -------- Mapchange to deathrun_0mega --------
+L 01/17/2017 - 15:24:56: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 15:24:56: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 15:24:57: [admin.amxx] Login: "Cuppy # LePatron<317><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 15:24:59: [admin.amxx] Login: "EvolGeniuS - ThE king#<328><STEAM_0:1:84045719><>" became an admin (account "EvolGeniuS - ThE king#") (access "bi") (address "5.14.134.185")
+L 01/17/2017 - 15:27:27: [admincmd.amxx] Cmd: "Cuppy # LePatron<317><STEAM_0:1:193294027><>" slap with 0 damage "Cuppy # LePatron<317><STEAM_0:1:193294027><>"
+L 01/17/2017 - 15:27:27: [admincmd.amxx] Cmd: "Cuppy # LePatron<317><STEAM_0:1:193294027><>" slap with 0 damage "Cuppy # LePatron<317><STEAM_0:1:193294027><>"
+L 01/17/2017 - 15:27:28: [admincmd.amxx] Cmd: "Cuppy # LePatron<317><STEAM_0:1:193294027><>" slap with 0 damage "Cuppy # LePatron<317><STEAM_0:1:193294027><>"
+L 01/17/2017 - 15:27:44: [adminchat.amxx] Chat: "6AM<335><VALVE_0:4:2094911351><>" chat " Sa te uiti pe Andrei, are script:)"
+L 01/17/2017 - 15:28:22: [plmenu.amxx] Cmd: "Cuppy # LePatron<317><STEAM_0:1:193294027><>" transfer "Cuppy # LePatron<317><STEAM_0:1:193294027><>" (team "SPECTATOR")
+L 01/17/2017 - 15:28:27: [admin.amxx] Login: "spartanC3<338><STEAM_0:0:1219032291><>" became an admin (account "spartanC3") (access "bi") (address "109.97.110.4")
+L 01/17/2017 - 15:29:39: [adminchat.amxx] Chat: "Cuppy # LePatron<317><STEAM_0:1:193294027><>" chat "ba spartane :)))"
+L 01/17/2017 - 15:29:45: [adminchat.amxx] Chat: "spartanC3<338><STEAM_0:0:1219032291><>" chat "?"
+L 01/17/2017 - 15:29:49: [adminchat.amxx] Chat: "Cuppy # LePatron<317><STEAM_0:1:193294027><>" chat "nimic :))"
+L 01/17/2017 - 15:30:43: [adminchat.amxx] Chat: "spartanC3<338><STEAM_0:0:1219032291><>" chat "ce era asa de amuzant?"
+L 01/17/2017 - 15:30:57: [admin.amxx] Login: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 15:31:38: [admincmd.amxx] Cmd: "spartanC3<338><STEAM_0:0:1219032291><>" slay "Eduard.<342><STEAM_0:0:1771070235><>"
+L 01/17/2017 - 15:32:24: [adminchat.amxx] Chat: "spartanC3<338><STEAM_0:0:1219032291><>" chat "zi ma odata ca nu mori"
+L 01/17/2017 - 15:32:27: [adminchat.amxx] Chat: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" chat "ce"
+L 01/17/2017 - 15:34:14: [adminchat.amxx] Chat: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" chat "nu pot sa-i dau ban lu srt andrei ala.."
+L 01/17/2017 - 15:34:23: [adminchat.amxx] Chat: "spartanC3<338><STEAM_0:0:1219032291><>" chat "ban dc ?"
+L 01/17/2017 - 15:34:29: [adminchat.amxx] Chat: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" chat "avea kzh"
+L 01/17/2017 - 15:34:34: [adminchat.amxx] Chat: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" chat "si nu merge cu amx_banip"
+L 01/17/2017 - 15:34:37: [adminchat.amxx] Chat: "spartanC3<338><STEAM_0:0:1219032291><>" chat "aha"
+L 01/17/2017 - 15:34:40: [adminchat.amxx] Chat: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" chat "zice clien no found sau nush ce.."
+L 01/17/2017 - 15:34:56: [adminchat.amxx] Chat: "spartanC3<338><STEAM_0:0:1219032291><>" chat "incearca voteban sau ban"
+L 01/17/2017 - 15:35:08: [adminchat.amxx] Chat: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" chat "nu e pe sv...."
+L 01/17/2017 - 15:35:18: [adminchat.amxx] Chat: "spartanC3<338><STEAM_0:0:1219032291><>" chat "nice :))"
+L 01/17/2017 - 15:35:53: [adminchat.amxx] Chat: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" chat "zice client with that name or userid not found"
+L 01/17/2017 - 15:36:39: [adminchat.amxx] Chat: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" chat "ce tip de ban mai e?"
+L 01/17/2017 - 15:36:44: [adminchat.amxx] Chat: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" chat "amx_ban amx_banip?"
+L 01/17/2017 - 15:36:52: [adminchat.amxx] Chat: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" chat "si inca ce?"
+L 01/17/2017 - 15:38:16: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slap with 0 damage "Daky69<330><STEAM_0:0:523798960><>"
+L 01/17/2017 - 15:40:07: [adminchat.amxx] Chat: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" chat "Cand il vedeti pe srt andrei sa-l banati am demo cu kzh"
+L 01/17/2017 - 15:40:24: [adminchat.amxx] Chat: "spartanC3<338><STEAM_0:0:1219032291><>" chat "mod lvl 1 n-are acces la banuri :))"
+L 01/17/2017 - 15:43:40: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slap with 0 damage "mwheeldown.rebel1<344><STEAM_0:0:69535170><>"
+L 01/17/2017 - 15:43:42: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slap with 0 damage "mwheeldown.rebel1<344><STEAM_0:0:69535170><>"
+L 01/17/2017 - 15:47:05: [mapsmenu.amxx] Vote: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" vote maps (map#1 "deathrun_stronghold_beta1") (map#2 "deathrun_sentinel_mini") (map#3 "") (map#4 "")
+L 01/17/2017 - 15:47:17: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_sentinel_mini
+L 01/17/2017 - 15:49:08: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slap with 0 damage "Daky69<351><STEAM_0:0:523798960><>"
+L 01/17/2017 - 15:49:09: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slap with 0 damage "Daky69<351><STEAM_0:0:523798960><>"
+L 01/17/2017 - 15:49:09: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slap with 0 damage "Daky69<351><STEAM_0:0:523798960><>"
+L 01/17/2017 - 15:49:20: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slap with 0 damage "Daky69<351><STEAM_0:0:523798960><>"
+L 01/17/2017 - 15:49:21: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slap with 0 damage "Daky69<351><STEAM_0:0:523798960><>"
+L 01/17/2017 - 15:49:21: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slap with 0 damage "Daky69<351><STEAM_0:0:523798960><>"
+L 01/17/2017 - 15:49:23: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slap with 0 damage "Daky69<351><STEAM_0:0:523798960><>"
+L 01/17/2017 - 15:49:23: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slap with 0 damage "Daky69<351><STEAM_0:0:523798960><>"
+L 01/17/2017 - 15:49:23: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slap with 0 damage "Daky69<351><STEAM_0:0:523798960><>"
+L 01/17/2017 - 15:52:20: [admincmd.amxx] Cmd: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" slay "Radu<355><STEAM_0:0:128821366><>"
+L 01/17/2017 - 15:52:23: -------- Mapchange to deathrun_sentinel_mini --------
+L 01/17/2017 - 15:52:25: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 15:52:25: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 15:52:26: [admin.amxx] Login: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 15:53:16: [admin.amxx] Login: "spartanC3<362><STEAM_0:0:1219032291><>" became an admin (account "spartanC3") (access "bi") (address "109.97.110.4")
+L 01/17/2017 - 15:54:52: [admin.amxx] Login: "deadpool<364><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 01/17/2017 - 16:16:13: [admin.amxx] Login: "flawless.<389><STEAM_0:1:175372971><>" became an admin (account "flawless.") (access "bi") (address "84.232.251.59")
+L 01/17/2017 - 16:16:17: [admin.amxx] Login: "flawless.<390><STEAM_0:1:175372971><>" became an admin (account "flawless.") (access "bi") (address "84.232.251.59")
+L 01/17/2017 - 16:18:59: -------- Mapchange to deathrun_holiday --------
+L 01/17/2017 - 16:19:01: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 16:19:01: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 16:19:01: [admin.amxx] Login: "Cuppy # LePatron<343><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 16:19:01: [admin.amxx] Login: "flawless.<390><STEAM_0:1:175372971><>" became an admin (account "flawless.") (access "bi") (address "84.232.251.59")
+L 01/17/2017 - 16:19:03: [admin.amxx] Login: "flawless.<395><STEAM_0:1:175372971><>" became an admin (account "flawless.") (access "bi") (address "84.232.251.59")
+L 01/17/2017 - 16:19:08: [admin.amxx] Login: "Cuppy # LePatron<398><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 16:24:35: [adminchat.amxx] Chat: "Cuppy # LePatron<398><STEAM_0:1:193294027><>" chat "C.."
+L 01/17/2017 - 16:25:15: [slayafk.amxx] ssaacc. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 16:30:25: [slayafk.amxx] ursul fram N1 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 16:31:50: [slayafk.amxx] ursul fram N1 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 16:33:20: [slayafk.amxx] ursul fram N1 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 16:34:34: [admin.amxx] Login: "flawless.<395><STEAM_0:1:175372971><>" became an admin (account "flawless.") (access "bi") (address "84.232.251.59")
+L 01/17/2017 - 16:34:40: [slayafk.amxx] ursul fram N1 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 16:35:50: [slayafk.amxx] ursul fram N1 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 16:35:53: [mapsmenu.amxx] Vote: "Cuppy # LePatron<398><STEAM_0:1:193294027><>" vote maps (map#1 "deathrun_anca") (map#2 "deathrun_gb_winter_final4") (map#3 "") (map#4 "")
+L 01/17/2017 - 16:36:05: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_anca
+L 01/17/2017 - 16:37:55: [slayafk.amxx] ursul fram N1 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 16:38:48: [admin.amxx] Login: "ZALE<420><STEAM_0:0:179153939><>" kicked due to invalid password (account "zale") (address "109.97.155.8")
+L 01/17/2017 - 16:39:55: [slayafk.amxx] ursul fram N1 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 16:40:41: [admin.amxx] Login: "ZALE<422><STEAM_0:0:179153939><>" kicked due to invalid password (account "zale") (address "109.97.155.8")
+L 01/17/2017 - 16:40:49: [admin.amxx] Login: "ZALE<424><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.97.155.8")
+L 01/17/2017 - 16:41:33: [admin.amxx] Login: "flawless.<425><STEAM_0:1:175372971><>" became an admin (account "flawless.") (access "bi") (address "84.232.251.59")
+L 01/17/2017 - 16:41:50: [slayafk.amxx] ursul fram N1 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 16:42:07: [admin.amxx] Login: "Cuppy # LePatron<426><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 16:43:25: [slayafk.amxx] ursul fram N1 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 16:44:25: [mapsmenu.amxx] Vote: "ZALE<424><STEAM_0:0:179153939><>" vote maps (map#1 "deathrun_nightrun_beta3") (map#2 "deathrun_nuclear") (map#3 "") (map#4 "")
+L 01/17/2017 - 16:44:35: [mapsmenu.amxx] Vote: Cancel vote session
+L 01/17/2017 - 16:44:35: -------- Mapchange to deathrun_anca --------
+L 01/17/2017 - 16:44:38: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 16:44:38: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 16:44:38: [admin.amxx] Login: "ZALE<424><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.97.155.8")
+L 01/17/2017 - 16:44:38: [admin.amxx] Login: "Cuppy # LePatron<426><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 16:58:02: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:02:37: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:05:57: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:10:28: -------- Mapchange to deathrun_cityhotel_v2 --------
+L 01/17/2017 - 17:10:30: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 17:10:30: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 17:10:30: [admin.amxx] Login: "Cuppy # LePatron<426><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 17:11:15: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:12:00: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:12:30: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:13:10: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:14:00: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:14:05: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:14:45: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:20:18: [admin.amxx] Login: "deadpool<456><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 01/17/2017 - 17:20:40: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:24:30: [slayafk.amxx] -Wd * Pac-Pac a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:27:05: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:28:30: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:30:10: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "TheDRAGONGAMER4<462><STEAM_0:0:1731702648><>"
+L 01/17/2017 - 17:30:27: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "TheDRAGONGAMER4<465><STEAM_0:0:1731702648><>"
+L 01/17/2017 - 17:32:40: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:34:35: [slayafk.amxx] Trag3DSIMoriHD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:34:35: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:35:15: [slayafk.amxx] RuslaNNN a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 17:37:01: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "-Wd * Pac-Pac<471><STEAM_0:0:1671076382><>"
+L 01/17/2017 - 17:37:22: -------- Mapchange to deathrun_abtropicano2 --------
+L 01/17/2017 - 17:37:24: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 17:37:24: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 17:37:25: [admin.amxx] Login: "Cuppy # LePatron<426><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 17:37:25: [admin.amxx] Login: "deadpool<456><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 01/17/2017 - 17:37:28: [admin.amxx] Login: "deadpool<473><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 01/17/2017 - 17:50:30: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Donald Rump<491><STEAM_0:0:499862343><>"
+L 01/17/2017 - 17:53:15: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 18:00:18: [admin.amxx] Login: "deadpool<509><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 01/17/2017 - 18:01:05: [slayafk.amxx] InGeR Dr0GaT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 18:02:07: [adminchat.amxx] Chat: "hackerul<508><STEAM_0:0:528638369><>" chat "800"
+L 01/17/2017 - 18:04:05: -------- Mapchange to deathrun_trap_canyon --------
+L 01/17/2017 - 18:04:07: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 18:04:07: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 18:04:08: [admin.amxx] Login: "deadpool<509><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 01/17/2017 - 18:04:35: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Donald Rump<522><STEAM_0:0:499862343><>"
+L 01/17/2017 - 18:19:37: [admin.amxx] Login: "fl0ppy<532><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 18:20:51: [admin.amxx] Login: "J.Smith<534><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 01/17/2017 - 18:20:59: [admin.amxx] Login: "J.Smith<535><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 01/17/2017 - 18:29:19: -------- Mapchange to deathrun_blabla_hard --------
+L 01/17/2017 - 18:29:20: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 18:29:20: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 18:30:58: [admin.amxx] Login: "Cuppy # LePatron<557><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 18:31:04: [admin.amxx] Login: "Cuppy # LePatron<558><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 18:32:24: [admin.amxx] Login: "Cuppy # LePatron<559><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 18:32:53: [admin.amxx] Login: "wKn<561><STEAM_0:0:196614190><>" kicked due to invalid password (account "wKn") (address "92.80.103.185")
+L 01/17/2017 - 18:39:46: [slayafk.amxx] InGeR Dr0GaT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 18:39:56: [slayafk.amxx] TRUMP a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 18:40:34: [admin.amxx] Login: "deadpool<567><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 01/17/2017 - 18:40:35: [admin.amxx] Login: "deadpool<569><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 01/17/2017 - 18:43:46: [slayafk.amxx] InGeR Dr0GaT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 18:43:50: [admincmd.amxx] Cmd: "Cuppy # LePatron<559><STEAM_0:1:193294027><>" slap with 0 damage "Rusu<552><STEAM_0:0:1134474968><>"
+L 01/17/2017 - 18:44:36: [slayafk.amxx] Rusu a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 18:46:36: [slayafk.amxx] InGeR Dr0GaT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 18:50:43: [admincmd.amxx] Cmd: "Cuppy # LePatron<559><STEAM_0:1:193294027><>" slap with 0 damage "JustKILL<575><STEAM_0:0:516949682><>"
+L 01/17/2017 - 18:50:44: [admincmd.amxx] Cmd: "Cuppy # LePatron<559><STEAM_0:1:193294027><>" slap with 0 damage "JustKILL<575><STEAM_0:0:516949682><>"
+L 01/17/2017 - 18:50:44: [admincmd.amxx] Cmd: "Cuppy # LePatron<559><STEAM_0:1:193294027><>" slap with 0 damage "JustKILL<575><STEAM_0:0:516949682><>"
+L 01/17/2017 - 18:50:45: [admincmd.amxx] Cmd: "Cuppy # LePatron<559><STEAM_0:1:193294027><>" slap with 0 damage "JustKILL<575><STEAM_0:0:516949682><>"
+L 01/17/2017 - 18:50:47: [admincmd.amxx] Cmd: "Cuppy # LePatron<559><STEAM_0:1:193294027><>" slap with 0 damage "JustKILL<575><STEAM_0:0:516949682><>"
+L 01/17/2017 - 18:50:48: [admincmd.amxx] Cmd: "Cuppy # LePatron<559><STEAM_0:1:193294027><>" slap with 0 damage "JustKILL<575><STEAM_0:0:516949682><>"
+L 01/17/2017 - 18:51:02: [admincmd.amxx] Cmd: "Cuppy # LePatron<559><STEAM_0:1:193294027><>" slap with 36 damage "JustKILL<575><STEAM_0:0:516949682><>"
+L 01/17/2017 - 18:51:59: [admin.amxx] Login: "spartanC3<583><STEAM_0:0:1219032291><>" became an admin (account "spartanC3") (access "bi") (address "109.97.110.4")
+L 01/17/2017 - 18:52:01: [slayafk.amxx] mwheeldown.=MIRE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 18:52:54: [admin.amxx] Login: "ZALE<587><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.97.155.8")
+L 01/17/2017 - 18:52:57: [admin.amxx] Login: "Cuppy # LePatron<588><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 18:52:58: [admin.amxx] Login: "ZALE<589><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.97.155.8")
+L 01/17/2017 - 18:54:27: [mapsmenu.amxx] Vote: "Cuppy # LePatron<588><STEAM_0:1:193294027><>" vote maps (map#1 "deathrun_gb_winter_final4") (map#2 "deathrun_fleury_fix2") (map#3 "") (map#4 "")
+L 01/17/2017 - 18:54:39: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_fleury_fix2
+L 01/17/2017 - 18:55:01: [slayafk.amxx] mwheeldown.=MIRE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 18:55:49: -------- Mapchange to deathrun_fleury_fix2 --------
+L 01/17/2017 - 18:55:51: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 18:55:51: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 18:55:51: [admin.amxx] Login: "ZALE<589><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.97.155.8")
+L 01/17/2017 - 18:55:51: [admin.amxx] Login: "Cuppy # LePatron<588><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 18:55:56: [admin.amxx] Login: "ZALE<598><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.97.155.8")
+L 01/17/2017 - 18:56:31: [slayafk.amxx] mwheeldown.=MIRE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 18:58:56: [slayafk.amxx] mwheeldown.=MIRE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 18:58:56: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:01:11: [slayafk.amxx] mwheeldown.=MIRE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:01:11: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:01:35: [admin.amxx] Login: "kaka<612><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 19:02:07: [admin.amxx] Login: "J.Smith<613><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 01/17/2017 - 19:02:12: [admin.amxx] Login: "J.Smith<614><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 01/17/2017 - 19:02:46: [slayafk.amxx] mwheeldown.=MIRE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:02:46: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:04:16: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:04:26: [slayafk.amxx] mwheeldown.=MIRE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:04:26: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:06:51: -------- Mapchange to deathrun_forest --------
+L 01/17/2017 - 19:06:57: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 19:06:57: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 19:06:59: [admin.amxx] Login: "Cuppy # LePatron<1><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 19:07:02: [admin.amxx] Login: "kaka<4><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 19:07:08: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// *ROM-Protect// Plugin OpenSource anti-IsFlooding/bug-fix pentru orice server." lang "")
+L 01/17/2017 - 19:07:08: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Versiunea : 1.0.4s-dev. Bulid : 98. Data lansarii versiunii : 03.12.2016." lang "")
+L 01/17/2017 - 19:07:08: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Autor : l�xor # Dr.Fio & DR2.IND (+ eNd.) - SteamID (contact) : luxxxoor" lang "")
+L 01/17/2017 - 19:07:08: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// O productie FioriGinal.ro - site : www.fioriginal.ro" lang "")
+L 01/17/2017 - 19:07:08: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link forum de dezvoltare : http://forum.fioriginal.ro/amxmodx-plugins-pluginuri/rom-protect-anti-flood-bug-fix-t28292.html" lang "")
+L 01/17/2017 - 19:07:08: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link sursa : https://github.com/luxxxoor/ROM-Protect" lang "")
+L 01/17/2017 - 19:07:08: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Colori : ^1 - Culoarea aleasa de jucator cu con_color." lang "")
+L 01/17/2017 - 19:07:08: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^3 - Culoare gri." lang "")
+L 01/17/2017 - 19:07:08: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^4 - Culoare verde." lang "")
+L 01/17/2017 - 19:07:16: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "JustKILL<6><STEAM_0:0:516949682><>"
+L 01/17/2017 - 19:08:45: [admin.amxx] Login: "J.Smith<12><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 01/17/2017 - 19:08:52: [admin.amxx] Login: "J.Smith<13><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 01/17/2017 - 19:09:46: [admincmd.amxx] Cmd: "J.Smith<13><STEAM_0:0:59563675><>" slap with 0 damage "InGeR Dr0GaT<5><STEAM_0:0:1127195256><>"
+L 01/17/2017 - 19:09:49: [admincmd.amxx] Cmd: "J.Smith<13><STEAM_0:0:59563675><>" slap with 0 damage "InGeR Dr0GaT<5><STEAM_0:0:1127195256><>"
+L 01/17/2017 - 19:10:06: [admin.amxx] Login: "Thunder<14><STEAM_0:0:1676344678><>" became an admin (account "Thunder") (access "bi") (address "89.35.93.45")
+L 01/17/2017 - 19:13:24: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:19:19: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:24:31: [admin.amxx] Login: "deadpool<27><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 01/17/2017 - 19:26:01: [mapsmenu.amxx] Vote: "kaka<4><VALVE_0:4:1033726963><>" vote maps (map#1 "deathrun_challenge_x") (map#2 "deathrun_flipfloodz") (map#3 "") (map#4 "")
+L 01/17/2017 - 19:26:13: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_challenge_x
+L 01/17/2017 - 19:33:18: [admin.amxx] Login: "fl0ppy<38><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 19:33:29: [adminchat.amxx] Chat: "Big Daddy<20><STEAM_0:1:199530760><>" chat " nu ma lasa sa trimit"
+L 01/17/2017 - 19:33:33: [adminchat.amxx] Chat: "Big Daddy<20><STEAM_0:1:199530760><>" chat " PRIN INTERMEDIUL CONSOLEI"
+L 01/17/2017 - 19:33:34: [adminchat.amxx] Chat: "Big Daddy<20><STEAM_0:1:199530760><>" chat " X("
+L 01/17/2017 - 19:33:39: -------- Mapchange to deathrun_challenge_x --------
+L 01/17/2017 - 19:33:40: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 19:33:40: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 19:33:41: [admin.amxx] Login: "fl0ppy<38><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 19:33:41: [admin.amxx] Login: "Cuppy # LePatron<1><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 19:33:41: [admin.amxx] Login: "kaka<4><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 19:34:16: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:34:46: [slayafk.amxx] Big Daddy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:34:51: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:35:54: [admin.amxx] Login: "Sol<47><STEAM_0:1:191882096><>" became an admin (account "Sol") (access "bi") (address "79.114.190.158")
+L 01/17/2017 - 19:36:20: [admincmd.amxx] Cmd: "Sol<47><STEAM_0:1:191882096><>" slay "Ene[R]gy^_  FiNs0N WaRSiMpS0NpF<50><STEAM_0:0:947863493><>"
+L 01/17/2017 - 19:38:41: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:38:41: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:44:01: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:44:06: [slayafk.amxx] InGeR Dr0GaT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:44:06: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:44:06: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:47:26: [adminchat.amxx] Chat: "-eSS- INTEL#<35><STEAM_0:0:193002961><>" chat " asta da 12 strafe."
+L 01/17/2017 - 19:48:11: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:48:11: [slayafk.amxx] InGeR Dr0GaT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:48:11: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:48:11: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:48:11: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:50:21: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:50:21: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:50:21: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:52:51: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:52:51: [slayafk.amxx] Remus a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:52:51: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:52:56: [slayafk.amxx] InGeR Dr0GaT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:57:16: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:57:26: [slayafk.amxx] InGeR Dr0GaT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 19:59:29: [admincmd.amxx] Kick: "kaka<4><VALVE_0:4:1033726963><>" kick "Big Daddy<20><STEAM_0:1:199530760><>" (reason "")
+L 01/17/2017 - 19:59:39: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Big Daddy<81><STEAM_0:1:199530760><>"
+L 01/17/2017 - 20:02:10: -------- Mapchange to deathrun_mici_f --------
+L 01/17/2017 - 20:02:12: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 20:02:12: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 20:02:13: [admin.amxx] Login: "fl0ppy<38><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 20:02:13: [admin.amxx] Login: "Cuppy # LePatron<1><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 20:02:13: [admin.amxx] Login: "kaka<4><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 20:02:34: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "TRUMP<98><STEAM_0:0:499862343><>"
+L 01/17/2017 - 20:03:07: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:06:22: [slayafk.amxx] -eSS- INTEL# a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:17:57: [slayafk.amxx] Big Daddy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:19:45: [admin.amxx] Login: "SWAGGIE. XD<119><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 20:24:06: [mapsmenu.amxx] Vote: "fl0ppy<38><VALVE_0:4:840945399><>" vote maps (map#1 "deathrun_inferno_beta1") (map#2 "deathrun_virtualstrike") (map#3 "") (map#4 "")
+L 01/17/2017 - 20:24:18: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_inferno_beta1
+L 01/17/2017 - 20:28:12: -------- Mapchange to deathrun_inferno_beta1 --------
+L 01/17/2017 - 20:28:15: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 20:28:15: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 20:28:15: [admin.amxx] Login: "Cuppy # LePatron<1><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 20:29:14: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:32:56: [admin.amxx] Login: "SWAGGIE. XD<149><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 20:33:09: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:35:33: [admin.amxx] Login: "SWAGGIE. XD<157><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 20:39:19: [slayafk.amxx] I LoVe YoU ! <3 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:42:22: [admin.amxx] Login: "ZALE<161><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.97.155.8")
+L 01/17/2017 - 20:42:56: [admin.amxx] Login: "SWAGGIE. XD<162><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 20:45:05: [admin.amxx] Login: "SWAGGIE. XD<166><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 20:48:24: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "AmatoR<170><STEAM_0:0:1922337775><>"
+L 01/17/2017 - 20:49:12: [mapsmenu.amxx] Vote: "SWAGGIE. XD<166><VALVE_0:4:862961770><>" vote maps (map#1 "deathrun_laikiux_pizdec") (map#2 "deathrun_laikiux_rawr") (map#3 "") (map#4 "")
+L 01/17/2017 - 20:49:24: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_laikiux_rawr
+L 01/17/2017 - 20:50:54: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:51:18: [admin.amxx] Login: "Cuppy # LePatron<175><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 20:51:29: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Cuppy # LePatron<175><STEAM_0:1:193294027><>"
+L 01/17/2017 - 20:53:22: -------- Mapchange to deathrun_laikiux_rawr --------
+L 01/17/2017 - 20:53:23: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 20:53:23: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 20:53:24: [admin.amxx] Login: "SWAGGIE. XD<166><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 20:53:24: [admin.amxx] Login: "Cuppy # LePatron<175><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 20:53:24: [admin.amxx] Login: "ZALE<161><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.97.155.8")
+L 01/17/2017 - 20:53:58: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:54:18: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:54:33: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:54:53: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:55:58: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:56:28: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:56:28: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:56:33: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:57:58: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:57:58: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:57:58: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 20:57:58: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:00:03: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:00:03: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:00:03: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:01:33: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:01:33: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:01:33: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:02:45: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Like a BOSS!' AND Map = 'deathrun_laikiux_rawr'' at line 1
+L 01/17/2017 - 21:02:45: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 21:03:28: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:03:28: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:04:58: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:04:58: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:06:53: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:08:33: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:08:33: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:10:03: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:10:08: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:12:02: [admin.amxx] Login: "Cuppy # LePatron<200><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 21:12:10: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Cuppy # LePatron<200><STEAM_0:1:193294027><>"
+L 01/17/2017 - 21:12:29: [mapsmenu.amxx] Vote: "Cuppy # LePatron<200><STEAM_0:1:193294027><>" vote maps (map#1 "deathrun_bhopz_v2") (map#2 "deathrun_hertz") (map#3 "") (map#4 "")
+L 01/17/2017 - 21:12:41: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_hertz
+L 01/17/2017 - 21:12:58: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:12:58: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:15:13: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:15:13: [slayafk.amxx] Ene[R]gy^_  FiNs0N WaRSiMpS0NpF a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:16:11: [admin.amxx] Login: "Cuppy # LePatron<202><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 21:16:53: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:19:03: [slayafk.amxx] Ro.# iNdecEnT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:20:30: -------- Mapchange to deathrun_hertz --------
+L 01/17/2017 - 21:20:33: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 21:20:33: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 21:20:33: [admin.amxx] Login: "Cuppy # LePatron<202><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 21:21:15: [admin.amxx] Login: "Sol<210><STEAM_0:1:191882096><>" became an admin (account "Sol") (access "bi") (address "79.114.188.230")
+L 01/17/2017 - 21:21:18: [admin.amxx] Login: "Sol<211><STEAM_0:1:191882096><>" became an admin (account "Sol") (access "bi") (address "79.114.188.230")
+L 01/17/2017 - 21:22:35: [adminchat.amxx] Chat: "Sol<211><STEAM_0:1:191882096><>" chat "cuppy"
+L 01/17/2017 - 21:22:37: [adminchat.amxx] Chat: "Cuppy # LePatron<202><STEAM_0:1:193294027><>" chat "da"
+L 01/17/2017 - 21:22:40: [adminchat.amxx] Chat: "Sol<211><STEAM_0:1:191882096><>" chat "dai lj-u ala?"
+L 01/17/2017 - 21:22:42: [adminchat.amxx] Chat: "Cuppy # LePatron<202><STEAM_0:1:193294027><>" chat "cre"
+L 01/17/2017 - 21:22:43: [adminchat.amxx] Chat: "Sol<211><STEAM_0:1:191882096><>" chat "care se da din sbj"
+L 01/17/2017 - 21:22:49: [adminchat.amxx] Chat: "Cuppy # LePatron<202><STEAM_0:1:193294027><>" chat "sa-l dau lj?"
+L 01/17/2017 - 21:22:53: [adminchat.amxx] Chat: "Sol<211><STEAM_0:1:191882096><>" chat "lj cj scj"
+L 01/17/2017 - 21:22:54: [adminchat.amxx] Chat: "Sol<211><STEAM_0:1:191882096><>" chat "cum vr"
+L 01/17/2017 - 21:22:56: [adminchat.amxx] Chat: "Cuppy # LePatron<202><STEAM_0:1:193294027><>" chat "da.."
+L 01/17/2017 - 21:23:02: [adminchat.amxx] Chat: "Cuppy # LePatron<202><STEAM_0:1:193294027><>" chat "adica nu prea le am da dau.."
+L 01/17/2017 - 21:23:09: [adminchat.amxx] Chat: "Cuppy # LePatron<202><STEAM_0:1:193294027><>" chat "lel"
+L 01/17/2017 - 21:23:35: [adminchat.amxx] Chat: "Cuppy # LePatron<202><STEAM_0:1:193294027><>" chat "nu stiu cum sa dau cj.."
+L 01/17/2017 - 21:23:37: [adminchat.amxx] Chat: "Cuppy # LePatron<202><STEAM_0:1:193294027><>" chat " :(("
+L 01/17/2017 - 21:23:40: [adminchat.amxx] Chat: "Sol<211><STEAM_0:1:191882096><>" chat "dev off"
+L 01/17/2017 - 21:23:50: [admincmd.amxx] Cmd: "Sol<211><STEAM_0:1:191882096><>" ask for players list
+L 01/17/2017 - 21:25:47: [slayafk.amxx] Sol a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:35:52: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:39:17: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:40:07: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:44:37: [slayafk.amxx] Cuppy # LePatron a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:49:16: [admin.amxx] Login: "SWAGGIE. XD<224><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 21:49:24: [admin.amxx] Login: "fl0ppy<225><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 21:50:21: -------- Mapchange to deathrun_kings_never_die --------
+L 01/17/2017 - 21:50:22: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 21:50:22: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 21:50:23: [admin.amxx] Login: "Cuppy # LePatron<202><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 21:50:31: [admin.amxx] Login: "Cuppy # LePatron<227><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 21:55:57: [slayafk.amxx] TRUMP a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 21:55:58: [admin.amxx] Login: "fl0ppy<236><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 21:56:01: [admin.amxx] Login: "fl0ppy<237><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 22:00:19: [admin.amxx] Login: "kaka<240><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 22:00:24: [admin.amxx] Login: "wKn<241><STEAM_0:1:39271980><>" kicked due to invalid password (account "wKn") (address "92.82.98.35")
+L 01/17/2017 - 22:00:36: [admin.amxx] Login: "wKn<242><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "bit") (address "92.82.98.35")
+L 01/17/2017 - 22:00:40: [admin.amxx] Login: "wKn<243><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "bit") (address "92.82.98.35")
+L 01/17/2017 - 22:02:07: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:03:53: [adminchat.amxx] Chat: "fl0ppy<237><VALVE_0:4:840945399><>" psay "wKn<243><STEAM_0:1:39271980><>" "89.40.233.51:27015"
+L 01/17/2017 - 22:03:54: [adminchat.amxx] Chat: "fl0ppy<237><VALVE_0:4:840945399><>" psay "wKn<243><STEAM_0:1:39271980><>" "89.40.233.51:27015 "
+L 01/17/2017 - 22:03:54: [adminchat.amxx] Chat: "fl0ppy<237><VALVE_0:4:840945399><>" psay "wKn<243><STEAM_0:1:39271980><>" "89.40.233.51:27015 "
+L 01/17/2017 - 22:03:54: [adminchat.amxx] Chat: "fl0ppy<237><VALVE_0:4:840945399><>" psay "wKn<243><STEAM_0:1:39271980><>" "89.40.233.51:27015 "
+L 01/17/2017 - 22:03:55: [adminchat.amxx] Chat: "fl0ppy<237><VALVE_0:4:840945399><>" psay "wKn<243><STEAM_0:1:39271980><>" "89.40.233.51:27015 "
+L 01/17/2017 - 22:07:32: [slayafk.amxx] TRUMP a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:09:00: [admin.amxx] Login: "SWAGGIE. XD<254><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 22:12:57: [slayafk.amxx] TRUMP a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:13:23: [mapsmenu.amxx] Vote: "Cuppy # LePatron<227><STEAM_0:1:193294027><>" vote maps (map#1 "deathrun_discovery3") (map#2 "deathrun_privateers") (map#3 "") (map#4 "")
+L 01/17/2017 - 22:13:35: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_discovery3
+L 01/17/2017 - 22:13:47: [slayafk.amxx] TRUMP a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:15:22: [slayafk.amxx] TRUMP a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:16:00: [admin.amxx] Login: "fl0ppy<267><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 22:16:17: [admin.amxx] Login: "fl0ppy<268><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 22:16:30: [adminchat.amxx] Chat: "fl0ppy<268><VALVE_0:4:840945399><>" chat "ba"
+L 01/17/2017 - 22:16:32: [adminchat.amxx] Chat: "Cuppy # LePatron<227><STEAM_0:1:193294027><>" chat "da"
+L 01/17/2017 - 22:16:40: [adminchat.amxx] Chat: "fl0ppy<268><VALVE_0:4:840945399><>" chat " vii putin pe sv"
+L 01/17/2017 - 22:16:42: -------- Mapchange to deathrun_discovery3 --------
+L 01/17/2017 - 22:16:44: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 22:16:44: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 22:16:44: [admin.amxx] Login: "SWAGGIE. XD<254><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 01/17/2017 - 22:16:44: [admin.amxx] Login: "fl0ppy<268><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 22:16:44: [admin.amxx] Login: "Cuppy # LePatron<227><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 22:16:49: [admin.amxx] Login: "fl0ppy<270><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 22:16:54: [adminchat.amxx] Chat: "fl0ppy<270><VALVE_0:4:840945399><>" chat "sa vad ceva"
+L 01/17/2017 - 22:17:04: [adminchat.amxx] Chat: "fl0ppy<270><VALVE_0:4:840945399><>" chat "vi putin pe sv sa vad ceva?"
+L 01/17/2017 - 22:17:38: [adminchat.amxx] Chat: "fl0ppy<270><VALVE_0:4:840945399><>" say "le 89.40.233.51:27015 "
+L 01/17/2017 - 22:17:54: [admin.amxx] Login: "fl0ppy<275><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 22:18:08: [adminchat.amxx] Chat: "fl0ppy<275><VALVE_0:4:840945399><>" psay "Cuppy # LePatron<227><STEAM_0:1:193294027><>" "89.40.233.51:27015 "
+L 01/17/2017 - 22:18:10: [adminchat.amxx] Chat: "fl0ppy<275><VALVE_0:4:840945399><>" psay "Cuppy # LePatron<227><STEAM_0:1:193294027><>" "89.40.233.51:27015 "
+L 01/17/2017 - 22:18:11: [adminchat.amxx] Chat: "fl0ppy<275><VALVE_0:4:840945399><>" psay "Cuppy # LePatron<227><STEAM_0:1:193294027><>" "89.40.233.51:27015 "
+L 01/17/2017 - 22:18:11: [adminchat.amxx] Chat: "fl0ppy<275><VALVE_0:4:840945399><>" psay "Cuppy # LePatron<227><STEAM_0:1:193294027><>" "89.40.233.51:27015 "
+L 01/17/2017 - 22:18:48: [slayafk.amxx] TRUMP a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:20:33: [slayafk.amxx] TRUMP a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:20:48: [slayafk.amxx] [Sr] allen killer a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:22:03: [slayafk.amxx] TRUMP a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:22:50: [admin.amxx] Login: "Cuppy # LePatron<281><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 22:23:03: [slayafk.amxx] TRUMP a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:24:11: [admin.amxx] Login: "fl0ppy<282><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 22:24:13: [admincmd.amxx] Cmd: "Cuppy # LePatron<281><STEAM_0:1:193294027><>" slap with 99 damage "Cuppy # LePatron<281><STEAM_0:1:193294027><>"
+L 01/17/2017 - 22:24:13: [slayafk.amxx] TRUMP a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:25:38: [slayafk.amxx] TRUMP a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:33:10: [admincmd.amxx] Cmd: "Cuppy # LePatron<281><STEAM_0:1:193294027><>" slap with 0 damage "ALLNHKA<288><STEAM_0:0:733123957><>"
+L 01/17/2017 - 22:33:16: [admincmd.amxx] Cmd: "Cuppy # LePatron<281><STEAM_0:1:193294027><>" slap with 0 damage "ALLNHKA<288><STEAM_0:0:733123957><>"
+L 01/17/2017 - 22:34:09: [admincmd.amxx] Cmd: "Cuppy # LePatron<281><STEAM_0:1:193294027><>" slap with 0 damage "ALLNHKA<288><STEAM_0:0:733123957><>"
+L 01/17/2017 - 22:35:28: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:35:33: [slayafk.amxx] AmatoR a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:37:38: [slayafk.amxx] JustKILL a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:37:59: [mapsmenu.amxx] Vote: "Cuppy # LePatron<281><STEAM_0:1:193294027><>" vote maps (map#1 "deathrun_gb_winter_final4") (map#2 "deathrun_easy_v4") (map#3 "") (map#4 "")
+L 01/17/2017 - 22:38:11: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_easy_v4
+L 01/17/2017 - 22:39:28: [slayafk.amxx] JustKILL a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:42:31: -------- Mapchange to deathrun_easy_v4 --------
+L 01/17/2017 - 22:42:33: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 22:42:33: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 22:42:34: [admin.amxx] Login: "Cuppy # LePatron<281><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 22:42:36: [admin.amxx] Login: "fl0ppy<282><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 22:42:44: [admin.amxx] Login: "Cuppy # LePatron<304><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 01/17/2017 - 22:42:47: [admin.amxx] Login: "fl0ppy<305><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 22:43:41: [admin.amxx] Login: "FAKE ^^<306><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.3.69")
+L 01/17/2017 - 22:43:44: [admin.amxx] Login: "FAKE ^^<307><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.3.69")
+L 01/17/2017 - 22:45:45: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:48: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:49: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:49: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:50: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:51: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:51: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:52: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:52: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:52: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:53: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:53: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:54: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:54: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:45:55: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:46:20: [admincmd.amxx] Cmd: "fl0ppy<305><VALVE_0:4:840945399><>" ask for players list
+L 01/17/2017 - 22:46:21: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:46:22: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:46:23: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:46:23: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:46:23: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "Andreea<310><STEAM_0:0:189341027><>"
+L 01/17/2017 - 22:49:13: [slayafk.amxx] fl0ppy a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 22:53:03: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "FAKE ^^<307><STEAM_0:0:334408724><>"
+L 01/17/2017 - 22:53:06: [admincmd.amxx] Cmd: "FAKE ^^<307><STEAM_0:0:334408724><>" slap with 0 damage "FAKE ^^<307><STEAM_0:0:334408724><>"
+L 01/17/2017 - 22:56:37: [adminchat.amxx] Chat: "manGo#<316><STEAM_0:0:25906612><>" chat " alt addons nu gaseati?"
+L 01/17/2017 - 22:56:42: [adminchat.amxx] Chat: "FAKE ^^<307><STEAM_0:0:334408724><>" chat "adica ?"
+L 01/17/2017 - 23:00:06: [admincmd.amxx] Kick: "FAKE ^^<307><STEAM_0:0:334408724><>" kick "ba5escuSKYPEfututiHristosuMa-ti<308><STEAM_0:0:1715760849><>" (reason "")
+L 01/17/2017 - 23:02:40: [admincmd.amxx] Kick: "FAKE ^^<307><STEAM_0:0:334408724><>" kick "PlangiCaImiBatJocDeTineFake<321><STEAM_0:0:1715760849><>" (reason "")
+L 01/17/2017 - 23:02:47: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "PlangiCaImiBatJocDeTineFake<327><STEAM_0:0:1715760849><>"
+L 01/17/2017 - 23:03:32: [admin.amxx] Login: "-rTg|maEsTrOo<329><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.91.64")
+L 01/17/2017 - 23:05:31: [mapsmenu.amxx] Vote: "FAKE ^^<307><STEAM_0:0:334408724><>" vote maps (map#1 "deathrun_arctic") (map#2 "deathrun_jigsaw2") (map#3 "") (map#4 "")
+L 01/17/2017 - 23:05:43: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_jigsaw2
+L 01/17/2017 - 23:08:02: [admin.amxx] Login: "FAKE ^^<332><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.3.69")
+L 01/17/2017 - 23:08:10: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "FAKE ^^<332><STEAM_0:0:334408724><>"
+L 01/17/2017 - 23:08:18: -------- Mapchange to deathrun_jigsaw2 --------
+L 01/17/2017 - 23:08:19: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 23:08:19: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 23:08:20: [admin.amxx] Login: "-rTg|maEsTrOo<329><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.91.64")
+L 01/17/2017 - 23:08:20: [admin.amxx] Login: "-rTg|maEsTrOo<333><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.91.64")
+L 01/17/2017 - 23:08:21: [admin.amxx] Login: "FAKE ^^<332><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.3.69")
+L 01/17/2017 - 23:09:25: [slayafk.amxx] wadafac! a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 23:10:13: [mapsmenu.amxx] Vote: "-rTg|maEsTrOo<333><STEAM_0:1:154430568><>" vote maps (map#1 "deathrun_clarion_dojo_b3") (map#2 "deathrun_bhopz_v2") (map#3 "") (map#4 "")
+L 01/17/2017 - 23:10:25: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_bhopz_v2
+L 01/17/2017 - 23:11:26: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "manGo#<342><STEAM_0:0:25906612><>"
+L 01/17/2017 - 23:11:49: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<333><STEAM_0:1:154430568><>" change nick to "Nevrozata" "Nevrozatu<337><BOT><>"
+L 01/17/2017 - 23:12:35: [slayafk.amxx] wadafac! a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 23:15:20: [slayafk.amxx] wadafac! a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 23:16:42: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<333><STEAM_0:1:154430568><>" changelevel "deathrun_bhopz_v2"
+L 01/17/2017 - 23:16:44: -------- Mapchange to deathrun_bhopz_v2 --------
+L 01/17/2017 - 23:16:45: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 23:16:45: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 23:16:46: [admin.amxx] Login: "-rTg|maEsTrOo<333><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.91.64")
+L 01/17/2017 - 23:16:46: [admin.amxx] Login: "FAKE ^^<332><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.3.69")
+L 01/17/2017 - 23:18:06: [admin.amxx] Login: "kaka<359><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 23:21:08: [admin.amxx] Login: "spartanC3<363><STEAM_0:0:1219032291><>" became an admin (account "spartanC3") (access "bi") (address "109.97.110.4")
+L 01/17/2017 - 23:25:31: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<333><STEAM_0:1:154430568><>" change nick to "Nevrozata" "Nevrozatu<353><BOT><>"
+L 01/17/2017 - 23:26:05: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 01/17/2017 - 23:28:19: [plmenu.amxx] Cmd: "-rTg|maEsTrOo<333><STEAM_0:1:154430568><>" transfer "-rTg|maEsTrOo<333><STEAM_0:1:154430568><>" (team "TERRORIST")
+L 01/17/2017 - 23:31:18: [telemenu.amxx] Cmd: "-rTg|maEsTrOo<333><STEAM_0:1:154430568><>" teleport "Andreea<356><STEAM_0:0:189341027><>"
+L 01/17/2017 - 23:31:39: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Andreea<369><STEAM_0:0:189341027><>"
+L 01/17/2017 - 23:35:24: [admin.amxx] Login: "fl0ppy<374><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 23:35:29: [admin.amxx] Login: "fl0ppy<375><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 23:35:35: [plmenu.amxx] Cmd: "-rTg|maEsTrOo<333><STEAM_0:1:154430568><>" transfer "Andreea<371><STEAM_0:0:189341027><>" (team "TERRORIST")
+L 01/17/2017 - 23:36:29: [admin.amxx] Login: "-rTg|maEsTrOo<376><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.91.64")
+L 01/17/2017 - 23:39:17: [admin.amxx] Login: "J.Smith<377><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 01/17/2017 - 23:41:41: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "manGo#<378><STEAM_0:0:25906612><>"
+L 01/17/2017 - 23:41:53: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "a<379><STEAM_0:0:25906612><>"
+L 01/17/2017 - 23:42:05: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "b<380><STEAM_0:0:25906612><>"
+L 01/17/2017 - 23:42:38: -------- Mapchange to deathrun_adelina --------
+L 01/17/2017 - 23:42:39: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+L 01/17/2017 - 23:42:39: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 01/17/2017 - 23:42:39: [admin.amxx] Login: "-rTg|maEsTrOo<376><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.91.64")
+L 01/17/2017 - 23:42:39: [admin.amxx] Login: "spartanC3<363><STEAM_0:0:1219032291><>" became an admin (account "spartanC3") (access "bi") (address "109.97.110.4")
+L 01/17/2017 - 23:42:40: [admin.amxx] Login: "fl0ppy<375><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 23:42:40: [admin.amxx] Login: "kaka<359><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 01/17/2017 - 23:42:40: [admin.amxx] Login: "J.Smith<377><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 01/17/2017 - 23:42:42: [admin.amxx] Login: "fl0ppy<381><VALVE_0:4:840945399><>" became an admin (account "fl0ppy") (access "bi") (address "86.127.99.205")
+L 01/17/2017 - 23:42:45: [admin.amxx] Login: "J.Smith<383><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 01/17/2017 - 23:43:02: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Evanescence<391><VALVE_0:4:1040925674><>"
+L 01/17/2017 - 23:43:13: [adminchat.amxx] Chat: "LoLz<389><VALVE_0:4:537087095><>" chat " baga ma ct ca nu pot"
+L 01/17/2017 - 23:43:30: [adminchat.amxx] Chat: "fl0ppy<381><VALVE_0:4:840945399><>" chat "MAEEEE"
+L 01/17/2017 - 23:43:42: [admincmd.amxx] Cmd: "J.Smith<383><STEAM_0:0:59563675><>" ask for players list
+L 01/17/2017 - 23:43:51: [adminchat.amxx] Chat: "fl0ppy<381><VALVE_0:4:840945399><>" chat "poti inchide absenta"
+L 01/17/2017 - 23:44:24: [adminchat.amxx] Chat: "fl0ppy<381><VALVE_0:4:840945399><>" chat "mae orele care am jucat acum se pun la activitate?"
+L 01/17/2017 - 23:46:32: [admincmd.amxx] Cmd: "J.Smith<383><STEAM_0:0:59563675><>" ask for players list
+L 01/17/2017 - 23:46:59: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde

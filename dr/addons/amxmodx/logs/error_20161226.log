@@ -1,0 +1,2062 @@
+L 12/26/2016 - 02:19:29: Start of error session.
+L 12/26/2016 - 02:19:29: Info (map "deathrun_projetocs2") (file "addons/amxmodx/logs/error_20161226.log")
+L 12/26/2016 - 02:19:29: String formatted incorrectly - parameter 2 (total 1)
+L 12/26/2016 - 02:19:29: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 02:19:29: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 02:19:29: [AMXX]    [0] comp_timer2.sma::hookChat (line 402)
+L 12/26/2016 - 10:20:21: Start of error session.
+L 12/26/2016 - 10:20:21: Info (map "deathrun_expres-winter") (file "addons/amxmodx/logs/error_20161226.log")
+L 12/26/2016 - 10:20:21: Forward-ul nu s-a putut executa.
+L 12/26/2016 - 10:20:21: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/26/2016 - 11:52:27: Start of error session.
+L 12/26/2016 - 11:52:27: Info (map "deathrun_clarion_dojo_b3") (file "addons/amxmodx/logs/error_20161226.log")
+L 12/26/2016 - 11:52:27: String formatted incorrectly - parameter 2 (total 1)
+L 12/26/2016 - 11:52:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 11:52:27: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 11:52:27: [AMXX]    [0] comp_timer2.sma::hookChat (line 402)
+L 12/26/2016 - 15:26:24: Start of error session.
+L 12/26/2016 - 15:26:24: Info (map "deathrun_go_freedom_v1") (file "addons/amxmodx/logs/error_20161226.log")
+L 12/26/2016 - 15:26:24: String formatted incorrectly - parameter 2 (total 1)
+L 12/26/2016 - 15:26:24: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 15:26:24: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 15:26:24: [AMXX]    [0] comp_timer2.sma::hookChat (line 402)
+L 12/26/2016 - 15:26:30: String formatted incorrectly - parameter 2 (total 1)
+L 12/26/2016 - 15:26:30: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 15:26:30: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 15:26:30: [AMXX]    [0] comp_timer2.sma::hookChat (line 402)
+L 12/26/2016 - 17:33:25: Start of error session.
+L 12/26/2016 - 17:33:25: Info (map "deathrun_bhopz_v2") (file "addons/amxmodx/logs/error_20161226.log")
+L 12/26/2016 - 17:33:25: Forward-ul nu s-a putut executa.
+L 12/26/2016 - 17:33:25: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 12/26/2016 - 17:33:25: Forward-ul nu s-a putut executa.
+L 12/26/2016 - 17:33:25: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 12/26/2016 - 18:08:07: Start of error session.
+L 12/26/2016 - 18:08:07: Info (map "deathrun_snow_wind") (file "addons/amxmodx/logs/error_20161226.log")
+L 12/26/2016 - 18:08:07: Forward-ul nu s-a putut executa.
+L 12/26/2016 - 18:08:07: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/26/2016 - 19:26:13: Start of error session.
+L 12/26/2016 - 19:26:13: Info (map "deathrun_supra") (file "addons/amxmodx/logs/error_20161226.log")
+L 12/26/2016 - 19:26:13: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:13: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:13: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:13: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:13: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:13: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:13: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:13: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:13: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:13: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:13: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:13: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:13: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:13: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:13: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:13: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:19: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:19: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:19: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:19: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:19: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:19: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:19: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:19: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:19: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:19: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:19: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:19: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:19: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:19: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:19: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:19: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:19: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:19: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:19: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:19: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:20: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:20: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:20: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:20: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:20: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:20: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:20: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:20: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:20: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:20: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:20: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:20: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:20: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:20: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:20: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:20: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:27: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:27: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:27: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:27: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:27: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:27: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:27: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:27: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:28: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:28: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:28: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:28: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:28: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:28: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:28: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:28: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:28: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:28: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:39: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:39: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:39: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:39: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:39: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:39: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:39: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:39: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:39: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:39: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:40: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:40: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:40: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:40: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:40: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:40: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:40: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:40: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:40: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:40: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:47: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:47: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:47: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:47: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:47: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:47: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:47: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:47: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:47: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:47: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:47: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:47: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:47: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:47: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:47: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:47: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:47: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:47: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:47: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:47: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:49: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:49: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:49: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:49: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:49: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:49: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:49: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:49: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:49: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:49: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:49: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:49: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:49: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:49: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:49: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:49: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:50: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:50: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:50: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:50: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:50: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:50: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:50: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:50: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:50: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:50: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:55: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:55: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:55: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:55: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:55: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:55: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:55: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:55: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:55: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:55: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:56: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:56: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:56: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:56: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:56: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:56: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:56: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:56: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:56: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:56: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:57: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:57: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:57: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:57: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:57: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:57: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:57: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:57: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:57: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:57: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:58: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:58: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:58: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:58: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:58: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:58: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:58: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:58: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:58: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:58: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:58: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:58: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:58: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:58: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:58: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:26:58: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:26:58: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:26:58: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:26:58: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:26:58: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:11: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:11: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:11: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:11: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:11: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:11: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:11: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:11: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:11: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:11: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:11: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:11: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:11: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:11: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:11: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:11: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:11: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:11: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:11: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:11: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:12: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:12: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:12: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:12: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:12: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:12: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:12: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:12: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:12: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:12: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:12: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:12: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:12: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:12: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:12: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:12: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:12: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:12: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:12: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:12: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:13: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:13: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:13: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:13: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:13: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:13: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:13: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:13: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:13: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:13: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:13: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:13: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:13: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:13: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:13: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:13: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:14: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:14: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:14: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:14: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:14: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:14: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:14: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:14: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:14: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:14: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:14: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:14: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:14: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:14: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:14: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:14: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:14: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:14: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:14: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:14: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:15: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:15: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:15: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:15: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:15: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:15: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:15: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:15: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:15: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:15: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:15: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:15: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:15: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:15: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:15: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:15: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:15: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:15: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:15: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:15: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:16: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:16: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:16: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:16: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:16: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:16: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:16: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:16: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:16: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:16: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:16: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:16: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:16: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:16: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:16: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:16: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:16: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:16: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:16: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:16: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:17: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:17: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:17: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:17: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:17: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:17: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:17: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:17: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:17: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:17: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:17: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:17: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:17: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:17: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:17: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:17: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:17: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:17: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:17: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:17: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:18: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:18: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:18: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:18: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:18: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:18: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:18: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:18: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:18: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:18: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:18: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:18: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:18: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:18: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:18: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:18: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:31: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:31: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:31: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:31: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:31: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:31: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:31: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:31: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:31: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:31: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:32: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:32: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:32: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:32: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:32: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:32: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:32: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:32: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:32: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:32: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:33: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:33: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:33: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:33: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:33: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:33: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:33: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:33: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:34: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:34: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:34: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:34: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:34: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:34: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:34: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:34: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:34: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:34: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:35: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:35: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:35: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:35: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:35: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:35: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:35: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:35: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:35: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:35: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:35: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:35: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:35: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:35: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:35: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:35: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:35: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:35: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:35: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:35: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:38: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:38: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:38: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:38: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:38: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:38: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:38: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:38: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:38: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:38: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:38: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:38: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:38: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:38: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:38: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:38: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:41: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:41: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:41: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:41: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:41: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:41: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:41: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:41: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:41: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:41: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:42: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:42: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:42: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:42: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:42: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:42: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:42: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:42: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:42: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:42: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:42: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:42: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:42: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:42: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:42: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:42: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:43: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:43: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:43: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:43: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:43: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:43: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:43: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:43: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:43: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:43: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:43: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:43: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:44: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:44: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:44: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:44: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:44: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:44: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:44: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:44: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:44: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:44: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:44: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:44: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:44: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:44: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:44: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:44: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:44: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:44: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:44: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:44: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:45: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:45: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:45: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:45: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:45: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:45: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:45: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:45: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:45: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:45: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:45: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:45: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:45: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:45: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:45: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:45: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:45: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:45: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:45: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:45: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:46: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:46: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:46: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:46: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:46: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:46: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:46: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:46: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:46: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:46: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:46: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:46: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:46: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:46: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:46: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:46: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:46: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:46: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:46: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:46: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:47: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:47: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:47: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:47: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:47: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:47: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:47: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:47: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:47: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:47: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:47: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:47: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:47: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:47: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:47: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:47: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:47: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:47: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:47: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:47: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:48: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:48: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:48: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:48: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:48: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:48: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:48: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:48: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:48: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:48: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:48: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:48: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:48: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:48: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:48: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:48: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:48: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:48: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:48: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:48: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:49: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:49: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:49: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:49: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:49: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:49: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:49: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:49: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:49: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:49: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:49: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:49: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:49: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:49: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:49: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:49: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:50: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:50: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:50: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:50: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:50: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:50: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:50: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:50: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:50: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:50: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:50: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:50: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:50: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:50: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:50: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:50: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:50: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:50: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:50: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:50: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:51: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:51: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:51: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:51: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:51: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:51: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:51: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:51: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:51: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:51: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:51: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:51: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:51: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:51: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:51: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:51: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:51: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:51: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:51: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:51: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:52: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:52: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:52: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:52: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:52: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:52: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:52: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:52: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:52: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:52: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:52: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:52: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:52: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:52: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:52: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:52: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:52: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:52: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:52: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:52: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:53: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:53: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:53: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:53: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:53: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:53: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:53: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:53: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:53: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:53: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:53: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:53: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:53: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:53: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:53: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:53: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:53: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:53: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:53: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:53: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:54: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:54: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:54: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:54: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:54: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:54: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:54: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:54: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:54: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:54: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:54: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:54: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:54: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:54: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:54: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:27:54: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:27:54: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:27:54: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:27:54: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:27:54: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:00: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:00: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:00: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:00: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:00: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:00: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:00: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:00: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:00: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:00: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:00: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:00: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:00: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:00: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:00: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:00: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:00: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:00: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:00: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:00: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:06: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:06: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:06: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:06: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:06: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:06: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:06: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:06: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:06: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:06: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:06: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:06: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:06: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:06: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:06: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:06: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:06: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:06: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:06: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:06: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:11: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:11: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:11: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:11: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:11: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:11: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:11: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:11: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:11: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:11: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:12: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:12: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:12: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:12: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:12: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:12: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:12: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:12: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:12: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:12: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:12: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:12: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:12: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:12: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:12: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:12: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:12: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:12: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:12: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:12: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:17: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:17: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:17: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:17: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:17: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:17: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:17: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:17: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:17: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:17: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:18: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:18: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:18: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:18: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:18: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:18: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:18: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:18: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:18: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:18: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:18: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:18: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:18: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:18: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:18: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:18: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:18: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:19: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:19: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:19: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:19: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:19: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:19: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:19: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:19: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:19: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:19: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:19: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:19: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:19: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:19: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:19: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:19: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:19: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:19: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:19: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:19: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:20: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:20: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:20: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:20: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:20: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:20: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:20: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:20: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:20: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:20: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:20: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:20: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:20: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:20: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:20: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:20: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:21: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:21: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:21: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:21: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:21: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:21: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:21: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:21: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:21: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:21: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:21: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:21: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:21: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:21: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:21: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:21: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:21: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:22: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:22: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:22: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:22: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:22: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:22: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:22: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:22: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:22: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:22: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:22: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:22: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:22: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:22: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:22: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:22: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:22: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:22: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:22: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:22: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:23: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:23: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:23: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:23: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:23: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:23: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:23: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:23: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:23: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:23: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:23: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:23: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:23: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:23: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:23: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:23: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:23: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:23: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:23: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:23: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:24: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:24: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:24: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:24: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:24: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:24: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:24: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:24: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:24: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:24: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:24: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:24: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:24: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:24: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:24: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:24: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:24: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:24: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:24: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:24: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:25: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:25: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:25: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:25: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:25: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:25: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:25: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:25: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:25: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:25: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:25: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:25: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:25: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:25: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:25: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:25: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:25: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:25: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:25: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:25: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:26: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:26: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:26: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:26: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:26: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:26: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:26: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:26: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:26: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:26: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:26: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:26: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:26: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:26: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:26: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:26: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:26: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:26: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:26: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:26: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:27: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:27: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:27: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:27: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:27: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:27: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:27: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:27: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:27: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:27: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:27: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:27: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:27: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:27: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:27: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:27: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:28: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:28: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:28: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:28: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:28: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:28: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:28: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:28: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:28: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:28: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:28: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:28: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:28: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:28: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:28: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:28: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:28: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:28: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:28: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:28: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:29: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:29: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:29: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:29: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:29: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:29: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:29: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:29: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:29: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:29: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:29: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:29: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:29: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:29: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:29: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:29: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:29: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:29: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:29: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:29: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:30: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:30: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:30: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:30: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:30: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:30: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:30: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:30: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:30: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:30: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:30: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:30: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:30: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:30: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:30: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:30: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:30: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:30: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:30: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:30: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:31: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:31: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:31: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:31: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:31: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:31: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:31: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:31: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:31: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:31: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:31: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:31: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:31: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:31: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:31: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:31: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:31: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:31: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:31: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:31: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:32: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:32: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:32: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:32: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:32: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:32: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:32: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:32: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:32: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:32: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:32: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:32: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:32: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:32: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:32: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:32: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:32: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:32: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:32: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:32: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:33: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:33: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:33: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:33: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:33: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:33: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:33: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:33: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:33: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:33: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:33: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:33: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:33: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:33: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:33: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:33: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:34: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:34: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:34: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:34: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:34: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:34: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:34: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:34: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:34: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:34: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:34: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:34: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:34: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:34: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:34: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:34: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:34: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:34: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:34: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:34: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:35: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:35: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:35: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:35: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:35: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:35: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:35: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:35: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:35: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:35: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:35: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:35: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:35: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:35: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:35: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:35: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:35: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:35: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:35: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:35: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:36: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:36: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:36: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:36: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:36: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:36: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:36: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:36: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:36: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:36: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:36: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:36: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:36: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:36: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:36: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:36: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:36: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:36: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:36: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:36: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:37: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:37: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:37: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:37: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:37: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:37: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:37: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:37: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:37: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:37: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:37: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:37: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:37: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:37: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:37: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:37: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:37: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:37: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:37: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:37: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:38: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:38: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:38: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:38: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:38: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:38: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:38: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:38: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:38: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:38: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:38: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:38: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:38: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:38: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:38: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:38: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:39: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:39: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:39: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:39: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:39: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:39: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:39: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:39: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:39: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:39: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:39: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:39: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:39: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:39: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:39: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:39: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:39: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:39: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:39: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:39: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:40: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:40: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:40: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:40: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:40: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:40: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:40: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:40: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:40: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:40: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:40: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:40: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:40: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:40: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:40: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:40: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:40: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:40: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:40: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:40: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:41: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:41: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:41: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:41: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:41: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:41: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:41: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:41: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:41: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:41: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:41: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:41: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:41: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:41: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:41: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:41: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:41: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:41: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:41: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:41: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:42: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:42: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:42: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:42: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:42: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:42: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:42: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:42: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:42: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:42: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:42: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:42: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:42: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:42: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:42: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:42: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:43: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:43: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:43: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:43: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:43: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:43: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:43: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:43: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:43: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:43: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:43: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:43: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:44: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:44: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:44: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:44: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:44: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:44: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:44: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:44: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:44: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:44: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:44: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:44: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:44: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:44: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:44: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:44: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:44: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:44: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:44: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:44: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:45: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:45: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:45: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:45: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:45: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:45: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:45: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:45: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:45: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:45: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:45: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:45: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:45: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:45: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:45: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:45: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:45: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:45: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:45: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:45: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:46: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:46: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:46: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:46: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:46: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:46: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:46: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:46: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:46: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:46: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:46: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:46: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:46: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:46: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:46: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:46: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:46: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:46: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:46: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:46: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:47: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:47: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:47: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:47: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:47: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:47: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:47: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:47: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:47: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:47: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:47: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:47: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:47: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:47: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:47: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:47: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:47: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:47: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:47: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:47: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:48: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:48: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:48: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:48: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:48: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:48: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:48: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:48: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:48: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:48: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:48: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:48: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:48: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:48: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:48: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:48: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:48: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:48: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:48: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:48: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:49: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:49: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:49: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:49: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:49: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:49: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:49: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:49: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:49: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:49: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:49: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:49: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:49: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:49: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:49: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:49: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:50: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:50: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:50: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:50: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:50: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:50: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:50: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:50: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:50: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:50: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:50: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:50: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:50: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:50: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:50: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:50: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:50: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:50: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:50: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:50: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:51: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:51: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:51: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:51: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:51: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:51: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:51: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:51: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:51: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:51: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:51: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:51: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:51: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:51: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:51: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:51: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:51: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:51: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:51: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:51: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:52: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:52: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:52: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:52: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:52: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:52: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:52: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:52: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:52: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:52: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:52: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:52: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:52: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:52: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:52: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:52: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:52: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:52: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:52: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:52: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:53: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:53: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:53: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:53: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:53: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:53: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:53: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:53: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:53: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:53: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:53: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:53: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:53: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:53: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:53: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:53: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:53: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:53: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:53: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:53: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:54: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:54: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:54: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:54: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:54: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:54: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:54: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:54: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:54: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:54: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:54: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:54: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:54: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:54: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:54: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:54: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:54: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:54: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:54: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:54: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:55: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:55: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:55: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:55: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:55: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:55: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:55: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:55: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:55: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:55: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:55: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:55: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:55: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:55: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:55: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:55: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:55: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:55: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:55: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:55: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:56: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:56: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:56: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:56: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:56: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:56: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:56: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:56: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:56: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:56: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:56: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:56: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:56: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:56: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:56: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:56: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:56: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:56: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:56: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:56: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:57: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:57: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:57: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:57: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:57: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:57: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:57: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:57: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:57: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:57: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:57: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:57: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:57: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:57: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:57: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:57: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:57: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:57: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:57: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:57: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:58: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:58: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:58: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:58: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:58: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:58: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:58: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:58: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:58: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:58: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:58: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:58: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:58: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:58: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:58: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:28:58: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:28:58: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:28:58: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:28:58: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:28:58: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:13: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:13: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:13: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:13: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:13: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:13: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:13: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:13: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:13: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:13: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:13: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:13: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:13: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:13: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:13: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:13: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:14: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:14: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:14: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:14: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:14: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:14: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:14: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:14: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:14: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:14: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:26: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:26: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:26: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:26: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:26: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:26: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:26: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:26: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:26: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:26: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:26: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:26: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:26: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:26: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:26: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:26: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:26: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:26: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:26: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:26: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:27: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:27: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:27: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:27: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:27: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:27: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:27: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:27: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:27: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:27: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:27: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:27: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:27: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:27: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:27: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:27: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:28: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:28: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:28: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:28: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:28: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:28: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:28: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:28: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:28: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:28: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:28: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:28: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:28: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:28: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:28: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:28: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:28: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:28: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:28: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:28: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:29: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:29: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:29: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:29: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:29: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:29: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:29: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:29: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:29: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:29: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:29: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:29: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:29: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:29: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:29: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:29: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:29: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:29: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:29: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:29: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:30: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:30: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:30: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:30: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:30: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:30: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:30: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:30: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:30: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:30: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:30: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:30: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:30: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:30: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:30: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:30: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:30: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:30: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:30: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:30: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:31: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:31: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:31: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:31: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:31: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:31: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:31: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:31: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:31: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:31: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:31: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:31: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:31: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:31: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:31: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:31: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:31: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:31: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:31: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:31: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:32: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:32: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:32: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:32: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:32: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:32: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:32: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:32: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:32: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:32: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:32: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:32: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:32: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:32: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:32: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:32: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:32: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:32: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:32: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:32: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:33: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:33: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:33: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:33: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:33: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:33: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:33: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:33: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:33: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:33: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:33: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:33: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:33: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:33: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:33: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:33: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:34: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:34: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:34: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:34: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:34: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:34: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:34: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:34: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:34: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:34: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:34: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:34: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:34: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:34: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:34: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:34: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:34: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:34: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:34: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:34: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:35: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:35: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:35: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:35: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:35: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:35: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:35: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:35: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:35: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:35: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:35: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:35: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:35: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:35: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:35: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:35: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:35: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:35: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:35: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:35: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:36: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:36: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:36: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:36: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:36: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:36: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:36: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:36: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:36: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:36: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:36: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:36: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:36: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:36: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:36: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:36: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:36: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:36: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:36: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:36: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:37: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:37: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:37: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:37: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:37: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:37: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:37: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:37: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:37: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:37: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:37: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:37: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:37: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:37: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:37: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:37: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:37: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:37: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:37: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:37: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:38: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:38: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:38: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:38: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:38: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:38: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:38: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:38: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:38: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:38: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:38: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:38: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:38: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:38: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:38: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:38: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:38: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:39: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:39: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:39: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:39: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:39: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:39: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:39: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:39: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:39: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:39: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:39: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:39: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:39: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:39: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:39: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:39: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:39: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:39: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:39: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:39: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:40: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:40: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:40: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:40: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:40: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:40: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:40: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:40: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:40: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:40: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:40: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:40: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:40: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:40: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:40: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:40: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:40: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:40: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:40: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:40: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:41: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:41: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:41: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:41: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:41: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:41: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:41: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:41: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:41: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:41: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:41: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:41: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:41: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:41: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:41: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:41: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:41: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:41: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:41: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:41: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:42: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:42: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:42: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:42: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:42: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:42: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:42: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:42: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:42: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:42: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:42: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:42: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:42: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:42: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:42: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:42: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:43: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:43: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:43: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:43: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:43: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:43: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:43: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:43: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:43: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:29:43: String formatted incorrectly - parameter 8 (total 7)
+L 12/26/2016 - 19:29:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 19:29:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 19:29:43: [AMXX]    [0] comp_timer2.sma::showTimeToSpec (line 647)
+L 12/26/2016 - 19:29:43: [AMXX]    [1] comp_timer2.sma::onThink (line 633)
+L 12/26/2016 - 19:50:00: Start of error session.
+L 12/26/2016 - 19:50:00: Info (map "deathrun_supra") (file "addons/amxmodx/logs/error_20161226.log")
+L 12/26/2016 - 19:50:00: Forward-ul nu s-a putut executa.
+L 12/26/2016 - 19:50:00: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/26/2016 - 23:07:20: Start of error session.
+L 12/26/2016 - 23:07:20: Info (map "deathrun_hertz") (file "addons/amxmodx/logs/error_20161226.log")
+L 12/26/2016 - 23:07:20: String formatted incorrectly - parameter 2 (total 1)
+L 12/26/2016 - 23:07:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 23:07:20: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 23:07:20: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/26/2016 - 23:31:24: Start of error session.
+L 12/26/2016 - 23:31:24: Info (map "deathrun_expres-winter") (file "addons/amxmodx/logs/error_20161226.log")
+L 12/26/2016 - 23:31:24: String formatted incorrectly - parameter 2 (total 1)
+L 12/26/2016 - 23:31:24: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 23:31:24: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 23:31:24: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/26/2016 - 23:31:31: String formatted incorrectly - parameter 2 (total 1)
+L 12/26/2016 - 23:31:31: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 23:31:31: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 23:31:31: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/26/2016 - 23:31:43: String formatted incorrectly - parameter 2 (total 1)
+L 12/26/2016 - 23:31:43: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/26/2016 - 23:31:43: [AMXX] Run time error 25: parameter error 
+L 12/26/2016 - 23:31:43: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)

@@ -1,0 +1,12 @@
+L 01/27/2017 - 03:56:08: Start of error session.
+L 01/27/2017 - 03:56:08: Info (map "deathrun_minimalism_beta2") (file "addons/amxmodx/logs/error_20170127.log")
+L 01/27/2017 - 03:56:08: Forward-ul nu s-a putut executa.
+L 01/27/2017 - 03:56:08: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 01/27/2017 - 19:06:56: Start of error session.
+L 01/27/2017 - 19:06:56: Info (map "deathrun_latexx") (file "addons/amxmodx/logs/error_20170127.log")
+L 01/27/2017 - 19:06:56: [FAKEMETA] Invalid entity
+L 01/27/2017 - 19:06:56: [AMXX] Displaying debug trace (plugin "use_button_once.amxx", version "1.3")
+L 01/27/2017 - 19:06:56: [AMXX] Run time error 10: native error (native "pev")
+L 01/27/2017 - 19:06:56: [AMXX]    [0] use_button_once.sma::get_ent_index (line 225)
+L 01/27/2017 - 19:06:56: [AMXX]    [1] use_button_once.sma::set_start_value (line 212)
+L 01/27/2017 - 19:06:56: [AMXX]    [2] use_button_once.sma::plugin_cfg (line 173)

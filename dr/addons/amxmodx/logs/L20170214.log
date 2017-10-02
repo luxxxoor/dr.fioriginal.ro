@@ -1,0 +1,508 @@
+L 02/14/2017 - 00:04:35: [slayafk.amxx] I AM GROOT a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 11:01:33: -------- Mapchange to deathrun_forest --------
+L 02/14/2017 - 11:01:39: -------- Mapchange to deathrun_forest --------
+L 02/14/2017 - 11:01:55: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// *ROM-Protect// Plugin OpenSource anti-IsFlooding/bug-fix pentru orice server." lang "")
+L 02/14/2017 - 11:01:55: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Versiunea : 1.0.4s-dev. Bulid : 98. Data lansarii versiunii : 03.12.2016." lang "")
+L 02/14/2017 - 11:01:55: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Autor : l¸xor # Dr.Fio & DR2.IND (+ eNd.) - SteamID (contact) : luxxxoor" lang "")
+L 02/14/2017 - 11:01:55: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// O productie FioriGinal.ro - site : www.fioriginal.ro" lang "")
+L 02/14/2017 - 11:01:55: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link forum de dezvoltare : http://forum.fioriginal.ro/amxmodx-plugins-pluginuri/rom-protect-anti-flood-bug-fix-t28292.html" lang "")
+L 02/14/2017 - 11:01:55: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link sursa : https://github.com/luxxxoor/ROM-Protect" lang "")
+L 02/14/2017 - 11:01:55: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Colori : ^1 - Culoarea aleasa de jucator cu con_color." lang "")
+L 02/14/2017 - 11:01:55: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^3 - Culoare gri." lang "")
+L 02/14/2017 - 11:01:55: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^4 - Culoare verde." lang "")
+L 02/14/2017 - 11:02:59: -------- Mapchange to deathrun_forest --------
+L 02/14/2017 - 11:03:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// *ROM-Protect// Plugin OpenSource anti-IsFlooding/bug-fix pentru orice server." lang "")
+L 02/14/2017 - 11:03:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Versiunea : 1.0.4s-dev. Bulid : 98. Data lansarii versiunii : 03.12.2016." lang "")
+L 02/14/2017 - 11:03:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Autor : l¸xor # Dr.Fio & DR2.IND (+ eNd.) - SteamID (contact) : luxxxoor" lang "")
+L 02/14/2017 - 11:03:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// O productie FioriGinal.ro - site : www.fioriginal.ro" lang "")
+L 02/14/2017 - 11:03:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link forum de dezvoltare : http://forum.fioriginal.ro/amxmodx-plugins-pluginuri/rom-protect-anti-flood-bug-fix-t28292.html" lang "")
+L 02/14/2017 - 11:03:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link sursa : https://github.com/luxxxoor/ROM-Protect" lang "")
+L 02/14/2017 - 11:03:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Colori : ^1 - Culoarea aleasa de jucator cu con_color." lang "")
+L 02/14/2017 - 11:03:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^3 - Culoare gri." lang "")
+L 02/14/2017 - 11:03:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^4 - Culoare verde." lang "")
+L 02/14/2017 - 11:03:35: [admin.amxx] Login: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 11:14:43: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "xTrusT.<8><STEAM_0:0:363435534><>"
+L 02/14/2017 - 11:23:33: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" changelevel "deathrun_long_run"
+L 02/14/2017 - 11:23:35: -------- Mapchange to deathrun_long_run --------
+L 02/14/2017 - 11:23:37: [admin.amxx] Login: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 11:24:17: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 11:24:47: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" changelevel "deathrun_long_run"
+L 02/14/2017 - 11:24:50: -------- Mapchange to deathrun_long_run --------
+L 02/14/2017 - 11:24:52: [admin.amxx] Login: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 11:27:06: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 11:30:01: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 11:31:26: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 11:35:26: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 11:38:05: [admin.amxx] Login: "Joker$*<18><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 11:39:06: [admin.amxx] Login: "Joker$*<19><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 11:39:41: [slayafk.amxx] Pyky a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 11:39:41: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 11:41:01: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 11:42:51: [admin.amxx] Login: "joki<23><STEAM_0:1:189984113><>" kicked due to invalid password (account "joki") (address "5.12.63.146")
+L 02/14/2017 - 11:43:02: [admin.amxx] Login: "joki<24><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/14/2017 - 11:43:03: [admin.amxx] Login: "joki<25><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/14/2017 - 11:44:35: [adminchat.amxx] Chat: "Joker$*<19><VALVE_0:4:1231739250><>" say "maestro"
+L 02/14/2017 - 11:44:39: [adminchat.amxx] Chat: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" chat "?"
+L 02/14/2017 - 11:44:44: [adminchat.amxx] Chat: "Joker$*<19><VALVE_0:4:1231739250><>" say "da-mi life si vad eu"
+L 02/14/2017 - 11:44:50: [adminchat.amxx] Chat: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" chat "ce sa vezi :))"
+L 02/14/2017 - 11:50:49: [mapsmenu.amxx] Vote: "Joker$*<19><VALVE_0:4:1231739250><>" vote maps (map#1 "deathrun_nightrun_beta3") (map#2 "deathrun_gb_winter_final4") (map#3 "deathrun_death") (map#4 "deathrun_clarion_l98_final")
+L 02/14/2017 - 11:51:01: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_nightrun_beta3
+L 02/14/2017 - 11:51:10: -------- Mapchange to deathrun_nightrun_beta3 --------
+L 02/14/2017 - 11:51:12: [admin.amxx] Login: "Joker$*<19><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 11:51:12: [admin.amxx] Login: "joki<25><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/14/2017 - 11:51:12: [admin.amxx] Login: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 11:51:12: [admin.amxx] Login: "Joker$*<28><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 11:51:13: [admin.amxx] Login: "joki<29><STEAM_0:1:189984113><>" became an admin (account "joki") (access "bit") (address "5.12.63.146")
+L 02/14/2017 - 11:51:17: [admin.amxx] Login: "Joker$*<32><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 11:51:49: [admin.amxx] Login: "Joker$*<36><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 12:06:23: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" slay "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>"
+L 02/14/2017 - 12:10:11: [admincmd.amxx] Cmd: "Joker$*<36><VALVE_0:4:1231739250><>" slap with 0 damage "DarkWalkerz # DoNpAkaa<30><STEAM_0:0:55531607><>"
+L 02/14/2017 - 12:10:12: [admincmd.amxx] Cmd: "Joker$*<36><VALVE_0:4:1231739250><>" slap with 0 damage "DarkWalkerz # DoNpAkaa<30><STEAM_0:0:55531607><>"
+L 02/14/2017 - 12:10:12: [admincmd.amxx] Cmd: "Joker$*<36><VALVE_0:4:1231739250><>" slap with 0 damage "DarkWalkerz # DoNpAkaa<30><STEAM_0:0:55531607><>"
+L 02/14/2017 - 12:10:13: [admincmd.amxx] Cmd: "Joker$*<36><VALVE_0:4:1231739250><>" slap with 0 damage "DarkWalkerz # DoNpAkaa<30><STEAM_0:0:55531607><>"
+L 02/14/2017 - 12:12:01: [adminchat.amxx] Chat: "Joker$*<36><VALVE_0:4:1231739250><>" say "free for me"
+L 02/14/2017 - 12:17:12: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" change nick to "Nevrozata" "Nevrozatu<35><BOT><>"
+L 02/14/2017 - 12:17:35: -------- Mapchange to deathrun_purplez_v2_b3 --------
+L 02/14/2017 - 12:17:37: [admin.amxx] Login: "Joker$*<36><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 12:17:37: [admin.amxx] Login: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 12:17:47: [adminchat.amxx] Chat: "Joker$*<36><VALVE_0:4:1231739250><>" say "nu schimbi ?"
+L 02/14/2017 - 12:19:47: [adminchat.amxx] Chat: "Joker$*<36><VALVE_0:4:1231739250><>" say "pe rawr ai 56... / minecraft scot 42 700... cu scout scot 40 / 39"
+L 02/14/2017 - 12:21:25: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" changelevel "deathrun_laikiux_rawr"
+L 02/14/2017 - 12:21:28: -------- Mapchange to deathrun_laikiux_rawr --------
+L 02/14/2017 - 12:21:30: [admin.amxx] Login: "Joker$*<36><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 12:21:30: [admin.amxx] Login: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 12:27:04: [slayafk.amxx] Joker$* a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 12:28:14: [slayafk.amxx] Joker$* a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 12:43:15: [adminchat.amxx] Chat: "Joker$*<36><VALVE_0:4:1231739250><>" say "de fapt.. bagi tu maestro una frumoasa.."
+L 02/14/2017 - 12:46:22: [admin.amxx] Login: "cool<53><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.108.112")
+L 02/14/2017 - 12:46:27: [adminchat.amxx] Chat: "Joker$*<36><VALVE_0:4:1231739250><>" say "e ciudat cu dev pentru mine.. si aveam 46 inainte de uitimul bhop.. la 224 ala"
+L 02/14/2017 - 12:47:44: -------- Mapchange to deathrun_kings_never_die --------
+L 02/14/2017 - 12:47:46: [admin.amxx] Login: "Joker$*<36><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 12:47:46: [admin.amxx] Login: "cool<53><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.108.112")
+L 02/14/2017 - 12:47:46: [admin.amxx] Login: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 12:47:53: [admin.amxx] Login: "Joker$*<54><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 12:51:26: [slayafk.amxx] cool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 13:00:11: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 13:03:06: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 13:13:13: [mapsmenu.amxx] Vote: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" vote maps (map#1 "deathrun_clarion_dojo_b3") (map#2 "deathrun_adelina") (map#3 "") (map#4 "")
+L 02/14/2017 - 13:13:17: -------- Mapchange to deathrun_inferno_beta1 --------
+L 02/14/2017 - 13:13:19: [admin.amxx] Login: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 13:13:29: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" changelevel "deathrun_clarion_dojo_b3"
+L 02/14/2017 - 13:13:29: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" changelevel "deathrun_clarion_dojo_b3"
+L 02/14/2017 - 13:13:31: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 02/14/2017 - 13:13:33: [admin.amxx] Login: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 13:21:38: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 13:22:45: [admin.amxx] Login: "cool<79><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.108.112")
+L 02/14/2017 - 13:27:38: [slayafk.amxx] crazi # a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 13:38:55: [adminchat.amxx] Chat: "cool<79><STEAM_0:1:25922700><>" chat "dam lung"
+L 02/14/2017 - 13:39:13: [adminchat.amxx] Chat: "cool<79><STEAM_0:1:25922700><>" chat "esti"
+L 02/14/2017 - 13:39:54: -------- Mapchange to deathrun_demolish --------
+L 02/14/2017 - 13:39:56: [admin.amxx] Login: "-rTg|maEsTrOo<6><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 13:40:31: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 13:41:06: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 13:43:58: [advanced_bans_sql.amxx] -rTg|maEsTrOo <STEAM_0:1:154430568> banned UFO.onsh <79.114.185.190> || Reason: "AFKSCRIPT" || Ban Length: 2 hours
+L 02/14/2017 - 13:50:26: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 13:51:06: [slayafk.amxx] DarkWalkerz # DoNpAkaa a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 13:56:17: [admin.amxx] Login: "FAKE ^^<107><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.0.252")
+L 02/14/2017 - 13:56:20: [admin.amxx] Login: "FAKE ^^<108><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.0.252")
+L 02/14/2017 - 14:15:05: [adminchat.amxx] Chat: "FAKE ^^<108><STEAM_0:0:334408724><>" chat "devo"
+L 02/14/2017 - 14:18:50: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Proxy.<122><STEAM_0:0:1179693161><>"
+L 02/14/2017 - 14:20:26: -------- Mapchange to deathrun_y_snow_wind_v3 --------
+L 02/14/2017 - 14:20:28: [admin.amxx] Login: "FAKE ^^<108><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.0.252")
+L 02/14/2017 - 14:24:34: [advanced_bans_sql.amxx] Ban time is up for: Jumper|TryNova22 [STEAM_0:0:117263791]
+L 02/14/2017 - 14:42:31: [admin.amxx] Login: "Cuppy # LePatron<141><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/14/2017 - 14:43:26: [mapsmenu.amxx] Vote: "Cuppy # LePatron<141><STEAM_0:1:193294027><>" vote maps (map#1 "deathrun_bhopz_v2") (map#2 "deathrun_go_freedom_v1") (map#3 "") (map#4 "")
+L 02/14/2017 - 14:43:38: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_bhopz_v2
+L 02/14/2017 - 14:46:38: [admincmd.amxx] Cmd: "Cuppy # LePatron<141><STEAM_0:1:193294027><>" slay "sTr@kissfm<112><STEAM_0:0:75524262><>"
+L 02/14/2017 - 14:46:41: -------- Mapchange to deathrun_bhopz_v2 --------
+L 02/14/2017 - 14:46:43: [admin.amxx] Login: "Cuppy # LePatron<141><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/14/2017 - 14:47:10: [plmenu.amxx] Cmd: "Cuppy # LePatron<141><STEAM_0:1:193294027><>" transfer "Cuppy # LePatron<141><STEAM_0:1:193294027><>" (team "SPECTATOR")
+L 02/14/2017 - 15:10:42: [mapsmenu.amxx] Vote: "Cuppy # LePatron<141><STEAM_0:1:193294027><>" vote maps (map#1 "deathrun_gb_winter_final4") (map#2 "deathrun_stronghold_beta1") (map#3 "") (map#4 "")
+L 02/14/2017 - 15:10:54: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_gb_winter_final4
+L 02/14/2017 - 15:10:56: [plmenu.amxx] Cmd: "Cuppy # LePatron<141><STEAM_0:1:193294027><>" transfer "Cuppy # LePatron<141><STEAM_0:1:193294027><>" (team "CT")
+L 02/14/2017 - 15:11:01: [admin.amxx] Login: "Cuppy # LePatron<161><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/14/2017 - 15:11:09: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Cuppy # LePatron<161><STEAM_0:1:193294027><>"
+L 02/14/2017 - 15:11:39: [adminchat.amxx] Chat: "Xzppz<159><VALVE_0:4:1605039966><>" chat "ce script are baiatu asta :))"
+L 02/14/2017 - 15:13:54: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "MiB<167><STEAM_0:0:1940015179><>"
+L 02/14/2017 - 15:15:55: [admin.amxx] Login: "Spectru<171><STEAM_0:1:191882096><>" kicked due to invalid password (account "Spectru") (address "79.118.28.140")
+L 02/14/2017 - 15:15:59: [admin.amxx] Login: "Spectru<172><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.28.140")
+L 02/14/2017 - 15:16:02: -------- Mapchange to deathrun_gb_winter_final4 --------
+L 02/14/2017 - 15:16:05: [admin.amxx] Login: "Cuppy # LePatron<161><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/14/2017 - 15:16:16: [admin.amxx] Login: "Spectru<183><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.28.140")
+L 02/14/2017 - 15:17:06: [advanced_bans_sql.amxx] Cuppy # LePatron <STEAM_0:1:193294027> banned sTr@kissfm <STEAM_0:0:75524262> || Reason: "script+amenintari-flood" || Ban Length: 6 days, 22 hours, 40 minutes
+L 02/14/2017 - 15:18:00: [advanced_bans_sql.amxx] Ban time is up for: Tavi [STEAM_0:0:182576671]
+L 02/14/2017 - 15:24:06: [admin.amxx] Login: "Spectru<186><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.28.140")
+L 02/14/2017 - 15:26:24: [admincmd.amxx] Cmd: "Spectru<186><STEAM_0:1:191882096><>" slay "MiB<177><STEAM_0:0:1940015179><>"
+L 02/14/2017 - 15:35:55: [admincmd.amxx] Cmd: "Spectru<186><STEAM_0:1:191882096><>" slay "=MIRE<195><VALVE_0:4:24952938><>"
+L 02/14/2017 - 15:37:53: [mapsmenu.amxx] Vote: "Spectru<186><STEAM_0:1:191882096><>" vote maps (map#1 "deathrun_arabrun_v1") (map#2 "deathrun_latexx") (map#3 "") (map#4 "")
+L 02/14/2017 - 15:38:05: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_latexx
+L 02/14/2017 - 15:41:58: -------- Mapchange to deathrun_latexx --------
+L 02/14/2017 - 15:44:01: [advanced_bans_sql.amxx] Ban time is up for: UFO.onsh [79.114.185.190]
+L 02/14/2017 - 15:48:00: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 15:53:21: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "daniiiii ;x<209><STEAM_0:0:79254803><>"
+L 02/14/2017 - 16:00:12: [admin.amxx] Login: "Cuppy # LePatron<210><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/14/2017 - 16:07:11: -------- Mapchange to deathrun_winterfg_lux --------
+L 02/14/2017 - 16:11:00: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Xzppz<220><VALVE_0:4:1605039966><>"
+L 02/14/2017 - 16:15:45: [admin.amxx] Login: "seconD ;HNSk<231><STEAM_0:1:39271980><>" became an admin (account "seconD ;HNSk") (access "bi") (address "92.80.89.92")
+L 02/14/2017 - 16:15:49: [admin.amxx] Login: "seconD ;HNSk<232><STEAM_0:1:39271980><>" became an admin (account "seconD ;HNSk") (access "bi") (address "92.80.89.92")
+L 02/14/2017 - 16:17:54: [admincmd.amxx] Cmd: "seconD ;HNSk<232><STEAM_0:1:39271980><>" ask for players list
+L 02/14/2017 - 16:29:16: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "legendz # nebunnu.<238><VALVE_0:4:1840398698><>"
+L 02/14/2017 - 16:34:09: [admin.amxx] Login: "-rTg|maEsTrOo<241><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 16:45:34: [admin.amxx] Login: "Spectru<245><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.28.140")
+L 02/14/2017 - 16:46:16: [admincmd.amxx] Cmd: "Spectru<245><STEAM_0:1:191882096><>" changelevel "deathrun_clarion_dojo_b3"
+L 02/14/2017 - 16:46:18: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 02/14/2017 - 16:46:21: [admin.amxx] Login: "Spectru<245><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.28.140")
+L 02/14/2017 - 17:03:03: [admin.amxx] Login: "deadpool<261><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/14/2017 - 17:12:56: -------- Mapchange to deathrun_standup2 --------
+L 02/14/2017 - 17:12:59: [admin.amxx] Login: "deadpool<261><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/14/2017 - 17:20:55: [admin.amxx] Login: "wadafac!<285><VALVE_0:4:815221627><>" became an admin (account "wadafac!") (access "bi") (address "79.116.114.200")
+L 02/14/2017 - 17:21:01: [admin.amxx] Login: "wadafac!<286><VALVE_0:4:815221627><>" became an admin (account "wadafac!") (access "bi") (address "79.116.114.200")
+L 02/14/2017 - 17:26:30: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "MiB^ @like's that69<293><STEAM_0:0:1940015179><>"
+L 02/14/2017 - 17:30:04: [admin.amxx] Login: "SWAGGIE. XD<296><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 02/14/2017 - 17:33:35: [mapsmenu.amxx] Vote: "wadafac!<286><VALVE_0:4:815221627><>" vote maps (map#1 "deathrun_0mega") (map#2 "deathrun_3sixty_fg_fix3") (map#3 "") (map#4 "")
+L 02/14/2017 - 17:33:47: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_3sixty_fg_fix3
+L 02/14/2017 - 17:37:13: [slayafk.amxx] FLVXSOW;[ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 17:39:11: -------- Mapchange to deathrun_3sixty_fg_fix3 --------
+L 02/14/2017 - 17:39:13: [admin.amxx] Login: "wadafac!<286><VALVE_0:4:815221627><>" became an admin (account "wadafac!") (access "bi") (address "79.116.114.200")
+L 02/14/2017 - 17:39:13: [admin.amxx] Login: "deadpool<261><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/14/2017 - 17:39:34: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "MiB^ @like's that69<315><STEAM_0:0:1940015179><>"
+L 02/14/2017 - 17:39:36: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "bmx-<316><STEAM_0:0:60878279><>"
+L 02/14/2017 - 18:01:02: [mapsmenu.amxx] Vote: "wadafac!<286><VALVE_0:4:815221627><>" vote maps (map#1 "deathrun_hertz") (map#2 "deathrun_bhopz_v2") (map#3 "") (map#4 "")
+L 02/14/2017 - 18:01:14: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_hertz
+L 02/14/2017 - 18:01:32: [admin.amxx] Login: "knife<329><STEAM_0:1:118153889><>" kicked due to invalid password (account "knife") (address "92.114.99.212")
+L 02/14/2017 - 18:01:41: [admin.amxx] Login: "knife<330><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 02/14/2017 - 18:01:46: [admin.amxx] Login: "knife<331><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 02/14/2017 - 18:05:08: -------- Mapchange to deathrun_hertz --------
+L 02/14/2017 - 18:05:11: [admin.amxx] Login: "deadpool<261><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/14/2017 - 18:05:11: [admin.amxx] Login: "wadafac!<286><VALVE_0:4:815221627><>" became an admin (account "wadafac!") (access "bi") (address "79.116.114.200")
+L 02/14/2017 - 18:05:11: [admin.amxx] Login: "knife<331><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 02/14/2017 - 18:05:15: [admin.amxx] Login: "knife<333><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 02/14/2017 - 18:06:05: [slayafk.amxx] Alexandru.Dymatize# a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:09:14: [admin.amxx] Login: "ZALE<341><STEAM_0:0:179153939><>" kicked due to invalid password (account "zale") (address "109.101.58.235")
+L 02/14/2017 - 18:09:22: [admin.amxx] Login: "ZALE<342><STEAM_0:0:179153939><>" kicked due to invalid password (account "zale") (address "109.101.58.235")
+L 02/14/2017 - 18:09:29: [admin.amxx] Login: "ZALE<343><STEAM_0:0:179153939><>" became an admin (account "zale") (access "bit") (address "109.101.58.235")
+L 02/14/2017 - 18:11:40: [adminchat.amxx] Chat: "ZALE<343><STEAM_0:0:179153939><>" chat "   "
+L 02/14/2017 - 18:12:58: [adminchat.amxx] Chat: "knife<333><STEAM_0:1:118153889><>" chat "1"
+L 02/14/2017 - 18:16:10: [admin.amxx] Login: "Joker$*<346><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 18:17:05: [admin.amxx] Login: "-rTg|maEsTrOo<349><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 18:17:09: [adminchat.amxx] Chat: "Joker$*<346><VALVE_0:4:1231739250><>" say "adevarat !"
+L 02/14/2017 - 18:19:08: [adminchat.amxx] Chat: "Joker$*<346><VALVE_0:4:1231739250><>" say "nu pot.. nu am a"
+L 02/14/2017 - 18:19:23: [adminchat.amxx] Chat: "Joker$*<346><VALVE_0:4:1231739250><>" say "si say nu merge.. e plugin dala handicapat"
+L 02/14/2017 - 18:22:49: [admin.amxx] Login: "-rTg|maEsTrOo<353><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 18:24:13: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Deagle<356><STEAM_0:0:196277238><>"
+L 02/14/2017 - 18:24:39: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<353><STEAM_0:1:154430568><>" slay "Deagle<356><STEAM_0:0:196277238><>"
+L 02/14/2017 - 18:24:41: [adminchat.amxx] Chat: "TibyXD<354><STEAM_0:1:102410025><>" chat "DEAGLE A DAT RETRY"
+L 02/14/2017 - 18:26:15: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "legendz # nebunnu.<358><VALVE_0:4:1840398698><>"
+L 02/14/2017 - 18:26:15: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:31:25: [admin.amxx] Login: "Spectru<364><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.28.140")
+L 02/14/2017 - 18:31:28: [admin.amxx] Login: "Spectru<365><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.28.140")
+L 02/14/2017 - 18:31:36: -------- Mapchange to deathrun_purplez --------
+L 02/14/2017 - 18:31:38: [admin.amxx] Login: "knife<333><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 02/14/2017 - 18:31:38: [admin.amxx] Login: "-rTg|maEsTrOo<353><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.75.8")
+L 02/14/2017 - 18:31:39: [admin.amxx] Login: "Spectru<365><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.28.140")
+L 02/14/2017 - 18:31:42: [admin.amxx] Login: "knife<369><STEAM_0:1:118153889><>" became an admin (account "knife") (access "bi") (address "92.114.99.212")
+L 02/14/2017 - 18:34:25: [adminchat.amxx] Chat: "FLVXSOW;[<370><STEAM_0:0:77647261><>" chat " gg ma"
+L 02/14/2017 - 18:34:30: [adminchat.amxx] Chat: "FLVXSOW;[<370><STEAM_0:0:77647261><>" chat " sa nu mai pot da rev"
+L 02/14/2017 - 18:35:43: [adminchat.amxx] Chat: "FLVXSOW;[<370><STEAM_0:0:77647261><>" chat " zi ca am gag"
+L 02/14/2017 - 18:35:46: [adminchat.amxx] Chat: "FLVXSOW;[<370><STEAM_0:0:77647261><>" chat " si nu vin"
+L 02/14/2017 - 18:35:51: [adminchat.amxx] Chat: "FLVXSOW;[<370><STEAM_0:0:77647261><>" chat " baaa"
+L 02/14/2017 - 18:36:22: [admincmd.amxx] Cmd: "Spectru<365><STEAM_0:1:191882096><>" slay "L3m0n<382><STEAM_0:1:115332543><>"
+L 02/14/2017 - 18:36:24: [admincmd.amxx] Cmd: "Spectru<365><STEAM_0:1:191882096><>" slay "kNIFE. SEries<381><STEAM_0:0:2043915654><>"
+L 02/14/2017 - 18:36:31: [adminchat.amxx] Chat: "FLVXSOW;[<370><STEAM_0:0:77647261><>" chat "dada"
+L 02/14/2017 - 18:36:43: [adminchat.amxx] Chat: "FLVXSOW;[<370><STEAM_0:0:77647261><>" chat "3 minute pentru plm..."
+L 02/14/2017 - 18:36:46: [adminchat.amxx] Chat: "FLVXSOW;[<370><STEAM_0:0:77647261><>" chat " doamne :))"
+L 02/14/2017 - 18:36:56: [adminchat.amxx] Chat: "FLVXSOW;[<370><STEAM_0:0:77647261><>" chat " eu?"
+L 02/14/2017 - 18:37:01: [adminchat.amxx] Chat: "FLVXSOW;[<370><STEAM_0:0:77647261><>" chat " da"
+L 02/14/2017 - 18:39:53: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:40:33: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:42:08: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:43:08: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:45:58: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:46:03: [slayafk.amxx] m-emo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:46:03: [slayafk.amxx] Rusu a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:46:18: [admin.amxx] Login: "BloDy<401><VALVE_0:4:2079768955><>" kicked due to invalid password (account "BloDy") (address "78.96.177.94")
+L 02/14/2017 - 18:46:30: [admin.amxx] Login: "BloDy<402><VALVE_0:4:2079768955><>" kicked due to invalid password (account "BloDy") (address "78.96.177.94")
+L 02/14/2017 - 18:46:42: [admin.amxx] Login: "BloDy<403><VALVE_0:4:2079768955><>" kicked due to invalid password (account "BloDy") (address "78.96.177.94")
+L 02/14/2017 - 18:46:53: [slayafk.amxx] m-emo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:46:53: [slayafk.amxx] Rusu a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:46:58: [admin.amxx] Login: "BloDy<404><VALVE_0:4:2079768955><>" kicked due to invalid password (account "BloDy") (address "78.96.177.94")
+L 02/14/2017 - 18:49:03: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:49:58: [slayafk.amxx] Rusu a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:50:48: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:53:53: [slayafk.amxx] m-emo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:53:53: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:53:53: [slayafk.amxx] Rusu a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:54:55: [adminchat.amxx] Chat: "Pyky<411><VALVE_0:4:1494801266><>" chat "joker este stefan@csx?"
+L 02/14/2017 - 18:56:02: [admin.amxx] Login: "dRaGoNeLy^ ;x<412><STEAM_0:0:40546701><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.158.16")
+L 02/14/2017 - 18:56:04: [admin.amxx] Login: "dRaGoNeLy^ ;x<413><STEAM_0:0:40546701><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.158.16")
+L 02/14/2017 - 18:56:53: [slayafk.amxx] Rusu a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 18:57:24: -------- Mapchange to deathrun_cityhotel_v2 --------
+L 02/14/2017 - 19:00:53: -------- Mapchange to deathrun_green_X --------
+L 02/14/2017 - 19:02:25: [admin.amxx] Login: "DnD<430><STEAM_0:0:970363837><>" became an admin (account "DnD") (access "bi") (address "176.223.35.168")
+L 02/14/2017 - 19:02:28: [admin.amxx] Login: "DnD<431><STEAM_0:0:970363837><>" became an admin (account "DnD") (access "bi") (address "176.223.35.168")
+L 02/14/2017 - 19:03:33: [adminchat.amxx] Chat: "Claudiu<424><STEAM_0:0:324157840><>" chat " rcl"
+L 02/14/2017 - 19:03:36: [adminchat.amxx] Chat: "Claudiu<424><STEAM_0:0:324157840><>" chat " reclamatie\"
+L 02/14/2017 - 19:03:41: [adminchat.amxx] Chat: "Claudiu<424><STEAM_0:0:324157840><>" chat " Nu te-am injurat."
+L 02/14/2017 - 19:03:45: [adminchat.amxx] Chat: "Claudiu<424><STEAM_0:0:324157840><>" chat " imd"
+L 02/14/2017 - 19:07:00: [slayafk.amxx] [aLc] Darius a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 19:10:45: [admin.amxx] Login: "Joker$*<450><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 19:11:50: [adminchat.amxx] Chat: "DnD<431><STEAM_0:0:970363837><>" chat "[MILF AntiCheat] Home pressed!"
+L 02/14/2017 - 19:11:50: [slayafk.amxx] qeeLen a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 19:11:52: [adminchat.amxx] Chat: "DnD<431><STEAM_0:0:970363837><>" chat "[MILF AntiCheat] Home pressed!"
+L 02/14/2017 - 19:12:02: -------- Mapchange to deathrun_forest --------
+L 02/14/2017 - 19:12:17: [admin.amxx] Login: "DnD<2><STEAM_0:0:970363837><>" became an admin (account "DnD") (access "bi") (address "176.223.35.168")
+L 02/14/2017 - 19:12:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// *ROM-Protect// Plugin OpenSource anti-IsFlooding/bug-fix pentru orice server." lang "")
+L 02/14/2017 - 19:12:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Versiunea : 1.0.4s-dev. Bulid : 98. Data lansarii versiunii : 03.12.2016." lang "")
+L 02/14/2017 - 19:12:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Autor : l¸xor # Dr.Fio & DR2.IND (+ eNd.) - SteamID (contact) : luxxxoor" lang "")
+L 02/14/2017 - 19:12:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// O productie FioriGinal.ro - site : www.fioriginal.ro" lang "")
+L 02/14/2017 - 19:12:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link forum de dezvoltare : http://forum.fioriginal.ro/amxmodx-plugins-pluginuri/rom-protect-anti-flood-bug-fix-t28292.html" lang "")
+L 02/14/2017 - 19:12:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link sursa : https://github.com/luxxxoor/ROM-Protect" lang "")
+L 02/14/2017 - 19:12:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Colori : ^1 - Culoarea aleasa de jucator cu con_color." lang "")
+L 02/14/2017 - 19:12:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^3 - Culoare gri." lang "")
+L 02/14/2017 - 19:12:24: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^4 - Culoare verde." lang "")
+L 02/14/2017 - 19:29:14: [admin.amxx] Login: "Joker$*<23><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 19:30:47: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "kennyS # powerVITAMINS !<26><STEAM_0:0:1481780950><>"
+L 02/14/2017 - 19:32:53: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "ibracadabra"
+L 02/14/2017 - 19:33:03: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "ti-ai luat alt mouse ?"
+L 02/14/2017 - 19:33:24: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "vezi ca mouse-ul  e bun.. trebuie sa iei ceva pentru asta"
+L 02/14/2017 - 19:33:29: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "scrie pe google asa"
+L 02/14/2017 - 19:33:52: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "cursorul mouse-ului se misca prea repede si gasesti pe acolo o arhiva rar.."
+L 02/14/2017 - 19:34:02: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "o descarci.. dezarhivezi si aia e"
+L 02/14/2017 - 19:37:51: [admin.amxx] Login: "cool<42><STEAM_0:1:25922700><>" became an admin (account "cool") (access "bi") (address "5.14.108.112")
+L 02/14/2017 - 19:37:56: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "1.19 sw / am sparg si alea"
+L 02/14/2017 - 19:41:45: [pistols_sql.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 02/14/2017 - 19:43:49: [admin.amxx] Login: "DnD<51><STEAM_0:0:970363837><>" became an admin (account "DnD") (access "bi") (address "176.223.35.168")
+L 02/14/2017 - 19:44:11: [adminchat.amxx] Chat: "DnD<51><STEAM_0:0:970363837><>" chat "a fost vot?"
+L 02/14/2017 - 19:45:05: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "yeah ?"
+L 02/14/2017 - 19:45:46: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "me ?"
+L 02/14/2017 - 19:45:58: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "fucking bastard.."
+L 02/14/2017 - 19:46:40: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "of course.."
+L 02/14/2017 - 19:46:50: [adminchat.amxx] Chat: "DnD<51><STEAM_0:0:970363837><>" say "vasile"
+L 02/14/2017 - 19:46:51: [adminchat.amxx] Chat: "DnD<51><STEAM_0:0:970363837><>" say "vasile "
+L 02/14/2017 - 19:46:52: [adminchat.amxx] Chat: "DnD<51><STEAM_0:0:970363837><>" say "vasile "
+L 02/14/2017 - 19:47:05: [adminchat.amxx] Chat: "DnD<51><STEAM_0:0:970363837><>" say "Joker but"
+L 02/14/2017 - 19:47:06: [adminchat.amxx] Chat: "DnD<51><STEAM_0:0:970363837><>" say "Joker but "
+L 02/14/2017 - 19:47:29: [admin.amxx] Login: "Spectru<57><STEAM_0:1:191882096><>" kicked due to invalid password (account "Spectru") (address "79.118.28.140")
+L 02/14/2017 - 19:47:33: [admin.amxx] Login: "Spectru<58><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.28.140")
+L 02/14/2017 - 19:47:38: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "what is mewan joker but ?"
+L 02/14/2017 - 19:49:11: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "Rocky"
+L 02/14/2017 - 19:49:16: -------- Mapchange to deathrun_green_X --------
+L 02/14/2017 - 19:49:19: [admin.amxx] Login: "Joker$*<23><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 19:49:19: [admin.amxx] Login: "DnD<51><STEAM_0:0:970363837><>" became an admin (account "DnD") (access "bi") (address "176.223.35.168")
+L 02/14/2017 - 19:49:23: [admin.amxx] Login: "Spectru<63><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.28.140")
+L 02/14/2017 - 19:49:25: [admin.amxx] Login: "Spectru<65><STEAM_0:1:191882096><>" became an admin (account "Spectru") (access "bi") (address "79.118.28.140")
+L 02/14/2017 - 19:49:31: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "a mai fost mapa.. schimb-o"
+L 02/14/2017 - 19:49:37: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "mai devreme a fost"
+L 02/14/2017 - 19:49:55: [admin.amxx] Login: "Cuppy # LePatron<71><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/14/2017 - 19:50:01: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "english please"
+L 02/14/2017 - 19:50:24: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "english please "
+L 02/14/2017 - 19:50:24: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "english please "
+L 02/14/2017 - 19:50:24: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "english please "
+L 02/14/2017 - 19:50:27: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "english please "
+L 02/14/2017 - 19:50:38: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "english please "
+L 02/14/2017 - 19:51:35: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "make"
+L 02/14/2017 - 19:51:38: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "english please "
+L 02/14/2017 - 19:51:52: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "english please "
+L 02/14/2017 - 19:52:04: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "if i have admin"
+L 02/14/2017 - 19:52:35: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "vorbeam in numele lui.. now english please"
+L 02/14/2017 - 19:52:56: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "i talk with you.."
+L 02/14/2017 - 19:53:06: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "crazi"
+L 02/14/2017 - 19:53:37: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "a revenit cooper, soly si lol.. s-a suparat cooper ca am refacut eq si ne-am certat"
+L 02/14/2017 - 19:53:41: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "=(("
+L 02/14/2017 - 19:53:42: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "o sa-l ia el.."
+L 02/14/2017 - 19:53:53: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "vrei sa intri pe serverul lor ?"
+L 02/14/2017 - 19:54:24: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "84.29.73.93:27015"
+L 02/14/2017 - 19:54:57: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" chat " flux dne"
+L 02/14/2017 - 19:55:10: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "crazi #<78><STEAM_0:0:176678667><>"
+L 02/14/2017 - 19:55:10: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "o iesit"
+L 02/14/2017 - 19:55:12: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat ":))"
+L 02/14/2017 - 19:55:12: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "nu merge la favorite... inca.. abia l-a deschis"
+L 02/14/2017 - 19:55:20: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "a iesit"
+L 02/14/2017 - 19:55:37: [admincmd.amxx] Cmd: "Spectru<65><STEAM_0:1:191882096><>" slay "L3m0n<82><STEAM_0:1:115332543><>"
+L 02/14/2017 - 19:55:43: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "cum naiba.. la mine a mers.. dar nu ma lasa sa joc"
+L 02/14/2017 - 19:55:47: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "crazi"
+L 02/14/2017 - 19:55:57: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "pffff.. la inceput e 83, nu 84"
+L 02/14/2017 - 19:56:38: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "ca a fost al lui"
+L 02/14/2017 - 19:56:49: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "daca vreti duceti-va.. aia-s on.."
+L 02/14/2017 - 19:57:04: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "ba"
+L 02/14/2017 - 19:57:12: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "dau dns-u de la dr "
+L 02/14/2017 - 19:57:13: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "la ip in loc de 84 e 83.."
+L 02/14/2017 - 19:57:14: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "ip-u"
+L 02/14/2017 - 19:57:15: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat ":))"
+L 02/14/2017 - 19:57:20: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" chat " yes"
+L 02/14/2017 - 19:57:29: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" psay "Spectru<65><STEAM_0:1:191882096><>" "da-l"
+L 02/14/2017 - 19:57:35: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "or iesit"
+L 02/14/2017 - 19:57:36: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "=)))"
+L 02/14/2017 - 19:57:38: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" chat " =))"
+L 02/14/2017 - 19:57:42: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "crazi o reintrat p-asta"
+L 02/14/2017 - 19:57:59: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "Ia uite iara"
+L 02/14/2017 - 19:58:00: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat ":)))"
+L 02/14/2017 - 19:58:00: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" psay "Spectru<65><STEAM_0:1:191882096><>" "da-i ip de la asta"
+L 02/14/2017 - 19:58:05: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "asta am facut"
+L 02/14/2017 - 19:58:07: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat ":))"
+L 02/14/2017 - 19:58:14: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "de vreo 3 ori s-or dus"
+L 02/14/2017 - 19:58:20: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "si flux"
+L 02/14/2017 - 19:58:21: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "FLVXSOW;[<88><STEAM_0:0:77647261><>"
+L 02/14/2017 - 19:58:43: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "cred ca le da kick cooper"
+L 02/14/2017 - 19:59:00: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "nici pe mine nu ma lasa sa joc"
+L 02/14/2017 - 19:59:28: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" chat " o iesit cr@zi"
+L 02/14/2017 - 19:59:36: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat "inca incearca"
+L 02/14/2017 - 19:59:37: [adminchat.amxx] Chat: "Spectru<65><STEAM_0:1:191882096><>" chat ":)))"
+L 02/14/2017 - 20:02:04: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "are el ceva.. zic wu"
+L 02/14/2017 - 20:02:32: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "te referi acum, acum ?"
+L 02/14/2017 - 20:02:40: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "chiar nu joc pentru record.."
+L 02/14/2017 - 20:03:38: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "nu e cine stie ce.."
+L 02/14/2017 - 20:04:07: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "si eu iti scot 21-22 dev off"
+L 02/14/2017 - 20:04:23: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "pe alpin aia"
+L 02/14/2017 - 20:05:44: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "frate.. cand era sv lui lol si erau diferit asezate timerele / acolo trebuia sa apesi e"
+L 02/14/2017 - 20:05:59: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "si aveam 25-27 numai retin..."
+L 02/14/2017 - 20:06:33: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "ce e ?"
+L 02/14/2017 - 20:07:35: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "don e praf.. pe mapele cu surf ma face.. in rest,,, "
+L 02/14/2017 - 20:09:45: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "ce asteptari / acces ai de la un moderator level 1 ?"
+L 02/14/2017 - 20:10:02: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "am acces doar la kick/slay si votemapmenu"
+L 02/14/2017 - 20:10:24: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "a fost odata ca niciodata"
+L 02/14/2017 - 20:11:25: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "eu ma pipi pe el de vot.. dau ce nimeres si.. done"
+L 02/14/2017 - 20:11:59: [mapsmenu.amxx] Vote: "Cuppy # LePatron<71><STEAM_0:1:193294027><>" vote maps (map#1 "deathrun_rapture2") (map#2 "deathrun_spuf") (map#3 "") (map#4 "")
+L 02/14/2017 - 20:12:11: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_spuf
+L 02/14/2017 - 20:12:21: [admin.amxx] Login: "Cuppy # LePatron<101><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/14/2017 - 20:12:28: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Cuppy # LePatron<101><STEAM_0:1:193294027><>"
+L 02/14/2017 - 20:12:57: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "rocky.. i-am dat gag.. gata"
+L 02/14/2017 - 20:14:06: [adminchat.amxx] Chat: "Joker$*<23><VALVE_0:4:1231739250><>" say "toti cu 18, 18.. fac si eu in martie.. sa intrati pe server ca va dau o ***"
+L 02/14/2017 - 20:15:20: -------- Mapchange to deathrun_spuf --------
+L 02/14/2017 - 20:15:23: [admin.amxx] Login: "Joker$*<23><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 20:15:23: [admin.amxx] Login: "Cuppy # LePatron<101><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/14/2017 - 20:15:30: [admin.amxx] Login: "Cuppy # LePatron<111><STEAM_0:1:193294027><>" became an admin (account "Cuppy # LePatron") (access "bi") (address "46.253.168.87")
+L 02/14/2017 - 20:15:32: [admin.amxx] Login: "Joker$*<112><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 20:16:17: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "Evitati limbajul vulgar, spamul. Riscati gag !"
+L 02/14/2017 - 20:17:31: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "Evitati limbajul vulgar, spamul. Riscati gag ! "
+L 02/14/2017 - 20:17:32: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "Evitati limbajul vulgar, spamul. Riscati gag ! "
+L 02/14/2017 - 20:17:32: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "Evitati limbajul vulgar, spamul. Riscati gag ! "
+L 02/14/2017 - 20:19:27: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "pana mai devreme nu a injurat"
+L 02/14/2017 - 20:19:52: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "daca injurati nu are nimic.. va tin frumos numai pe mut"
+L 02/14/2017 - 20:25:12: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "rocky"
+L 02/14/2017 - 20:25:26: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "daca nu le-ai mai da apa la moara sa stii ca o sa taca..."
+L 02/14/2017 - 20:26:45: [admin.amxx] Login: "Krayzie<121><STEAM_0:0:1222020070><>" became an admin (account "Krayzie") (access "bit") (address "92.83.115.129")
+L 02/14/2017 - 20:26:56: [admin.amxx] Login: "Krayzie<122><STEAM_0:0:1222020070><>" became an admin (account "Krayzie") (access "bit") (address "92.83.115.129")
+L 02/14/2017 - 20:33:03: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "Evitati limbajul vulgar, spamul. Riscati gag ! "
+L 02/14/2017 - 20:33:04: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "Evitati limbajul vulgar, spamul. Riscati gag ! "
+L 02/14/2017 - 20:33:23: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "nu ma refer la cineva anume"
+L 02/14/2017 - 20:33:33: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "eu doar va informez ca va tai limba.."
+L 02/14/2017 - 20:34:03: [admincmd.amxx] Cmd: "Joker$*<112><VALVE_0:4:1231739250><>" slap with 0 damage "FLVXSOW;[<110><STEAM_0:0:77647261><>"
+L 02/14/2017 - 20:34:53: [admin.amxx] Login: "Krayzie<129><STEAM_0:0:1222020070><>" became an admin (account "Krayzie") (access "bit") (address "92.83.115.129")
+L 02/14/2017 - 20:35:13: [slayafk.amxx] cplusplus a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 20:37:36: [adminchat.amxx] Chat: "FLVXSOW;[<110><STEAM_0:0:77647261><>" chat " de ce dai gag frate?"
+L 02/14/2017 - 20:37:50: [adminchat.amxx] Chat: "FLVXSOW;[<110><STEAM_0:0:77647261><>" chat " nu am injurat"
+L 02/14/2017 - 20:37:52: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "tu vezi-ti de joc"
+L 02/14/2017 - 20:37:53: [adminchat.amxx] Chat: "FLVXSOW;[<110><STEAM_0:0:77647261><>" chat " doar radeam de el"
+L 02/14/2017 - 20:37:58: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "sa fie liniste..."
+L 02/14/2017 - 20:37:59: [adminchat.amxx] Chat: "FLVXSOW;[<110><STEAM_0:0:77647261><>" chat " nu e frumos ce faci"
+L 02/14/2017 - 20:38:00: [adminchat.amxx] Chat: "FLVXSOW;[<110><STEAM_0:0:77647261><>" chat " brb"
+L 02/14/2017 - 20:38:40: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "razi de el.. la ce se ajunge ? sa stii ca nu e frumos ce faci tu.."
+L 02/14/2017 - 20:38:47: [adminchat.amxx] Chat: "FLVXSOW;[<110><STEAM_0:0:77647261><>" chat " eu?"
+L 02/14/2017 - 20:38:49: [admin.amxx] Login: "wKn<130><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/14/2017 - 20:38:54: [admin.amxx] Login: "wKn<131><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/14/2017 - 20:38:59: [adminchat.amxx] Chat: "FLVXSOW;[<110><STEAM_0:0:77647261><>" chat " pai imi place sa rad de el"
+L 02/14/2017 - 20:39:15: [adminchat.amxx] Chat: "FLVXSOW;[<110><STEAM_0:0:77647261><>" chat " imi place ca se enerveaza :)))"
+L 02/14/2017 - 20:39:16: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "si mie imi place sa-mi vad de treaba mea"
+L 02/14/2017 - 20:39:25: [adminchat.amxx] Chat: "FLVXSOW;[<110><STEAM_0:0:77647261><>" chat " dar asta nu e treaba ta"
+L 02/14/2017 - 20:41:29: -------- Mapchange to deathrun_pacman_v2 --------
+L 02/14/2017 - 20:41:32: [admin.amxx] Login: "Krayzie<129><STEAM_0:0:1222020070><>" became an admin (account "Krayzie") (access "bit") (address "92.83.115.129")
+L 02/14/2017 - 20:41:32: [admin.amxx] Login: "Joker$*<112><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 20:41:32: [admin.amxx] Login: "wKn<131><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/14/2017 - 20:41:34: [admin.amxx] Login: "wKn<137><STEAM_0:0:196614190><>" became an admin (account "wKn") (access "bi") (address "92.80.89.92")
+L 02/14/2017 - 20:41:36: [admin.amxx] Login: "Krayzie<139><STEAM_0:0:1222020070><>" became an admin (account "Krayzie") (access "bit") (address "92.83.115.129")
+L 02/14/2017 - 20:41:38: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "mda.."
+L 02/14/2017 - 20:41:44: [admin.amxx] Login: "Krayzie<143><STEAM_0:0:1222020070><>" became an admin (account "Krayzie") (access "bit") (address "92.83.115.129")
+L 02/14/2017 - 20:41:49: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "am uitat de vot..."
+L 02/14/2017 - 20:41:49: [admin.amxx] Login: "Krayzie<144><STEAM_0:0:1222020070><>" became an admin (account "Krayzie") (access "bit") (address "92.83.115.129")
+L 02/14/2017 - 20:41:55: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Krayzie<144><STEAM_0:0:1222020070><>"
+L 02/14/2017 - 20:42:11: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 20:42:44: [adminchat.amxx] Chat: "Krayzie<144><STEAM_0:0:1222020070><>" chat "jokere"
+L 02/14/2017 - 20:44:46: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 20:48:06: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 20:49:32: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "1. si tu ai vina ta.. 2.  nu sunt prietenii mei.. e un joc in plm"
+L 02/14/2017 - 20:49:55: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "nu ma intereseaza..."
+L 02/14/2017 - 20:51:41: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 20:52:01: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "da :("
+L 02/14/2017 - 20:52:38: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "dupa cum vezi nice restu nu au zis nimic.."
+L 02/14/2017 - 20:52:55: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "si chiar de vorbest au bunul simt sa evite limbajul vostru"
+L 02/14/2017 - 20:53:34: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "ei nu te deranjeaza.. dar nu te-ai intrebat.. tu ii deranjezi pe ei ?"
+L 02/14/2017 - 20:53:40: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's' AND Map = 'deathrun_pacman_v2'' at line 1
+L 02/14/2017 - 20:53:40: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 02/14/2017 - 20:54:37: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "sincer cam incepem sa facem o telenovela din prostia asta.."
+L 02/14/2017 - 20:54:51: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "si ajungem tot la vorba aia.. .."
+L 02/14/2017 - 20:55:09: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "traiesti pentru acest joc.."
+L 02/14/2017 - 20:55:35: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "ma refeream la vorba.. nu la tine"
+L 02/14/2017 - 20:55:36: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 20:56:16: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 20:56:42: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "tu cine esti ? vad numai ZOWIE si inainte numai ???? de la nvidia"
+L 02/14/2017 - 20:58:26: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "rocky"
+L 02/14/2017 - 20:58:37: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "acum incepi sa barfesti la altii ?"
+L 02/14/2017 - 20:58:43: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "te cam intinzi frate.."
+L 02/14/2017 - 20:59:10: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "pai taci si vezi-ti de acest joc... asta tot zic si eu"
+L 02/14/2017 - 21:00:47: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "easport"
+L 02/14/2017 - 21:00:53: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "acum sunt tero.. 800"
+L 02/14/2017 - 21:01:16: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 21:02:11: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 21:02:16: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "e doar un joc"
+L 02/14/2017 - 21:02:16: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "e doar un joc "
+L 02/14/2017 - 21:02:17: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "e doar un joc "
+L 02/14/2017 - 21:02:17: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "e doar un joc "
+L 02/14/2017 - 21:02:19: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "e doar un joc "
+L 02/14/2017 - 21:03:55: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's' AND Map = 'deathrun_pacman_v2'' at line 1
+L 02/14/2017 - 21:03:55: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 02/14/2017 - 21:04:04: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "–ì–è·∫åSO·∫Ñ  @ZOWIE<163><STEAM_0:0:104532335><>"
+L 02/14/2017 - 21:05:46: [mapsmenu.amxx] Vote: "Joker$*<112><VALVE_0:4:1231739250><>" vote maps (map#1 "deathrun_bhopz_v2") (map#2 "deathrun_bhopz") (map#3 "deathrun_3sixty_fg_fix3") (map#4 "")
+L 02/14/2017 - 21:05:58: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_3sixty_fg_fix3
+L 02/14/2017 - 21:06:03: [admin.amxx] Login: "kaka<166><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "bi") (address "94.53.102.210")
+L 02/14/2017 - 21:06:41: [slayafk.amxx] DoZe a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 21:06:41: [slayafk.amxx] STAR TREK# Trag3DSIMoriHD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 21:08:38: -------- Mapchange to deathrun_3sixty_fg_fix3 --------
+L 02/14/2017 - 21:08:41: [admin.amxx] Login: "Joker$*<112><VALVE_0:4:1231739250><>" became an admin (account "Joker$*") (access "bi") (address "92.80.137.59")
+L 02/14/2017 - 21:13:16: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "va simtiti nedreptatit.. aveti forum/fioriginal.ro Dr/Reclamatii"
+L 02/14/2017 - 21:14:50: [bhop.amxx] Error on query: Duplicate entry 'MeGusta' for key 'NickName'
+L 02/14/2017 - 21:14:50: [bhop.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 02/14/2017 - 21:19:01: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "No problem.. Mut"
+L 02/14/2017 - 21:19:35: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "daca tu zici .."
+L 02/14/2017 - 21:19:45: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "nu dau la cerinte.."
+L 02/14/2017 - 21:20:55: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "tu ce ai baut zetox ? apa la rate.."
+L 02/14/2017 - 21:21:22: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "nu incepe ca astia ca ramai numai pe mut cat sunt pe server"
+L 02/14/2017 - 21:21:52: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "vezi-ti de joc... si lasa discutiile astea"
+L 02/14/2017 - 21:24:44: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "nu ma intereseaza sa discut cu voi.."
+L 02/14/2017 - 21:25:14: [adminchat.amxx] Chat: "Joker$*<112><VALVE_0:4:1231739250><>" say "capabil sunt... * in real life.."
+L 02/14/2017 - 21:26:06: [slayafk.amxx] Joker$* a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 21:26:06: [slayafk.amxx] Rusu a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 21:32:21: [slayafk.amxx] KlaNdEsTiN a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 21:41:02: [admin.amxx] Login: "Daky69<204><STEAM_0:0:523798960><>" became an admin (account "Daky69") (access "bi") (address "89.123.96.129")
+L 02/14/2017 - 21:48:32: [mapsmenu.amxx] Vote: "Daky69<204><STEAM_0:0:523798960><>" vote maps (map#1 "deathrun_sk_occult") (map#2 "") (map#3 "") (map#4 "")
+L 02/14/2017 - 21:48:45: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_sk_occult
+L 02/14/2017 - 22:00:47: -------- Mapchange to deathrun_sk_occult --------
+L 02/14/2017 - 22:00:50: [admin.amxx] Login: "Daky69<204><STEAM_0:0:523798960><>" became an admin (account "Daky69") (access "bi") (address "89.123.96.129")
+L 02/14/2017 - 22:06:55: [admin.amxx] Login: "FAKE ^^<221><STEAM_0:0:334408724><>" became an admin (account "FAKE ^^") (access "bit") (address "95.76.0.252")
+L 02/14/2017 - 22:07:14: [admin.amxx] Login: "SWAGGIE. XD<222><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 02/14/2017 - 22:12:16: [admin.amxx] Login: "Krayzie<224><STEAM_0:0:1222020070><>" became an admin (account "Krayzie") (access "bit") (address "92.83.115.129")
+L 02/14/2017 - 22:15:52: [admincmd.amxx] Cmd: "Daky69<204><STEAM_0:0:523798960><>" slay "NOOB<223><STEAM_0:0:854973727><>"
+L 02/14/2017 - 22:16:29: [slayafk.amxx] Xzppz a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 22:24:48: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "maketacke<228><STEAM_0:0:1715760849><>"
+L 02/14/2017 - 22:28:57: -------- Mapchange to deathrun_kings_never_die --------
+L 02/14/2017 - 22:36:33: [admin.amxx] Login: "SWAGGIE. XD<240><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 02/14/2017 - 22:37:19: [slayafk.amxx] I LoVe YoU ! <3 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 22:38:13: [admin.amxx] Login: "J.Smith<242><STEAM_0:0:59563675><>" became an admin (account "J.Smith") (access "bi") (address "109.185.5.238")
+L 02/14/2017 - 22:41:14: [admin.amxx] Login: "SWAGGIE. XD<243><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 02/14/2017 - 22:43:59: [slayafk.amxx] FiNNNuTzu^^ ! # 1337 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 22:44:44: [slayafk.amxx] bmx- a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 22:44:49: [slayafk.amxx] FiNNNuTzu^^ ! # 1337 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 22:45:29: [slayafk.amxx] bmx- a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 22:46:19: [slayafk.amxx] FiNNNuTzu^^ ! # 1337 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 02/14/2017 - 22:55:01: -------- Mapchange to deathrun_inferno_beta1 --------
+L 02/14/2017 - 23:18:25: [admin.amxx] Login: "SWAGGIE. XD<272><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 02/14/2017 - 23:22:56: [admin.amxx] Login: "SWAGGIE. XD<278><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 02/14/2017 - 23:26:42: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Alexandru.Dymatize#<281><VALVE_0:4:651809520><>"
+L 02/14/2017 - 23:28:17: [admin.amxx] Login: "SWAGGIE. XD<282><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 02/14/2017 - 23:30:12: [mapsmenu.amxx] Vote: "SWAGGIE. XD<282><VALVE_0:4:862961770><>" vote maps (map#1 "deathrun_y_underground") (map#2 "deathrun_challenge_x") (map#3 "") (map#4 "")
+L 02/14/2017 - 23:30:24: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_y_underground
+L 02/14/2017 - 23:35:50: -------- Mapchange to deathrun_y_underground --------
+L 02/14/2017 - 23:35:53: [admin.amxx] Login: "SWAGGIE. XD<282><VALVE_0:4:862961770><>" became an admin (account "SWAGGIE. XD") (access "bi") (address "109.98.131.207")
+L 02/14/2017 - 23:47:10: [admin.amxx] Login: "-rTg|maEsTrOo<295><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.3")
+L 02/14/2017 - 23:51:05: [admin.amxx] Login: "deadpool<296><STEAM_0:0:30403765><>" became an admin (account "deadpool") (access "bit") (address "82.79.251.176")
+L 02/14/2017 - 23:54:45: [admincmd.amxx] Cmd: "deadpool<296><STEAM_0:0:30403765><>" ask for players list

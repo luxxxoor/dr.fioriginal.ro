@@ -1,0 +1,27 @@
+L 04/17/2017 - 12:25:42: Start of error session.
+L 04/17/2017 - 12:25:42: Info (map "deathrun_sk_occult") (file "addons/amxmodx/logs/error_20170417.log")
+L 04/17/2017 - 12:25:42: [FUN] Invalid player 8
+L 04/17/2017 - 12:25:42: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/17/2017 - 12:25:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/17/2017 - 14:56:43: Start of error session.
+L 04/17/2017 - 14:56:43: Info (map "deathrun_expres-winter") (file "addons/amxmodx/logs/error_20170417.log")
+L 04/17/2017 - 14:56:43: [FUN] Invalid player 10
+L 04/17/2017 - 14:56:43: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/17/2017 - 14:56:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/17/2017 - 15:19:17: [FUN] Invalid player 6
+L 04/17/2017 - 15:19:17: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/17/2017 - 15:19:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/17/2017 - 15:28:21: Start of error session.
+L 04/17/2017 - 15:28:21: Info (map "deathrun_alleywinter") (file "addons/amxmodx/logs/error_20170417.log")
+L 04/17/2017 - 15:28:21: [FUN] Invalid player 13
+L 04/17/2017 - 15:28:21: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/17/2017 - 15:28:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/17/2017 - 15:34:06: [FUN] Invalid player 12
+L 04/17/2017 - 15:34:06: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/17/2017 - 15:34:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/17/2017 - 18:40:55: Start of error session.
+L 04/17/2017 - 18:40:55: Info (map "deathrun_standup") (file "addons/amxmodx/logs/error_20170417.log")
+L 04/17/2017 - 18:40:55: Forward-ul nu s-a putut executa.
+L 04/17/2017 - 18:40:55: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 04/17/2017 - 18:40:55: Forward-ul nu s-a putut executa.
+L 04/17/2017 - 18:40:55: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit

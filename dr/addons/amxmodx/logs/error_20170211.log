@@ -1,0 +1,25 @@
+L 02/11/2017 - 00:53:58: Start of error session.
+L 02/11/2017 - 00:53:58: Info (map "deathrun_shit_v2") (file "addons/amxmodx/logs/error_20170211.log")
+L 02/11/2017 - 00:53:58: Forward-ul nu s-a putut executa.
+L 02/11/2017 - 00:53:58: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 02/11/2017 - 00:53:58: [AMXX] Run time error 1: forced exit 
+L 02/11/2017 - 00:53:58: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 02/11/2017 - 00:53:58: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 187)
+L 02/11/2017 - 17:31:31: Start of error session.
+L 02/11/2017 - 17:31:31: Info (map "deathrun_kings_never_die") (file "addons/amxmodx/logs/error_20170211.log")
+L 02/11/2017 - 17:31:31: Forward-ul nu s-a putut executa.
+L 02/11/2017 - 17:31:31: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 02/11/2017 - 17:31:31: Forward-ul nu s-a putut executa.
+L 02/11/2017 - 17:31:31: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 02/11/2017 - 21:04:38: Start of error session.
+L 02/11/2017 - 21:04:38: Info (map "deathrun_unreal") (file "addons/amxmodx/logs/error_20170211.log")
+L 02/11/2017 - 21:04:38: Forward-ul nu s-a putut executa.
+L 02/11/2017 - 21:04:38: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 02/11/2017 - 21:04:38: Forward-ul nu s-a putut executa.
+L 02/11/2017 - 21:04:38: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 02/11/2017 - 22:12:46: Start of error session.
+L 02/11/2017 - 22:12:46: Info (map "deathrun_gb_winter_final4") (file "addons/amxmodx/logs/error_20170211.log")
+L 02/11/2017 - 22:12:46: Forward-ul nu s-a putut executa.
+L 02/11/2017 - 22:12:46: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 02/11/2017 - 22:12:46: Forward-ul nu s-a putut executa.
+L 02/11/2017 - 22:12:46: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit

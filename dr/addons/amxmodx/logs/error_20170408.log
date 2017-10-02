@@ -1,0 +1,21 @@
+L 04/08/2017 - 17:00:45: Start of error session.
+L 04/08/2017 - 17:00:45: Info (map "deathrun_sanctuary") (file "addons/amxmodx/logs/error_20170408.log")
+L 04/08/2017 - 17:00:45: Forward-ul nu s-a putut executa.
+L 04/08/2017 - 17:00:45: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 04/08/2017 - 17:00:45: [AMXX] Run time error 1: forced exit 
+L 04/08/2017 - 17:00:45: [AMXX]    [0] revive2.sma::checkSQLConditions (line 493)
+L 04/08/2017 - 17:00:45: [AMXX]    [1] revive2.sma::getSettings (line 319)
+L 04/08/2017 - 21:30:52: Start of error session.
+L 04/08/2017 - 21:30:52: Info (map "deathrun_projetocs2") (file "addons/amxmodx/logs/error_20170408.log")
+L 04/08/2017 - 21:30:52: [MySQL] Function not found: checkForErrors
+L 04/08/2017 - 21:30:52: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 04/08/2017 - 21:30:52: [AMXX] Run time error 10: native error (native "SQL_ThreadQuery")
+L 04/08/2017 - 21:30:52: [AMXX]    [0] revive2.sma::hookChat (line 445)
+L 04/08/2017 - 21:32:22: [MySQL] Function not found: checkForErrors
+L 04/08/2017 - 21:32:22: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 04/08/2017 - 21:32:22: [AMXX] Run time error 10: native error (native "SQL_ThreadQuery")
+L 04/08/2017 - 21:32:22: [AMXX]    [0] revive2.sma::hookChat (line 445)
+L 04/08/2017 - 21:32:38: [MySQL] Function not found: checkForErrors
+L 04/08/2017 - 21:32:38: [AMXX] Displaying debug trace (plugin "revive2.amxx", version "2.6")
+L 04/08/2017 - 21:32:38: [AMXX] Run time error 10: native error (native "SQL_ThreadQuery")
+L 04/08/2017 - 21:32:38: [AMXX]    [0] revive2.sma::hookChat (line 445)

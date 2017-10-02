@@ -1,0 +1,23 @@
+L 09/23/2016 - 11:03:57: Start of error session.
+L 09/23/2016 - 11:03:57: Info (map "deathrun_lies_f") (file "addons/amxmodx/logs/error_20160923.log")
+L 09/23/2016 - 11:03:57: [CSTRIKE] Invalid player 5
+L 09/23/2016 - 11:03:57: [AMXX] Displaying debug trace (plugin "newtero3.amxx", version "1.0")
+L 09/23/2016 - 11:03:57: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 09/23/2016 - 11:03:57: [AMXX]    [0] newtero3.sma::askTero (line 346)
+L 09/23/2016 - 12:18:00: Start of error session.
+L 09/23/2016 - 12:18:00: Info (map "deathrun_kolor_v2") (file "addons/amxmodx/logs/error_20160923.log")
+L 09/23/2016 - 12:18:00: [CSTRIKE] Invalid player 9
+L 09/23/2016 - 12:18:00: [AMXX] Displaying debug trace (plugin "newtero3.amxx", version "1.0")
+L 09/23/2016 - 12:18:00: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 09/23/2016 - 12:18:00: [AMXX]    [0] newtero3.sma::askTero (line 346)
+L 09/23/2016 - 12:35:40: Start of error session.
+L 09/23/2016 - 12:35:40: Info (map "deathrun_big_tower") (file "addons/amxmodx/logs/error_20160923.log")
+L 09/23/2016 - 12:35:40: [CSTRIKE] Invalid player 5
+L 09/23/2016 - 12:35:40: [AMXX] Run time error 10 (plugin "respawn.amxx") (native "cs_set_user_deaths") - debug not enabled!
+L 09/23/2016 - 12:35:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 09/23/2016 - 14:28:49: Start of error session.
+L 09/23/2016 - 14:28:49: Info (map "deathrun_clarion_dojo_b3") (file "addons/amxmodx/logs/error_20160923.log")
+L 09/23/2016 - 14:28:49: [CSTRIKE] Invalid player 10
+L 09/23/2016 - 14:28:49: [AMXX] Displaying debug trace (plugin "newtero3.amxx", version "1.0")
+L 09/23/2016 - 14:28:49: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 09/23/2016 - 14:28:49: [AMXX]    [0] newtero3.sma::askTero (line 356)

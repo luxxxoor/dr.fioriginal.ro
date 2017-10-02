@@ -1,0 +1,18 @@
+L 09/13/2016 - 00:10:49: Start of error session.
+L 09/13/2016 - 00:10:49: Info (map "deathrun_projetocs2") (file "addons/amxmodx/logs/error_20160913.log")
+L 09/13/2016 - 00:10:49: [CSTRIKE] Invalid player 5
+L 09/13/2016 - 00:10:49: [AMXX] Displaying debug trace (plugin "newtero3.amxx", version "1.0")
+L 09/13/2016 - 00:10:49: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 09/13/2016 - 00:10:49: [AMXX]    [0] newtero3.sma::askTero (line 346)
+L 09/13/2016 - 21:06:32: Start of error session.
+L 09/13/2016 - 21:06:32: Info (map "deathrun_laikiux_rawr") (file "addons/amxmodx/logs/error_20160913.log")
+L 09/13/2016 - 21:06:32: [CSTRIKE] Invalid player 7
+L 09/13/2016 - 21:06:32: [AMXX] Displaying debug trace (plugin "newtero3.amxx", version "1.0")
+L 09/13/2016 - 21:06:32: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 09/13/2016 - 21:06:32: [AMXX]    [0] newtero3.sma::askTero (line 346)
+L 09/13/2016 - 23:31:13: Start of error session.
+L 09/13/2016 - 23:31:13: Info (map "deathrun_laikiux7") (file "addons/amxmodx/logs/error_20160913.log")
+L 09/13/2016 - 23:31:13: [CSTRIKE] Invalid player 6
+L 09/13/2016 - 23:31:13: [AMXX] Displaying debug trace (plugin "newtero3.amxx", version "1.0")
+L 09/13/2016 - 23:31:13: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 09/13/2016 - 23:31:13: [AMXX]    [0] newtero3.sma::askTero (line 346)

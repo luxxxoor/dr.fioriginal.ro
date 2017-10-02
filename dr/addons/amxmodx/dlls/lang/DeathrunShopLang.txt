@@ -1,0 +1,68 @@
+﻿[en]
+DRSHOP_MENU_TITLE = \rDeathRun Shop \d%s^n\yBani: \d%d$ \wPagina \r
+DRSHOP_ITEM_1 = \wSistem de vieți
+DRSHOP_ITEM_2_1 = \wGravity - \y%d$
+DRSHOP_ITEM_2_2 = \dGravity - %d$
+DRSHOP_ITEM_3_1 = \wFaster Speed - \y%d$
+DRSHOP_ITEM_3_2 = \dFaster Speed - %d$
+DRSHOP_ITEM_4_1 = \w+%d Puncte de viață și +%d Puncte de armură - \y%d$
+DRSHOP_ITEM_4_2 = \d+%d Puncte de viață și +%d Puncte de armură - %d$
+DRSHOP_ITEM_5_1 = \wHE  - \y%d$
+DRSHOP_ITEM_5_2 = \dHE  - %d$
+DRSHOP_ITEM_6_1 = \w2 Flash-uri  - \y%d$
+DRSHOP_ITEM_6_2 = \d2 Flash-uri   - %d$
+DRSHOP_ITEM_7_1 = \wScut - \y%d$
+DRSHOP_ITEM_7_2 = \dScut - %d$
+DRSHOP_ITEM_8_1 = \wDeagle - \y%d$
+DRSHOP_ITEM_8_2 = \dDeagle - %d$
+DRSHOP_ITEM_9_1 = \wAWP - \y%d$
+DRSHOP_ITEM_9_2 = \dAWP - %d$
+DRSHOP_ITEM_10_T = \w%d%% Invisible - \y%d$
+DRSHOP_ITEM_10_CT = \d%d%% Invisible (Only Terrorist) - %d$
+DRSHOP_ITEM_BACK = Back
+DRSHOP_ITEM_NEXT = Next
+DRSHOP_ITEM_EXIT = Exit
+DRSHOP_ITEM_FRAG = \wVinde toate fragurile  - \y%d$ Fiecare frag.
+DRSHOP_ITEM_FRAGS =\dVinde toate fragurile  - %d$ Fiecare frag.
+
+DRSHOP_MENU_TITLE_LIFE = \rDeathRun Shop \d%s^n\yVieti: \d%d | \yBani: \d%d$\r
+DRSHOP_LIFE_1_1 = \wCumpără viață - \y%d$
+DRSHOP_LIFE_1_2 = \dCumpãrã viață - %d$
+DRSHOP_LIFE_2_1 = \wVinde viață - \y+%d$
+DRSHOP_LIFE_2_2 = \dVinde viață - +%d$
+DRSHOP_LIFE_3_1 = \wFolosește viață
+DRSHOP_LIFE_3_2 = \dFolosește viață
+
+DRSHOP_DISABLED = \GRN Deathrun Shop este dezactivat !
+DRSHOP_ONLY_ALIVE = \GRN Trebuie să fi in viață ca să cumperi acest obiect !
+DRSHOP_ONLY_DEAD = \GRN Ești deja în viață !
+DRSHOP_ONLY_T = \GRNDoar Teroriștii pot cumpăra acest obiect !
+DRSHOP_ONLY_CT_T = \GRN Doar Teroriștii și Counter-Teroriștii nu pot folosi shop-ul!
+DRSHOP_ALLREADY_HAVE = \GRN Deja ai acest obiect !
+DRSHOP_DONTHAVE_MONEY = \GRN Nu ai destui bani ca să cumperi acest obiect !
+DRSHOP_DONTHAVE_MONEY_LIFE = \GRN Nu ai destui bani ca să cumperi o extra viață !
+DRSHOP_MONEY_INFO_HUD = Banii tăi: %d$
+DRSHOP_MONEY_INFO = \GRN Banii tăi: %d$
+DRSHOP_DONTHAVE_LIFE = \GRN Nu ai viață !
+DRSHOP_LIFE_INFO = \GRN Ai\TEM %d\GRN viață !
+
+DRSHOP_GRAVITY_ITEM = \GRN Ai cumpărat \TEM Gravity
+DRSHOP_SPEED_ITEM = \GRNAi cumpărat\TEM viteză
+DRSHOP_HEALTH_ARMOR_ITEM = \GRNAi cumpărat \TEM +%d Punte de viață și +%d Puncte de armură
+DRSHOP_GRENADE_ITEM = \GRNAi cumpărat un\TEM HE
+DRSHOP_BOTHGREN_ITEM = \GRNAi cumpărat un\TEM Smoke și un Flashbang 
+DRSHOP_SHIELD_ITEM = \GRNAi cumpărat un\TEM Scut
+DRSHOP_DEAGLE_ITEM = \GRNAi cumpărat un\TEM Deagle
+DRSHOP_AWP_ITEM = \GRNAi cumpărat un\TEM AWP
+DRSHOP_INVISIBILITY_ITEM = \GRNAi cumpărat \TEM Invizibilitate
+DRSHOP_BUY_LIFE = \GRNAi cumpărat o\TEM viață
+DRSHOP_SOLD_LIFE = \GRNAi vândut o\TEM viață
+
+DRSHOP_HUD_INFO = Bine ai venit pe server !
+
+DRSHOP_SVPRINT = Fișierul %s nu există!
+DRSHOP_SVPRINT_DONE = Fișierul %s a fost încărcat cu succes.
+DRSHOP_SHOW_ALLCMD = \GRNADMIN %s: seteaza %d$ la TOȚI playerii!
+DRSHOP_SHOW_CMD = \GRNADMIN %s: seteaza %d$ lui %s
+DRSHOP_SHOWRESET_ALLCMD = \GRNADMIN %s: reseteaza banii tuturor la 0$!
+DRSHOP_SHOWRESET_CMD = \GRNADMIN %s: reseteaza banii lui %s la 0$!

@@ -1,0 +1,125 @@
+L 12/10/2016 - 00:10:31: Start of error session.
+L 12/10/2016 - 00:10:31: Info (map "deathrun_aztecan_beta1") (file "addons/amxmodx/logs/error_20161210.log")
+L 12/10/2016 - 00:10:31: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 00:10:31: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/10/2016 - 07:21:03: Start of error session.
+L 12/10/2016 - 07:21:03: Info (map "deathrun_xstrafers") (file "addons/amxmodx/logs/error_20161210.log")
+L 12/10/2016 - 07:21:03: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 07:21:03: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/10/2016 - 12:43:51: Start of error session.
+L 12/10/2016 - 12:43:51: Info (map "deathrun_skyzzar") (file "addons/amxmodx/logs/error_20161210.log")
+L 12/10/2016 - 12:43:51: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 12:43:51: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 12:43:51: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 12:43:51: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 12:43:51: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 12:43:51: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 12:43:51: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 12:43:51: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 12:43:51: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 12:43:51: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 12:43:52: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 12:43:52: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 12:43:52: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 12:43:52: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 12:43:52: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 12:43:56: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 12:43:56: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 12:43:56: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 12:43:56: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 12:43:56: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 12:43:57: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 12:43:57: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 12:43:57: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 12:43:57: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 12:43:57: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 12:44:15: Start of error session.
+L 12/10/2016 - 12:44:15: Info (map "deathrun_laikiux_rawr") (file "addons/amxmodx/logs/error_20161210.log")
+L 12/10/2016 - 12:44:15: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 12:44:15: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 12:44:15: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 12:44:15: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 12:44:15: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 12:44:19: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 12:44:19: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 12:44:19: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 12:44:19: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 12:44:19: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 12:44:30: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 12:44:30: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 12:44:30: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 12:44:30: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 12:44:30: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 13:48:21: Start of error session.
+L 12/10/2016 - 13:48:21: Info (map "deathrun_expres-game") (file "addons/amxmodx/logs/error_20161210.log")
+L 12/10/2016 - 13:48:21: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 13:48:21: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/10/2016 - 14:03:18: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 14:03:18: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/10/2016 - 14:22:42: Start of error session.
+L 12/10/2016 - 14:22:42: Info (map "deathrun_bhopz_v2") (file "addons/amxmodx/logs/error_20161210.log")
+L 12/10/2016 - 14:22:42: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 14:22:42: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/10/2016 - 17:11:45: Start of error session.
+L 12/10/2016 - 17:11:45: Info (map "deathrun_sentinel_mini") (file "addons/amxmodx/logs/error_20161210.log")
+L 12/10/2016 - 17:11:45: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 17:11:45: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 17:11:45: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 17:11:45: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 17:11:45: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 17:11:45: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 17:11:45: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 17:11:45: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 17:11:45: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 17:11:45: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 17:11:45: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 17:11:45: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 17:11:45: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 17:11:45: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 17:11:45: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 17:11:53: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 17:11:53: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 17:11:53: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 17:11:53: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 17:11:53: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 17:26:33: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 17:26:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 17:26:33: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 17:26:33: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 17:26:33: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 17:26:33: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 17:26:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 17:26:33: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 17:26:33: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 17:26:33: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 17:26:33: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 17:26:33: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 17:26:33: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 17:26:33: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 17:26:33: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 17:26:37: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 17:26:37: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 17:26:37: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 17:26:37: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 17:26:37: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 19:32:23: Start of error session.
+L 12/10/2016 - 19:32:23: Info (map "deathrun_alpin_spring") (file "addons/amxmodx/logs/error_20161210.log")
+L 12/10/2016 - 19:32:23: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 19:32:23: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/10/2016 - 20:39:05: Start of error session.
+L 12/10/2016 - 20:39:05: Info (map "deathrun_av2009_recolored-ez") (file "addons/amxmodx/logs/error_20161210.log")
+L 12/10/2016 - 20:39:05: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 20:39:05: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 20:39:05: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 20:39:05: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 20:39:05: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 20:39:05: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 20:39:05: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 20:39:05: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 20:39:05: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 20:39:05: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 12/10/2016 - 20:39:06: Forward-ul nu s-a putut executa.
+L 12/10/2016 - 20:39:06: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/10/2016 - 20:39:06: [AMXX] Run time error 1: forced exit 
+L 12/10/2016 - 20:39:06: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/10/2016 - 20:39:06: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)

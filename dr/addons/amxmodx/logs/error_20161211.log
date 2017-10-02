@@ -1,0 +1,21 @@
+L 12/11/2016 - 10:07:22: Start of error session.
+L 12/11/2016 - 10:07:22: Info (map "deathrun_gb_winter_final4") (file "addons/amxmodx/logs/error_20161211.log")
+L 12/11/2016 - 10:07:22: Forward-ul nu s-a putut executa.
+L 12/11/2016 - 10:07:22: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 12/11/2016 - 10:13:13: Forward-ul nu s-a putut executa.
+L 12/11/2016 - 10:13:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/11/2016 - 10:13:13: [AMXX] Run time error 1: forced exit 
+L 12/11/2016 - 10:13:13: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 12/11/2016 - 10:13:13: [AMXX]    [1] comp_timer2.sma::checkAllNameCases (line 424)
+L 12/11/2016 - 12:55:19: Start of error session.
+L 12/11/2016 - 12:55:19: Info (map "deathrun_projetocs2") (file "addons/amxmodx/logs/error_20161211.log")
+L 12/11/2016 - 12:55:19: Forward-ul nu s-a putut executa.
+L 12/11/2016 - 12:55:19: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/11/2016 - 14:40:14: Start of error session.
+L 12/11/2016 - 14:40:14: Info (map "deathrun_shit_v2") (file "addons/amxmodx/logs/error_20161211.log")
+L 12/11/2016 - 14:40:14: Forward-ul nu s-a putut executa.
+L 12/11/2016 - 14:40:14: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit
+L 12/11/2016 - 22:14:15: Start of error session.
+L 12/11/2016 - 22:14:15: Info (map "deathrun_purplez_v2_b3") (file "addons/amxmodx/logs/error_20161211.log")
+L 12/11/2016 - 22:14:15: Forward-ul nu s-a putut executa.
+L 12/11/2016 - 22:14:15: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit

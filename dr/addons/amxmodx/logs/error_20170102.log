@@ -1,0 +1,36 @@
+L 01/02/2017 - 00:09:07: String formatted incorrectly - parameter 2 (total 1)
+L 01/02/2017 - 00:09:07: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 01/02/2017 - 00:09:07: [AMXX] Run time error 25: parameter error 
+L 01/02/2017 - 00:09:07: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 01/02/2017 - 13:59:44: Start of error session.
+L 01/02/2017 - 13:59:44: Info (map "deathrun_forest") (file "addons/amxmodx/logs/error_20170102.log")
+L 01/02/2017 - 13:59:44: Invalid map handle provided (0)
+L 01/02/2017 - 13:59:44: [AMXX] Run time error 10 (plugin "allchat3.amxx") (native "TrieSetString") - debug not enabled!
+L 01/02/2017 - 13:59:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/02/2017 - 19:33:34: Start of error session.
+L 01/02/2017 - 19:33:34: Info (map "deathrun_laikiux_dev") (file "addons/amxmodx/logs/error_20170102.log")
+L 01/02/2017 - 19:33:34: [AMXX] Plugin ("advanced_bans_sql.amxx") is setting itself as failed.
+L 01/02/2017 - 19:33:34: [AMXX] Plugin says: Could not connect to database.
+L 01/02/2017 - 19:33:34: [AMXX] Displaying debug trace (plugin "advanced_bans_sql.amxx", version "0.8.1")
+L 01/02/2017 - 19:33:34: [AMXX] Run time error 1: forced exit 
+L 01/02/2017 - 19:33:34: [AMXX]    [0] advanced_bans_sql.sma::QueryLoadBans (line 694)
+L 01/02/2017 - 20:32:01: Start of error session.
+L 01/02/2017 - 20:32:01: Info (map "deathrun_bricks_lux") (file "addons/amxmodx/logs/error_20170102.log")
+L 01/02/2017 - 20:32:01: Forward-ul nu s-a putut executa.
+L 01/02/2017 - 20:32:01: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 01/02/2017 - 22:29:41: Start of error session.
+L 01/02/2017 - 22:29:41: Info (map "deathrun_go_freedom_v1") (file "addons/amxmodx/logs/error_20170102.log")
+L 01/02/2017 - 22:29:41: Forward-ul nu s-a putut executa.
+L 01/02/2017 - 22:29:41: [AMXX] Run time error 1 (plugin "gravity.amxx") - forced exit
+L 01/02/2017 - 23:05:49: Start of error session.
+L 01/02/2017 - 23:05:49: Info (map "deathrun_abtropicano2") (file "addons/amxmodx/logs/error_20170102.log")
+L 01/02/2017 - 23:05:49: String formatted incorrectly - parameter 2 (total 1)
+L 01/02/2017 - 23:05:49: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 01/02/2017 - 23:05:49: [AMXX] Run time error 25: parameter error 
+L 01/02/2017 - 23:05:49: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 01/02/2017 - 23:40:01: Start of error session.
+L 01/02/2017 - 23:40:01: Info (map "deathrun_bhopz_v2") (file "addons/amxmodx/logs/error_20170102.log")
+L 01/02/2017 - 23:40:01: String formatted incorrectly - parameter 2 (total 1)
+L 01/02/2017 - 23:40:01: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 01/02/2017 - 23:40:01: [AMXX] Run time error 25: parameter error 
+L 01/02/2017 - 23:40:01: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)

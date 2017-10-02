@@ -1,0 +1,106 @@
+L 09/27/2016 - 01:38:32: Start of error session.
+L 09/27/2016 - 01:38:32: Info (map "deathrun_winterfg_lux") (file "addons/amxmodx/logs/error_20160927.log")
+L 09/27/2016 - 01:38:32: String formatted incorrectly - parameter 2 (total 1)
+L 09/27/2016 - 01:38:32: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 01:38:32: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 01:38:32: [AMXX]    [0] comp_test4.sma::logCommand (line 1667)
+L 09/27/2016 - 01:38:32: [AMXX]    [1] comp_test4.sma::checkLang (line 373)
+L 09/27/2016 - 02:16:25: Start of error session.
+L 09/27/2016 - 02:16:25: Info (map "deathrun_bricks_lux") (file "addons/amxmodx/logs/error_20160927.log")
+L 09/27/2016 - 02:16:25: String formatted incorrectly - parameter 2 (total 1)
+L 09/27/2016 - 02:16:25: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 02:16:25: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 02:16:25: [AMXX]    [0] comp_test4.sma::logCommand (line 1667)
+L 09/27/2016 - 02:16:25: [AMXX]    [1] comp_test4.sma::checkLang (line 373)
+L 09/27/2016 - 04:37:37: Start of error session.
+L 09/27/2016 - 04:37:37: Info (map "deathrun_standup2") (file "addons/amxmodx/logs/error_20160927.log")
+L 09/27/2016 - 04:37:37: String formatted incorrectly - parameter 2 (total 1)
+L 09/27/2016 - 04:37:37: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 04:37:37: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 04:37:37: [AMXX]    [0] comp_test4.sma::logCommand (line 1667)
+L 09/27/2016 - 04:37:37: [AMXX]    [1] comp_test4.sma::checkLang (line 373)
+L 09/27/2016 - 05:22:32: Start of error session.
+L 09/27/2016 - 05:22:32: Info (map "deathrun_xstrafers") (file "addons/amxmodx/logs/error_20160927.log")
+L 09/27/2016 - 05:22:32: String formatted incorrectly - parameter 2 (total 1)
+L 09/27/2016 - 05:22:32: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 05:22:32: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 05:22:32: [AMXX]    [0] comp_test4.sma::logCommand (line 1667)
+L 09/27/2016 - 05:22:32: [AMXX]    [1] comp_test4.sma::checkLang (line 373)
+L 09/27/2016 - 05:49:54: Start of error session.
+L 09/27/2016 - 05:49:54: Info (map "deathrun_holiday") (file "addons/amxmodx/logs/error_20160927.log")
+L 09/27/2016 - 05:49:54: String formatted incorrectly - parameter 2 (total 1)
+L 09/27/2016 - 05:49:54: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 05:49:54: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 05:49:54: [AMXX]    [0] comp_test4.sma::logCommand (line 1667)
+L 09/27/2016 - 05:49:54: [AMXX]    [1] comp_test4.sma::checkLang (line 373)
+L 09/27/2016 - 07:57:08: Start of error session.
+L 09/27/2016 - 07:57:08: Info (map "deathrun_purplez") (file "addons/amxmodx/logs/error_20160927.log")
+L 09/27/2016 - 07:57:08: String formatted incorrectly - parameter 2 (total 1)
+L 09/27/2016 - 07:57:08: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 07:57:08: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 07:57:08: [AMXX]    [0] comp_test4.sma::logCommand (line 1667)
+L 09/27/2016 - 07:57:08: [AMXX]    [1] comp_test4.sma::checkLang (line 373)
+L 09/27/2016 - 09:10:20: Start of error session.
+L 09/27/2016 - 09:10:20: Info (map "deathrun_cityhotel_v2") (file "addons/amxmodx/logs/error_20160927.log")
+L 09/27/2016 - 09:10:20: String formatted incorrectly - parameter 2 (total 1)
+L 09/27/2016 - 09:10:20: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 09:10:20: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 09:10:20: [AMXX]    [0] comp_test4.sma::logCommand (line 1667)
+L 09/27/2016 - 09:10:20: [AMXX]    [1] comp_test4.sma::checkLang (line 373)
+L 09/27/2016 - 09:57:39: Start of error session.
+L 09/27/2016 - 09:57:39: Info (map "deathrun_abtropicano2") (file "addons/amxmodx/logs/error_20160927.log")
+L 09/27/2016 - 09:57:39: String formatted incorrectly - parameter 2 (total 1)
+L 09/27/2016 - 09:57:39: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 09:57:39: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 09:57:39: [AMXX]    [0] comp_test4.sma::logCommand (line 1667)
+L 09/27/2016 - 09:57:39: [AMXX]    [1] comp_test4.sma::checkLang (line 373)
+L 09/27/2016 - 10:28:11: String formatted incorrectly - parameter 6 (total 5)
+L 09/27/2016 - 10:28:11: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 10:28:11: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 10:28:11: [AMXX]    [0] comp_test4.sma::logCommand (line 1663)
+L 09/27/2016 - 10:28:11: [AMXX]    [1] comp_test4.sma::hookBasicOnChatCommand (line 1161)
+L 09/27/2016 - 10:28:12: String formatted incorrectly - parameter 6 (total 5)
+L 09/27/2016 - 10:28:12: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 10:28:12: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 10:28:12: [AMXX]    [0] comp_test4.sma::logCommand (line 1663)
+L 09/27/2016 - 10:28:12: [AMXX]    [1] comp_test4.sma::hookBasicOnChatCommand (line 1161)
+L 09/27/2016 - 10:28:19: String formatted incorrectly - parameter 6 (total 5)
+L 09/27/2016 - 10:28:19: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 10:28:19: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 10:28:19: [AMXX]    [0] comp_test4.sma::logCommand (line 1663)
+L 09/27/2016 - 10:28:19: [AMXX]    [1] comp_test4.sma::hookBasicOnChatCommand (line 1161)
+L 09/27/2016 - 10:28:20: String formatted incorrectly - parameter 6 (total 5)
+L 09/27/2016 - 10:28:20: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 10:28:20: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 10:28:20: [AMXX]    [0] comp_test4.sma::logCommand (line 1663)
+L 09/27/2016 - 10:28:20: [AMXX]    [1] comp_test4.sma::hookBasicOnChatCommand (line 1161)
+L 09/27/2016 - 10:30:15: String formatted incorrectly - parameter 6 (total 5)
+L 09/27/2016 - 10:30:15: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 10:30:15: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 10:30:15: [AMXX]    [0] comp_test4.sma::logCommand (line 1663)
+L 09/27/2016 - 10:30:15: [AMXX]    [1] comp_test4.sma::hookBasicOnChatCommand (line 1161)
+L 09/27/2016 - 10:30:15: String formatted incorrectly - parameter 6 (total 5)
+L 09/27/2016 - 10:30:15: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 10:30:15: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 10:30:15: [AMXX]    [0] comp_test4.sma::logCommand (line 1663)
+L 09/27/2016 - 10:30:15: [AMXX]    [1] comp_test4.sma::hookBasicOnChatCommand (line 1161)
+L 09/27/2016 - 10:30:29: String formatted incorrectly - parameter 6 (total 5)
+L 09/27/2016 - 10:30:29: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 10:30:29: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 10:30:29: [AMXX]    [0] comp_test4.sma::logCommand (line 1663)
+L 09/27/2016 - 10:30:29: [AMXX]    [1] comp_test4.sma::hookBasicOnChatCommand (line 1161)
+L 09/27/2016 - 10:30:30: String formatted incorrectly - parameter 6 (total 5)
+L 09/27/2016 - 10:30:30: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 10:30:30: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 10:30:30: [AMXX]    [0] comp_test4.sma::logCommand (line 1663)
+L 09/27/2016 - 10:30:30: [AMXX]    [1] comp_test4.sma::hookBasicOnChatCommand (line 1161)
+L 09/27/2016 - 10:30:51: String formatted incorrectly - parameter 6 (total 5)
+L 09/27/2016 - 10:30:51: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 10:30:51: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 10:30:51: [AMXX]    [0] comp_test4.sma::logCommand (line 1663)
+L 09/27/2016 - 10:30:51: [AMXX]    [1] comp_test4.sma::hookBasicOnChatCommand (line 1161)
+L 09/27/2016 - 10:30:52: String formatted incorrectly - parameter 6 (total 5)
+L 09/27/2016 - 10:30:52: [AMXX] Displaying debug trace (plugin "rom_protect.amxx", version "1.0.4s-dev")
+L 09/27/2016 - 10:30:52: [AMXX] Run time error 25: parameter error 
+L 09/27/2016 - 10:30:52: [AMXX]    [0] comp_test4.sma::logCommand (line 1663)
+L 09/27/2016 - 10:30:52: [AMXX]    [1] comp_test4.sma::hookBasicOnChatCommand (line 1161)

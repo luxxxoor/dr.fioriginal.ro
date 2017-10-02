@@ -1,0 +1,22 @@
+L 03/07/2017 - 03:51:18: Start of error session.
+L 03/07/2017 - 03:51:18: Info (map "deathrun_latexx") (file "addons/amxmodx/logs/error_20170307.log")
+L 03/07/2017 - 03:51:18: [FAKEMETA] Invalid entity
+L 03/07/2017 - 03:51:18: [AMXX] Displaying debug trace (plugin "use_button_once.amxx", version "1.3")
+L 03/07/2017 - 03:51:18: [AMXX] Run time error 10: native error (native "pev")
+L 03/07/2017 - 03:51:18: [AMXX]    [0] use_button_once.sma::get_ent_index (line 225)
+L 03/07/2017 - 03:51:18: [AMXX]    [1] use_button_once.sma::set_start_value (line 212)
+L 03/07/2017 - 03:51:18: [AMXX]    [2] use_button_once.sma::plugin_cfg (line 173)
+L 03/07/2017 - 10:18:48: Start of error session.
+L 03/07/2017 - 10:18:48: Info (map "deathrun_bhopz") (file "addons/amxmodx/logs/error_20170307.log")
+L 03/07/2017 - 10:18:48: Forward-ul nu s-a putut executa.
+L 03/07/2017 - 10:18:48: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 03/07/2017 - 16:41:16: Start of error session.
+L 03/07/2017 - 16:41:16: Info (map "deathrun_mc_nwk") (file "addons/amxmodx/logs/error_20170307.log")
+L 03/07/2017 - 16:41:16: Forward-ul nu s-a putut executa.
+L 03/07/2017 - 16:41:16: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 03/07/2017 - 17:45:15: Start of error session.
+L 03/07/2017 - 17:45:15: Info (map "deathrun_gb_winter_final4") (file "addons/amxmodx/logs/error_20170307.log")
+L 03/07/2017 - 17:45:15: Forward-ul nu s-a putut executa.
+L 03/07/2017 - 17:45:15: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 03/07/2017 - 17:45:15: Forward-ul nu s-a putut executa.
+L 03/07/2017 - 17:45:15: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit

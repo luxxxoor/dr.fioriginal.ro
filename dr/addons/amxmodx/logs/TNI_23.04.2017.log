@@ -1,0 +1,460 @@
+L 04/23/2017 - 00:28:09: Log file started (file "cstrike/addons/amxmodx/logs/TNI_23.04.2017.log") (game "cstrike") (amx "1.8.3-dev+5072")
+L 04/23/2017 - 00:28:09: [TNI Systems] CHATBUG: [ Name: Anne. | IP: ( 82.78.209.25 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 00:28:20: [TNI Systems] CHATBUG: [ Name: Anne. | IP: ( 82.78.209.25 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 00:40:05: [TNI Systems] CHATBUG: [ Name: frank4S | IP: ( 82.76.237.222 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 00:40:09: [TNI Systems] CHATBUG: [ Name: frank4S | IP: ( 82.76.237.222 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 01:03:20: [TNI Systems] CFG FLOOD: Melkrom ( 109.97.71.10 ) a incercat sa dea crash serverului.
+L 04/23/2017 - 01:57:22: [TNI Systems] CFG FLOOD: gogu ( 86.127.7.5 ) a incercat sa dea crash serverului.
+L 04/23/2017 - 04:02:23: [TNI Systems] CHATBUG: [ Name: .XaJI9Ba | IP: ( 103.10.52.83 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 04:02:30: [TNI Systems] CHATBUG: [ Name: .XaJI9Ba | IP: ( 103.10.52.83 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 13:30:49: [TNI Systems] CFG FLOOD: [EX]DANA ( 86.122.142.12 ) a incercat sa dea crash serverului.
+L 04/23/2017 - 13:31:19: [TNI Systems] CFG FLOOD: [EX]DANA ( 86.122.142.12 ) a incercat sa dea crash serverului.
+L 04/23/2017 - 14:20:28: [TNI Systems] CHATBUG: [ Name: [V]andam | IP: ( 217.66.247.8 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 14:20:29: [TNI Systems] CHATBUG: [ Name: [V]andam | IP: ( 217.66.247.8 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 14:20:29: [TNI Systems] CHATBUG: [ Name: [V]andam | IP: ( 217.66.247.8 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 14:20:30: [TNI Systems] CHATBUG: [ Name: [V]andam | IP: ( 217.66.247.8 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 14:20:31: [TNI Systems] CHATBUG: [ Name: [V]andam | IP: ( 217.66.247.8 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 14:20:34: [TNI Systems] CHATBUG: [ Name: [V]andam | IP: ( 217.66.247.8 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 14:20:35: [TNI Systems] CHATBUG: [ Name: [V]andam | IP: ( 217.66.247.8 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 14:20:37: [TNI Systems] CHATBUG: [ Name: [V]andam | IP: ( 217.66.247.8 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 14:20:48: [TNI Systems] CHATBUG: [ Name: [V]andam | IP: ( 217.66.247.8 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 14:20:50: [TNI Systems] CHATBUG: [ Name: [V]andam | IP: ( 217.66.247.8 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 16:28:24: [TNI Systems] CFG FLOOD: FVSSION :[ ( 109.98.164.11 ) a incercat sa dea crash serverului.
+L 04/23/2017 - 17:05:46: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:05:46: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:05:54: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:05:54: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:01: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:01: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:08: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:08: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:15: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:15: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:22: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:22: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:29: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:29: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:36: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:36: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:43: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:43: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:50: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:50: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:57: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:06:57: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:04: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:04: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:11: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:11: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:18: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:18: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:25: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:25: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:32: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:32: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:39: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:39: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:46: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:46: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:53: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:07:53: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:00: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:00: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:07: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:07: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:15: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:15: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:22: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:22: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:29: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:29: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:36: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:36: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:43: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:43: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:50: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:50: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:57: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:08:57: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:04: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:04: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:11: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:11: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:18: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:18: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:25: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:25: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:32: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:32: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:39: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:39: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:46: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:46: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:53: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:09:53: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:00: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:00: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:07: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:07: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:14: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:14: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:22: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:22: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:29: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:29: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:36: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:36: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:43: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:43: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:50: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 17:10:50: [TNI Systems] CHATBUG: [ Name: [WoW CirklE]Grandel | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 18:21:00: [TNI Systems] CFG FLOOD: Scooby1^ @like's that69 ( 109.103.33.20 ) a incercat sa dea crash serverului.
+L 04/23/2017 - 19:00:06: [TNI Systems] CHATBUG: [ Name: KaRaTe | IP: ( 188.173.223.206 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:15: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:15: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:22: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:22: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:30: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:30: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:37: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:37: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:44: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:44: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:51: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:51: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:58: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:28:58: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:05: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:05: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:12: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:12: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:19: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:19: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:26: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:26: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:33: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:33: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:40: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:40: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:47: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:47: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:54: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:29:54: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:01: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:01: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:08: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:08: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:15: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:15: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:22: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:22: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:29: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:29: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:36: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:36: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:43: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:43: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:51: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:51: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:58: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:30:58: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:05: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:05: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:12: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:12: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:19: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:19: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:26: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:26: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:33: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:33: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:40: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:40: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:47: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:47: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:54: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:31:54: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:01: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:01: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:08: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:08: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:15: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:15: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:22: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:22: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:29: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:29: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:36: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:36: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:43: [TNI Systems] CFG FLOOD: POLAR ( 92.82.7.16 ) a incercat sa dea crash serverului.
+L 04/23/2017 - 19:32:43: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:43: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:50: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:50: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:57: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:32:57: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:04: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:04: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:12: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:12: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:19: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:19: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:26: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:26: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:33: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:33: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:40: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:40: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:47: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:47: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:54: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:33:54: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:01: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:01: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:08: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:08: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:15: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:15: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:22: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:22: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:29: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:29: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:36: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:36: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:43: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:43: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:50: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:50: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:57: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:34:57: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:04: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:04: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:11: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:11: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:18: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:18: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:26: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:26: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:33: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:33: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:40: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:40: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:47: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:47: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:54: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:35:54: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:01: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:01: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:08: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:08: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:15: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:15: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:22: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:22: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:29: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:29: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:36: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:36: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:43: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:43: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:50: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:50: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:57: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:36:57: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:04: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:04: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:11: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:11: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:16: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:16: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:18: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:18: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:23: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:23: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:25: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:25: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:30: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:30: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:32: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:32: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:37: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:37: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:39: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:39: [TNI Systems] CHATBUG: [ Name: BocToK^ | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:44: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:44: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:51: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:51: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:58: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:37:58: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:05: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:05: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:12: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:12: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:19: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:19: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:26: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:26: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:33: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:33: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:40: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:40: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:47: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:47: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:54: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:38:54: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:01: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:01: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:08: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:08: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:15: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:15: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:23: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:23: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:30: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:30: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:37: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:37: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:44: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:44: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:51: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:51: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:58: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:39:58: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:05: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:05: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:12: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:12: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:19: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:19: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:26: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:26: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:33: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:33: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:40: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:40: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:47: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:47: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:54: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:40:54: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:01: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:01: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:08: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:08: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:15: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:15: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:22: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:22: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:29: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:29: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:36: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:36: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:41: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:41: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:44: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:44: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:48: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:48: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:51: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:51: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:55: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:55: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:58: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:41:58: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:02: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:02: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:05: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:05: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:09: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:09: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:12: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:12: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:16: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:16: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:19: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:19: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:23: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:23: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:26: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:26: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:30: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:30: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:33: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:33: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:37: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:37: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:40: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:40: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:44: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:44: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:47: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:47: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:51: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:51: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:54: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:54: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:59: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:42:59: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:01: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:01: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:06: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:06: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:08: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:08: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:13: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:13: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:15: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:15: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:20: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:20: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:22: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:22: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:27: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:27: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:29: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:29: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:34: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:34: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:36: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:36: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:41: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:41: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:43: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:43: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:48: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:48: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:50: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:50: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:55: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:55: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:58: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:43:58: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:02: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:02: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:05: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:05: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:09: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:09: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:12: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:12: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:16: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:16: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:19: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:19: [TNI Systems] CHATBUG: [ Name: bkw.CN | ScoTt.cN | IP: ( 76.10.35.236 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:23: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:30: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:37: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:38: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:38: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:38: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:38: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:38: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:39: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:39: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:39: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:44:51: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 19:45:03: [TNI Systems] CHATBUG: [ Name: hamza-chiheb | IP: ( 5.135.166.108 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 20:27:56: [TNI Systems] CFG FLOOD: oNNe ( 109.98.160.208 ) a incercat sa dea crash serverului.
+L 04/23/2017 - 21:33:52: [TNI Systems] CFG FLOOD: BUCATTI ( 79.119.229.208 ) a incercat sa dea crash serverului.
+L 04/23/2017 - 21:48:52: [TNI Systems] CHATBUG: [ Name: DreaM **** | IP: ( 176.74.124.99 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes
+L 04/23/2017 - 23:59:32: [TNI Systems] CHATBUG: [ Name: tiganu | IP: ( 79.117.128.134 ) | SteamID:  ] incearca sa foloseasca chat-ul pentru a da crash la server. Am blocat comanda cu succes

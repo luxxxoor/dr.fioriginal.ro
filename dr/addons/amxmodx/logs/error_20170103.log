@@ -1,0 +1,38 @@
+L 01/03/2017 - 14:42:47: Start of error session.
+L 01/03/2017 - 14:42:47: Info (map "deathrun_pacman_v2") (file "addons/amxmodx/logs/error_20170103.log")
+L 01/03/2017 - 14:42:47: Forward-ul nu s-a putut executa.
+L 01/03/2017 - 14:42:47: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 01/03/2017 - 15:27:01: Start of error session.
+L 01/03/2017 - 15:27:01: Info (map "deathrun_aztecan_beta1") (file "addons/amxmodx/logs/error_20170103.log")
+L 01/03/2017 - 15:27:01: String formatted incorrectly - parameter 2 (total 1)
+L 01/03/2017 - 15:27:01: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 01/03/2017 - 15:27:01: [AMXX] Run time error 25: parameter error 
+L 01/03/2017 - 15:27:01: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 01/03/2017 - 16:15:12: Start of error session.
+L 01/03/2017 - 16:15:12: Info (map "deathrun_fixxor") (file "addons/amxmodx/logs/error_20170103.log")
+L 01/03/2017 - 16:15:12: String formatted incorrectly - parameter 2 (total 1)
+L 01/03/2017 - 16:15:12: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 01/03/2017 - 16:15:12: [AMXX] Run time error 25: parameter error 
+L 01/03/2017 - 16:15:12: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 01/03/2017 - 16:15:20: String formatted incorrectly - parameter 2 (total 1)
+L 01/03/2017 - 16:15:20: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 01/03/2017 - 16:15:20: [AMXX] Run time error 25: parameter error 
+L 01/03/2017 - 16:15:20: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 01/03/2017 - 16:15:29: String formatted incorrectly - parameter 2 (total 1)
+L 01/03/2017 - 16:15:29: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 01/03/2017 - 16:15:29: [AMXX] Run time error 25: parameter error 
+L 01/03/2017 - 16:15:29: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 01/03/2017 - 16:39:50: Start of error session.
+L 01/03/2017 - 16:39:50: Info (map "deathrun_latexx") (file "addons/amxmodx/logs/error_20170103.log")
+L 01/03/2017 - 16:39:50: [FAKEMETA] Invalid entity
+L 01/03/2017 - 16:39:50: [AMXX] Displaying debug trace (plugin "use_button_once.amxx", version "1.3")
+L 01/03/2017 - 16:39:50: [AMXX] Run time error 10: native error (native "pev")
+L 01/03/2017 - 16:39:50: [AMXX]    [0] use_button_once.sma::get_ent_index (line 225)
+L 01/03/2017 - 16:39:50: [AMXX]    [1] use_button_once.sma::set_start_value (line 212)
+L 01/03/2017 - 16:39:50: [AMXX]    [2] use_button_once.sma::plugin_cfg (line 173)
+L 01/03/2017 - 19:07:42: Start of error session.
+L 01/03/2017 - 19:07:42: Info (map "deathrun_evilhouse") (file "addons/amxmodx/logs/error_20170103.log")
+L 01/03/2017 - 19:07:42: String formatted incorrectly - parameter 2 (total 1)
+L 01/03/2017 - 19:07:42: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 01/03/2017 - 19:07:42: [AMXX] Run time error 25: parameter error 
+L 01/03/2017 - 19:07:42: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)

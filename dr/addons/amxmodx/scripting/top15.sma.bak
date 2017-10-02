@@ -1,0 +1,294 @@
+#include < amxmodx >
+#include < csx >
+ 
+#define IP_SERVER_LICENTIAT "84.247.54.76"
+ 
+#pragma semicolon 1
+ 
+#define INT_MAX_PLAYERS_MENU 360
+#define INT_MAX_PLAYERS 32
+ 
+enum {
+   INT_STATS_KILLS = 0
+};
+ 
+new g_iMessageSayText;
+ 
+public plugin_init( ) {
+   register_plugin( "STATS Evil", "1.1", "n0talaMa" );
+ 
+   new IP_LICENTIAT[20];
+      get_user_ip(0, IP_LICENTIAT, 21, 1);
+ 
+      if(!equal(IP_LICENTIAT, IP_SERVER_LICENTIAT))
+      {
+            server_print("IP-ul serverului nu este licentiat iar pluginul nu poate rula pe acesta!");
+            pause("a");
+      }
+      else
+      {
+            server_print("IP-ul serverului este licentiat!Pluginul ruleaza!");
+      }
+ 
+   register_clcmd( "say", "CLIENT_COMMAND_HOOK" );
+   register_clcmd( "say_team", "CLIENT_COMMAND_HOOK" );
+   
+   set_task( 60.0 * 5.0, "FUNC_PRINT_CHAT", 235267, _, _, "b" );
+   
+   g_iMessageSayText = get_user_msgid( "SayText" );
+}
+ 
+public CLIENT_COMMAND_HOOK( INT_PLAYER ) {
+   static STRING_ARGUMENT[ 11 ];
+   read_argv( 1, STRING_ARGUMENT, charsmax( STRING_ARGUMENT ) );
+   
+   // TOP
+   if( equali( STRING_ARGUMENT, "top", 3 ) || equali( STRING_ARGUMENT, "/top", 4 ) ) {
+      new HANDLE_MENU = menu_create( "Top", "FUNC_MENU_HANDLER" );
+      new STRING_STATS[ 8 ], STRING_BODY[ 8 ], STRING_NAME[ 32 ], STRING_TEMP[ 128 ], STRING_TEMP_NUM[ 4 ], INT_VARIABLE, STATSNUM = get_statsnum( );
+     
+      if( STATSNUM < INT_MAX_PLAYERS_MENU )
+         INT_VARIABLE = STATSNUM;
+     
+      else
+         INT_VARIABLE = INT_MAX_PLAYERS_MENU;
+     
+      for( new INT_VARIABLE2 = 0; INT_VARIABLE2 < INT_VARIABLE; INT_VARIABLE2++ ) {
+         get_stats( INT_VARIABLE2, STRING_STATS, STRING_BODY, STRING_NAME, charsmax( STRING_NAME ) );
+         
+         num_to_str( INT_VARIABLE2 + 1, STRING_TEMP_NUM, charsmax( STRING_TEMP_NUM ) );
+         
+         format( STRING_TEMP, charsmax( STRING_TEMP ), "\y%s \wKills: \r%i", STRING_NAME,  \
+            STRING_STATS[ INT_STATS_KILLS ] );
+         
+         menu_additem( HANDLE_MENU, STRING_TEMP, STRING_TEMP_NUM, 0 );
+      }
+     
+      menu_setprop( HANDLE_MENU, MPROP_EXITNAME, "Exit" );
+      menu_setprop( HANDLE_MENU, MPROP_NEXTNAME, "Next" );
+      menu_setprop( HANDLE_MENU, MPROP_BACKNAME, "Back" );
+     
+      menu_display( INT_PLAYER, HANDLE_MENU, 0 );
+     
+      client_cmd( INT_PLAYER, "spk buttons/button9" );
+   }
+   
+   // RANK
+   if( equali( STRING_ARGUMENT, "rank" ) || equali( STRING_ARGUMENT, "/rank" ) ) {
+      new INT_RANK_POS, STRING_STATS[ 8 ], STRING_BODY[ 8 ], STRING_NAME[ 32 ];
+      INT_RANK_POS = get_user_stats( INT_PLAYER, STRING_STATS, STRING_BODY );
+      get_user_name( INT_PLAYER, STRING_NAME, charsmax( STRING_NAME ) );
+     
+      ColorChat( 0, "^x01Player^x03 %s^x01 rank is^x04 %i^x01/^x04%i^x01 with^x03 %i^x01 frags", STRING_NAME, \
+         INT_RANK_POS, get_statsnum( ), STRING_STATS[ INT_STATS_KILLS ] );
+     
+      client_cmd( INT_PLAYER, "spk buttons/button9" );
+   }
+   
+   // STATSME
+   if( equali( STRING_ARGUMENT, "statsme" ) || equali( STRING_ARGUMENT, "/statsme" ) ) {
+      new INT_RANK_POS, STRING_STATS[ 8 ], STRING_BODY[ 8 ], STRING_TEMP[ 128 ], STRING_STATS2[ 4 ];
+      INT_RANK_POS = get_user_stats( INT_PLAYER, STRING_STATS, STRING_BODY );
+      get_user_stats2( INT_PLAYER, STRING_STATS2 );
+     
+      new HANDLE_MENU = menu_create( "Rank", "FUNC_MENU_HANDLER" );
+     
+      format( STRING_TEMP, charsmax( STRING_TEMP ), "\wRank: \r%i", INT_RANK_POS );
+      menu_additem( HANDLE_MENU, STRING_TEMP, "1", 0 );
+     
+      format( STRING_TEMP, charsmax( STRING_TEMP ), "\wKills: \r%i", STRING_STATS[ INT_STATS_KILLS ] );
+      menu_additem( HANDLE_MENU, STRING_TEMP, "2", 0 );
+     
+      menu_additem( HANDLE_MENU, STRING_TEMP, "12", 0 );
+     
+      menu_setprop( HANDLE_MENU, MPROP_EXITNAME, "Exit" );
+      menu_setprop( HANDLE_MENU, MPROP_NEXTNAME, "Next" );
+      menu_setprop( HANDLE_MENU, MPROP_BACKNAME, "Back" );
+     
+      menu_display( INT_PLAYER, HANDLE_MENU, 0 );
+     
+      client_cmd( INT_PLAYER, "spk buttons/button9" );
+   }
+   
+   // STATS
+   if( equali( STRING_ARGUMENT, "stats" ) || equali( STRING_ARGUMENT, "/stats" ) ) {
+      new STRING_NAME[ 32 ], STRING_TEMP_NUM[ 4 ];
+      new HANDLE_MENU = menu_create( "Choose the player", "FUNC_MENU_STATS_HANDLER" );
+     
+      for( new id = 1; id <= INT_MAX_PLAYERS; id++ ) {
+         if( is_user_connected( id ) ) {
+            get_user_name( id, STRING_NAME, charsmax( STRING_NAME ) );
+           
+            num_to_str( id, STRING_TEMP_NUM, charsmax( STRING_TEMP_NUM ) );
+           
+            menu_additem( HANDLE_MENU, STRING_NAME, STRING_TEMP_NUM, 0 );
+         }
+      }
+     
+      menu_setprop( HANDLE_MENU, MPROP_EXITNAME, "Exit" );
+      menu_setprop( HANDLE_MENU, MPROP_NEXTNAME, "Next" );
+      menu_setprop( HANDLE_MENU, MPROP_BACKNAME, "Back" );
+     
+      menu_display( INT_PLAYER, HANDLE_MENU, 0 );
+     
+      client_cmd( INT_PLAYER, "spk buttons/button9" );
+   }
+   
+   // DAMAGE
+   if( equali( STRING_ARGUMENT, "damage" ) || equali( STRING_ARGUMENT, "/damage" ) || equali( STRING_ARGUMENT, "/dmg" ) || equali( STRING_ARGUMENT, "dmg" ) ) {
+      new HANDLE_MENU = menu_create( "Damage Top", "FUNC_MENU_HANDLER" );
+      new STRING_STATS[ 8 ], STRING_BODY[ 8 ], STRING_NAME[ 32 ], STRING_TEMP[ 128 ], STRING_TEMP_NUM[ 4 ], INT_VARIABLE, STATSNUM = get_statsnum( );
+     
+      if( STATSNUM < INT_MAX_PLAYERS_MENU )
+         INT_VARIABLE = STATSNUM;
+     
+      else
+         INT_VARIABLE = INT_MAX_PLAYERS_MENU;
+     
+      for( new INT_VARIABLE2 = 0; INT_VARIABLE2 < INT_VARIABLE; INT_VARIABLE2++ ) {
+         get_stats( INT_VARIABLE2, STRING_STATS, STRING_BODY, STRING_NAME, charsmax( STRING_NAME ) );
+         
+         num_to_str( INT_VARIABLE2 + 1, STRING_TEMP_NUM, charsmax( STRING_TEMP_NUM ) );
+         
+         menu_additem( HANDLE_MENU, STRING_TEMP, STRING_TEMP_NUM, 0 );
+      }
+     
+      menu_setprop( HANDLE_MENU, MPROP_EXITNAME, "Exit" );
+      menu_setprop( HANDLE_MENU, MPROP_NEXTNAME, "Next" );
+      menu_setprop( HANDLE_MENU, MPROP_BACKNAME, "Back" );
+     
+      menu_display( INT_PLAYER, HANDLE_MENU, 0 );
+     
+      client_cmd( INT_PLAYER, "spk buttons/button9" );
+   }
+   
+   // HEADSHOTS
+   if( equali( STRING_ARGUMENT, "headshots" ) || equali( STRING_ARGUMENT, "/headshots" ) || equali( STRING_ARGUMENT, "/hs" ) ) {
+      new HANDLE_MENU = menu_create( "Headshots Top", "FUNC_MENU_HANDLER" );
+      new STRING_STATS[ 8 ], STRING_BODY[ 8 ], STRING_NAME[ 32 ], STRING_TEMP[ 128 ], STRING_TEMP_NUM[ 4 ], INT_VARIABLE, STATSNUM = get_statsnum( );
+     
+      if( STATSNUM < INT_MAX_PLAYERS_MENU )
+         INT_VARIABLE = STATSNUM;
+     
+      else
+         INT_VARIABLE = INT_MAX_PLAYERS_MENU;
+     
+      for( new INT_VARIABLE2 = 0; INT_VARIABLE2 < INT_VARIABLE; INT_VARIABLE2++ ) {
+         get_stats( INT_VARIABLE2, STRING_STATS, STRING_BODY, STRING_NAME, charsmax( STRING_NAME ) );
+         
+         num_to_str( INT_VARIABLE2 + 1, STRING_TEMP_NUM, charsmax( STRING_TEMP_NUM ) );
+         
+         menu_additem( HANDLE_MENU, STRING_TEMP, STRING_TEMP_NUM, 0 );
+      }
+     
+      menu_setprop( HANDLE_MENU, MPROP_EXITNAME, "Exit" );
+      menu_setprop( HANDLE_MENU, MPROP_NEXTNAME, "Next" );
+      menu_setprop( HANDLE_MENU, MPROP_BACKNAME, "Back" );
+     
+      menu_display( INT_PLAYER, HANDLE_MENU, 0 );
+     
+      client_cmd( INT_PLAYER, "spk buttons/button9" );
+   }
+   
+   // EFFECT
+   if( equali( STRING_ARGUMENT, "effect" ) || equali( STRING_ARGUMENT, "/effect" ) ) {
+      new HANDLE_MENU = menu_create( "Effects Top", "FUNC_MENU_HANDLER" );
+      new STRING_STATS[ 8 ], STRING_BODY[ 8 ], STRING_NAME[ 32 ], STRING_TEMP[ 128 ], STRING_TEMP_NUM[ 4 ], INT_VARIABLE, STATSNUM = get_statsnum( );
+     
+      if( STATSNUM < INT_MAX_PLAYERS_MENU )
+         INT_VARIABLE = STATSNUM;
+     
+      else
+         INT_VARIABLE = INT_MAX_PLAYERS_MENU;
+     
+      for( new INT_VARIABLE2 = 0; INT_VARIABLE2 < INT_VARIABLE; INT_VARIABLE2++ ) {
+         get_stats( INT_VARIABLE2, STRING_STATS, STRING_BODY, STRING_NAME, charsmax( STRING_NAME ) );
+         
+         num_to_str( INT_VARIABLE2 + 1, STRING_TEMP_NUM, charsmax( STRING_TEMP_NUM ) );
+         
+         format( STRING_TEMP, charsmax( STRING_TEMP ), "\y%s \wRank: \r%i ", STRING_NAME, INT_VARIABLE2 + 1 );
+         
+         menu_additem( HANDLE_MENU, STRING_TEMP, STRING_TEMP_NUM, 0 );
+      }
+     
+      menu_setprop( HANDLE_MENU, MPROP_EXITNAME, "Exit" );
+      menu_setprop( HANDLE_MENU, MPROP_NEXTNAME, "Next" );
+      menu_setprop( HANDLE_MENU, MPROP_BACKNAME, "Back" );
+     
+      menu_display( INT_PLAYER, HANDLE_MENU, 0 );
+     
+      client_cmd( INT_PLAYER, "spk buttons/button9" );
+   }
+}
+ 
+public FUNC_MENU_HANDLER( INT_PLAYER, INT_MENU, INT_ITEM )
+   return PLUGIN_HANDLED;
+ 
+public FUNC_MENU_STATS_HANDLER( INT_PLAYER, INT_MENU, INT_ITEM ) {
+   new STRING_COMMAND[ 6 ], STRING_NAME[ 64 ], INT_ACCESS, INT_CALLBACK, INT_VICTIM;
+   menu_item_getinfo( INT_MENU, INT_ITEM, INT_ACCESS, STRING_COMMAND, charsmax( STRING_COMMAND ), STRING_NAME, charsmax( STRING_NAME ), INT_CALLBACK );
+   INT_VICTIM = get_user_index( STRING_NAME );
+   
+   if( is_user_connected( INT_VICTIM ) )
+      FUNC_STATS_ME( INT_PLAYER, INT_VICTIM );
+   
+   else {
+      ColorChat( INT_PLAYER, "^x01The player you choosed is disconnected!" );
+      return PLUGIN_HANDLED;
+   }
+   
+   return PLUGIN_HANDLED;
+}
+ 
+public FUNC_STATS_ME( INT_PLAYER, VICTIM ) {
+   new INT_RANK_POS, STRING_STATS[ 8 ], STRING_BODY[ 8 ], STRING_TEMP[ 128 ], STRING_STATS2[ 4 ], STRING_NAME[ 32 ];
+   INT_RANK_POS = get_user_stats( VICTIM, STRING_STATS, STRING_BODY );
+   get_user_stats2( VICTIM, STRING_STATS2 );
+   get_user_name( VICTIM, STRING_NAME, charsmax( STRING_NAME ) );
+   
+   new HANDLE_MENU = menu_create( "Rank", "FUNC_MENU_HANDLER" );
+   
+   format( STRING_TEMP, charsmax( STRING_TEMP ), "\wUser: \r%s", STRING_NAME );
+   menu_additem( HANDLE_MENU, STRING_TEMP, "1", 0 );
+   
+   format( STRING_TEMP, charsmax( STRING_TEMP ), "\wRank: \r%i", INT_RANK_POS );
+   menu_additem( HANDLE_MENU, STRING_TEMP, "2", 0 );
+   
+   format( STRING_TEMP, charsmax( STRING_TEMP ), "\wKills: \r%i", STRING_STATS[ INT_STATS_KILLS ] );
+   menu_additem( HANDLE_MENU, STRING_TEMP, "3", 0 );
+   
+   menu_setprop( HANDLE_MENU, MPROP_EXITNAME, "Exit" );
+   menu_setprop( HANDLE_MENU, MPROP_NEXTNAME, "Next" );
+   menu_setprop( HANDLE_MENU, MPROP_BACKNAME, "Back" );
+   
+   menu_display( INT_PLAYER, HANDLE_MENU, 0 );
+   
+   client_cmd( INT_PLAYER, "spk buttons/button9" );
+}
+ 
+public FUNC_PRINT_CHAT( )
+   ColorChat( 0, "^x04[TEST]^x01 Comenzi disponibile:^x03 top^x01,^x03 rank^x01,^x03 stats^x01,^x03 statsme^x01,^x03 damage^x01,^x03 effect^x01,^x03 headshots" );
+ 
+ColorChat( iTarget, szMessage[ ], any: ... ) {
+   static szBuffer[ 189 ];
+   vformat( szBuffer, 188, szMessage, 3 );
+   
+   if( iTarget ) {
+      message_begin( MSG_ONE_UNRELIABLE, g_iMessageSayText, _, iTarget );
+      write_byte( iTarget );
+      write_string( szBuffer );
+      message_end( );
+   } else {
+      static iPlayers[ 32 ], iNum, i, iPlayer;
+      get_players( iPlayers, iNum, "c" );
+     
+      for( i = 0; i < iNum; i++ ) {
+         iPlayer = iPlayers[ i ];
+         
+         message_begin( MSG_ONE_UNRELIABLE, g_iMessageSayText, _, iPlayer );
+         write_byte( iPlayer );
+         write_string( szBuffer );
+         message_end( );
+      }
+   }
+}

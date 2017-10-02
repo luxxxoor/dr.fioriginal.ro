@@ -1,0 +1,21 @@
+L 02/10/2017 - 01:25:13: Start of error session.
+L 02/10/2017 - 01:25:13: Info (map "deathrun_army_blue_beta1") (file "addons/amxmodx/logs/error_20170210.log")
+L 02/10/2017 - 01:25:13: [AMXX] Plugin ("advanced_bans_sql.amxx") is setting itself as failed.
+L 02/10/2017 - 01:25:13: [AMXX] Plugin says: Could not connect to database.
+L 02/10/2017 - 01:25:13: [AMXX] Displaying debug trace (plugin "advanced_bans_sql.amxx", version "0.8.1")
+L 02/10/2017 - 01:25:13: [AMXX] Run time error 1: forced exit 
+L 02/10/2017 - 01:25:13: [AMXX]    [0] advanced_bans_sql.sma::QueryLoadBans (line 694)
+L 02/10/2017 - 03:54:03: Start of error session.
+L 02/10/2017 - 03:54:03: Info (map "deathrun_bhopz_v2") (file "addons/amxmodx/logs/error_20170210.log")
+L 02/10/2017 - 03:54:03: Forward-ul nu s-a putut executa.
+L 02/10/2017 - 03:54:03: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 02/10/2017 - 03:54:03: Forward-ul nu s-a putut executa.
+L 02/10/2017 - 03:54:03: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 02/10/2017 - 13:23:38: Start of error session.
+L 02/10/2017 - 13:23:38: Info (map "deathrun_neon") (file "addons/amxmodx/logs/error_20170210.log")
+L 02/10/2017 - 13:23:38: Forward-ul nu s-a putut executa.
+L 02/10/2017 - 13:23:38: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 02/10/2017 - 17:16:36: Start of error session.
+L 02/10/2017 - 17:16:36: Info (map "deathrun_sk_occult") (file "addons/amxmodx/logs/error_20170210.log")
+L 02/10/2017 - 17:16:36: Forward-ul nu s-a putut executa.
+L 02/10/2017 - 17:16:36: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit

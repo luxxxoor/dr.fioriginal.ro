@@ -1,0 +1,1211 @@
+L 10/16/2016 - 00:01:48: [admin.amxx] Login: "N3sQu1K<399><VALVE_0:4:2056543090><>" kicked due to invalid password (account "N3sQu1K") (address "92.84.116.92")
+L 10/16/2016 - 00:01:53: [admin.amxx] Login: "N3sQu1K<400><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 00:01:59: [admin.amxx] Login: "N3sQu1K<401><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 00:04:25: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 00:04:25: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 00:04:26: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 00:05:27: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Imperfect<403><STEAM_0:0:1147440331><>"
+L 10/16/2016 - 00:08:06: [admin.amxx] Login: "Sol<402><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "86.123.236.238")
+L 10/16/2016 - 00:08:08: [admin.amxx] Login: "Sol<406><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "86.123.236.238")
+L 10/16/2016 - 00:08:12: [adminchat.amxx] Chat: "wKn<383><STEAM_0:1:39271980><>" chat "dai si tu temple"
+L 10/16/2016 - 00:08:58: [mapsmenu.amxx] Vote: "Sol<406><STEAM_0:0:154268340><>" vote maps (map#1 "deathrun_clarion_dojo_b3") (map#2 "deathrun_perfect") (map#3 "") (map#4 "")
+L 10/16/2016 - 00:09:10: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_clarion_dojo_b3
+L 10/16/2016 - 00:12:09: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 10/16/2016 - 00:12:11: [admin.amxx] Login: "Sol<406><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "86.123.236.238")
+L 10/16/2016 - 00:12:11: [admin.amxx] Login: "wKn<383><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 00:12:11: [admin.amxx] Login: "N3sQu1K<401><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 00:12:11: [admin.amxx] Login: "ZALE<387><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 00:12:20: [admin.amxx] Login: "Nevrozatu<412><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 00:18:11: [admincmd.amxx] Cmd: "Sol<406><STEAM_0:0:154268340><>" slay "wKn<383><STEAM_0:1:39271980><>"
+L 10/16/2016 - 00:22:26: [admin.amxx] Login: "Sol<416><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "86.123.236.238")
+L 10/16/2016 - 00:22:42: [telemenu.amxx] Cmd: "Sol<416><STEAM_0:0:154268340><>" teleport "ZALE<387><STEAM_0:0:246117789><>"
+L 10/16/2016 - 00:26:25: [adminchat.amxx] Chat: "Sol<416><STEAM_0:0:154268340><>" psay "N3sQu1K<401><VALVE_0:4:2056543090><>" "si dev off"
+L 10/16/2016 - 00:33:20: [mapsmenu.amxx] Vote: "Sol<416><STEAM_0:0:154268340><>" vote maps (map#1 "deathrun_bhopz_v2") (map#2 "deathrun_temple") (map#3 "") (map#4 "")
+L 10/16/2016 - 00:33:32: [mapsmenu.amxx] Vote: Voting failed
+L 10/16/2016 - 00:44:43: -------- Mapchange to deathrun_standup2 --------
+L 10/16/2016 - 00:44:46: [admin.amxx] Login: "ZALE<387><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 00:44:54: [admin.amxx] Login: "Nevrozatu<422><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 00:48:35: [admin.amxx] Login: "wKn<423><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 00:48:39: [admin.amxx] Login: "wKn<424><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 01:13:47: -------- Mapchange to deathrun_xstrafers --------
+L 10/16/2016 - 01:13:49: [admin.amxx] Login: "wKn<424><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 01:13:49: [admin.amxx] Login: "ZALE<387><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 01:13:58: [admin.amxx] Login: "Nevrozatu<427><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 01:26:21: [admin.amxx] Login: "DoZe<430><STEAM_0:0:1518108911><>" became an admin (account "DoZe") (access "b") (address "188.25.248.138")
+L 10/16/2016 - 01:39:33: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:39:36: -------- Mapchange to deathrun_holiday --------
+L 10/16/2016 - 01:39:38: [admin.amxx] Login: "wKn<424><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 01:39:39: [admin.amxx] Login: "ZALE<387><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 01:39:47: [admin.amxx] Login: "wKn<434><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 01:39:48: [admin.amxx] Login: "Nevrozatu<437><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 01:39:48: [admin.amxx] Login: "ZALE<438><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 01:40:22: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:40:32: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:40:57: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:43:12: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:44:07: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:45:42: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:48:22: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:49:17: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:49:52: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:50:32: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:51:02: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:51:37: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:52:12: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:52:52: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:53:22: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:53:57: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:54:27: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:55:07: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:55:42: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:56:22: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:56:52: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:57:32: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:58:02: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:58:42: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:59:12: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 01:59:52: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:00:22: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:01:02: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:01:37: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:02:12: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:02:42: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:03:22: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:03:52: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:04:27: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:04:57: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:05:37: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:05:40: -------- Mapchange to deathrun_purplez --------
+L 10/16/2016 - 02:05:42: [admin.amxx] Login: "ZALE<438><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 02:05:42: [admin.amxx] Login: "wKn<434><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 02:05:51: [admin.amxx] Login: "wKn<442><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 02:05:52: [admin.amxx] Login: "Nevrozatu<445><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 02:06:16: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:06:51: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:07:16: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:07:51: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:08:26: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:26:04: [admin.amxx] Login: "Krayzie<448><STEAM_0:0:2082974642><>" became an admin (account "Krayzie") (access "bit") (address "92.83.127.94")
+L 10/16/2016 - 02:31:43: [admin.amxx] Login: "Player<449><STEAM_0:0:404018182><>" became an admin (account "Player") (access "b") (address "5.178.87.52")
+L 10/16/2016 - 02:43:56: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:44:31: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 02:57:24: -------- Mapchange to deathrun_cityhotel_v2 --------
+L 10/16/2016 - 02:57:27: [admin.amxx] Login: "ZALE<438><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 02:57:35: [admin.amxx] Login: "Nevrozatu<456><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 02:59:55: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:01:15: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:04:00: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:06:45: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:08:40: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:11:10: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:12:20: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:28:22: -------- Mapchange to deathrun_abtropicano2 --------
+L 10/16/2016 - 03:28:24: [admin.amxx] Login: "ZALE<438><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 03:28:33: [admin.amxx] Login: "Nevrozatu<463><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 03:30:58: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:33:08: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:34:08: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:35:16: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:36:21: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:38:36: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:40:21: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:43:21: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 03:43:52: -------- Mapchange to deathrun_insider --------
+L 10/16/2016 - 03:43:54: [admin.amxx] Login: "ZALE<438><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 03:43:57: [admin.amxx] Login: "ZALE<470><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 03:44:03: [admin.amxx] Login: "Nevrozatu<473><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 03:54:37: -------- Mapchange to deathrun_abstract --------
+L 10/16/2016 - 03:54:39: [admin.amxx] Login: "ZALE<470><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 03:54:43: [admin.amxx] Login: "ZALE<474><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 03:54:48: [admin.amxx] Login: "Nevrozatu<477><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 03:55:41: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Blake<478><STEAM_0:1:31123329><>"
+L 10/16/2016 - 03:59:58: -------- Mapchange to deathrun_shit_v2 --------
+L 10/16/2016 - 04:00:00: [admin.amxx] Login: "ZALE<474><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 04:00:09: [admin.amxx] Login: "Nevrozatu<483><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 04:00:34: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 04:01:09: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 04:02:48: [admin.amxx] Login: "fursec<484><STEAM_0:0:144457027><>" became an admin (account "fursec") (access "b") (address "85.186.123.130")
+L 10/16/2016 - 04:03:09: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 04:03:49: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 04:05:34: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 04:06:39: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 04:07:39: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 04:11:04: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 04:35:01: [admin.amxx] Login: "Player<485><STEAM_0:0:404018182><>" became an admin (account "Player") (access "b") (address "5.178.87.52")
+L 10/16/2016 - 04:36:41: -------- Mapchange to deathrun_green_h2_final --------
+L 10/16/2016 - 04:36:43: [admin.amxx] Login: "ZALE<474><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 04:36:52: [admin.amxx] Login: "Nevrozatu<490><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 04:36:53: [admin.amxx] Login: "ZALE<491><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 05:02:03: -------- Mapchange to deathrun_abstract --------
+L 10/16/2016 - 05:02:05: [admin.amxx] Login: "ZALE<491><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 05:02:15: [admin.amxx] Login: "Nevrozatu<494><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 05:48:52: -------- Mapchange to deathrun_coolf2 --------
+L 10/16/2016 - 05:48:53: [admin.amxx] Login: "ZALE<491><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 05:48:56: [admin.amxx] Login: "ZALE<499><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 05:49:03: [admin.amxx] Login: "Nevrozatu<502><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 05:49:33: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 05:50:26: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Sharko<503><STEAM_0:0:12859875><>"
+L 10/16/2016 - 05:50:28: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 06:50:01: -------- Mapchange to deathrun_coolf_3 --------
+L 10/16/2016 - 06:50:03: [admin.amxx] Login: "ZALE<499><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 06:50:12: [admin.amxx] Login: "Nevrozatu<510><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 06:50:37: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 08:20:14: [admin.amxx] Login: "cool<512><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 08:20:33: -------- Mapchange to deathrun_air_final --------
+L 10/16/2016 - 08:20:34: [admin.amxx] Login: "cool<512><VALVE_0:4:1243477598><>" kicked due to invalid password (account "cool") (address "5.14.103.61")
+L 10/16/2016 - 08:20:34: [admin.amxx] Login: "ZALE<499><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 08:20:44: [admin.amxx] Login: "Nevrozatu<515><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 08:20:47: [admin.amxx] Login: "cool<516><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 08:29:23: [admin.amxx] Login: "cool<517><VALVE_0:4:1243477598><>" kicked due to invalid password (account "cool") (address "5.14.103.61")
+L 10/16/2016 - 08:29:32: [admin.amxx] Login: "cool<518><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 08:33:18: [admin.amxx] Login: "Eduard.<519><STEAM_0:0:1771070235><>" became an admin (account "Eduard.") (access "b") (address "86.126.188.158")
+L 10/16/2016 - 08:33:21: [admin.amxx] Login: "Eduard.<520><STEAM_0:0:1771070235><>" became an admin (account "Eduard.") (access "b") (address "86.126.188.158")
+L 10/16/2016 - 08:36:26: [admin.amxx] Login: "Player<521><STEAM_0:0:359557776><>" became an admin (account "Player") (access "b") (address "183.88.141.139")
+L 10/16/2016 - 08:53:38: [admin.amxx] Login: "D3LuX<525><STEAM_0:0:266937061><>" kicked due to invalid password (account "D3LuX") (address "188.173.223.206")
+L 10/16/2016 - 08:53:49: [admin.amxx] Login: "D3LuX<526><STEAM_0:0:266937061><>" became an admin (account "D3LuX") (access "b") (address "188.173.223.206")
+L 10/16/2016 - 08:53:53: [admin.amxx] Login: "D3LuX<527><STEAM_0:0:266937061><>" became an admin (account "D3LuX") (access "b") (address "188.173.223.206")
+L 10/16/2016 - 08:56:04: -------- Mapchange to deathrun_cliff --------
+L 10/16/2016 - 08:56:06: [admin.amxx] Login: "D3LuX<527><STEAM_0:0:266937061><>" became an admin (account "D3LuX") (access "b") (address "188.173.223.206")
+L 10/16/2016 - 08:56:06: [admin.amxx] Login: "ZALE<499><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 08:56:08: [admin.amxx] Login: "D3LuX<528><STEAM_0:0:266937061><>" became an admin (account "D3LuX") (access "b") (address "188.173.223.206")
+L 10/16/2016 - 08:56:10: [admin.amxx] Login: "ZALE<529><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 08:56:16: [admin.amxx] Login: "Nevrozatu<532><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 09:21:09: [admin.amxx] Login: "cool<539><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 09:35:52: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Beast.#|Thaxe<542><VALVE_0:4:31306608><>"
+L 10/16/2016 - 09:44:01: [admin.amxx] Login: "Eva<543><STEAM_0:0:215413516><>" became an admin (account "Eva") (access "b") (address "92.80.114.132")
+L 10/16/2016 - 09:44:04: [admin.amxx] Login: "Eva<544><STEAM_0:0:215413516><>" became an admin (account "Eva") (access "b") (address "92.80.114.132")
+L 10/16/2016 - 09:48:50: [admin.amxx] Login: "Eva<545><STEAM_0:0:215413516><>" became an admin (account "Eva") (access "b") (address "92.80.114.132")
+L 10/16/2016 - 09:48:51: [admin.amxx] Login: "flawless.<546><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 09:48:53: [admin.amxx] Login: "flawless.<547><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 10:03:06: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 10/16/2016 - 10:03:08: [admin.amxx] Login: "flawless.<547><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 10:03:08: [admin.amxx] Login: "ZALE<529><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 10:03:17: [admin.amxx] Login: "Nevrozatu<552><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 10:03:31: [admin.amxx] Login: "AnFuNnY<553><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 10:09:20: [admin.amxx] Login: "Eva<555><STEAM_0:0:215413516><>" became an admin (account "Eva") (access "b") (address "92.80.125.88")
+L 10/16/2016 - 10:18:29: [admin.amxx] Login: "AnFuNnY<558><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 10:18:31: [admin.amxx] Login: "AnFuNnY<559><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 10:25:06: [admin.amxx] Login: "AnFuNnY<561><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 10:25:47: [admin.amxx] Login: "Sol<562><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "79.118.28.17")
+L 10/16/2016 - 10:27:29: [mapsmenu.amxx] Vote: "Sol<562><STEAM_0:0:154268340><>" vote maps (map#1 "deathrun_bhopz_v2") (map#2 "deathrun_perfect") (map#3 "") (map#4 "")
+L 10/16/2016 - 10:27:41: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_perfect
+L 10/16/2016 - 10:28:42: -------- Mapchange to deathrun_perfect --------
+L 10/16/2016 - 10:28:44: [admin.amxx] Login: "flawless.<547><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 10:28:44: [admin.amxx] Login: "Sol<562><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "79.118.28.17")
+L 10/16/2016 - 10:28:44: [admin.amxx] Login: "ZALE<529><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 10:28:44: [admin.amxx] Login: "AnFuNnY<561><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 10:28:45: [admin.amxx] Login: "flawless.<564><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 10:28:48: [admin.amxx] Login: "ZALE<566><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 10:28:53: [admin.amxx] Login: "AnFuNnY<567><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 10:28:53: [admin.amxx] Login: "Nevrozatu<570><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 10:37:00: [admincmd.amxx] Cmd: "Sol<562><STEAM_0:0:154268340><>" slay "flawless.<564><VALVE_0:4:1230210422><>"
+L 10/16/2016 - 10:42:40: [admin.amxx] Login: "OreD<575><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 10:42:41: [admin.amxx] Login: "OreD<576><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 10:48:00: [admin.amxx] Login: "Player<579><STEAM_0:0:404018182><>" became an admin (account "Player") (access "b") (address "5.178.87.52")
+L 10/16/2016 - 10:53:50: [admin.amxx] Login: "LoV3<582><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 10/16/2016 - 10:54:15: [mapsmenu.amxx] Vote: "OreD<576><VALVE_0:4:1015346910><>" vote maps (map#1 "deathrun_skyzzar") (map#2 "deathrun_sentinel_mini") (map#3 "") (map#4 "")
+L 10/16/2016 - 10:54:27: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_skyzzar
+L 10/16/2016 - 10:56:42: -------- Mapchange to deathrun_skyzzar --------
+L 10/16/2016 - 10:56:44: [admin.amxx] Login: "OreD<576><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 10:56:44: [admin.amxx] Login: "flawless.<564><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 10:56:44: [admin.amxx] Login: "LoV3<582><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 10/16/2016 - 10:56:44: [admin.amxx] Login: "ZALE<566><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 10:56:51: [admin.amxx] Login: "LoV3<584><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 10/16/2016 - 10:56:53: [admin.amxx] Login: "Nevrozatu<588><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 10:57:03: [admin.amxx] Login: "AnFuNnY<589><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 10:57:18: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 10:57:22: [admin.amxx] Login: "cool<590><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 10:57:48: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 10:57:53: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 10:58:53: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 10:58:53: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 10:59:24: [admin.amxx] Login: "anca<591><STEAM_0:0:58514266><>" became an admin (account "anca") (access "b") (address "92.81.42.31")
+L 10/16/2016 - 10:59:26: [admin.amxx] Login: "anca<592><STEAM_0:0:58514266><>" became an admin (account "anca") (access "b") (address "92.81.42.31")
+L 10/16/2016 - 11:00:35: [telemenu.amxx] Cmd: "LoV3<584><STEAM_0:0:137776089><>" teleport "cool<590><VALVE_0:4:1243477598><>"
+L 10/16/2016 - 11:00:35: [telemenu.amxx] Cmd: "LoV3<584><STEAM_0:0:137776089><>" teleport "cool<590><VALVE_0:4:1243477598><>"
+L 10/16/2016 - 11:01:18: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:01:18: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:01:49: [admin.amxx] Login: "wKn<593><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 11:02:03: [adminchat.amxx] Chat: "OreD<576><VALVE_0:4:1015346910><>" chat "vi pe ts?"
+L 10/16/2016 - 11:02:48: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:02:48: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:05:06: [admin.amxx] Login: "AnFuNnY<595><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 11:06:03: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:07:37: [admincmd.amxx] Cmd: "LoV3<584><STEAM_0:0:137776089><>" slay "Russian-Cheaters.com | Player<597><STEAM_0:0:2091607776><>"
+L 10/16/2016 - 11:07:48: [telemenu.amxx] Cmd: "LoV3<584><STEAM_0:0:137776089><>" teleport "wKn<593><STEAM_0:1:39271980><>"
+L 10/16/2016 - 11:07:49: [telemenu.amxx] Cmd: "LoV3<584><STEAM_0:0:137776089><>" teleport "wKn<593><STEAM_0:1:39271980><>"
+L 10/16/2016 - 11:08:33: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:08:33: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:09:23: [slayafk.amxx] DragoNN^^007 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:10:13: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:10:13: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:11:38: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:11:43: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:11:43: [slayafk.amxx] anca a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:13:23: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:13:23: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:14:48: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:14:48: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:14:48: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:16:13: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:16:13: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:16:43: [slayafk.amxx] anca a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:17:33: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:17:33: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:19:03: [adminchat.amxx] Chat: "LoV3<584><STEAM_0:0:137776089><>" chat "Mape."
+L 10/16/2016 - 11:19:13: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:19:13: [slayafk.amxx] daffyduckz- a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:19:13: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:19:39: [mapsmenu.amxx] Vote: "LoV3<584><STEAM_0:0:137776089><>" vote maps (map#1 "deathrun_bhopz_v2") (map#2 "deathrun_nature2") (map#3 "") (map#4 "")
+L 10/16/2016 - 11:19:51: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_bhopz_v2
+L 10/16/2016 - 11:20:58: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:20:58: [slayafk.amxx] anca a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:20:58: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:20:58: [slayafk.amxx] daffyduckz- a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:22:03: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:22:08: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:22:08: [slayafk.amxx] anca a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:22:08: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:22:08: [slayafk.amxx] daffyduckz- a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:23:34: -------- Mapchange to deathrun_bhopz_v2 --------
+L 10/16/2016 - 11:23:36: [admin.amxx] Login: "flawless.<564><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 11:23:36: [admin.amxx] Login: "cool<590><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 11:23:36: [admin.amxx] Login: "anca<592><STEAM_0:0:58514266><>" became an admin (account "anca") (access "b") (address "92.81.42.31")
+L 10/16/2016 - 11:23:36: [admin.amxx] Login: "ZALE<566><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 11:23:36: [admin.amxx] Login: "LoV3<584><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 10/16/2016 - 11:23:36: [admin.amxx] Login: "wKn<593><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 11:23:38: [admin.amxx] Login: "anca<610><STEAM_0:0:58514266><>" became an admin (account "anca") (access "b") (address "92.81.42.31")
+L 10/16/2016 - 11:23:45: [admin.amxx] Login: "Nevrozatu<613><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 11:24:35: [admincmd.amxx] Cmd: "LoV3<584><STEAM_0:0:137776089><>" slay counter-terrorists team
+L 10/16/2016 - 11:26:44: [admin.amxx] Login: "AnFuNnY<616><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 11:27:06: [admin.amxx] Login: "AnFuNnY<617><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 11:31:20: [admin.amxx] Login: "AnFuNnY<618><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 11:35:55: [slayafk.amxx] cool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:38:17: [admin.amxx] Login: "Eduard.<629><STEAM_0:0:1771070235><>" became an admin (account "Eduard.") (access "b") (address "86.126.188.158")
+L 10/16/2016 - 11:40:03: [admin.amxx] Login: "kaka<630><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "b") (address "94.53.102.210")
+L 10/16/2016 - 11:44:14: [mapsmenu.amxx] Vote: "anca<610><STEAM_0:0:58514266><>" vote maps (map#1 "deathrun_pacman") (map#2 "deathrun_dojo") (map#3 "") (map#4 "")
+L 10/16/2016 - 11:44:26: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_pacman
+L 10/16/2016 - 11:48:20: [slayafk.amxx] [*Pro Expert*]Derrick Rose a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:49:51: -------- Mapchange to deathrun_pacman --------
+L 10/16/2016 - 11:49:53: [admin.amxx] Login: "anca<610><STEAM_0:0:58514266><>" became an admin (account "anca") (access "b") (address "92.81.42.31")
+L 10/16/2016 - 11:49:53: [admin.amxx] Login: "cool<590><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 11:49:53: [admin.amxx] Login: "flawless.<564><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 11:49:53: [admin.amxx] Login: "wKn<593><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 11:49:53: [admin.amxx] Login: "kaka<630><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "b") (address "94.53.102.210")
+L 10/16/2016 - 11:49:53: [admin.amxx] Login: "ZALE<566><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 11:49:54: [admin.amxx] Login: "flawless.<641><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 11:49:55: [admin.amxx] Login: "anca<642><STEAM_0:0:58514266><>" became an admin (account "anca") (access "b") (address "92.81.42.31")
+L 10/16/2016 - 11:50:02: [admin.amxx] Login: "Nevrozatu<646><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 11:50:32: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:51:02: [slayafk.amxx] [*Pro Expert*]Derrick Rose a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:51:07: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:51:52: [slayafk.amxx] cool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:52:27: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:52:27: [slayafk.amxx] cool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:53:17: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:53:17: [slayafk.amxx] cool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:56:42: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:56:42: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:57:15: [admin.amxx] Login: "N3sQu1K<657><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 11:57:22: [admin.amxx] Login: "N3sQu1K<659><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 11:57:25: [admin.amxx] Login: "Eduard.<660><STEAM_0:0:1771070235><>" became an admin (account "Eduard.") (access "b") (address "86.126.188.158")
+L 10/16/2016 - 11:57:28: [admin.amxx] Login: "Eduard.<661><STEAM_0:0:1771070235><>" became an admin (account "Eduard.") (access "b") (address "86.126.188.158")
+L 10/16/2016 - 11:57:47: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:57:47: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 11:59:37: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:02:42: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:05:12: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:05:52: [slayafk.amxx] DaN a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:07:47: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:08:03: [admin.amxx] Login: "AnFuNnY<669><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 12:08:30: [admin.amxx] Login: "Eduard.<671><STEAM_0:0:1771070235><>" became an admin (account "Eduard.") (access "b") (address "86.126.188.158")
+L 10/16/2016 - 12:08:34: [admin.amxx] Login: "AnFuNnY<672><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 12:09:02: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:09:02: [slayafk.amxx] Suc a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:11:24: [admin.amxx] Login: "wKn /aDDicted/<593><STEAM_0:1:39271980><>" became an admin (account "wKn /aDDicted/") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 12:11:57: [slayafk.amxx] Suc a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:12:13: [mapsmenu.amxx] Vote: "wKn /aDDicted/<593><STEAM_0:1:39271980><>" vote maps (map#1 "deathrun_clarion_dojo_b3") (map#2 "deathrun_expres-game") (map#3 "") (map#4 "")
+L 10/16/2016 - 12:12:25: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_clarion_dojo_b3
+L 10/16/2016 - 12:13:12: [mapsmenu.amxx] Vote: "wKn /aDDicted/<593><STEAM_0:1:39271980><>" vote maps (map#1 "deathrun_supra") (map#2 "deathrun_expres-game") (map#3 "") (map#4 "")
+L 10/16/2016 - 12:13:24: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_expres-game
+L 10/16/2016 - 12:13:32: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:13:59: [admin.amxx] Login: "wKn<675><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 12:15:14: -------- Mapchange to deathrun_expres-game --------
+L 10/16/2016 - 12:15:16: [admin.amxx] Login: "flawless.<641><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 12:15:16: [admin.amxx] Login: "wKn<675><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 12:15:16: [admin.amxx] Login: "Eduard.<671><STEAM_0:0:1771070235><>" became an admin (account "Eduard.") (access "b") (address "86.126.188.158")
+L 10/16/2016 - 12:15:16: [admin.amxx] Login: "kaka<630><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "b") (address "94.53.102.210")
+L 10/16/2016 - 12:15:16: [admin.amxx] Login: "N3sQu1K<659><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 12:15:16: [admin.amxx] Login: "ZALE<566><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 12:15:18: [admin.amxx] Login: "flawless.<678><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 12:15:25: [admin.amxx] Login: "N3sQu1K<680><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 12:15:26: [admin.amxx] Login: "Nevrozatu<683><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 12:16:00: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:16:35: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:17:20: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:17:20: [slayafk.amxx] alcapone a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:18:55: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:18:55: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:18:55: [slayafk.amxx] alcapone a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:21:53: [admin.amxx] Login: "dRaGoNeLy^ ;x<689><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 12:22:30: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:22:30: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:22:30: [slayafk.amxx] alcapone a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:24:24: [admincmd.amxx] Cmd: "dRaGoNeLy^ ;x<689><STEAM_0:0:1727172594><>" ask for players list
+L 10/16/2016 - 12:25:35: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:25:35: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:26:20: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:30:24: [admin.amxx] Login: "wKn<700><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 12:30:50: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:30:55: [slayafk.amxx] kaka a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:31:05: [slayafk.amxx] YoNuTTz a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:31:05: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:31:39: [admin.amxx] Login: "AnFuNnY<705><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 12:35:11: [admin.amxx] Login: "dRaGoNeLy^ ;x<711><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 12:35:18: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dRaGoNeLy^ ;x<711><STEAM_0:0:1727172594><>"
+L 10/16/2016 - 12:35:35: [slayafk.amxx] wKn a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:35:40: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:35:40: [slayafk.amxx] Nyku a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:35:40: [slayafk.amxx] AnFuNnY a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:37:37: [admin.amxx] Login: "wKn /aDDicted/<712><STEAM_0:1:39271980><>" became an admin (account "wKn /aDDicted/") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 12:37:43: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "wKn /aDDicted/<712><STEAM_0:1:39271980><>"
+L 10/16/2016 - 12:38:50: [mapsmenu.amxx] Vote: "wKn /aDDicted/<712><STEAM_0:1:39271980><>" vote maps (map#1 "deathrun_laikiux_dev") (map#2 "deathrun_crash_future") (map#3 "") (map#4 "")
+L 10/16/2016 - 12:39:02: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_laikiux_dev
+L 10/16/2016 - 12:39:52: [admin.amxx] Login: "wKn<715><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 12:40:52: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Papa<716><STEAM_0:0:483296478><>"
+L 10/16/2016 - 12:41:13: -------- Mapchange to deathrun_laikiux_dev --------
+L 10/16/2016 - 12:41:15: [admin.amxx] Login: "flawless.<678><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 12:41:15: [admin.amxx] Login: "wKn<715><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 12:41:15: [admin.amxx] Login: "N3sQu1K<680><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 12:41:15: [admin.amxx] Login: "ZALE<566><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 12:41:15: [admin.amxx] Login: "AnFuNnY<705><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 12:41:16: [admin.amxx] Login: "flawless.<717><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 12:41:17: [admin.amxx] Login: "dRaGoNeLy^ ;x<718><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 12:41:24: [admin.amxx] Login: "Nevrozatu<722><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 12:42:54: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 12:44:25: [admin.amxx] Login: "OreD<729><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 12:46:29: [admin.amxx] Login: "cool<730><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 12:52:08: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Imperfect<731><STEAM_0:0:1147440331><>"
+L 10/16/2016 - 12:53:45: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Imperfect<732><STEAM_0:0:1147440331><>"
+L 10/16/2016 - 12:59:09: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 12:59:09: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 12:59:09: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 12:59:11: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 13:02:45: [mapsmenu.amxx] Vote: "OreD<729><VALVE_0:4:1015346910><>" vote maps (map#1 "deathrun_sentinel_mini") (map#2 "deathrun_supra") (map#3 "") (map#4 "")
+L 10/16/2016 - 13:02:57: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_supra
+L 10/16/2016 - 13:04:09: [admin.amxx] Login: "AnFuNnY<738><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 13:04:12: [admin.amxx] Login: "AnFuNnY<739><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 13:04:32: [admin.amxx] Login: "AnFuNnY<740><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 13:07:29: -------- Mapchange to deathrun_supra --------
+L 10/16/2016 - 13:07:31: [admin.amxx] Login: "OreD<729><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 13:07:31: [admin.amxx] Login: "flawless.<717><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 13:07:31: [admin.amxx] Login: "cool<730><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 13:07:31: [admin.amxx] Login: "wKn<715><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 13:07:31: [admin.amxx] Login: "N3sQu1K<680><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 13:07:31: [admin.amxx] Login: "AnFuNnY<740><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 13:07:31: [admin.amxx] Login: "ZALE<566><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 13:07:35: [admin.amxx] Login: "N3sQu1K<745><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 13:07:40: [admin.amxx] Login: "Nevrozatu<748><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 13:15:19: [admin.amxx] Login: "Andrei**<753><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 13:15:29: [admin.amxx] Login: "<Warrior> Player<755><STEAM_0:0:1894257477><>" became an admin (account "<Warrior> Player") (access "b") (address "89.121.160.57")
+L 10/16/2016 - 13:15:42: [admin.amxx] Login: "<Warrior> Player<756><STEAM_0:0:1894257477><>" became an admin (account "<Warrior> Player") (access "b") (address "89.121.160.57")
+L 10/16/2016 - 13:19:50: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "LynxBest<764><STEAM_0:0:506412><>"
+L 10/16/2016 - 13:20:20: [slayafk.amxx] Andrei** a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 13:21:53: [admin.amxx] Login: "PiXlR<767><STEAM_0:0:130242566><>" became an admin (account "PiXlR") (access "b") (address "85.186.122.184")
+L 10/16/2016 - 13:21:57: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "LynxBest<766><STEAM_0:0:506412145><>"
+L 10/16/2016 - 13:22:54: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "LynxBest<769><VALVE_0:4:277672054><>"
+L 10/16/2016 - 13:26:00: [slayafk.amxx] LynxBest a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 13:26:16: [admin.amxx] Login: "<Warrior> Player<771><STEAM_0:0:2064996098><>" became an admin (account "<Warrior> Player") (access "b") (address "47.11.231.204")
+L 10/16/2016 - 13:26:42: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "asd<772><STEAM_0:0:246117789><>"
+L 10/16/2016 - 13:27:01: [admin.amxx] Login: "ZALE<773><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 13:27:05: [admin.amxx] Login: "ZALE<774><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 13:33:54: [admin.amxx] Login: "Mario.<778><STEAM_0:0:1771070235><>" kicked due to invalid password (account "Mario.") (address "86.126.188.158")
+L 10/16/2016 - 13:35:01: [admin.amxx] Login: "parry<779><VALVE_0:4:1993205877><>" kicked due to invalid password (account "parry") (address "83.50.199.68")
+L 10/16/2016 - 13:35:01: -------- Mapchange to deathrun_snow_wind --------
+L 10/16/2016 - 13:35:03: [admin.amxx] Login: "flawless.<717><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 13:35:03: [admin.amxx] Login: "N3sQu1K<745><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 13:35:03: [admin.amxx] Login: "ZALE<774><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 13:35:03: [admin.amxx] Login: "Andrei**<753><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 13:35:04: [admin.amxx] Login: "Andrei**<780><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 13:35:06: [admin.amxx] Login: "ZALE<782><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 13:35:07: [admin.amxx] Login: "parry<783><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 13:35:10: [admin.amxx] Login: "N3sQu1K<784><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 13:35:13: [admin.amxx] Login: "Nevrozatu<787><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 13:35:21: [admin.amxx] Login: "parry<788><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 13:40:03: [admin.amxx] Login: "Trag3DSIMoriHD<792><STEAM_0:0:1690349417><>" became an admin (account "Trag3DSIMoriHD") (access "b") (address "46.102.94.185")
+L 10/16/2016 - 13:40:11: [admin.amxx] Login: "Trag3DSIMoriHD<793><STEAM_0:0:1690349417><>" became an admin (account "Trag3DSIMoriHD") (access "b") (address "46.102.94.185")
+L 10/16/2016 - 13:42:11: [admin.amxx] Login: "cool<794><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 13:42:12: [admin.amxx] Login: "cool<795><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 13:45:21: [admin.amxx] Login: "flawless.<797><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 13:46:56: [admin.amxx] Login: "wKn<800><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 13:47:01: [admin.amxx] Login: "wKn<801><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 13:48:09: [admin.amxx] Login: "flawless.<802><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 13:48:52: [admin.amxx] Login: "OreD<804><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 13:49:45: [admin.amxx] Login: "-Eq- George<805><STEAM_0:1:182939447><>" became an admin (account "-Eq- George") (access "b") (address "89.47.245.6")
+L 10/16/2016 - 13:49:48: [admin.amxx] Login: "-Eq- George<806><STEAM_0:1:182939447><>" became an admin (account "-Eq- George") (access "b") (address "89.47.245.6")
+L 10/16/2016 - 13:55:31: [admin.amxx] Login: "flawless.<812><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 13:55:33: [admin.amxx] Login: "flawless.<813><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 13:55:40: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "flawless.<813><VALVE_0:4:1230210422><>"
+L 10/16/2016 - 13:55:42: [admincmd.amxx] Cmd: "parry<788><VALVE_0:4:1993205877><>" ask for players list
+L 10/16/2016 - 13:56:25: [admin.amxx] Login: "Sh0o7eR<818><VALVE_0:4:356669810><>" became an admin (account "Sh0o7eR") (access "b") (address "92.80.216.131")
+L 10/16/2016 - 13:56:32: [admin.amxx] Login: "Sh0o7eR<819><VALVE_0:4:356669810><>" became an admin (account "Sh0o7eR") (access "b") (address "92.80.216.131")
+L 10/16/2016 - 13:57:23: [admin.amxx] Login: "dRaGoNeLy^ ;x<820><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 13:57:24: [admin.amxx] Login: "dRaGoNeLy^ ;x<821><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 13:57:40: [admin.amxx] Login: "dRaGoNeLy^ ;x<824><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 13:57:42: [admin.amxx] Login: "dRaGoNeLy^ ;x<826><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 13:57:43: [admin.amxx] Login: "kaka<827><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "b") (address "94.53.102.210")
+L 10/16/2016 - 13:58:24: [admin.amxx] Login: "dRaGoNeLy^ ;x<828><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 13:58:26: [admin.amxx] Login: "dRaGoNeLy^ ;x<829><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 14:01:51: -------- Mapchange to deathrun_helvis --------
+L 10/16/2016 - 14:01:53: [admin.amxx] Login: "cool<795><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 14:01:53: [admin.amxx] Login: "flawless.<813><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:01:53: [admin.amxx] Login: "wKn<801><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 14:01:53: [admin.amxx] Login: "-Eq- George<806><STEAM_0:1:182939447><>" became an admin (account "-Eq- George") (access "b") (address "89.47.245.6")
+L 10/16/2016 - 14:01:53: [admin.amxx] Login: "N3sQu1K<784><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 14:01:53: [admin.amxx] Login: "ZALE<782><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 14:01:53: [admin.amxx] Login: "Sh0o7eR<819><VALVE_0:4:356669810><>" became an admin (account "Sh0o7eR") (access "b") (address "92.80.216.131")
+L 10/16/2016 - 14:01:53: [admin.amxx] Login: "Trag3DSIMoriHD<793><STEAM_0:0:1690349417><>" became an admin (account "Trag3DSIMoriHD") (access "b") (address "46.102.94.185")
+L 10/16/2016 - 14:01:53: [admin.amxx] Login: "kaka<827><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "b") (address "94.53.102.210")
+L 10/16/2016 - 14:01:53: [admin.amxx] Login: "ZALE<833><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 14:01:54: [admin.amxx] Login: "dRaGoNeLy^ ;x<834><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 14:01:54: [admin.amxx] Login: "flawless.<835><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:01:55: [admin.amxx] Login: "Trag3DSIMoriHD<838><STEAM_0:0:1690349417><>" became an admin (account "Trag3DSIMoriHD") (access "b") (address "46.102.94.185")
+L 10/16/2016 - 14:01:55: [admin.amxx] Login: "-Eq- George<839><STEAM_0:1:182939447><>" became an admin (account "-Eq- George") (access "b") (address "89.47.245.6")
+L 10/16/2016 - 14:01:56: [admin.amxx] Login: "wKn<840><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 14:01:56: [admin.amxx] Login: "N3sQu1K<841><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 14:01:56: [admin.amxx] Login: "ZALE<842><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 14:02:03: [admin.amxx] Login: "Nevrozatu<845><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 14:02:03: [admin.amxx] Login: "kaka<846><VALVE_0:4:1033726963><>" became an admin (account "kaka") (access "b") (address "94.53.102.210")
+L 10/16/2016 - 14:02:27: [adminchat.amxx] Chat: "ZALE<842><STEAM_0:0:167602025><>" chat " salut"
+L 10/16/2016 - 14:03:00: [admin.amxx] Login: "Andrei**<847><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 14:03:01: [admin.amxx] Login: "Andrei**<848><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 14:03:04: [admin.amxx] Login: "flawless.<849><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:03:05: [admin.amxx] Login: "flawless.<850><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:04:57: [slayafk.amxx] cool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 14:06:21: [admin.amxx] Login: "NVIDIA E6 Player<851><VALVE_0:4:1180582267><>" became an admin (account "NVIDIA E6 Player") (access "b") (address "78.96.224.37")
+L 10/16/2016 - 14:06:23: [admin.amxx] Login: "NVIDIA E6 Player<852><VALVE_0:4:1180582267><>" became an admin (account "NVIDIA E6 Player") (access "b") (address "78.96.224.37")
+L 10/16/2016 - 14:10:49: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 14:10:49: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 14:10:49: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 14:13:03: [admin.amxx] Login: "OreD<857><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 14:13:05: [admin.amxx] Login: "OreD<858><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 14:13:35: [admin.amxx] Login: "parry<859><STEAM_0:0:1815854034><>" kicked due to invalid password (account "parry") (address "83.50.199.68")
+L 10/16/2016 - 14:13:41: [admin.amxx] Login: "parry<860><STEAM_0:0:1815854034><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 14:13:51: [admin.amxx] Login: "parry<861><STEAM_0:0:1815854034><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 14:14:12: [admin.amxx] Login: "vOci<862><STEAM_0:1:120471225><>" became an admin (account "vOci") (access "b") (address "188.24.224.179")
+L 10/16/2016 - 14:14:54: [admin.amxx] Login: "LoV3<864><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 10/16/2016 - 14:16:20: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 14:20:01: [admin.amxx] Login: "parry<868><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 14:20:05: [admin.amxx] Login: "parry<869><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 14:22:54: [admin.amxx] Login: "Eva<872><STEAM_0:0:215413516><>" became an admin (account "Eva") (access "b") (address "92.80.107.154")
+L 10/16/2016 - 14:23:03: [mapsmenu.amxx] Vote: "vOci<862><STEAM_0:1:120471225><>" vote maps (map#1 "deathrun_3sixty_fg_fix3") (map#2 "deathrun_clarion_dojo_b3") (map#3 "") (map#4 "")
+L 10/16/2016 - 14:23:15: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_3sixty_fg_fix3
+L 10/16/2016 - 14:28:28: -------- Mapchange to deathrun_3sixty_fg_fix3 --------
+L 10/16/2016 - 14:28:30: [admin.amxx] Login: "flawless.<850><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:28:30: [admin.amxx] Login: "vOci<862><STEAM_0:1:120471225><>" became an admin (account "vOci") (access "b") (address "188.24.224.179")
+L 10/16/2016 - 14:28:30: [admin.amxx] Login: "OreD<858><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 14:28:30: [admin.amxx] Login: "cool<795><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 14:28:30: [admin.amxx] Login: "wKn<840><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 14:28:30: [admin.amxx] Login: "-Eq- George<839><STEAM_0:1:182939447><>" became an admin (account "-Eq- George") (access "b") (address "89.47.245.6")
+L 10/16/2016 - 14:28:30: [admin.amxx] Login: "parry<869><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 14:28:30: [admin.amxx] Login: "ZALE<842><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 14:28:31: [admin.amxx] Login: "OreD<875><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 14:28:32: [admin.amxx] Login: "flawless.<876><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:28:33: [admin.amxx] Login: "-Eq- George<877><STEAM_0:1:182939447><>" became an admin (account "-Eq- George") (access "b") (address "89.47.245.6")
+L 10/16/2016 - 14:28:38: [admin.amxx] Login: "ZALE<879><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 14:28:40: [admin.amxx] Login: "Nevrozatu<883><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 14:28:40: [admin.amxx] Login: "parry<880><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 14:28:51: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Nyku<885><VALVE_0:4:2125614198><>"
+L 10/16/2016 - 14:28:53: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "CostiKZEW<886><STEAM_0:0:1432858364><>"
+L 10/16/2016 - 14:30:21: [admin.amxx] Login: "Andrei**<888><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 14:36:12: [admin.amxx] Login: "Player<891><STEAM_0:0:404018182><>" became an admin (account "Player") (access "b") (address "5.178.87.52")
+L 10/16/2016 - 14:44:26: [admin.amxx] Login: "flawless.<893><STEAM_0:0:781029040><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:44:28: [admin.amxx] Login: "flawless.<894><STEAM_0:0:781029040><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:47:43: [admin.amxx] Login: "NVIDIA E6 Player<895><VALVE_0:4:1180582267><>" became an admin (account "NVIDIA E6 Player") (access "b") (address "78.96.224.37")
+L 10/16/2016 - 14:47:50: [admin.amxx] Login: "NVIDIA E6 Player<896><VALVE_0:4:1180582267><>" became an admin (account "NVIDIA E6 Player") (access "b") (address "78.96.224.37")
+L 10/16/2016 - 14:50:40: [admin.amxx] Login: "wKn /aDDicted/<900><STEAM_0:1:39271980><>" became an admin (account "wKn /aDDicted/") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 14:51:55: [mapsmenu.amxx] Vote: "wKn /aDDicted/<900><STEAM_0:1:39271980><>" vote maps (map#1 "deathrun_crash_future") (map#2 "deathrun_christmas") (map#3 "") (map#4 "")
+L 10/16/2016 - 14:52:07: [admin.amxx] Login: "flawless.<901><STEAM_0:0:781029040><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:52:07: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_crash_future
+L 10/16/2016 - 14:52:18: [admin.amxx] Login: "wKn<900><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 14:54:54: [admin.amxx] Login: "flawless.<902><STEAM_0:0:781029040><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:54:56: [admin.amxx] Login: "flawless.<903><STEAM_0:0:781029040><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:55:22: [admin.amxx] Login: "SM-Player<904><STEAM_0:0:850201500><>" became an admin (account "SM-Player") (access "b") (address "93.118.89.157")
+L 10/16/2016 - 14:55:24: [admin.amxx] Login: "SM-Player<905><STEAM_0:0:850201500><>" became an admin (account "SM-Player") (access "b") (address "93.118.89.157")
+L 10/16/2016 - 14:55:25: [admin.amxx] Login: "flawless.<906><STEAM_0:0:781029040><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:55:31: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "flawless.<906><STEAM_0:0:781029040><>"
+L 10/16/2016 - 14:55:40: [admin.amxx] Login: "flawless.<907><STEAM_0:0:781029040><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:55:46: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "flawless.<907><STEAM_0:0:781029040><>"
+L 10/16/2016 - 14:56:16: -------- Mapchange to deathrun_crash_future --------
+L 10/16/2016 - 14:56:18: [admin.amxx] Login: "cool<795><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 14:56:18: [admin.amxx] Login: "flawless.<907><STEAM_0:0:781029040><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:56:18: [admin.amxx] Login: "SM-Player<905><STEAM_0:0:850201500><>" became an admin (account "SM-Player") (access "b") (address "93.118.89.157")
+L 10/16/2016 - 14:56:18: [admin.amxx] Login: "Andrei**<888><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 14:56:18: [admin.amxx] Login: "parry<880><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 14:56:18: [admin.amxx] Login: "ZALE<879><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 14:56:25: [admin.amxx] Login: "flawless.<909><STEAM_0:0:781029040><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 14:56:27: [admin.amxx] Login: "Nevrozatu<912><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 14:56:35: [admin.amxx] Login: "parry<915><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 14:56:38: [admin.amxx] Login: "SM-Player<916><STEAM_0:0:850201500><>" became an admin (account "SM-Player") (access "b") (address "93.118.89.157")
+L 10/16/2016 - 14:56:49: [admin.amxx] Login: "ZALE<917><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 14:58:00: [admin.amxx] Login: "SM-Player<921><STEAM_0:0:850201500><>" became an admin (account "SM-Player") (access "b") (address "93.118.89.157")
+L 10/16/2016 - 14:58:12: [admin.amxx] Login: "Bobitza<922><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 14:58:18: [admin.amxx] Login: "Bobitza<923><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 15:01:38: [admincmd.amxx] Cmd: "parry<915><VALVE_0:4:1993205877><>" ask for players list
+L 10/16/2016 - 15:03:55: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Imperfect<926><STEAM_0:0:1147440331><>"
+L 10/16/2016 - 15:05:06: [admin.amxx] Login: "cool<927><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 15:05:13: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "cool<927><VALVE_0:4:1243477598><>"
+L 10/16/2016 - 15:06:52: [admin.amxx] Login: "flawless.<931><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 15:06:57: [admin.amxx] Login: "flawless.<933><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 15:07:11: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 15:07:11: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 15:07:11: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 15:07:14: [admin.amxx] Login: "-rTg|maEsTrOo<935><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.254")
+L 10/16/2016 - 15:07:43: [admin.amxx] Login: "anca<936><STEAM_0:0:58514266><>" became an admin (account "anca") (access "b") (address "92.81.42.31")
+L 10/16/2016 - 15:07:46: [admin.amxx] Login: "kolo1<920><VALVE_0:4:1837226226><>" became an admin (account "kolo1") (access "b") (address "92.83.95.114")
+L 10/16/2016 - 15:07:48: [admin.amxx] Login: "anca<937><STEAM_0:0:58514266><>" became an admin (account "anca") (access "b") (address "92.81.42.31")
+L 10/16/2016 - 15:08:12: [admin.amxx] Login: "-rTg|maEsTrOo<938><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.254")
+L 10/16/2016 - 15:08:31: [admin.amxx] Login: "flawless.<939><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 15:08:37: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "flawless.<939><VALVE_0:4:1230210422><>"
+L 10/16/2016 - 15:08:57: [admin.amxx] Login: "flawless.<940><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 15:09:47: [admincmd.amxx] Cmd: "parry<915><VALVE_0:4:1993205877><>" ask for players list
+L 10/16/2016 - 15:11:30: [admincmd.amxx] Cmd: "parry<915><VALVE_0:4:1993205877><>" ask for players list
+L 10/16/2016 - 15:13:21: [admin.amxx] Login: "dRaGoNeLy^ ;x<941><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 15:13:28: [admin.amxx] Login: "dRaGoNeLy^ ;x<942><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 15:16:04: [admincmd.amxx] Cmd: "parry<915><VALVE_0:4:1993205877><>" ask for players list
+L 10/16/2016 - 15:16:31: [admin.amxx] Login: "ZALE<944><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 15:19:11: [mapsmenu.amxx] Vote: "-rTg|maEsTrOo<938><STEAM_0:1:154430568><>" vote maps (map#1 "deathrun_sentinel_mini") (map#2 "deathrun_skyzzar") (map#3 "") (map#4 "")
+L 10/16/2016 - 15:19:24: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_skyzzar
+L 10/16/2016 - 15:21:56: -------- Mapchange to deathrun_skyzzar --------
+L 10/16/2016 - 15:21:57: [admin.amxx] Login: "anca<937><STEAM_0:0:58514266><>" became an admin (account "anca") (access "b") (address "92.81.42.31")
+L 10/16/2016 - 15:21:57: [admin.amxx] Login: "-rTg|maEsTrOo<938><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.254")
+L 10/16/2016 - 15:21:57: [admin.amxx] Login: "kolo1<920><VALVE_0:4:1837226226><>" became an admin (account "kolo1") (access "b") (address "92.83.95.114")
+L 10/16/2016 - 15:21:57: [admin.amxx] Login: "flawless.<940><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 15:21:57: [admin.amxx] Login: "parry<915><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 15:21:57: [admin.amxx] Login: "ZALE<944><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 15:22:04: [admin.amxx] Login: "parry<947><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 15:22:07: [admin.amxx] Login: "Nevrozatu<950><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 15:22:15: [admin.amxx] Login: "Sh0o7eR<952><VALVE_0:4:356669810><>" became an admin (account "Sh0o7eR") (access "b") (address "92.80.216.131")
+L 10/16/2016 - 15:23:52: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:24:07: [admin.amxx] Login: "Mario.<954><STEAM_0:0:1771070235><>" kicked due to invalid password (account "Mario.") (address "86.126.188.158")
+L 10/16/2016 - 15:24:26: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:24:27: [admin.amxx] Login: "Eduard.<957><STEAM_0:0:1771070235><>" became an admin (account "Eduard.") (access "b") (address "86.126.188.158")
+L 10/16/2016 - 15:24:52: [telemenu.amxx] Cmd: "-rTg|maEsTrOo<938><STEAM_0:1:154430568><>" teleport "kolo1<920><VALVE_0:4:1837226226><>"
+L 10/16/2016 - 15:25:11: [admin.amxx] Login: "OreD<962><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 15:25:12: [admin.amxx] Login: "OreD<963><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 15:25:31: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:27:34: [admin.amxx] Login: "AnFuNnY<966><VALVE_0:4:176511858><>" became an admin (account "AnFuNnY") (access "b") (address "92.84.86.188")
+L 10/16/2016 - 15:27:41: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:29:11: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:30:26: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:30:31: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:32:01: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:32:01: [slayafk.amxx] Eduard. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:32:11: [admin.amxx] Login: "Eduard.<967><STEAM_0:0:1771070235><>" became an admin (account "Eduard.") (access "b") (address "86.126.188.158")
+L 10/16/2016 - 15:33:41: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:33:46: [admincmd.amxx] Cmd: "AnFuNnY<966><VALVE_0:4:176511858><>" ask for players list
+L 10/16/2016 - 15:36:12: [slayafk.amxx] anca a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:38:32: [slayafk.amxx] anca a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:38:32: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:38:32: [slayafk.amxx] Sh0o7eR a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:40:07: [slayafk.amxx] anca a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:40:07: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:40:07: [slayafk.amxx] Sh0o7eR a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:41:02: [slayafk.amxx] anca a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:41:06: [admin.amxx] Login: "FAKE ^^<970><STEAM_0:0:1769978248><>" became an admin (account "FAKE ^^") (access "b") (address "95.77.137.193")
+L 10/16/2016 - 15:42:32: [admin.amxx] Login: "wKn<971><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 15:43:42: [slayafk.amxx] anca a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:43:58: [mapsmenu.amxx] Vote: "FAKE ^^<970><STEAM_0:0:1769978248><>" vote maps (map#1 "deathrun_sentinel_mini") (map#2 "deathrun_antic") (map#3 "") (map#4 "")
+L 10/16/2016 - 15:44:10: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_sentinel_mini
+L 10/16/2016 - 15:44:18: [admin.amxx] Login: "cool<972><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 15:45:26: [telemenu.amxx] Cmd: "-rTg|maEsTrOo<938><STEAM_0:1:154430568><>" teleport "wKn<971><STEAM_0:1:39271980><>"
+L 10/16/2016 - 15:46:07: [slayafk.amxx] anca a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 15:47:34: -------- Mapchange to deathrun_sentinel_mini --------
+L 10/16/2016 - 15:47:36: [admin.amxx] Login: "-rTg|maEsTrOo<938><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.254")
+L 10/16/2016 - 15:47:36: [admin.amxx] Login: "cool<972><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 15:47:36: [admin.amxx] Login: "flawless.<940><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 15:47:36: [admin.amxx] Login: "OreD<963><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 15:47:36: [admin.amxx] Login: "wKn<971><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 15:47:36: [admin.amxx] Login: "anca<937><STEAM_0:0:58514266><>" became an admin (account "anca") (access "b") (address "92.81.42.31")
+L 10/16/2016 - 15:47:36: [admin.amxx] Login: "ZALE<944><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 15:47:36: [admin.amxx] Login: "parry<947><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 15:47:37: [admin.amxx] Login: "OreD<978><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 15:47:43: [admin.amxx] Login: "parry<979><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 15:47:45: [admin.amxx] Login: "Nevrozatu<982><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 15:49:13: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Commandeer #3sixty<989><VALVE_0:4:1230210422><>"
+L 10/16/2016 - 15:49:14: [admin.amxx] Login: "flawless.<989><VALVE_0:4:1230210422><>" kicked due to invalid password (account "flawless.") (address "84.232.251.59")
+L 10/16/2016 - 15:49:21: [admin.amxx] Login: "flawless.<990><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 15:49:27: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "flawless.<990><VALVE_0:4:1230210422><>"
+L 10/16/2016 - 15:51:33: [admin.amxx] Login: "Bobitza<991><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 15:51:35: [admin.amxx] Login: "Bobitza<992><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 15:52:40: [admincmd.amxx] Cmd: "parry<979><VALVE_0:4:1993205877><>" ask for players list
+L 10/16/2016 - 15:52:45: [telemenu.amxx] Cmd: "-rTg|maEsTrOo<938><STEAM_0:1:154430568><>" teleport "flawless.<990><VALVE_0:4:1230210422><>"
+L 10/16/2016 - 15:53:27: [admin.amxx] Login: "dRaGoNeLy^ ;x<994><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 15:54:11: [admin.amxx] Login: "dEz<997><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 15:54:56: [admin.amxx] Login: "Polonia<998><STEAM_0:1:73341391><>" kicked due to invalid password (account "Polonia") (address "41.248.129.33")
+L 10/16/2016 - 15:55:08: [admin.amxx] Login: "Polonia<1002><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "41.248.129.33")
+L 10/16/2016 - 15:55:13: [admin.amxx] Login: "cFg|Thrasher<1003><STEAM_0:0:1686934816><>" became an admin (account "cFg|Thrasher") (access "b") (address "86.127.73.211")
+L 10/16/2016 - 15:57:14: [admin.amxx] Login: "wKn<1006><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 15:57:19: [admin.amxx] Login: "cool<1007><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 15:57:20: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "wKn<1006><STEAM_0:1:39271980><>"
+L 10/16/2016 - 15:57:26: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "cool<1007><VALVE_0:4:1243477598><>"
+L 10/16/2016 - 15:59:22: [admin.amxx] Login: "wKn<1009><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 15:59:23: [admin.amxx] Login: "cool<1010><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 15:59:28: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "wKn<1009><STEAM_0:1:39271980><>"
+L 10/16/2016 - 15:59:29: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "cool<1010><VALVE_0:4:1243477598><>"
+L 10/16/2016 - 15:59:36: [admin.amxx] Login: "dRaGoNeLy^ ;x<1011><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 15:59:45: [admin.amxx] Login: "LoV3<1012><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 10/16/2016 - 15:59:56: [admin.amxx] Login: "LoV3<1013><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 10/16/2016 - 16:01:46: [admincmd.amxx] Cmd: "ZALE<944><STEAM_0:0:167602025><>" ask for players list
+L 10/16/2016 - 16:01:48: [adminchat.amxx] Chat: "ZALE<944><STEAM_0:0:167602025><>" chat " sal"
+L 10/16/2016 - 16:01:53: [admin.amxx] Login: "wKn<1016><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 16:02:00: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "wKn<1016><STEAM_0:1:39271980><>"
+L 10/16/2016 - 16:02:50: [slayafk.amxx] LoV3 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 16:06:15: [slayafk.amxx] LoV3 a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 16:11:34: [admin.amxx] Login: "Polonia<1024><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "41.248.129.33")
+L 10/16/2016 - 16:13:18: -------- Mapchange to deathrun_anca --------
+L 10/16/2016 - 16:13:19: [admin.amxx] Login: "cool<1010><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 16:13:19: [admin.amxx] Login: "flawless.<990><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 16:13:19: [admin.amxx] Login: "Bobitza<992><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 16:13:20: [admin.amxx] Login: "cFg|Thrasher<1003><STEAM_0:0:1686934816><>" became an admin (account "cFg|Thrasher") (access "b") (address "86.127.73.211")
+L 10/16/2016 - 16:13:20: [admin.amxx] Login: "ZALE<944><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 16:13:20: [admin.amxx] Login: "Polonia<1024><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "41.248.129.33")
+L 10/16/2016 - 16:13:21: [admin.amxx] Login: "flawless.<1027><VALVE_0:4:1230210422><>" kicked due to invalid password (account "flawless.") (address "84.232.251.59")
+L 10/16/2016 - 16:13:21: [admin.amxx] Login: "Bobitza<1028><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 16:13:24: [admin.amxx] Login: "cFg|Thrasher<1031><STEAM_0:0:1686934816><>" became an admin (account "cFg|Thrasher") (access "b") (address "86.127.73.211")
+L 10/16/2016 - 16:13:28: [admin.amxx] Login: "flawless.<1032><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 16:13:29: [admin.amxx] Login: "Nevrozatu<1035><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 16:13:31: [admin.amxx] Login: "ZALE<1037><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 16:13:33: [admin.amxx] Login: "flawless.<1039><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 16:13:33: [admin.amxx] Login: "Polonia<1038><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "41.248.129.33")
+L 10/16/2016 - 16:13:43: [admin.amxx] Login: "flawless.<1041><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 16:13:48: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "alcapone<1040><STEAM_0:1:84868413><>"
+L 10/16/2016 - 16:16:30: [admin.amxx] Login: "parry<1042><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 16:16:36: [admin.amxx] Login: "parry<1043><VALVE_0:4:1993205877><>" became an admin (account "parry") (access "b") (address "83.50.199.68")
+L 10/16/2016 - 16:17:02: [admin.amxx] Login: "FAKE ^^<1044><STEAM_0:0:1769978248><>" became an admin (account "FAKE ^^") (access "b") (address "95.77.137.193")
+L 10/16/2016 - 16:17:33: [admin.amxx] Login: "Floy<1047><STEAM_0:0:288764745><>" became an admin (account "Floy") (access "b") (address "86.121.163.142")
+L 10/16/2016 - 16:17:45: [admincmd.amxx] Cmd: "parry<1043><VALVE_0:4:1993205877><>" ask for players list
+L 10/16/2016 - 16:17:56: [adminchat.amxx] Chat: "Floy<1047><STEAM_0:0:288764745><>" chat "ce sa intamplat"
+L 10/16/2016 - 16:18:03: [adminchat.amxx] Chat: "Floy<1047><STEAM_0:0:288764745><>" tsay ""
+L 10/16/2016 - 16:18:10: [adminchat.amxx] Chat: "Floy<1047><STEAM_0:0:288764745><>" chat "Ce e/"
+L 10/16/2016 - 16:19:19: [admin.amxx] Login: "cFg|Thrasher<1048><STEAM_0:0:1686934816><>" kicked due to invalid password (account "cFg|Thrasher") (address "86.127.73.211")
+L 10/16/2016 - 16:19:31: [admin.amxx] Login: "cFg|Thrasher<1049><STEAM_0:0:1686934816><>" became an admin (account "cFg|Thrasher") (access "b") (address "86.127.73.211")
+L 10/16/2016 - 16:19:59: [slayafk.amxx] KaanAslanTR a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 16:21:00: [admin.amxx] Login: "dRaGoNeLy^ ;x<1053><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 16:24:36: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 16:24:36: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 16:24:36: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 16:24:51: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 16:25:35: [admin.amxx] Login: "dRaGoNeLy^ ;x<1058><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 16:26:15: [admin.amxx] Login: "flawless.<1059><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 16:26:20: [admin.amxx] Login: "crazi #<1060><STEAM_0:0:1306279007><>" became an admin (account "crazi #") (access "b") (address "109.98.196.182")
+L 10/16/2016 - 16:26:21: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "flawless.<1059><VALVE_0:4:1230210422><>"
+L 10/16/2016 - 16:26:30: [admin.amxx] Login: "crazi #<1061><STEAM_0:0:1306279007><>" became an admin (account "crazi #") (access "b") (address "109.98.196.182")
+L 10/16/2016 - 16:26:56: [admincmd.amxx] Cmd: "crazi #<1061><STEAM_0:0:1306279007><>" ask for players list
+L 10/16/2016 - 16:28:41: [admin.amxx] Login: "flawless.<1065><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 16:28:47: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "flawless.<1065><VALVE_0:4:1230210422><>"
+L 10/16/2016 - 16:30:41: [admin.amxx] Login: "Andrei**<1067><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 16:30:49: [admin.amxx] Login: "Andrei**<1068><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 16:31:34: [adminchat.amxx] Chat: "Andrei**<1068><STEAM_0:1:51406297><>" chat "admin ?"
+L 10/16/2016 - 16:31:42: [admin.amxx] Login: "OreD<1071><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 16:31:43: [admin.amxx] Login: "OreD<1072><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 16:31:43: [admin.amxx] Login: "vOci<1073><STEAM_0:1:120471225><>" became an admin (account "vOci") (access "b") (address "188.24.224.179")
+L 10/16/2016 - 16:31:47: [adminchat.amxx] Chat: "Andrei**<1068><STEAM_0:1:51406297><>" chat "adm ?"
+L 10/16/2016 - 16:32:25: [admin.amxx] Login: "Krayzie<1074><STEAM_0:0:2082974642><>" became an admin (account "Krayzie") (access "bit") (address "92.83.127.94")
+L 10/16/2016 - 16:32:34: [admin.amxx] Login: "Krayzie<1075><STEAM_0:0:2082974642><>" became an admin (account "Krayzie") (access "bit") (address "92.83.127.94")
+L 10/16/2016 - 16:33:04: [admincmd.amxx] Cmd: "dRaGoNeLy^ ;x<1058><STEAM_0:0:1727172594><>" ask for players list
+L 10/16/2016 - 16:34:24: [mapsmenu.amxx] Vote: "vOci<1073><STEAM_0:1:120471225><>" vote maps (map#1 "deathrun_pacman_v2") (map#2 "deathrun_expres-game") (map#3 "") (map#4 "")
+L 10/16/2016 - 16:34:36: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_pacman_v2
+L 10/16/2016 - 16:35:54: [slayafk.amxx] Spy. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 16:36:23: [admin.amxx] Login: "Krayzie<1081><STEAM_0:0:2082974642><>" became an admin (account "Krayzie") (access "bit") (address "92.83.127.94")
+L 10/16/2016 - 16:38:55: [admin.amxx] Login: "wKn<1083><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 16:38:59: [admin.amxx] Login: "wKn<1084><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 16:39:40: [admincmd.amxx] Cmd: "dRaGoNeLy^ ;x<1058><STEAM_0:0:1727172594><>" ask for players list
+L 10/16/2016 - 16:40:42: -------- Mapchange to deathrun_pacman_v2 --------
+L 10/16/2016 - 16:40:44: [admin.amxx] Login: "OreD<1072><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 16:40:44: [admin.amxx] Login: "flawless.<1065><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 16:40:44: [admin.amxx] Login: "vOci<1073><STEAM_0:1:120471225><>" became an admin (account "vOci") (access "b") (address "188.24.224.179")
+L 10/16/2016 - 16:40:44: [admin.amxx] Login: "wKn<1084><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 16:40:44: [admin.amxx] Login: "Floy<1047><STEAM_0:0:288764745><>" became an admin (account "Floy") (access "b") (address "86.121.163.142")
+L 10/16/2016 - 16:40:44: [admin.amxx] Login: "Krayzie<1081><STEAM_0:0:2082974642><>" became an admin (account "Krayzie") (access "bit") (address "92.83.127.94")
+L 10/16/2016 - 16:40:44: [admin.amxx] Login: "Andrei**<1068><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 16:40:44: [admin.amxx] Login: "ZALE<1037><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 16:40:45: [admin.amxx] Login: "OreD<1086><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 16:40:45: [admin.amxx] Login: "flawless.<1088><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 16:40:45: [admin.amxx] Login: "dRaGoNeLy^ ;x<1089><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 16:40:49: [admin.amxx] Login: "Krayzie<1092><STEAM_0:0:2082974642><>" became an admin (account "Krayzie") (access "bit") (address "92.83.127.94")
+L 10/16/2016 - 16:40:53: [admin.amxx] Login: "Nevrozatu<1096><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 16:41:03: [admin.amxx] Login: "Krayzie<1099><STEAM_0:0:2082974642><>" became an admin (account "Krayzie") (access "bit") (address "92.83.127.94")
+L 10/16/2016 - 16:41:10: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Krayzie<1099><STEAM_0:0:2082974642><>"
+L 10/16/2016 - 16:41:23: [slayafk.amxx] Andrei** a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 16:44:23: [adminchat.amxx] Chat: "vOci<1073><STEAM_0:1:120471225><>" chat " cine l a pus la spec pe zzale ?"
+L 10/16/2016 - 16:44:28: [adminchat.amxx] Chat: "Floy<1047><STEAM_0:0:288764745><>" chat "Nu eu"
+L 10/16/2016 - 16:44:31: [adminchat.amxx] Chat: "Floy<1047><STEAM_0:0:288764745><>" chat "Cum sa bagat ala"
+L 10/16/2016 - 16:50:13: [slayafk.amxx] <tensei> deniS a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 16:52:23: [slayafk.amxx] Andrei** a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 16:58:33: [slayafk.amxx] Andrei** a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 16:58:38: [admin.amxx] Login: "OreD<1106><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 16:59:23: [slayafk.amxx] Andrei** a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 17:00:02: [admin.amxx] Login: "cFg|Thrasher<1107><STEAM_0:0:1686934816><>" became an admin (account "cFg|Thrasher") (access "b") (address "86.127.73.211")
+L 10/16/2016 - 17:00:03: [admin.amxx] Login: "cFg|Thrasher<1108><STEAM_0:0:1686934816><>" became an admin (account "cFg|Thrasher") (access "b") (address "86.127.73.211")
+L 10/16/2016 - 17:01:58: [slayafk.amxx] Andrei** a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 17:02:11: [mapsmenu.amxx] Vote: "OreD<1106><VALVE_0:4:1015346910><>" vote maps (map#1 "deathrun_bhopz_v2") (map#2 "deathrun_av2009_recolored-ez") (map#3 "") (map#4 "")
+L 10/16/2016 - 17:02:23: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_bhopz_v2
+L 10/16/2016 - 17:04:58: [slayafk.amxx] Andrei** a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 17:06:49: [admin.amxx] Login: "wKn<1117><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 17:07:23: -------- Mapchange to deathrun_bhopz_v2 --------
+L 10/16/2016 - 17:07:25: [admin.amxx] Login: "flawless.<1088><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 17:07:25: [admin.amxx] Login: "Andrei**<1068><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 17:07:25: [admin.amxx] Login: "OreD<1106><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 17:07:25: [admin.amxx] Login: "wKn<1117><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 17:07:25: [admin.amxx] Login: "cFg|Thrasher<1108><STEAM_0:0:1686934816><>" became an admin (account "cFg|Thrasher") (access "b") (address "86.127.73.211")
+L 10/16/2016 - 17:07:25: [admin.amxx] Login: "ZALE<1037><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 17:07:27: [admin.amxx] Login: "OreD<1120><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 17:07:34: [admin.amxx] Login: "Nevrozatu<1124><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 17:07:36: [admin.amxx] Login: "ZALE<1125><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 17:09:04: [admin.amxx] Login: "cFg|Thrasher<1126><STEAM_0:0:1686934816><>" became an admin (account "cFg|Thrasher") (access "b") (address "86.127.73.211")
+L 10/16/2016 - 17:09:37: [admin.amxx] Login: "-rTg|maEsTrOo<1127><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.254")
+L 10/16/2016 - 17:12:00: [admin.amxx] Login: "cool<1128><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 17:17:03: [admin.amxx] Login: "dEz<1133><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 17:22:53: [admin.amxx] Login: "AnduXIK<1141><STEAM_0:1:40514827><>" kicked due to invalid password (account "AnduXIK") (address "82.76.66.141")
+L 10/16/2016 - 17:24:14: [admin.amxx] Login: "AnduXIK<1145><STEAM_0:1:40514827><>" kicked due to invalid password (account "AnduXIK") (address "82.76.66.141")
+L 10/16/2016 - 17:24:20: [admin.amxx] Login: "AnduXIK<1146><STEAM_0:1:40514827><>" became an admin (account "AnduXIK") (access "b") (address "82.76.66.141")
+L 10/16/2016 - 17:25:01: [admincmd.amxx] Cmd: "AnduXIK<1146><STEAM_0:1:40514827><>" ask for players list
+L 10/16/2016 - 17:26:45: [admin.amxx] Login: "dEz<1147><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 17:26:52: [admin.amxx] Login: "dEz<1148><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 17:26:58: [admin.amxx] Login: "dEz<1149><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 17:27:03: [admin.amxx] Login: "dEz<1150><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 17:27:10: [admin.amxx] Login: "dEz<1151><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 17:35:16: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 10/16/2016 - 17:35:18: [admin.amxx] Login: "flawless.<1088><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 17:35:18: [admin.amxx] Login: "dEz<1151><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 17:35:18: [admin.amxx] Login: "Andrei**<1068><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 17:35:18: [admin.amxx] Login: "cool<1128><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 17:35:18: [admin.amxx] Login: "ZALE<1125><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 17:35:20: [admin.amxx] Login: "cFg|Thrasher<1126><STEAM_0:0:1686934816><>" became an admin (account "cFg|Thrasher") (access "b") (address "86.127.73.211")
+L 10/16/2016 - 17:35:21: [admin.amxx] Login: "dRaGoNeLy^ ;x<1154><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 17:35:27: [admin.amxx] Login: "Nevrozatu<1157><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 17:35:33: [admincmd.amxx] Cmd: "dRaGoNeLy^ ;x<1154><STEAM_0:0:1727172594><>" ask for players list
+L 10/16/2016 - 17:36:06: [admin.amxx] Login: "Polonia<1159><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "105.159.7.187")
+L 10/16/2016 - 17:36:24: [admin.amxx] Login: "Polonia<1160><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "105.159.7.187")
+L 10/16/2016 - 17:40:19: [admin.amxx] Login: "OreD<1164><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 17:40:32: [admin.amxx] Login: "OreD<1165><VALVE_0:4:1015346910><>" became an admin (account "OreD") (access "b") (address "5.15.85.208")
+L 10/16/2016 - 17:40:45: [admin.amxx] Login: "N3sQu1K<1166><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 17:40:54: [admin.amxx] Login: "seconD ;HNSk<1167><STEAM_0:1:39271980><>" kicked due to invalid password (account "seconD ;HNSk") (address "92.82.108.136")
+L 10/16/2016 - 17:41:48: [admin.amxx] Login: "seconD ;HNSk<1168><STEAM_0:1:39271980><>" kicked due to invalid password (account "seconD ;HNSk") (address "92.82.108.136")
+L 10/16/2016 - 17:42:08: [admin.amxx] Login: "LoLz<1170><VALVE_0:4:364992373><>" became an admin (account "LoLz") (access "b") (address "82.76.222.130")
+L 10/16/2016 - 17:49:18: [admin.amxx] Login: "Sh0o7eR<1173><VALVE_0:4:356669810><>" became an admin (account "Sh0o7eR") (access "b") (address "92.80.216.131")
+L 10/16/2016 - 17:55:36: [admin.amxx] Login: "D3LuX<1175><VALVE_0:4:868329346><>" kicked due to invalid password (account "D3LuX") (address "188.173.223.206")
+L 10/16/2016 - 17:55:43: [admin.amxx] Login: "D3LuX<1177><VALVE_0:4:868329346><>" became an admin (account "D3LuX") (access "b") (address "188.173.223.206")
+L 10/16/2016 - 17:55:49: [admin.amxx] Login: "D3LuX<1178><VALVE_0:4:868329346><>" became an admin (account "D3LuX") (access "b") (address "188.173.223.206")
+L 10/16/2016 - 17:58:53: [admin.amxx] Login: "valiiiii ;x<1181><VALVE_0:4:1939360635><>" became an admin (account "valiiiii ;x") (access "b") (address "79.116.108.78")
+L 10/16/2016 - 17:59:41: [admin.amxx] Login: "valiiiii ;x<1183><VALVE_0:4:1939360635><>" became an admin (account "valiiiii ;x") (access "b") (address "79.116.108.78")
+L 10/16/2016 - 17:59:51: [admin.amxx] Login: "valiiiii ;x<1184><VALVE_0:4:1939360635><>" became an admin (account "valiiiii ;x") (access "b") (address "79.116.108.78")
+L 10/16/2016 - 18:00:06: [mapsmenu.amxx] Vote: "valiiiii ;x<1184><VALVE_0:4:1939360635><>" vote maps (map#1 "deathrun_hardsurf_v2") (map#2 "deathrun_supra") (map#3 "") (map#4 "")
+L 10/16/2016 - 18:00:18: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_hardsurf_v2
+L 10/16/2016 - 18:01:02: [admin.amxx] Login: "D3LuX<1186><VALVE_0:4:868329346><>" kicked due to invalid password (account "D3LuX") (address "188.173.223.206")
+L 10/16/2016 - 18:01:20: [admin.amxx] Login: "valiiiii ;x<1188><VALVE_0:4:1939360635><>" became an admin (account "valiiiii ;x") (access "b") (address "79.116.108.78")
+L 10/16/2016 - 18:01:20: [admin.amxx] Login: "flawless.<1189><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 18:01:22: [admin.amxx] Login: "flawless.<1190><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 18:01:50: [admin.amxx] Login: "valiiiii ;x<1192><VALVE_0:4:1939360635><>" became an admin (account "valiiiii ;x") (access "b") (address "79.116.108.78")
+L 10/16/2016 - 18:03:08: [admin.amxx] Login: "D3LuX<1195><VALVE_0:4:868329346><>" became an admin (account "D3LuX") (access "b") (address "188.173.223.206")
+L 10/16/2016 - 18:03:11: -------- Mapchange to deathrun_hardsurf_v2 --------
+L 10/16/2016 - 18:03:13: [admin.amxx] Login: "cFg|Thrasher<1126><STEAM_0:0:1686934816><>" became an admin (account "cFg|Thrasher") (access "b") (address "86.127.73.211")
+L 10/16/2016 - 18:03:13: [admin.amxx] Login: "D3LuX<1195><VALVE_0:4:868329346><>" became an admin (account "D3LuX") (access "b") (address "188.173.223.206")
+L 10/16/2016 - 18:03:13: [admin.amxx] Login: "flawless.<1190><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 18:03:13: [admin.amxx] Login: "N3sQu1K<1166><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 18:03:13: [admin.amxx] Login: "cool<1128><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 18:03:13: [admin.amxx] Login: "dEz<1151><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 18:03:13: [admin.amxx] Login: "Andrei**<1068><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 18:03:13: [admin.amxx] Login: "valiiiii ;x<1192><VALVE_0:4:1939360635><>" became an admin (account "valiiiii ;x") (access "b") (address "79.116.108.78")
+L 10/16/2016 - 18:03:13: [admin.amxx] Login: "ZALE<1125><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 18:03:13: [admin.amxx] Login: "Polonia<1160><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "105.159.7.187")
+L 10/16/2016 - 18:03:14: [admin.amxx] Login: "flawless.<1196><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 18:03:15: [admin.amxx] Login: "D3LuX<1197><VALVE_0:4:868329346><>" became an admin (account "D3LuX") (access "b") (address "188.173.223.206")
+L 10/16/2016 - 18:03:15: [admin.amxx] Login: "cool<1198><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 18:03:15: [admin.amxx] Login: "Andrei**<1199><STEAM_0:1:51406297><>" became an admin (account "Andrei**") (access "b") (address "89.45.7.233")
+L 10/16/2016 - 18:03:16: [admin.amxx] Login: "cFg|Thrasher<1200><STEAM_0:0:1686934816><>" became an admin (account "cFg|Thrasher") (access "b") (address "86.127.73.211")
+L 10/16/2016 - 18:03:17: [admin.amxx] Login: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" became an admin (account "valiiiii ;x") (access "b") (address "79.116.108.78")
+L 10/16/2016 - 18:03:17: [admin.amxx] Login: "ZALE<1203><STEAM_0:0:167602025><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 18:03:18: [admin.amxx] Login: "N3sQu1K<1204><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 18:03:22: [admin.amxx] Login: "Nevrozatu<1208><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 18:03:22: [admin.amxx] Login: "dEz<1209><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 18:03:29: [admin.amxx] Login: "Polonia<1210><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "105.159.7.187")
+L 10/16/2016 - 18:03:33: [admin.amxx] Login: "dEz<1211><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 18:03:40: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dEz<1211><STEAM_0:0:2136574392><>"
+L 10/16/2016 - 18:04:49: [admin.amxx] Login: "ZALE<1214><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 18:04:49: [admin.amxx] Login: "dRaGoNeLy^ ;x<1215><VALVE_0:4:1903687518><>" kicked due to invalid password (account "dRaGoNeLy^ ;x") (address "5.12.179.75")
+L 10/16/2016 - 18:04:53: [admin.amxx] Login: "ZALE<1216><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 18:04:57: [admin.amxx] Login: "dRaGoNeLy^ ;x<1217><VALVE_0:4:1903687518><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 18:04:59: [admin.amxx] Login: "dRaGoNeLy^ ;x<1218><VALVE_0:4:1903687518><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 18:07:39: [admincmd.amxx] Cmd: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" slay "cFg|Thrasher<1200><STEAM_0:0:1686934816><>"
+L 10/16/2016 - 18:09:17: [admin.amxx] Login: "dRaGoNeLy^ ;x<1225><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 18:09:38: [admin.amxx] Login: "Krayzie<1226><STEAM_0:0:2082974642><>" became an admin (account "Krayzie") (access "bit") (address "92.83.127.94")
+L 10/16/2016 - 18:09:48: [admin.amxx] Login: "Krayzie<1227><STEAM_0:0:2082974642><>" became an admin (account "Krayzie") (access "bit") (address "92.83.127.94")
+L 10/16/2016 - 18:09:51: [admincmd.amxx] Cmd: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" slay "cool<1198><VALVE_0:4:1243477598><>"
+L 10/16/2016 - 18:09:56: [admin.amxx] Login: "Sh0o7eR<1201><VALVE_0:4:356669810><>" became an admin (account "Sh0o7eR") (access "b") (address "92.80.216.131")
+L 10/16/2016 - 18:12:27: [admincmd.amxx] Cmd: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" slay "cFg|Thrasher<1200><STEAM_0:0:1686934816><>"
+L 10/16/2016 - 18:12:30: [admincmd.amxx] Cmd: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" slay "Krayzie<1227><STEAM_0:0:2082974642><>"
+L 10/16/2016 - 18:12:35: [admincmd.amxx] Cmd: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" slay "cool<1198><VALVE_0:4:1243477598><>"
+L 10/16/2016 - 18:12:47: [admincmd.amxx] Cmd: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" slay "Sh0o7eR<1201><VALVE_0:4:356669810><>"
+L 10/16/2016 - 18:14:13: [admincmd.amxx] Cmd: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" slay "cFg|Thrasher<1200><STEAM_0:0:1686934816><>"
+L 10/16/2016 - 18:14:17: [admincmd.amxx] Cmd: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" slay "Krayzie<1227><STEAM_0:0:2082974642><>"
+L 10/16/2016 - 18:15:51: [admin.amxx] Login: "dRaGoNeLy^ ;x<1230><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 18:16:17: [admin.amxx] Login: "OreD<1231><VALVE_0:4:705361630><>" became an admin (account "OreD") (access "b") (address "5.15.73.253")
+L 10/16/2016 - 18:16:18: [admin.amxx] Login: "OreD<1232><VALVE_0:4:705361630><>" became an admin (account "OreD") (access "b") (address "5.15.73.253")
+L 10/16/2016 - 18:19:07: [slayafk.amxx] ^s T T a L 1 n^ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 18:22:08: [mapsmenu.amxx] Vote: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" vote maps (map#1 "deathrun_supra") (map#2 "deathrun_sentinel_mini") (map#3 "") (map#4 "")
+L 10/16/2016 - 18:22:20: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_sentinel_mini
+L 10/16/2016 - 18:23:02: [admin.amxx] Login: "Polonia<1240><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "105.159.7.187")
+L 10/16/2016 - 18:23:32: [admincmd.amxx] Cmd: "Polonia<1240><STEAM_0:1:73341391><>" ask for players list
+L 10/16/2016 - 18:26:08: [admincmd.amxx] Cmd: "Polonia<1240><STEAM_0:1:73341391><>" ask for players list
+L 10/16/2016 - 18:29:23: [admincmd.amxx] Cmd: "OreD<1232><VALVE_0:4:705361630><>" slay "ZALE<1216><STEAM_0:0:246117789><>"
+L 10/16/2016 - 18:29:26: -------- Mapchange to deathrun_sentinel_mini --------
+L 10/16/2016 - 18:29:28: [admin.amxx] Login: "flawless.<1196><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 18:29:28: [admin.amxx] Login: "cool<1198><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 18:29:28: [admin.amxx] Login: "OreD<1232><VALVE_0:4:705361630><>" became an admin (account "OreD") (access "b") (address "5.15.73.253")
+L 10/16/2016 - 18:29:28: [admin.amxx] Login: "Sh0o7eR<1201><VALVE_0:4:356669810><>" became an admin (account "Sh0o7eR") (access "b") (address "92.80.216.131")
+L 10/16/2016 - 18:29:28: [admin.amxx] Login: "N3sQu1K<1204><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 18:29:28: [admin.amxx] Login: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" became an admin (account "valiiiii ;x") (access "b") (address "79.116.108.78")
+L 10/16/2016 - 18:29:28: [admin.amxx] Login: "Polonia<1240><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "105.159.7.187")
+L 10/16/2016 - 18:29:28: [admin.amxx] Login: "ZALE<1216><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 18:29:33: [admin.amxx] Login: "N3sQu1K<1247><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 18:29:37: [admin.amxx] Login: "Nevrozatu<1250><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 18:29:42: [admin.amxx] Login: "Polonia<1251><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "105.159.7.187")
+L 10/16/2016 - 18:32:02: [telemenu.amxx] Cmd: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" teleport "Sh0o7eR<1201><VALVE_0:4:356669810><>"
+L 10/16/2016 - 18:35:16: [adminchat.amxx] Chat: "pLanSai<1244><VALVE_0:4:585684597><>" chat "mai sunt admini on in afara de tine?"
+L 10/16/2016 - 18:35:35: [adminchat.amxx] Chat: "pLanSai<1244><VALVE_0:4:585684597><>" chat "vorbesti ma?"
+L 10/16/2016 - 18:35:48: [adminchat.amxx] Chat: "pLanSai<1244><VALVE_0:4:585684597><>" chat "esti retard"
+L 10/16/2016 - 18:35:53: [adminchat.amxx] Chat: "pLanSai<1244><VALVE_0:4:585684597><>" chat "ai facut glume proaste?"
+L 10/16/2016 - 18:36:32: [slayafk.amxx] flawless. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 18:36:51: [admin.amxx] Login: "flawless.<1253><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 18:37:06: [adminchat.amxx] Chat: "pLanSai<1244><VALVE_0:4:585684597><>" chat "ai facut vreo gluma proasta?"
+L 10/16/2016 - 18:37:14: [admin.amxx] Login: "dRaGoNeLy^ ;x<1254><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 18:37:16: [adminchat.amxx] Chat: "pLanSai<1244><VALVE_0:4:585684597><>" chat "cu strafe script sau ce pula mea abereaza astia?"
+L 10/16/2016 - 18:37:25: [admin.amxx] Login: "dRaGoNeLy^ ;x<1256><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 18:37:29: [adminchat.amxx] Chat: "pLanSai<1244><VALVE_0:4:585684597><>" chat "atunci de ce ma tin astia in ban ca cica am ss"
+L 10/16/2016 - 18:38:48: [admin.amxx] Login: "Player<1257><STEAM_0:0:404018182><>" became an admin (account "Player") (access "b") (address "5.178.87.52")
+L 10/16/2016 - 18:38:57: [adminchat.amxx] Chat: "pLanSai<1244><VALVE_0:4:585684597><>" chat "asa"
+L 10/16/2016 - 18:39:17: [admin.amxx] Login: "flawless.<1258><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 18:39:42: [admin.amxx] Login: "flawless.<1259><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 18:41:42: [admin.amxx] Login: "flawless.<1261><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 18:44:29: [admin.amxx] Login: "AnduXIK<1264><STEAM_0:1:40514827><>" became an admin (account "AnduXIK") (access "b") (address "82.76.66.141")
+L 10/16/2016 - 18:44:30: [admin.amxx] Login: "AnduXIK<1265><STEAM_0:1:40514827><>" became an admin (account "AnduXIK") (access "b") (address "82.76.66.141")
+L 10/16/2016 - 18:49:06: [adminchat.amxx] Chat: "pLanSai<1244><VALVE_0:4:585684597><>" chat "proj2"
+L 10/16/2016 - 18:49:14: [adminchat.amxx] Chat: "pLanSai<1244><VALVE_0:4:585684597><>" chat "manca-ti-as pula matale proj2"
+L 10/16/2016 - 18:49:38: [mapsmenu.amxx] Vote: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" vote maps (map#1 "deathrun_supra") (map#2 "deathrun_3sixty_fg_fix3") (map#3 "") (map#4 "")
+L 10/16/2016 - 18:49:50: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_3sixty_fg_fix3
+L 10/16/2016 - 18:50:42: [adminchat.amxx] Chat: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" psay "pLanSai<1244><VALVE_0:4:585684597><>" "muie"
+L 10/16/2016 - 18:52:28: [telemenu.amxx] Cmd: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" teleport "AnduXIK<1265><STEAM_0:1:40514827><>"
+L 10/16/2016 - 18:53:10: [admin.amxx] Login: "OreD<1266><VALVE_0:4:705361630><>" became an admin (account "OreD") (access "b") (address "5.15.73.253")
+L 10/16/2016 - 18:53:22: [admin.amxx] Login: "dEz<1267><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 18:54:24: [admin.amxx] Login: "LoV3<1268><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 10/16/2016 - 18:55:36: [telemenu.amxx] Cmd: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" teleport "TPB # //heL^<1245><STEAM_0:0:5567181><>"
+L 10/16/2016 - 18:55:41: -------- Mapchange to deathrun_3sixty_fg_fix3 --------
+L 10/16/2016 - 18:55:43: [admin.amxx] Login: "OreD<1266><VALVE_0:4:705361630><>" became an admin (account "OreD") (access "b") (address "5.15.73.253")
+L 10/16/2016 - 18:55:43: [admin.amxx] Login: "flawless.<1261><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 18:55:43: [admin.amxx] Login: "N3sQu1K<1247><VALVE_0:4:2056543090><>" became an admin (account "N3sQu1K") (access "b") (address "92.84.116.92")
+L 10/16/2016 - 18:55:43: [admin.amxx] Login: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" became an admin (account "valiiiii ;x") (access "b") (address "79.116.108.78")
+L 10/16/2016 - 18:55:44: [admin.amxx] Login: "ZALE<1216><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 18:55:53: [admin.amxx] Login: "Nevrozatu<1274><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 18:55:53: [admin.amxx] Login: "dRaGoNeLy^ ;x<1275><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 18:59:37: [slayafk.amxx] ^s T T a L 1 n^ a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 19:07:51: [admin.amxx] Login: "-rTg|maEsTrOo<1282><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.254")
+L 10/16/2016 - 19:09:06: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:09:06: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:09:06: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:10:26: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:13:18: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:13:18: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:15:35: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "[CONCURS] N3sQu1K<1292><VALVE_0:4:2056543090><>"
+L 10/16/2016 - 19:15:41: [admin.amxx] Login: "dRaGoNeLy^ ;x<1293><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 19:17:23: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:17:23: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:17:23: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:22:20: [mapsmenu.amxx] Vote: "-rTg|maEsTrOo<1282><STEAM_0:1:154430568><>" vote maps (map#1 "deathrun_supra") (map#2 "deathrun_supreme") (map#3 "") (map#4 "")
+L 10/16/2016 - 19:22:27: [admin.amxx] Login: "cool<1297><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 19:22:32: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_supra
+L 10/16/2016 - 19:23:43: -------- Mapchange to deathrun_supra --------
+L 10/16/2016 - 19:23:45: [admin.amxx] Login: "-rTg|maEsTrOo<1282><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.68.254")
+L 10/16/2016 - 19:23:45: [admin.amxx] Login: "ZALE<1216><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 19:23:45: [admin.amxx] Login: "OreD<1266><VALVE_0:4:705361630><>" became an admin (account "OreD") (access "b") (address "5.15.73.253")
+L 10/16/2016 - 19:23:45: [admin.amxx] Login: "dRaGoNeLy^ ;x<1299><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 19:23:45: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:23:45: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:23:46: [admin.amxx] Login: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" became an admin (account "valiiiii ;x") (access "b") (address "79.116.108.78")
+L 10/16/2016 - 19:23:46: [admin.amxx] Login: "OreD<1300><VALVE_0:4:705361630><>" became an admin (account "OreD") (access "b") (address "5.15.73.253")
+L 10/16/2016 - 19:23:54: [admin.amxx] Login: "Nevrozatu<1304><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 19:27:06: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:27:06: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:27:06: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:27:50: [admin.amxx] Login: "dRaGoNeLy^ ;x<1306><STEAM_0:0:1727172594><>" kicked due to invalid password (account "dRaGoNeLy^ ;x") (address "5.12.179.75")
+L 10/16/2016 - 19:27:53: [admin.amxx] Login: "dRaGoNeLy^ ;x<1307><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 19:28:00: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dRaGoNeLy^ ;x<1307><STEAM_0:0:1727172594><>"
+L 10/16/2016 - 19:28:24: [admin.amxx] Login: "dRaGoNeLy^ ;x<1308><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 19:29:15: [admin.amxx] Login: "dEz<1309><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 19:31:46: [admin.amxx] Login: "cool<1297><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 19:32:06: [admin.amxx] Login: "dEz<1311><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 19:32:23: [admin.amxx] Login: "dEz<1312><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 19:32:56: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:34:19: [admin.amxx] Login: "-Eq- George<1315><STEAM_0:1:182939447><>" became an admin (account "-Eq- George") (access "b") (address "89.47.245.6")
+L 10/16/2016 - 19:36:17: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:37:46: [admin.amxx] Login: "SM-Player<1317><STEAM_0:0:850201500><>" became an admin (account "SM-Player") (access "b") (address "93.118.89.157")
+L 10/16/2016 - 19:37:51: [admin.amxx] Login: "SM-Player<1318><STEAM_0:0:850201500><>" became an admin (account "SM-Player") (access "b") (address "93.118.89.157")
+L 10/16/2016 - 19:40:01: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:41:32: [admin.amxx] Login: "Bobitza<1321><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 19:42:20: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:44:08: [admin.amxx] Login: "flawless.<1261><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 19:45:30: [mapsmenu.amxx] Vote: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" vote maps (map#1 "deathrun_colors") (map#2 "deathrun_virtualstrike_v2") (map#3 "deathrun_av2009_recolored-ez") (map#4 "")
+L 10/16/2016 - 19:45:42: [mapsmenu.amxx] Vote: Voting failed
+L 10/16/2016 - 19:45:56: [mapsmenu.amxx] Vote: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" vote maps (map#1 "deathrun_av2009_recolored-ez") (map#2 "deathrun_green_h") (map#3 "") (map#4 "")
+L 10/16/2016 - 19:46:08: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_av2009_recolored-ez
+L 10/16/2016 - 19:46:35: [admin.amxx] Login: "cool<1320><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 19:47:02: [admin.amxx] Login: "cool<1322><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 19:49:40: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:49:57: -------- Mapchange to deathrun_av2009_recolored-ez --------
+L 10/16/2016 - 19:49:59: [admin.amxx] Login: "flawless.<1261><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 19:49:59: [admin.amxx] Login: "cool<1322><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 19:49:59: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:49:59: [admin.amxx] Login: "Bobitza<1321><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 19:49:59: [admin.amxx] Login: "-Eq- George<1315><STEAM_0:1:182939447><>" became an admin (account "-Eq- George") (access "b") (address "89.47.245.6")
+L 10/16/2016 - 19:49:59: [admin.amxx] Login: "valiiiii ;x<1202><VALVE_0:4:1939360635><>" became an admin (account "valiiiii ;x") (access "b") (address "79.116.108.78")
+L 10/16/2016 - 19:49:59: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:49:59: [admin.amxx] Login: "ZALE<1216><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 19:50:00: [admin.amxx] Login: "dRaGoNeLy^ ;x<1328><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 19:50:01: [admin.amxx] Login: "Bobitza<1329><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 19:50:01: [admin.amxx] Login: "-Eq- George<1330><STEAM_0:1:182939447><>" became an admin (account "-Eq- George") (access "b") (address "89.47.245.6")
+L 10/16/2016 - 19:50:08: [admin.amxx] Login: "Nevrozatu<1335><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 19:50:25: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dyLik* HAHAHA!<1336><STEAM_0:0:424667253><>"
+L 10/16/2016 - 19:54:42: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 19:56:25: [admin.amxx] Login: "kolo1<1337><VALVE_0:4:1837226226><>" became an admin (account "kolo1") (access "b") (address "92.83.95.114")
+L 10/16/2016 - 19:59:55: [admin.amxx] Login: "Sol<1284><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "79.118.28.17")
+L 10/16/2016 - 20:05:00: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:05:00: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:05:00: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:05:02: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:12:13: [slayafk.amxx] cool a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 20:15:27: [admin.amxx] Login: "Sol<1356><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "79.118.28.17")
+L 10/16/2016 - 20:15:53: [admin.amxx] Login: "dRaGoNeLy^ ;x<1357><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 20:16:25: -------- Mapchange to deathrun_astro --------
+L 10/16/2016 - 20:16:27: [admin.amxx] Login: "flawless.<1261><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 20:16:27: [admin.amxx] Login: "cool<1322><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 20:16:27: [admin.amxx] Login: "Sol<1356><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "79.118.28.17")
+L 10/16/2016 - 20:16:27: [admin.amxx] Login: "Bobitza<1329><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 20:16:27: [admin.amxx] Login: "-Eq- George<1330><STEAM_0:1:182939447><>" became an admin (account "-Eq- George") (access "b") (address "89.47.245.6")
+L 10/16/2016 - 20:16:27: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:16:28: [admin.amxx] Login: "ZALE<1216><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 20:16:28: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:16:28: [admin.amxx] Login: "flawless.<1358><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 20:16:28: [admin.amxx] Login: "dRaGoNeLy^ ;x<1360><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 20:16:29: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:16:30: [admin.amxx] Login: "Bobitza<1364><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 20:16:37: [admin.amxx] Login: "Nevrozatu<1368><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 20:18:16: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:21:20: [admin.amxx] Login: "wKn<1372><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 20:23:48: [adminchat.amxx] Chat: "[concurs]P'ai[N] T-<1305><VALVE_0:4:585684597><>" chat "sol"
+L 10/16/2016 - 20:23:54: [adminchat.amxx] Chat: "[concurs]P'ai[N] T-<1305><VALVE_0:4:585684597><>" chat "adica vrei sa zici ca nu particip sau cum?"
+L 10/16/2016 - 20:24:18: [adminchat.amxx] Chat: "[concurs]P'ai[N] T-<1305><VALVE_0:4:585684597><>" chat "joc demo on bro"
+L 10/16/2016 - 20:24:31: [adminchat.amxx] Chat: "[concurs]P'ai[N] T-<1305><VALVE_0:4:585684597><>" chat "adevarul e ca da, am avut ss"
+L 10/16/2016 - 20:24:35: [adminchat.amxx] Chat: "[concurs]P'ai[N] T-<1305><VALVE_0:4:585684597><>" chat "intr-un cfg mai vechi"
+L 10/16/2016 - 20:24:42: [adminchat.amxx] Chat: "[concurs]P'ai[N] T-<1305><VALVE_0:4:585684597><>" chat "insa nu l-am folosit in exces"
+L 10/16/2016 - 20:24:48: [adminchat.amxx] Chat: "Sol<1356><STEAM_0:0:154268340><>" chat "moderat"
+L 10/16/2016 - 20:25:13: [adminchat.amxx] Chat: "[concurs]P'ai[N] T-<1305><VALVE_0:4:585684597><>" chat "deci pot juca demo on sau nu?"
+L 10/16/2016 - 20:25:56: [adminchat.amxx] Chat: "[concurs]P'ai[N] T-<1305><VALVE_0:4:585684597><>" chat "cacat, saptamana viitoare sunt la facultate"
+L 10/16/2016 - 20:25:58: [admincmd.amxx] Cmd: "Sol<1356><STEAM_0:0:154268340><>" changelevel "deathrun_temple"
+L 10/16/2016 - 20:26:00: -------- Mapchange to deathrun_temple --------
+L 10/16/2016 - 20:26:02: [admin.amxx] Login: "cool<1322><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 20:26:02: [admin.amxx] Login: "Sol<1356><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "79.118.28.17")
+L 10/16/2016 - 20:26:02: [admin.amxx] Login: "Bobitza<1364><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 20:26:02: [admin.amxx] Login: "wKn<1372><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 20:26:02: [admin.amxx] Login: "-Eq- George<1330><STEAM_0:1:182939447><>" became an admin (account "-Eq- George") (access "b") (address "89.47.245.6")
+L 10/16/2016 - 20:26:02: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:26:02: [admin.amxx] Login: "ZALE<1216><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 20:26:03: [admin.amxx] Login: "Bobitza<1376><STEAM_0:0:212267759><>" became an admin (account "Bobitza") (access "b") (address "79.112.197.198")
+L 10/16/2016 - 20:26:04: [admin.amxx] Login: "-Eq- George<1377><STEAM_0:1:182939447><>" became an admin (account "-Eq- George") (access "b") (address "89.47.245.6")
+L 10/16/2016 - 20:26:06: [admin.amxx] Login: "dRaGoNeLy^ ;x<1379><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 20:26:11: [admin.amxx] Login: "Nevrozatu<1383><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 20:27:19: [admin.amxx] Login: "Joker$*<1384><VALVE_0:4:779540850><>" became an admin (account "Joker$*") (access "b") (address "92.80.177.245")
+L 10/16/2016 - 20:27:53: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:34:57: [adminchat.amxx] Chat: "Sol<1356><STEAM_0:0:154268340><>" chat "Vezi"
+L 10/16/2016 - 20:34:59: [adminchat.amxx] Chat: "Sol<1356><STEAM_0:0:154268340><>" chat "p"
+L 10/16/2016 - 20:35:07: [adminchat.amxx] Chat: "Sol<1356><STEAM_0:0:154268340><>" chat "zebrah daca ii curat"
+L 10/16/2016 - 20:35:16: [adminchat.amxx] Chat: "Joker$*<1384><VALVE_0:4:779540850><>" chat " ok"
+L 10/16/2016 - 20:35:20: [adminchat.amxx] Chat: "Sol<1356><STEAM_0:0:154268340><>" chat "te bag spec?"
+L 10/16/2016 - 20:35:25: [adminchat.amxx] Chat: "Joker$*<1384><VALVE_0:4:779540850><>" chat " nu"
+L 10/16/2016 - 20:35:36: [plmenu.amxx] Cmd: "Joker$*<1384><VALVE_0:4:779540850><>" transfer "Joker$*<1384><VALVE_0:4:779540850><>" (team "SPECTATOR")
+L 10/16/2016 - 20:36:06: [adminchat.amxx] Chat: "Joker$*<1384><VALVE_0:4:779540850><>" chat " nu"
+L 10/16/2016 - 20:36:14: [adminchat.amxx] Chat: "Sol<1356><STEAM_0:0:154268340><>" chat "mai evzi"
+L 10/16/2016 - 20:36:15: [adminchat.amxx] Chat: "Sol<1356><STEAM_0:0:154268340><>" chat "ata"
+L 10/16/2016 - 20:36:16: [adminchat.amxx] Chat: "Joker$*<1384><VALVE_0:4:779540850><>" chat " e cur@t"
+L 10/16/2016 - 20:37:42: [admin.amxx] Login: "Joker$*<1387><VALVE_0:4:779540850><>" became an admin (account "Joker$*") (access "b") (address "92.80.177.245")
+L 10/16/2016 - 20:37:48: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Joker$*<1387><VALVE_0:4:779540850><>"
+L 10/16/2016 - 20:41:40: [admin.amxx] Login: "vOci<1388><STEAM_0:1:120471225><>" became an admin (account "vOci") (access "b") (address "188.24.224.179")
+L 10/16/2016 - 20:41:43: [admin.amxx] Login: "vOci<1389><STEAM_0:1:120471225><>" became an admin (account "vOci") (access "b") (address "188.24.224.179")
+L 10/16/2016 - 20:48:40: [admin.amxx] Login: "ZALE<1395><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 20:50:15: [admincmd.amxx] ExtendMap: "Sol<1356><STEAM_0:0:154268340><>" extended map "deathrun_temple" for 20 minutes.
+L 10/16/2016 - 20:51:45: [admincmd.amxx] Cmd: "Sol<1356><STEAM_0:0:154268340><>" changelevel "deathrun_bhopz_v2"
+L 10/16/2016 - 20:51:47: -------- Mapchange to deathrun_bhopz_v2 --------
+L 10/16/2016 - 20:51:49: [admin.amxx] Login: "vOci<1389><STEAM_0:1:120471225><>" became an admin (account "vOci") (access "b") (address "188.24.224.179")
+L 10/16/2016 - 20:51:49: [admin.amxx] Login: "Sol<1356><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "79.118.28.17")
+L 10/16/2016 - 20:51:49: [admin.amxx] Login: "ZALE<1395><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 20:51:59: [admin.amxx] Login: "Nevrozatu<1406><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 20:52:05: [admin.amxx] Login: "dRaGoNeLy^ ;x<1409><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "b") (address "5.12.179.75")
+L 10/16/2016 - 20:52:41: [adminchat.amxx] Chat: "Sol<1356><STEAM_0:0:154268340><>" say "cool 2 zebra 3 nesquik 2 kolo 4 flaw 1 deathrun_temple kolo winn"
+L 10/16/2016 - 20:52:42: [adminchat.amxx] Chat: "Sol<1356><STEAM_0:0:154268340><>" say "cool 2 zebra 3 nesquik 2 kolo 4 flaw 1 deathrun_temple kolo winn"
+L 10/16/2016 - 20:55:26: [admincmd.amxx] Cmd: "Sol<1356><STEAM_0:0:154268340><>" ask for players list
+L 10/16/2016 - 20:56:38: [admin.amxx] Login: "kolo1<1380><VALVE_0:4:1837226226><>" became an admin (account "kolo1") (access "b") (address "92.83.95.114")
+L 10/16/2016 - 20:56:38: [admin.amxx] Login: "ZALE<1395><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 20:56:42: [adminchat.amxx] Chat: "Sol<1356><STEAM_0:0:154268340><>" say "go go concurs"
+L 10/16/2016 - 20:56:45: [adminchat.amxx] Chat: "Sol<1356><STEAM_0:0:154268340><>" say "go go concurs"
+L 10/16/2016 - 20:57:48: [admin.amxx] Login: "cool<1417><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 20:58:10: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:58:10: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:58:11: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 20:59:38: [admin.amxx] Login: "wKn<1420><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 20:59:59: [admin.amxx] Login: "ZALE<1395><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 21:00:14: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "marean<1421><VALVE_0:4:1837226226><>"
+L 10/16/2016 - 21:04:04: [admin.amxx] Login: "N3sQu1K<1378><VALVE_0:4:2056543090><>" kicked due to invalid password (account "N3sQu1K") (address "92.84.116.92")
+L 10/16/2016 - 21:05:11: [admin.amxx] Login: "Polonia<1426><STEAM_0:1:73341391><>" kicked due to invalid password (account "Polonia") (address "105.159.7.187")
+L 10/16/2016 - 21:05:29: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 21:05:29: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 21:05:29: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 21:05:33: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 10/16/2016 - 21:06:00: [admin.amxx] Login: "Polonia<1430><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "105.159.7.187")
+L 10/16/2016 - 21:06:25: [admin.amxx] Login: "Polonia<1431><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "105.159.7.187")
+L 10/16/2016 - 21:07:15: [admincmd.amxx] Cmd: "Sol<1356><STEAM_0:0:154268340><>" slay "Polonia<1431><STEAM_0:1:73341391><>"
+L 10/16/2016 - 21:09:46: [adminchat.amxx] Chat: "[concurs]flawless.<1374><VALVE_0:4:1230210422><>" chat " vezi la magitech"
+L 10/16/2016 - 21:09:50: [adminchat.amxx] Chat: "[concurs]flawless.<1374><VALVE_0:4:1230210422><>" chat " cu ce ip se potriveste"
+L 10/16/2016 - 21:10:00: [admin.amxx] Login: "Sol<1356><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "79.118.28.17")
+L 10/16/2016 - 21:10:53: [adminchat.amxx] Chat: "wKn<1420><STEAM_0:1:39271980><>" chat "sol"
+L 10/16/2016 - 21:11:12: [adminchat.amxx] Chat: "wKn<1420><STEAM_0:1:39271980><>" chat "as face cerere up"
+L 10/16/2016 - 21:11:14: [adminchat.amxx] Chat: "wKn<1420><STEAM_0:1:39271980><>" chat "ce zici ?"
+L 10/16/2016 - 21:11:31: [adminchat.amxx] Chat: "wKn<1420><STEAM_0:1:39271980><>" chat "ce zici ?"
+L 10/16/2016 - 21:12:02: [adminchat.amxx] Chat: "wKn<1420><STEAM_0:1:39271980><>" chat "pai am mod 2"
+L 10/16/2016 - 21:12:05: [adminchat.amxx] Chat: "wKn<1420><STEAM_0:1:39271980><>" chat "mi se pare"
+L 10/16/2016 - 21:12:17: [adminchat.amxx] Chat: "wKn<1420><STEAM_0:1:39271980><>" chat "imi da acces neidentificat"
+L 10/16/2016 - 21:12:33: [admin.amxx] Login: "Nevrozatu<1406><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 21:12:33: [admin.amxx] Login: "dRaGoNeLy^ ;x<1409><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.179.75")
+L 10/16/2016 - 21:12:33: [admin.amxx] Login: "wKn<1420><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 21:12:33: [admin.amxx] Login: "ZALE<1395><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 21:12:33: [admin.amxx] Login: "cool<1417><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 21:12:33: [admin.amxx] Login: "Polonia<1431><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "105.159.7.187")
+L 10/16/2016 - 21:12:33: [admin.amxx] Login: "Sol<1356><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "79.118.28.17")
+L 10/16/2016 - 21:12:46: [admincmd.amxx] Cmd: "Sol<1356><STEAM_0:0:154268340><>" ask for players list
+L 10/16/2016 - 21:12:58: [admincmd.amxx] Cmd: "dRaGoNeLy^ ;x<1409><STEAM_0:0:1727172594><>" ask for players list
+L 10/16/2016 - 21:14:01: [mapsmenu.amxx] Vote: "Sol<1356><STEAM_0:0:154268340><>" vote maps (map#1 "deathrun_clarion_dojo_b3") (map#2 "deathrun_hardsurf_v2") (map#3 "") (map#4 "")
+L 10/16/2016 - 21:14:13: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_clarion_dojo_b3
+L 10/16/2016 - 21:14:33: [admincmd.amxx] Cmd: "Sol<1356><STEAM_0:0:154268340><>" slay "dRaGoNeLy^ ;x<1409><STEAM_0:0:1727172594><>"
+L 10/16/2016 - 21:15:56: [adminchat.amxx] Chat: "[concurs]flawless.<1374><VALVE_0:4:1230210422><>" chat " iar joaca joker"
+L 10/16/2016 - 21:16:07: [admincmd.amxx] Cmd: "cool<1417><VALVE_0:4:1243477598><>" ask for players list
+L 10/16/2016 - 21:16:14: [adminchat.amxx] Chat: "[concurs]flawless.<1374><VALVE_0:4:1230210422><>" chat " magitech e joker ia uita-te la ip"
+L 10/16/2016 - 21:16:53: [adminchat.amxx] Chat: "[concurs]flawless.<1374><VALVE_0:4:1230210422><>" chat " el e ma ..."
+L 10/16/2016 - 21:16:57: [adminchat.amxx] Chat: "dRaGoNeLy^ ;x<1409><STEAM_0:0:1727172594><>" chat " ce e?"
+L 10/16/2016 - 21:17:00: [adminchat.amxx] Chat: "[concurs]flawless.<1374><VALVE_0:4:1230210422><>" chat " uita-te la ip esti nebun"
+L 10/16/2016 - 21:17:08: [adminchat.amxx] Chat: "[concurs]flawless.<1374><VALVE_0:4:1230210422><>" chat " el cand sare da imagine in sus il stiu in pnm"
+L 10/16/2016 - 21:17:37: [admincmd.amxx] Cmd: "Sol<1356><STEAM_0:0:154268340><>" slay "Killa<1435><STEAM_0:1:45864800><>"
+L 10/16/2016 - 21:17:42: [adminchat.amxx] Chat: "Killa<1435><STEAM_0:1:45864800><>" chat "de ce fmm ?"
+L 10/16/2016 - 21:17:52: [adminchat.amxx] Chat: "Killa<1435><STEAM_0:1:45864800><>" chat "esti un om rau"
+L 10/16/2016 - 21:18:02: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "DEXEN<1436><STEAM_0:0:1179693161><>"
+L 10/16/2016 - 21:18:15: [admin.amxx] Login: "Sh0o7eR<1437><VALVE_0:4:356669810><>" became an admin (account "Sh0o7eR") (access "b") (address "92.80.216.131")
+L 10/16/2016 - 21:18:18: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 10/16/2016 - 21:18:20: [admin.amxx] Login: "cool<1417><VALVE_0:4:1243477598><>" became an admin (account "cool") (access "b") (address "5.14.103.61")
+L 10/16/2016 - 21:18:20: [admin.amxx] Login: "Sol<1356><STEAM_0:0:154268340><>" became an admin (account "Sol") (access "b") (address "79.118.28.17")
+L 10/16/2016 - 21:18:20: [admin.amxx] Login: "wKn<1420><STEAM_0:1:39271980><>" became an admin (account "wKn") (access "b") (address "92.82.108.136")
+L 10/16/2016 - 21:18:20: [admin.amxx] Login: "ZALE<1395><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 21:18:20: [admin.amxx] Login: "Polonia<1431><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "105.159.7.187")
+L 10/16/2016 - 21:18:20: [admin.amxx] Login: "dRaGoNeLy^ ;x<1438><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.179.75")
+L 10/16/2016 - 21:18:22: [admin.amxx] Login: "Sh0o7eR<1437><VALVE_0:4:356669810><>" became an admin (account "Sh0o7eR") (access "b") (address "92.80.216.131")
+L 10/16/2016 - 21:18:23: [admin.amxx] Login: "flawless.<1374><VALVE_0:4:1230210422><>" became an admin (account "flawless.") (access "b") (address "84.232.251.59")
+L 10/16/2016 - 21:18:30: [admin.amxx] Login: "Nevrozatu<1441><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 21:18:34: [admin.amxx] Login: "Polonia<1442><STEAM_0:1:73341391><>" became an admin (account "Polonia") (access "b") (address "105.159.7.187")
+L 10/16/2016 - 21:18:54: [adminchat.amxx] Chat: "DEXEN<1436><STEAM_0:0:1179693161><>" chat "Sol"
+L 10/16/2016 - 21:19:01: [adminchat.amxx] Chat: "DEXEN<1436><STEAM_0:0:1179693161><>" chat "am luat mod lvl 2 la loto"
+L 10/16/2016 - 21:19:06: [adminchat.amxx] Chat: "DEXEN<1436><STEAM_0:0:1179693161><>" chat "mi-l bagi tu?"
+L 10/16/2016 - 21:19:13: [adminchat.amxx] Chat: "DEXEN<1436><STEAM_0:0:1179693161><>" chat "Loto"
+L 10/16/2016 - 21:19:16: [adminchat.amxx] Chat: "DEXEN<1436><STEAM_0:0:1179693161><>" chat "FlapJack-"
+L 10/16/2016 - 21:19:23: [adminchat.amxx] Chat: "DEXEN<1436><STEAM_0:0:1179693161><>" chat "inca nu ti-am trimis"
+L 10/16/2016 - 21:19:26: [adminchat.amxx] Chat: "DEXEN<1436><STEAM_0:0:1179693161><>" chat "iti trimit"
+L 10/16/2016 - 21:19:37: [adminchat.amxx] Chat: "DEXEN<1436><STEAM_0:0:1179693161><>" chat "vii acum pe forum?"
+L 10/16/2016 - 21:20:51: [admin.amxx] Login: "Bidi<1435><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "b") (address "46.102.0.242")
+L 10/16/2016 - 21:21:45: [adminchat.amxx] Chat: "DEXEN<1436><STEAM_0:0:1179693161><>" chat "SOL"
+L 10/16/2016 - 21:21:51: [adminchat.amxx] Chat: "DEXEN<1436><STEAM_0:0:1179693161><>" chat "MERGI PE forum am dat pm"
+L 10/16/2016 - 21:27:03: [admin.amxx] Login: "dEz<1451><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 21:27:57: [admincmd.amxx] Cmd: "Bidi<1435><STEAM_0:1:45864800><>" slay "dEz<1451><STEAM_0:0:2136574392><>"
+L 10/16/2016 - 21:38:47: [adminchat.amxx] Chat: "flawless.<1374><VALVE_0:4:1230210422><>" chat " acm se preface"
+L 10/16/2016 - 21:39:55: [mapsmenu.amxx] Vote: "Bidi<1435><STEAM_0:1:45864800><>" vote maps (map#1 "deathrun_snow_wind") (map#2 "deathrun_laikiux_rawr") (map#3 "") (map#4 "")
+L 10/16/2016 - 21:40:08: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_laikiux_rawr
+L 10/16/2016 - 21:43:12: [admincmd.amxx] Cmd: "Bidi<1435><STEAM_0:1:45864800><>" change nick to "dr.fio" "Cs.StroNgCs.Ro#New Era [20]<1462><STEAM_0:0:169540056><>"
+L 10/16/2016 - 21:45:18: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Hacked<1465><STEAM_0:0:830910362><>"
+L 10/16/2016 - 21:45:24: -------- Mapchange to deathrun_laikiux_rawr --------
+L 10/16/2016 - 21:45:25: [admin.amxx] Login: "Bidi<1435><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "b") (address "46.102.0.242")
+L 10/16/2016 - 21:45:25: [admin.amxx] Login: "Joker$*<1394><VALVE_0:4:779540850><>" became an admin (account "Joker$*") (access "b") (address "92.80.177.245")
+L 10/16/2016 - 21:45:25: [admin.amxx] Login: "Sh0o7eR<1437><VALVE_0:4:356669810><>" became an admin (account "Sh0o7eR") (access "b") (address "92.80.216.131")
+L 10/16/2016 - 21:45:25: [admin.amxx] Login: "dEz<1451><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 21:45:26: [admin.amxx] Login: "ZALE<1395><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 21:45:26: [admin.amxx] Login: "dRaGoNeLy^ ;x<1466><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.179.75")
+L 10/16/2016 - 21:45:29: [admin.amxx] Login: "Sh0o7eR<1467><VALVE_0:4:356669810><>" became an admin (account "Sh0o7eR") (access "b") (address "92.80.216.131")
+L 10/16/2016 - 21:45:35: [admin.amxx] Login: "Nevrozatu<1470><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 21:46:05: [slayafk.amxx] Bidi a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 21:46:10: [slayafk.amxx] Sh0o7eR a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 21:46:40: [slayafk.amxx] Bidi a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 21:46:45: [slayafk.amxx] Sh0o7eR a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 21:47:08: [admincmd.amxx] Cmd: "Bidi<1435><STEAM_0:1:45864800><>" ask for players list
+L 10/16/2016 - 21:47:43: [adminchat.amxx] Chat: "Bidi<1435><STEAM_0:1:45864800><>" chat " :))"
+L 10/16/2016 - 21:47:50: [adminchat.amxx] Chat: "Bidi<1435><STEAM_0:1:45864800><>" chat "magictech"
+L 10/16/2016 - 21:47:54: [adminchat.amxx] Chat: "Bidi<1435><STEAM_0:1:45864800><>" chat "stiu ca esti :))"
+L 10/16/2016 - 21:49:30: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 21:49:30: [slayafk.amxx] Sh0o7eR a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 21:51:57: [adminchat.amxx] Chat: "dRaGoNeLy^ ;x<1466><STEAM_0:0:1727172594><>" tsay ""
+L 10/16/2016 - 21:52:05: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 21:53:20: [admin.amxx] Login: "dRaGoNeLy^ ;x<1475><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.179.75")
+L 10/16/2016 - 21:53:26: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dRaGoNeLy^ ;x<1475><STEAM_0:0:1727172594><>"
+L 10/16/2016 - 21:53:51: [admincmd.amxx] Cmd: "Bidi<1435><STEAM_0:1:45864800><>" ask for players list
+L 10/16/2016 - 21:54:35: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 21:54:45: [slayafk.amxx] Bidi a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 21:56:15: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 22:00:25: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 22:03:39: [admincmd.amxx] Cmd: "Joker$*<1394><VALVE_0:4:779540850><>" slay "Super urpok<1477><STEAM_0:0:578349722><>"
+L 10/16/2016 - 22:04:15: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 22:06:35: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 22:08:25: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 22:10:30: [slayafk.amxx] ZALE a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 22:11:05: [mapsmenu.amxx] Vote: "Joker$*<1394><VALVE_0:4:779540850><>" vote maps (map#1 "deathrun_hardsurf_v2") (map#2 "deathrun_crash_future") (map#3 "") (map#4 "")
+L 10/16/2016 - 22:11:17: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_crash_future
+L 10/16/2016 - 22:12:22: -------- Mapchange to deathrun_crash_future --------
+L 10/16/2016 - 22:12:24: [admin.amxx] Login: "dEz<1451><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 22:12:24: [admin.amxx] Login: "Joker$*<1394><VALVE_0:4:779540850><>" became an admin (account "Joker$*") (access "b") (address "92.80.177.245")
+L 10/16/2016 - 22:12:25: [admin.amxx] Login: "ZALE<1395><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 22:12:33: [admin.amxx] Login: "Nevrozatu<1481><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 22:13:52: [admin.amxx] Login: "dEz<1483><STEAM_0:0:2136574392><>" became an admin (account "dEz") (access "b") (address "92.83.115.148")
+L 10/16/2016 - 22:17:52: [admin.amxx] Login: "OreD<1485><VALVE_0:4:705361630><>" became an admin (account "OreD") (access "b") (address "5.15.73.253")
+L 10/16/2016 - 22:17:55: [admin.amxx] Login: "OreD<1486><VALVE_0:4:705361630><>" became an admin (account "OreD") (access "b") (address "5.15.73.253")
+L 10/16/2016 - 22:33:28: [admin.amxx] Login: "UFO.onsh<1489><VALVE_0:4:973097723><>" became an admin (account "UFO.onsh") (access "b") (address "79.119.92.221")
+L 10/16/2016 - 22:33:31: [admin.amxx] Login: "UFO.onsh<1490><VALVE_0:4:973097723><>" became an admin (account "UFO.onsh") (access "b") (address "79.119.92.221")
+L 10/16/2016 - 22:34:56: [admin.amxx] Login: "ZALE<1491><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 22:37:10: [admin.amxx] Login: "dRaGoNeLy^ ;x<1492><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.179.75")
+L 10/16/2016 - 22:38:17: -------- Mapchange to deathrun_wild --------
+L 10/16/2016 - 22:38:19: [admin.amxx] Login: "UFO.onsh<1490><VALVE_0:4:973097723><>" became an admin (account "UFO.onsh") (access "b") (address "79.119.92.221")
+L 10/16/2016 - 22:38:19: [admin.amxx] Login: "ZALE<1491><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 22:38:19: [admin.amxx] Login: "dRaGoNeLy^ ;x<1493><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.179.75")
+L 10/16/2016 - 22:38:19: [admin.amxx] Login: "UFO.onsh<1494><VALVE_0:4:973097723><>" became an admin (account "UFO.onsh") (access "b") (address "79.119.92.221")
+L 10/16/2016 - 22:38:21: [admin.amxx] Login: "dRaGoNeLy^ ;x<1495><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.179.75")
+L 10/16/2016 - 22:38:21: [admin.amxx] Login: "ZALE<1496><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 22:38:28: [admin.amxx] Login: "Nevrozatu<1500><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 22:46:37: [admin.amxx] Login: "dRaGoNeLy^ ;x<1507><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.179.75")
+L 10/16/2016 - 22:46:44: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "dRaGoNeLy^ ;x<1507><STEAM_0:0:1727172594><>"
+L 10/16/2016 - 22:49:09: [admin.amxx] Login: "vOci<1508><STEAM_0:1:120471225><>" became an admin (account "vOci") (access "b") (address "188.24.224.179")
+L 10/16/2016 - 22:49:11: [admin.amxx] Login: "vOci<1509><STEAM_0:1:120471225><>" became an admin (account "vOci") (access "b") (address "188.24.224.179")
+L 10/16/2016 - 22:49:24: [admin.amxx] Login: "dRaGoNeLy^ ;x<1510><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.179.75")
+L 10/16/2016 - 22:49:26: [admin.amxx] Login: "dRaGoNeLy^ ;x<1511><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.179.75")
+L 10/16/2016 - 22:50:43: [adminchat.amxx] Chat: "vOci<1509><STEAM_0:1:120471225><>" chat ""
+L 10/16/2016 - 22:57:33: [slayafk.amxx] Hacked a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 23:05:12: -------- Mapchange to deathrun_all_green --------
+L 10/16/2016 - 23:05:14: [admin.amxx] Login: "ZALE<1496><STEAM_0:0:246117789><>" became an admin (account "zale") (access "b") (address "109.101.36.15")
+L 10/16/2016 - 23:05:17: [admin.amxx] Login: "dRaGoNeLy^ ;x<1514><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.179.75")
+L 10/16/2016 - 23:05:18: [admin.amxx] Login: "dRaGoNeLy^ ;x<1515><STEAM_0:0:1727172594><>" became an admin (account "dRaGoNeLy^ ;x") (access "bit") (address "5.12.179.75")
+L 10/16/2016 - 23:05:23: [admin.amxx] Login: "Nevrozatu<1518><BOT><>" became an admin (account "Nevrozatu") (access "b") (address "127.0.0.1")
+L 10/16/2016 - 23:09:13: [admin.amxx] Login: "m-emo<1521><STEAM_0:0:240493395><>" kicked due to invalid password (account "m-emo") (address "95.76.2.114")
+L 10/16/2016 - 23:24:57: [admin.amxx] Login: "LoLz<1528><VALVE_0:4:364992373><>" became an admin (account "LoLz") (access "b") (address "82.76.222.130")
+L 10/16/2016 - 23:24:58: [admin.amxx] Login: "LoLz<1529><VALVE_0:4:364992373><>" became an admin (account "LoLz") (access "b") (address "82.76.222.130")
+L 10/16/2016 - 23:43:08: [slayafk.amxx] zeuS. a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 10/16/2016 - 23:57:18: [slayafk.amxx] LynxBest ;x Viki:$ a primit slay, deoarece a fost afk mai mult de 30 secunde

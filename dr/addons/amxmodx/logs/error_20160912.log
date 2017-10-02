@@ -1,0 +1,6 @@
+L 09/12/2016 - 13:37:14: Start of error session.
+L 09/12/2016 - 13:37:14: Info (map "deathrun_projetocs2") (file "addons/amxmodx/logs/error_20160912.log")
+L 09/12/2016 - 13:37:14: [CSTRIKE] Invalid player 6
+L 09/12/2016 - 13:37:14: [AMXX] Displaying debug trace (plugin "newtero3.amxx", version "1.0")
+L 09/12/2016 - 13:37:14: [AMXX] Run time error 10: native error (native "cs_get_user_team")
+L 09/12/2016 - 13:37:14: [AMXX]    [0] newtero3.sma::askTero (line 346)

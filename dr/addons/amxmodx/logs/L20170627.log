@@ -1,0 +1,264 @@
+L 06/27/2017 - 00:07:31: -------- Mapchange to deathrun_expres-winter --------
+L 06/27/2017 - 00:07:32: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 00:07:33: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 00:26:56: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "PRO-Player-FL<378><STEAM_0:0:1778032147><>"
+L 06/27/2017 - 00:31:10: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "PRO-Player-FL<380><STEAM_0:0:1778032147><>"
+L 06/27/2017 - 00:31:53: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "PRO-Player-FL<382><STEAM_0:0:1778032147><>"
+L 06/27/2017 - 00:34:37: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "PRO-Player-FL<384><STEAM_0:0:1778032147><>"
+L 06/27/2017 - 00:36:30: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "PRO-Player-FL<386><STEAM_0:0:1778032147><>"
+L 06/27/2017 - 01:05:57: -------- Mapchange to deathrun_alleywinter --------
+L 06/27/2017 - 01:05:58: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 01:05:59: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 01:31:18: -------- Mapchange to deathrun_trenal_lux --------
+L 06/27/2017 - 01:31:20: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 01:31:21: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 02:04:25: -------- Mapchange to deathrun_greyskull --------
+L 06/27/2017 - 02:04:27: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 02:04:28: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 03:03:52: -------- Mapchange to deathrun_stronghold_beta1 --------
+L 06/27/2017 - 03:03:53: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 03:03:54: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 03:28:21: [admin.amxx] Login: "SWAGGIE. XD<413><STEAM_0:1:120414993><>" became an admin (account "SWAGGIE. XD") (access "b") (address "109.98.131.207")
+L 06/27/2017 - 03:28:28: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "SWAGGIE. XD<413><STEAM_0:1:120414993><>"
+L 06/27/2017 - 03:29:28: [admincmd.amxx] Cmd: "SWAGGIE. XD<413><STEAM_0:1:120414993><>" changelevel "deathrun_challenge_x"
+L 06/27/2017 - 03:29:30: -------- Mapchange to deathrun_challenge_x --------
+L 06/27/2017 - 03:29:31: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 03:29:32: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 03:29:32: [admin.amxx] Login: "SWAGGIE. XD<413><STEAM_0:1:120414993><>" became an admin (account "SWAGGIE. XD") (access "b") (address "109.98.131.207")
+L 06/27/2017 - 03:38:39: [admin.amxx] Login: "SWAGGIE. XD<421><STEAM_0:1:120414993><>" became an admin (account "SWAGGIE. XD") (access "b") (address "109.98.131.207")
+L 06/27/2017 - 03:38:42: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Ami<420><VALVE_0:4:1488603643><>"
+L 06/27/2017 - 03:38:45: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "SWAGGIE. XD<421><STEAM_0:1:120414993><>"
+L 06/27/2017 - 03:38:49: [admin.amxx] Login: "SWAGGIE. XD<423><STEAM_0:1:120414993><>" became an admin (account "SWAGGIE. XD") (access "b") (address "109.98.131.207")
+L 06/27/2017 - 03:38:56: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "SWAGGIE. XD<423><STEAM_0:1:120414993><>"
+L 06/27/2017 - 03:38:57: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Ami<424><VALVE_0:4:1488603643><>"
+L 06/27/2017 - 03:41:07: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:42:12: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:44:07: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:46:37: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:48:17: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:51:57: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:52:32: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:53:07: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:53:42: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:54:12: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:54:47: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:55:22: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:55:57: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:56:32: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:57:07: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:57:37: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:58:12: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:58:42: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:59:17: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 03:59:47: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 04:00:22: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 04:00:57: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 04:01:32: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 04:02:07: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 04:02:47: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 04:03:22: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 04:03:27: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 04:04:07: [slayafk.amxx] Ami a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 04:04:10: -------- Mapchange to deathrun_pyramid --------
+L 06/27/2017 - 04:04:11: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 04:04:12: [admin.amxx] Login: "SWAGGIE. XD<423><STEAM_0:1:120414993><>" became an admin (account "SWAGGIE. XD") (access "b") (address "109.98.131.207")
+L 06/27/2017 - 04:04:12: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 04:04:14: [admin.amxx] Login: "SWAGGIE. XD<427><STEAM_0:1:120414993><>" became an admin (account "SWAGGIE. XD") (access "b") (address "109.98.131.207")
+L 06/27/2017 - 08:19:36: -------- Mapchange to deathrun_standup --------
+L 06/27/2017 - 08:19:37: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 08:19:38: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 09:37:46: -------- Mapchange to deathrun_sentinel --------
+L 06/27/2017 - 09:37:57: -------- Mapchange to deathrun_forest --------
+L 06/27/2017 - 09:38:05: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 09:38:06: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 09:38:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// *ROM-Protect// Plugin OpenSource anti-IsFlooding/bug-fix pentru orice server." lang "")
+L 06/27/2017 - 09:38:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Versiunea : 1.0.4s-dev. Bulid : 98. Data lansarii versiunii : 03.12.2016." lang "")
+L 06/27/2017 - 09:38:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Autor : lüxor # Dr.Fio & DR2.IND (+ eNd.) - SteamID (contact) : luxxxoor" lang "")
+L 06/27/2017 - 09:38:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// O productie FioriGinal.ro - site : www.fioriginal.ro" lang "")
+L 06/27/2017 - 09:38:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link forum de dezvoltare : http://forum.fioriginal.ro/amxmodx-plugins-pluginuri/rom-protect-anti-flood-bug-fix-t28292.html" lang "")
+L 06/27/2017 - 09:38:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link sursa : https://github.com/luxxxoor/ROM-Protect" lang "")
+L 06/27/2017 - 09:38:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Colori : ^1 - Culoarea aleasa de jucator cu con_color." lang "")
+L 06/27/2017 - 09:38:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^3 - Culoare gri." lang "")
+L 06/27/2017 - 09:38:15: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^4 - Culoare verde." lang "")
+L 06/27/2017 - 10:03:49: -------- Mapchange to deathrun_jinglebells --------
+L 06/27/2017 - 10:03:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 10:03:51: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 10:06:56: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:07:36: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:08:16: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:08:56: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:09:36: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:10:16: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:10:56: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:11:36: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:12:16: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:12:56: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:13:36: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:14:16: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:14:56: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:15:36: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:16:16: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:16:56: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:17:36: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:18:16: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:18:56: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:19:41: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:20:26: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:21:11: [slayafk.amxx] AwL|pabloo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:26:55: [admin.amxx] Login: "Sol<12><STEAM_0:0:437270799><>" kicked due to invalid password (account "Sol") (address "88.158.149.44")
+L 06/27/2017 - 10:29:04: -------- Mapchange to deathrun_long_run --------
+L 06/27/2017 - 10:29:05: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 10:29:06: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 10:38:15: [slayafk.amxx] velica a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:40:20: [slayafk.amxx] velica a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:41:45: [slayafk.amxx] velica a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:43:05: [slayafk.amxx] velica a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:45:03: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "velica<19><STEAM_0:0:95544616><>"
+L 06/27/2017 - 10:46:25: [slayafk.amxx] velica a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:47:30: [slayafk.amxx] velica a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 10:48:40: [slayafk.amxx] velica a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 11:00:10: -------- Mapchange to deathrun_virtualstrike --------
+L 06/27/2017 - 11:00:12: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 11:00:13: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 11:18:57: [slayafk.amxx] velica a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 11:25:21: -------- Mapchange to deathrun_nightrun_beta3 --------
+L 06/27/2017 - 11:25:22: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 11:25:23: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 12:04:14: -------- Mapchange to deathrun_0mega --------
+L 06/27/2017 - 12:04:15: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 12:04:16: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 12:18:11: [slayafk.amxx] GunGreen a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 12:21:51: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Rambo<52><VALVE_0:4:2141828597><>"
+L 06/27/2017 - 12:25:48: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "Rambo<57><VALVE_0:4:2141828597><>"
+L 06/27/2017 - 12:37:43: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "vuia vlaceanu<59><STEAM_0:0:1125805092><>"
+L 06/27/2017 - 12:40:43: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "vuia valceanu<62><STEAM_0:0:1125805092><>"
+L 06/27/2017 - 12:41:00: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "vuia valceanu<63><STEAM_0:0:1125805092><>"
+L 06/27/2017 - 12:44:33: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "vuia valceanu<67><STEAM_0:0:1125805092><>"
+L 06/27/2017 - 12:46:14: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "vuia valceanu<70><STEAM_0:0:1125805092><>"
+L 06/27/2017 - 12:47:51: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "vuia valceanu<71><STEAM_0:0:1125805092><>"
+L 06/27/2017 - 12:48:34: [admin.amxx] Login: "Bidi<72><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "bit") (address "46.102.0.189")
+L 06/27/2017 - 12:48:39: [admin.amxx] Login: "Bidi<74><STEAM_0:1:45864800><>" became an admin (account "Bidi") (access "bit") (address "46.102.0.189")
+L 06/27/2017 - 12:48:45: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "vuia valceanu<73><STEAM_0:0:1125805092><>"
+L 06/27/2017 - 12:50:10: [mapsmenu.amxx] Vote: "Bidi<74><STEAM_0:1:45864800><>" vote maps (map#1 "deathrun_bhopz_v2") (map#2 "deathrun_clarion_dojo_b3") (map#3 "") (map#4 "")
+L 06/27/2017 - 12:50:22: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to deathrun_clarion_dojo_b3
+L 06/27/2017 - 12:50:49: -------- Mapchange to deathrun_clarion_dojo_b3 --------
+L 06/27/2017 - 12:50:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 12:50:51: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 18:02:03: -------- Mapchange to deathrun_forest --------
+L 06/27/2017 - 18:02:09: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 18:02:11: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 18:02:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// *ROM-Protect// Plugin OpenSource anti-IsFlooding/bug-fix pentru orice server." lang "")
+L 06/27/2017 - 18:02:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Versiunea : 1.0.4s-dev. Bulid : 98. Data lansarii versiunii : 03.12.2016." lang "")
+L 06/27/2017 - 18:02:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Autor : lüxor # Dr.Fio & DR2.IND (+ eNd.) - SteamID (contact) : luxxxoor" lang "")
+L 06/27/2017 - 18:02:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// O productie FioriGinal.ro - site : www.fioriginal.ro" lang "")
+L 06/27/2017 - 18:02:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link forum de dezvoltare : http://forum.fioriginal.ro/amxmodx-plugins-pluginuri/rom-protect-anti-flood-bug-fix-t28292.html" lang "")
+L 06/27/2017 - 18:02:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Link sursa : https://github.com/luxxxoor/ROM-Protect" lang "")
+L 06/27/2017 - 18:02:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "// Colori : ^1 - Culoarea aleasa de jucator cu con_color." lang "")
+L 06/27/2017 - 18:02:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^3 - Culoare gri." lang "")
+L 06/27/2017 - 18:02:20: Invalid multi-lingual line (file "cstrike/addons/amxmodx/data/lang/rom_protect.txt" key "//          ^4 - Culoare verde." lang "")
+L 06/27/2017 - 18:13:39: [admin.amxx] Login: "SWAGGIE. XD<6><STEAM_0:1:120414993><>" became an admin (account "SWAGGIE. XD") (access "b") (address "109.98.131.207")
+L 06/27/2017 - 18:13:41: [admin.amxx] Login: "SWAGGIE. XD<7><STEAM_0:1:120414993><>" became an admin (account "SWAGGIE. XD") (access "b") (address "109.98.131.207")
+L 06/27/2017 - 18:14:06: [admin.amxx] Login: "NebunieX<8><STEAM_0:0:53596872><>" became an admin (account "Nebuniex") (access "bit") (address "86.120.32.163")
+L 06/27/2017 - 18:14:11: [admin.amxx] Login: "NebunieX<9><STEAM_0:0:53596872><>" became an admin (account "Nebuniex") (access "bit") (address "86.120.32.163")
+L 06/27/2017 - 18:14:36: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:20:27: [admin.amxx] Login: "-rTg|maEsTrOo<11><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.126.36")
+L 06/27/2017 - 18:20:34: [admin.amxx] Login: "anca<12><STEAM_0:0:58514266><>" became an admin (account "anca") (access "bit") (address "109.103.126.196")
+L 06/27/2017 - 18:23:13: [adminchat.amxx] Chat: "anca<12><STEAM_0:0:58514266><>" chat "ly:*"
+L 06/27/2017 - 18:23:18: [adminchat.amxx] Chat: "-rTg|maEsTrOo<11><STEAM_0:1:154430568><>" chat "lyt :* >:D<"
+L 06/27/2017 - 18:25:06: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:32:21: [slayafk.amxx] .::OLD HACKER::.PRO a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:34:46: [comp_timer2.amxx] Error on query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'peeps' AND Map = 'deathrun_forest'' at line 1
+L 06/27/2017 - 18:34:46: [comp_timer2.amxx] FailState == TQUERY_QUERY_FAILED, Query failed.
+L 06/27/2017 - 18:40:27: -------- Mapchange to deathrun_jinglebells --------
+L 06/27/2017 - 18:40:29: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 18:40:30: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 18:40:30: [admin.amxx] Login: "anca<12><STEAM_0:0:58514266><>" became an admin (account "anca") (access "bit") (address "109.103.126.196")
+L 06/27/2017 - 18:40:30: [admin.amxx] Login: "SWAGGIE. XD<7><STEAM_0:1:120414993><>" became an admin (account "SWAGGIE. XD") (access "b") (address "109.98.131.207")
+L 06/27/2017 - 18:40:32: [admin.amxx] Login: "SWAGGIE. XD<18><STEAM_0:1:120414993><>" became an admin (account "SWAGGIE. XD") (access "b") (address "109.98.131.207")
+L 06/27/2017 - 18:40:40: [admin.amxx] Login: "-rTg|maEsTrOo<22><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.126.36")
+L 06/27/2017 - 18:40:49: [admincmd.amxx] Cmd: "anca<12><STEAM_0:0:58514266><>" changelevel "deathrun_holiday"
+L 06/27/2017 - 18:40:51: -------- Mapchange to deathrun_holiday --------
+L 06/27/2017 - 18:40:52: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 18:40:53: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 18:40:53: [admin.amxx] Login: "-rTg|maEsTrOo<22><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.126.36")
+L 06/27/2017 - 18:40:53: [admin.amxx] Login: "SWAGGIE. XD<18><STEAM_0:1:120414993><>" became an admin (account "SWAGGIE. XD") (access "b") (address "109.98.131.207")
+L 06/27/2017 - 18:40:53: [admin.amxx] Login: "anca<12><STEAM_0:0:58514266><>" became an admin (account "anca") (access "bit") (address "109.103.126.196")
+L 06/27/2017 - 18:40:55: [admin.amxx] Login: "SWAGGIE. XD<23><STEAM_0:1:120414993><>" became an admin (account "SWAGGIE. XD") (access "b") (address "109.98.131.207")
+L 06/27/2017 - 18:41:58: [slayafk.amxx] .::OLD HACKER::.PRO a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:42:53: [slayafk.amxx] .::OLD HACKER::.PRO a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:43:56: [admin.amxx] Login: "LoV3<29><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 06/27/2017 - 18:44:28: [slayafk.amxx] .::OLD HACKER::.PRO a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:44:43: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:45:08: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:46:28: [slayafk.amxx] -rTg|maEsTrOo a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:46:53: [slayafk.amxx] SWAGGIE. XD a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:48:33: [slayafk.amxx] .::OLD HACKER::.PRO a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:49:28: [slayafk.amxx] .::OLD HACKER::.PRO a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:50:36: [adminchat.amxx] Chat: "anca<12><STEAM_0:0:58514266><>" chat "iubiii"
+L 06/27/2017 - 18:50:39: [adminchat.amxx] Chat: "-rTg|maEsTrOo<22><STEAM_0:1:154430568><>" chat "da iubii :>"
+L 06/27/2017 - 18:50:40: [adminchat.amxx] Chat: "-rTg|maEsTrOo<22><STEAM_0:1:154430568><>" chat ":))"
+L 06/27/2017 - 18:50:45: [adminchat.amxx] Chat: "anca<12><STEAM_0:0:58514266><>" chat "muah:*"
+L 06/27/2017 - 18:50:46: [adminchat.amxx] Chat: "anca<12><STEAM_0:0:58514266><>" chat ":))"
+L 06/27/2017 - 18:50:58: [slayafk.amxx] .::OLD HACKER::.PRO a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:52:43: [slayafk.amxx] .::OLD HACKER::.PRO a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:57:43: [slayafk.amxx] anca a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:57:50: [admincmd.amxx] Cmd: "LoV3<29><STEAM_0:0:137776089><>" ask for players list
+L 06/27/2017 - 18:58:05: [admincmd.amxx] Cmd: "LoV3<29><STEAM_0:0:137776089><>" changelevel "deathrun_shit_v2"
+L 06/27/2017 - 18:58:07: -------- Mapchange to deathrun_shit_v2 --------
+L 06/27/2017 - 18:58:09: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 18:58:10: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 18:58:10: [admin.amxx] Login: "anca<12><STEAM_0:0:58514266><>" became an admin (account "anca") (access "bit") (address "109.103.126.196")
+L 06/27/2017 - 18:58:10: [admin.amxx] Login: "-rTg|maEsTrOo<22><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.126.36")
+L 06/27/2017 - 18:58:17: [admin.amxx] Login: "LoV3<30><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 06/27/2017 - 18:58:54: [slayafk.amxx] anca a primit slay, deoarece a fost afk mai mult de 30 secunde
+L 06/27/2017 - 18:59:01: [admincmd.amxx] Cmd: "LoV3<30><STEAM_0:0:137776089><>" slay "anca<12><STEAM_0:0:58514266><>"
+L 06/27/2017 - 18:59:18: [telemenu.amxx] Cmd: "LoV3<30><STEAM_0:0:137776089><>" teleport "anca<12><STEAM_0:0:58514266><>"
+L 06/27/2017 - 19:01:57: [admincmd.amxx] Cmd: "anca<12><STEAM_0:0:58514266><>" server console (cmdline "restart")
+L 06/27/2017 - 19:01:57: -------- Mapchange to deathrun_shit_v2 --------
+L 06/27/2017 - 19:01:58: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 19:01:59: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 19:01:59: [admin.amxx] Login: "LoV3<30><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 06/27/2017 - 19:01:59: [admin.amxx] Login: "-rTg|maEsTrOo<22><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.126.36")
+L 06/27/2017 - 19:02:03: [admin.amxx] Login: "anca<36><STEAM_0:0:58514266><>" became an admin (account "anca") (access "bit") (address "109.103.126.196")
+L 06/27/2017 - 19:07:53: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<22><STEAM_0:1:154430568><>" changelevel "deathrun_bhopz_v2"
+L 06/27/2017 - 19:07:55: -------- Mapchange to deathrun_bhopz_v2 --------
+L 06/27/2017 - 19:07:56: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 19:07:57: [admin.amxx] Login: "LoV3<30><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 06/27/2017 - 19:07:57: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 19:07:58: [admin.amxx] Login: "anca<36><STEAM_0:0:58514266><>" became an admin (account "anca") (access "bit") (address "109.103.126.196")
+L 06/27/2017 - 19:07:58: [admin.amxx] Login: "-rTg|maEsTrOo<22><STEAM_0:1:154430568><>" became an admin (account "-rTg|maEsTrOo") (access "bit") (address "89.123.126.36")
+L 06/27/2017 - 19:10:13: [telemenu.amxx] Cmd: "LoV3<30><STEAM_0:0:137776089><>" teleport "XeqT<46><STEAM_0:0:32336485><>"
+L 06/27/2017 - 19:10:31: [telemenu.amxx] Cmd: "LoV3<30><STEAM_0:0:137776089><>" teleport "LoV3<30><STEAM_0:0:137776089><>"
+L 06/27/2017 - 19:10:32: [telemenu.amxx] Cmd: "LoV3<30><STEAM_0:0:137776089><>" teleport "LoV3<30><STEAM_0:0:137776089><>"
+L 06/27/2017 - 19:10:32: [telemenu.amxx] Cmd: "LoV3<30><STEAM_0:0:137776089><>" teleport "LoV3<30><STEAM_0:0:137776089><>"
+L 06/27/2017 - 19:10:34: [telemenu.amxx] Cmd: "LoV3<30><STEAM_0:0:137776089><>" teleport "LoV3<30><STEAM_0:0:137776089><>"
+L 06/27/2017 - 19:11:56: [admincmd.amxx] Cmd: "-rTg|maEsTrOo<22><STEAM_0:1:154430568><>" slay counter-terrorists team
+L 06/27/2017 - 19:15:50: [admin.amxx] Login: "LoV3<61><STEAM_0:0:137776089><>" became an admin (account "LoV3") (access "b") (address "109.102.38.10")
+L 06/27/2017 - 19:17:45: [telemenu.amxx] Cmd: "-rTg|maEsTrOo<22><STEAM_0:1:154430568><>" teleport "LoV3<61><STEAM_0:0:137776089><>"
+L 06/27/2017 - 19:19:43: [telemenu.amxx] Cmd: "LoV3<61><STEAM_0:0:137776089><>" teleport "LoV3<61><STEAM_0:0:137776089><>"
+L 06/27/2017 - 19:21:36: [telemenu.amxx] Cmd: "LoV3<61><STEAM_0:0:137776089><>" teleport "LoV3<61><STEAM_0:0:137776089><>"
+L 06/27/2017 - 19:21:56: [telemenu.amxx] Cmd: "LoV3<61><STEAM_0:0:137776089><>" teleport "LoV3<61><STEAM_0:0:137776089><>"
+L 06/27/2017 - 19:22:04: [telemenu.amxx] Cmd: "LoV3<61><STEAM_0:0:137776089><>" teleport "LoV3<61><STEAM_0:0:137776089><>"
+L 06/27/2017 - 19:23:28: [admin.amxx] Login: "anca<65><STEAM_0:0:58514266><>" became an admin (account "anca") (access "bit") (address "109.103.126.196")
+L 06/27/2017 - 19:40:14: [admin.amxx] Login: "Stifler<66><STEAM_0:1:22458368><>" became an admin (account "Stifler") (access "b") (address "31.5.145.190")
+L 06/27/2017 - 20:05:35: -------- Mapchange to deathrun_discovery3 --------
+L 06/27/2017 - 20:05:36: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 20:05:37: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 20:20:22: [admin.amxx] Login: "NebunieX<77><STEAM_0:0:53596872><>" became an admin (account "Nebuniex") (access "bit") (address "86.120.32.124")
+L 06/27/2017 - 20:20:28: [admin.amxx] Login: "NebunieX<78><STEAM_0:0:53596872><>" became an admin (account "Nebuniex") (access "bit") (address "86.120.32.124")
+L 06/27/2017 - 20:38:14: -------- Mapchange to deathrun_adi_blurez --------
+L 06/27/2017 - 20:38:16: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 20:38:16: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 21:06:35: -------- Mapchange to deathrun_2h_estonia --------
+L 06/27/2017 - 21:06:37: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 21:06:38: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 21:50:24: -------- Mapchange to deathrun_y_underground --------
+L 06/27/2017 - 21:50:25: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 21:50:26: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 23:04:31: [admincmd.amxx] Cmd: "Dr.FioriGinal.Ro ~ Server Clasi<0><><>" slay "acubens<153><STEAM_0:0:178118778><>"
+L 06/27/2017 - 23:15:55: -------- Mapchange to deathrun_privateers --------
+L 06/27/2017 - 23:15:56: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 23:15:57: [walkguard.amxx] no zone-file found
+L 06/27/2017 - 23:48:47: -------- Mapchange to deathrun_rizzy_x --------
+L 06/27/2017 - 23:48:49: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/walkguard.txt
+L 06/27/2017 - 23:48:50: [walkguard.amxx] no zone-file found

@@ -1,0 +1,7 @@
+L 01/22/2017 - 15:09:09: Start of error session.
+L 01/22/2017 - 15:09:09: Info (map "deathrun_bhopz_v2") (file "addons/amxmodx/logs/error_20170122.log")
+L 01/22/2017 - 15:09:09: Forward-ul nu s-a putut executa.
+L 01/22/2017 - 15:09:09: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 01/22/2017 - 15:09:09: [AMXX] Run time error 1: forced exit 
+L 01/22/2017 - 15:09:09: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 01/22/2017 - 15:09:09: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 187)

@@ -1,0 +1,11 @@
+L 03/12/2017 - 15:26:35: Start of error session.
+L 03/12/2017 - 15:26:35: Info (map "deathrun_nightrun_beta3") (file "addons/amxmodx/logs/error_20170312.log")
+L 03/12/2017 - 15:26:35: Forward-ul nu s-a putut executa.
+L 03/12/2017 - 15:26:35: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 03/12/2017 - 23:00:33: Start of error session.
+L 03/12/2017 - 23:00:33: Info (map "deathrun_inferno_beta1") (file "addons/amxmodx/logs/error_20170312.log")
+L 03/12/2017 - 23:00:33: [AMXX] Plugin ("advanced_bans_sql.amxx") is setting itself as failed.
+L 03/12/2017 - 23:00:33: [AMXX] Plugin says: Could not connect to database.
+L 03/12/2017 - 23:00:33: [AMXX] Displaying debug trace (plugin "advanced_bans_sql.amxx", version "0.8.1")
+L 03/12/2017 - 23:00:33: [AMXX] Run time error 1: forced exit 
+L 03/12/2017 - 23:00:33: [AMXX]    [0] advanced_bans_sql.sma::QueryLoadBans (line 694)

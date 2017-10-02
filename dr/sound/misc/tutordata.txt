@@ -1,0 +1,1417 @@
+// String - the localization label for the message to be displayed
+// Priority - the message's priority. valid values are 0-255
+// Duration - The amount of time in seconds to show the message.
+// KeepOld - If a message of this type is on the screen already, should we just keep the old one or create a new one?
+// Class - Examine or Normal.  Examine messages only show up after looking at the proper class of entity for 0.5 seconds.
+// Type - Default, FriendDeath, EnemyDeath, Scenario, Buy, Career, Hint, InGameHint (more to come). This determines if a message is played when the player is dead or not. There is also a different sound for each type. (there will be anyways)
+// Decay - How many times a player will see this message before it stops being displayed. (value of 0 means no decay) Decay only applies to "Normal" class messages.
+// Lifetime - How long this message will live without being displayed until it is discarded.
+// DuplicateID - if two messages have these be the same and non-zero they will be treated as if they have the same ID.
+// Interrupt - Normal, NowDammit.  Normal respects minimum display times, NowDammit does not.
+// MinDurationOverride - The minimum display time for a message becomes the maximum of this override value and the value calculated buy the game.
+
+Defaults
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Default
+  Decay 10
+  Lifetime 5
+  DuplicateID 0
+  Interrupt Normal
+  MinDurationOverride 0
+  MinRepeatInterval 0
+End
+
+//TutorMessage YOU_FIRED_A_SHOT
+//  String "#Cstrike_Tutor_You_Fired_A_Shot"
+//  Priority 0
+//  Duration 1
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+
+TutorMessage YOU_SHOULD_RELOAD
+  String "#Cstrike_Tutor_You_Should_Reload"
+  Priority 5
+  Duration 2
+  KeepOld True
+  Class Normal
+  Type Default
+  Decay 0
+  Lifetime 2
+  MinRepeatInterval 5
+End
+
+TutorMessage YOU_ARE_OUT_OF_AMMO
+  String "#Cstrike_Tutor_You_Are_Out_Of_Ammo"
+  Priority 31
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Default
+  Decay 0
+  MinRepeatInterval 10
+End
+
+TutorMessage YOU_KILLED_A_TEAMMATE
+  String "#Cstrike_Tutor_You_Killed_A_Teammate"
+  Priority 40
+  Duration 3
+  KeepOld False
+  Class FriendDeath
+  Type Default
+  Decay 0
+End
+
+TutorMessage YOU_KILLED_PLAYER
+  String "#Cstrike_Tutor_You_Killed_Player"
+  Priority 32
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type EnemyDeath
+  Decay 0
+End
+
+TutorMessage YOU_KILLED_PLAYER_HEADSHOT
+  String "#Cstrike_Tutor_You_Killed_Player_Headshot"
+  Priority 32
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type EnemyDeath
+  Decay 0
+End
+
+TutorMessage YOU_DIED
+  String "#Cstrike_Tutor_You_Died"
+  Priority 255
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type FriendDeath
+  Decay 0
+  Interrupt NowDammit
+  MinDurationOverride 3
+End
+
+TutorMessage YOU_DIED_HEADSHOT
+  String "#Cstrike_Tutor_You_Died_Headshot"
+  Priority 255
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type FriendDeath
+  Decay 0
+  Interrupt NowDammit
+  MinDurationOverride 3
+End
+
+TutorMessage YOU_FELL_TO_YOUR_DEATH
+  String "#Cstrike_Tutor_You_Fell_To_Your_Death"
+  Priority 255
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type FriendDeath
+  Decay 0
+  Interrupt NowDammit
+  MinDurationOverride 3
+End
+
+//TutorMessage YOU_WERE_JUST_HURT
+//  String "#Cstrike_Tutor_You_Were_Just_Hurt"
+//  Priority 40
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+
+TutorMessage YOU_ARE_BLIND_FROM_FLASHBANG
+  String "#Cstrike_Tutor_You_Are_Blind_From_Flashbang"
+  Priority 50
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Default
+  Decay 5
+End
+
+TutorMessage YOU_ATTACKED_TEAMMATE
+  String "#Cstrike_Tutor_You_Attacked_Teammate"
+  Priority 45
+  Duration 2
+  KeepOld False
+  Class Normal
+  Type Default
+  Decay 5
+End
+
+TutorMessage BOMB_PLANTED_T
+  String "#Cstrike_Tutor_Bomb_Planted_T"
+  Priority 35
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage BOMB_PLANTED_CT
+  String "#Cstrike_Tutor_Bomb_Planted_CT"
+  Priority 35
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage LAST_TEAMMATE_KILLED
+  String "#Cstrike_Tutor_Last_Teammate_Killed"
+  Priority 25
+  Duration 2
+  Decay 0
+  Type FriendDeath
+End
+
+TutorMessage TEAMMATE_KILLED_ONE_LEFT
+  String "#Cstrike_Tutor_Teammate_Killed_One_Left"
+  Priority 25
+  Duration 2
+  Decay 0
+  Type FriendDeath
+End
+
+TutorMessage TEAMMATE_KILLED
+  String "#Cstrike_Tutor_Teammate_Killed"
+  Priority 25
+  Duration 2
+  KeepOld False
+  Class Normal
+  Type FriendDeath
+  Decay 0
+End
+
+TutorMessage LAST_ENEMY_KILLED
+  String "#Cstrike_Tutor_Last_Enemy_Killed"
+  Priority 25
+  Duration 2
+  Decay 0
+  Type EnemyDeath
+End
+
+TutorMessage ENEMY_KILLED_ONE_LEFT
+  String "#Cstrike_Tutor_Enemy_Killed_One_Left"
+  Priority 25
+  Duration 2
+  Decay 0
+  Type EnemyDeath
+End
+
+TutorMessage ENEMY_KILLED
+  String "#Cstrike_Tutor_Enemy_Killed"
+  Priority 25
+  Duration 2
+  KeepOld False
+  Class Normal
+  Type EnemyDeath
+  Decay 0
+End
+
+//TutorMessage YOU_SPAWNED
+//  String "#Cstrike_Tutor_You_Spawned"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Scenario
+//  Decay 10
+//End
+
+TutorMessage YOU_SEE_FRIEND
+  String "#Cstrike_Tutor_You_See_Friend"
+  Priority 2
+  Duration 1
+  KeepOld True
+  Class Examine
+  Type Default
+  Decay 5
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_ENEMY
+  String "#Cstrike_Tutor_You_See_Enemy"
+  Priority 3
+  Duration 1
+  KeepOld True
+  Class Examine
+  Type Default
+  Decay 5
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_FRIEND_CORPSE
+  String "#Cstrike_Tutor_You_See_Friend"
+  Priority 2
+  Duration 1
+  KeepOld True
+  Class Examine
+  Type Default
+  Decay 5
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_ENEMY_CORPSE
+  String "#Cstrike_Tutor_You_See_Enemy"
+  Priority 2
+  Duration 1
+  KeepOld True
+  Class Examine
+  Type Default
+  Decay 5
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_LOOSE_BOMB_T
+  String "#Cstrike_Tutor_You_See_Loose_Bomb_T"
+  Priority 3
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 10
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_LOOSE_BOMB_CT
+  String "#Cstrike_Tutor_You_See_Loose_Bomb_CT"
+  Priority 3
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 10
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_BOMB_CARRIER_T
+  String "#Cstrike_Tutor_You_See_Bomb_Carrier_T"
+  Priority 3
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 5
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_BOMB_CARRIER_CT
+  String "#Cstrike_Tutor_You_See_Bomb_Carrier_CT"
+  Priority 3
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 0
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_PLANTED_BOMB_T
+  String "#Cstrike_Tutor_You_See_Planted_Bomb_T"
+  Priority 3
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 10
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_PLANTED_BOMB_CT
+  String "#Cstrike_Tutor_You_See_Planted_Bomb_CT"
+  Priority 3
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 0
+  Lifetime 1
+End
+
+TutorMessage YOU_ARE_BOMB_CARRIER
+  String "#Cstrike_Tutor_You_Are_Bomb_Carrier"
+  Priority 30
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 10
+End
+
+TutorMessage YOU_SEE_LOOSE_WEAPON
+  String "#Cstrike_Tutor_You_See_Loose_Weapon"
+  Priority 2
+  Duration 1
+  KeepOld True
+  Class Examine
+  Type Default
+  Decay 0
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_LOOSE_DEFUSER
+  String "#Cstrike_Tutor_You_See_Loose_Defuser"
+  Priority 1
+  Duration 1
+  KeepOld True
+  Class Examine
+  Type Default
+  Decay 0
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_BOMBSITE_T
+  String "#Cstrike_Tutor_You_See_Bombsite_T"
+  Priority 3
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 5
+  Lifetime 3
+  MinRepeatInterval 4
+End
+
+TutorMessage YOU_ARE_IN_BOMBSITE_T
+  String "#Cstrike_Tutor_You_See_Bombsite_T"
+  Priority 4
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 0
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_BOMBSITE_CT
+  String "#Cstrike_Tutor_You_See_Bombsite_CT"
+  Priority 3
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 5
+  Lifetime 3
+  MinRepeatInterval 4
+End
+
+TutorMessage YOU_ARE_IN_BOMBSITE_CT
+  String "#Cstrike_Tutor_You_See_Bombsite_CT"
+  Priority 4
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 0
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_BOMBSITE_T_BOMB
+  String "#Cstrike_Tutor_You_See_Bombsite_T_Bomb"
+  Priority 3
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 5
+  Lifetime 3
+  MinRepeatInterval 4
+End
+
+TutorMessage YOU_ARE_IN_BOMBSITE_T_BOMB
+  String "#Cstrike_Tutor_You_See_Bombsite_T_Bomb"
+  Priority 4
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 0
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_HOSTAGE_T
+  String "#Cstrike_Tutor_You_See_Hostage_T"
+  Priority 3
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 10
+  Lifetime 1
+End
+
+TutorMessage YOU_SEE_HOSTAGE_CT
+  String "#Cstrike_Tutor_You_See_Hostage_CT"
+  Priority 3
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 10
+  Lifetime 1
+End
+
+TutorMessage YOU_USED_HOSTAGE_MORE_LEFT
+  String "#Cstrike_Tutor_You_Used_Hostage_More_Left"
+  Priority 30
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage YOU_USED_HOSTAGE_NO_MORE_LEFT
+  String "#Cstrike_Tutor_You_Used_Hostage_No_More_Left"
+  Priority 30
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+// commented out since we don't have an appropriate string.
+//TutorMessage ALL_HOSTAGES_FOLLOWING_T
+//  String "#Cstrike_Tutor_All_Hostages_Following_T"
+//  Priority 30
+//  Duration 3
+//  KeepOld False
+//  Class Normal
+//  Type Scenario
+//  Decay 10
+//End
+
+TutorMessage ALL_HOSTAGES_FOLLOWING_CT
+  String "#Cstrike_Tutor_All_Hostages_Following"
+  Priority 30
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage HOSTAGE_RESCUED_T
+  String "#Cstrike_Tutor_Hostage_Rescued_T"
+  Priority 30
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage HOSTAGE_RESCUED_CT
+  String "#Cstrike_Tutor_Hostage_Rescued_CT"
+  Priority 30
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage YOU_RESCUED_HOSTAGE
+  String "#Cstrike_Tutor_You_Rescued_Hostage"
+  Priority 30
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Default
+  Decay 0
+End
+
+TutorMessage ALL_HOSTAGES_RESCUED_T
+  String "#Cstrike_Tutor_All_Hostages_Rescued_T"
+  Priority 40
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+  Interrupt NowDammit
+End
+
+TutorMessage ALL_HOSTAGES_RESCUED_CT
+  String "#Cstrike_Tutor_All_Hostages_Rescued_CT"
+  Priority 40
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+  Interrupt NowDammit
+End
+
+TutorMessage YOU_DAMAGED_HOSTAGE
+  String "#Cstrike_Tutor_You_Damaged_Hostage"
+  Priority 30
+  Duration 2
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 10
+End
+
+TutorMessage YOU_KILLED_HOSTAGE
+  String "#Cstrike_Tutor_You_Killed_Hostage"
+  Priority 30
+  Duration 2
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 10
+End
+
+TutorMessage ALL_HOSTAGES_DEAD
+  String "#Cstrike_Tutor_All_Hostages_dead"
+  Priority 30
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+  Lifetime 30
+End
+
+//TutorMessage YOU_HAVE_BEEN_SHOT_AT
+//  String "#Cstrike_Tutor_You_Have_Been_Shot_At"
+//  Priority 30
+//  Duration 1
+//  KeepOld True
+//  Class Normal
+//  Type Default
+//  Decay 10
+//  Lifetime 1
+//End
+
+TutorMessage TIME_RUNNING_OUT_DE_T
+  String "#Cstrike_Tutor_Time_Running_Out_DE_T"
+  Priority 2
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 0
+  Lifetime 1
+End
+
+TutorMessage TIME_RUNNING_OUT_DE_CT
+  String "#Cstrike_Tutor_Time_Running_Out_DE_CT"
+  Priority 2
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 0
+  Lifetime 1
+End
+
+TutorMessage TIME_RUNNING_OUT_CS_T
+  String "#Cstrike_Tutor_Time_Running_Out_CS_T"
+  Priority 2
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 0
+  Lifetime 1
+End
+
+TutorMessage TIME_RUNNING_OUT_CS_CT
+  String "#Cstrike_Tutor_Time_Running_Out_CS_CT"
+  Priority 2
+  Duration 1
+  KeepOld True
+  Class Normal
+  Type Scenario
+  Decay 0
+  Lifetime 1
+End
+
+TutorMessage BOMB_DEFUSED_T
+  String "#Cstrike_Tutor_Bomb_Defused_T"
+  Priority 70
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage BOMB_DEFUSED_CT
+  String "#Cstrike_Tutor_Bomb_Defused_CT"
+  Priority 70
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage DEFUSING_WITHOUT_KIT
+  String "#Cstrike_Tutor_Defuse_Without_Kit"
+  Priority 50
+  Duration 2
+  KeepOld False
+  Class Normal
+  Type Default
+  Decay 10
+End
+
+TutorMessage YOU_DEFUSED_BOMB
+  String "#Cstrike_Tutor_You_Defused_Bomb"
+  Priority 70
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage BOMB_EXPLODED_T
+  String "#Cstrike_Tutor_Bomb_Exploded_T"
+  Priority 70
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage BOMB_EXPLODED_CT
+  String "#Cstrike_Tutor_Bomb_Exploded_CT"
+  Priority 70
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage ROUND_START_DE_T
+  String "#Cstrike_Tutor_Round_Start_DE_T"
+  Priority 50
+  Duration 4
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage ROUND_START_DE_CT
+  String "#Cstrike_Tutor_Round_Start_DE_CT"
+  Priority 50
+  Duration 4
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage ROUND_START_CS_T
+  String "#Cstrike_Tutor_Round_Start_CS_T"
+  Priority 50
+  Duration 4
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage ROUND_START_CS_CT
+  String "#Cstrike_Tutor_Round_Start_CS_CT"
+  Priority 50
+  Duration 4
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage ROUND_OVER
+  String "#Cstrike_Tutor_Round_Over"
+  Priority 30
+  Duration 3
+  KeepOld Fals
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage ROUND_DRAW
+  String "#Cstrike_Tutor_Round_Draw"
+  Priority 40
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage CT_WIN
+  String "#Cstrike_Tutor_CT_Win"
+  Priority 40
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage T_WIN
+  String "#Cstrike_Tutor_T_Win"
+  Priority 40
+  Duration 3
+  KeepOld False
+  Class Normal
+  Type Scenario
+  Decay 0
+End
+
+TutorMessage DEATH_CAMERA_START
+  String "#Cstrike_Tutor_Death_Camera_Start"
+  Priority 50
+  Duration 5
+  KeepOld False
+  Class Normal
+  Type FriendDeath
+  Decay 0
+End
+
+//----------------------------------------------------------------------------
+// Career Messages
+//----------------------------------------------------------------------------
+
+TutorMessage CAREER_TASK_DONE_MORE_LEFT
+  String "#Career_TaskJustDone"
+  Priority 250
+  Duration 3
+  KeepOld False
+  Decay 0
+  Interrupt NowDammit
+  Type Career
+End
+
+TutorMessage CAREER_TASK_DONE_ONE_LEFT
+  String "#Career_TaskJustDoneSingle"
+  Priority 250
+  Duration 3
+  KeepOld False
+  Decay 0
+  Interrupt NowDammit
+  Type Career
+End
+
+TutorMessage CAREER_TASK_DONE_ALL_DONE
+  String "#Career_TaskStatusdone"
+  Priority 250
+  Duration 3
+  KeepOld False
+  Decay 0
+  Interrupt NowDammit
+  Type Career
+End
+
+//----------------------------------------------------------------------------
+// Hint Messages
+//----------------------------------------------------------------------------
+TutorMessage HINT_1
+  String "#Cstrike_Tutor_Hint_1"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_2
+  String "#Cstrike_Tutor_Hint_2"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_3
+  String "#Cstrike_Tutor_Hint_3"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_4
+  String "#Cstrike_Tutor_Hint_4"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_5
+  String "#Cstrike_Tutor_Hint_5"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_10
+  String "#Cstrike_Tutor_Hint_10"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_11
+  String "#Cstrike_Tutor_Hint_11"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_12
+  String "#Cstrike_Tutor_Hint_12"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_13
+  String "#Cstrike_Tutor_Hint_13"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_14
+  String "#Cstrike_Tutor_Hint_14"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_15
+  String "#Cstrike_Tutor_Hint_15"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_20
+  String "#Cstrike_Tutor_Hint_20"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_21
+  String "#Cstrike_Tutor_Hint_21"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_22
+  String "#Cstrike_Tutor_Hint_22"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_23
+  String "#Cstrike_Tutor_Hint_23"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_24
+  String "#Cstrike_Tutor_Hint_24"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_25
+  String "#Cstrike_Tutor_Hint_25"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_26
+  String "#Cstrike_Tutor_Hint_26"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_30
+  String "#Cstrike_Tutor_Hint_30"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_31
+  String "#Cstrike_Tutor_Hint_31"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_32
+  String "#Cstrike_Tutor_Hint_32"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_33
+  String "#Cstrike_Tutor_Hint_33"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_34
+  String "#Cstrike_Tutor_Hint_34"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_40
+  String "#Cstrike_Tutor_Hint_40"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_50
+  String "#Cstrike_Tutor_Hint_50"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_51
+  String "#Cstrike_Tutor_Hint_51"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_52
+  String "#Cstrike_Tutor_Hint_52"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_53
+  String "#Cstrike_Tutor_Hint_53"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_60
+  String "#Cstrike_Tutor_Hint_60"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_61
+  String "#Cstrike_Tutor_Hint_61"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_70
+  String "#Cstrike_Tutor_Hint_70"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_71
+  String "#Cstrike_Tutor_Hint_71"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_72
+  String "#Cstrike_Tutor_Hint_72"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+TutorMessage HINT_73
+  String "#Cstrike_Tutor_Hint_73"
+  Priority 5
+  Duration 5
+  Decay 5
+  Type Hint
+End
+
+//----------------------------------------------------------------------------
+// In-Game hint Messages
+//----------------------------------------------------------------------------
+TutorMessage INGAME_HINT_1
+  String "#Cstrike_Tutor_Hint_40"
+  Priority 7
+  Duration 4
+  Decay 3
+  Type InGameHint
+  Lifetime 1000
+End
+
+TutorMessage INGAME_HINT_2
+  String "#Cstrike_Tutor_Hint_5"
+  Priority 7
+  Duration 4
+  Decay 3
+  Type InGameHint
+  Lifetime 1000
+End
+
+//----------------------------------------------------------------------------
+// Radio Messages
+//----------------------------------------------------------------------------
+//
+//TutorMessage RADIO_COVER_ME
+//  String "#Cstrike_Tutor_Radio_Cover_Me"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_YOU_TAKE_THE_POINT
+//  String "#Cstrike_Tutor_Radio_You_Take_The_Point"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_HOLD_THIS_POSITION
+//  String "#Cstrike_Tutor_Radio_Hold_This_Position"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_REGROUP_TEAM
+//  String "#Cstrike_Tutor_Radio_Regroup_Team"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_FOLLOW_ME
+//  String "#Cstrike_Tutor_Radio_Follow_Me"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_TAKING_FIRE
+//  String "#Cstrike_Tutor_Radio_Taking_Fire"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_GO_GO_GO
+//  String "#Cstrike_Tutor_Radio_Go_Go_Go"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_TEAM_FALL_BACK
+//  String "#Cstrike_Tutor_Radio_Team_Fall_Back"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_STICK_TOGETHER_TEAM
+//  String "#Cstrike_Tutor_Radio_Stick_Together_Team"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_GET_IN_POSITION_AND_WAIT
+//  String "#Cstrike_Tutor_Radio_Get_In_Position_And_Wait"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_STORM_THE_FRONT
+//  String "#Cstrike_Tutor_Radio_Storm_The_Front"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_REPORT_IN_TEAM
+//  String "#Cstrike_Tutor_Radio_Report_In_Team"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_AFFIRMATIVE
+//  String "#Cstrike_Tutor_Radio_Affirmative"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_ENEMY_SPOTTED
+//  String "#Cstrike_Tutor_Radio_Enemy_Spotted"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_NEED_BACKUP
+//  String "#Cstrike_Tutor_Radio_Need_Backup"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_SECTOR_CLEAR
+//  String "#Cstrike_Tutor_Radio_Sector_Clear"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_IN_POSITION
+//  String "#Cstrike_Tutor_Radio_In_Position"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_REPORTING_IN
+//  String "#Cstrike_Tutor_Radio_Reporting_In"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_GET_OUT_OF_THERE
+//  String "#Cstrike_Tutor_Radio_Get_Out_Of_There"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_NEGATIVE
+//  String "#Cstrike_Tutor_Radio_Negative"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+//
+//TutorMessage RADIO_ENEMY_DOWN
+//  String "#Cstrike_Tutor_Radio_Enemy_Down"
+//  Priority 10
+//  Duration 2
+//  KeepOld False
+//  Class Normal
+//  Type Default
+//  Decay 10
+//End
+
+//----------------------------------------------------------------------------
+// Buy Messages
+//----------------------------------------------------------------------------
+
+TutorMessage BUY_TIME_BEGIN
+  String "#Cstrike_Tutor_Buy_Time_Begin"
+  Priority 206
+  Duration 100
+  KeepOld True
+  Class Normal
+  Decay 0
+  Interrupt NowDammit
+  Type Buy
+  MinDurationOverride 100
+End
+
+TutorMessage BUY_NEED_PRIMARY
+  String "#Cstrike_Tutor_Buy_Need_Primary"
+  Priority 200
+  Duration 5
+  KeepOld True
+  Decay 0
+  Interrupt NowDammit
+  Type Buy
+End
+
+TutorMessage BUY_NEED_PRIMARY_AMMO
+  String "#Cstrike_Tutor_Buy_Need_Primary_Ammo"
+  Priority 201
+  Duration 5
+  KeepOld True
+  Decay 0
+  Interrupt NowDammit
+  Type Buy
+End
+
+TutorMessage BUY_NEED_SECONDARY_AMMO
+  String "#Cstrike_Tutor_Buy_Need_Secondary_Ammo"
+  Priority 202
+  Duration 5
+  KeepOld True
+  Decay 0
+  Interrupt NowDammit
+  Type Buy
+End
+
+TutorMessage BUY_NEED_ARMOR
+  String "#Cstrike_Tutor_Buy_Need_Armor"
+  Priority 203
+  Duration 5
+  KeepOld True
+  Decay 0
+  Interrupt NowDammit
+  Type Buy
+End
+
+TutorMessage BUY_NEED_DEFUSE_KIT
+  String "#Cstrike_Tutor_Buy_Defuse_Kit"
+  Priority 204
+  Duration 5
+  KeepOld True
+  Decay 0
+  Interrupt NowDammit
+  Type Buy
+End
+
+TutorMessage BUY_NEED_GRENADE
+  String "#Cstrike_Tutor_Buy_Grenades"
+  Priority 205
+  Duration 5
+  KeepOld True
+  Decay 0
+  Interrupt NowDammit
+  Type Buy
+End

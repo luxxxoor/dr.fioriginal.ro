@@ -1,0 +1,19 @@
+﻿[en]
+DR_NOW_TERR = %s este acum Terorist. 
+DR_STARTING = Începem în 10 secunde.
+DR_NO_DETECT = Nici un terorist.
+DR_NOT_ENOUGH = Prea puţini jucatori pentru a începe.
+DR_STARTING_CC = Începem în 10 secunde.
+
+DR_LIFE_CC_COUNT = You have %i lifes.
+DR_LIFE_CC_NO = You dont have lifes, kill enemy to get one!
+DR_LIFE_COUNT = You have %i lifes.
+DR_LIFE_NO = You dont have lifes^nKill enemy to get one!
+DR_LIFE_DISABLE = Life system is disabled.
+DR_LIFE_RESPAWN = Vei fi respawnat in 3 secunde !
+DR_LIFE_CANT = You could be respawned but all CT's are dead now!
+DR_LIFE_NOW = Revive
+DR_LIFE_NOT = Don't Revive
+
+DR_BLOCK_SPRAY = Spray's not allowed on this server!
+DR_BLOCK_KILL = Nu te poţi sinucide !

@@ -1,0 +1,31 @@
+L 11/28/2016 - 21:06:45: Start of error session.
+L 11/28/2016 - 21:06:45: Info (map "deathrun_av2009_recolored-ez") (file "addons/amxmodx/logs/error_20161128.log")
+L 11/28/2016 - 21:06:45: Forward-ul nu s-a putut executa.
+L 11/28/2016 - 21:06:45: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 11/28/2016 - 21:06:45: [AMXX] Run time error 1: forced exit 
+L 11/28/2016 - 21:06:45: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 11/28/2016 - 21:06:45: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 11/28/2016 - 21:06:46: Forward-ul nu s-a putut executa.
+L 11/28/2016 - 21:06:46: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 11/28/2016 - 21:06:46: [AMXX] Run time error 1: forced exit 
+L 11/28/2016 - 21:06:46: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 11/28/2016 - 21:06:46: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 11/28/2016 - 23:12:27: Start of error session.
+L 11/28/2016 - 23:12:27: Info (map "deathrun_clarion_dojo_b3") (file "addons/amxmodx/logs/error_20161128.log")
+L 11/28/2016 - 23:12:27: Forward-ul nu s-a putut executa.
+L 11/28/2016 - 23:12:27: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 11/28/2016 - 23:12:27: [AMXX] Run time error 1: forced exit 
+L 11/28/2016 - 23:12:27: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 11/28/2016 - 23:12:27: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 11/28/2016 - 23:12:28: Forward-ul nu s-a putut executa.
+L 11/28/2016 - 23:12:28: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 11/28/2016 - 23:12:28: [AMXX] Run time error 1: forced exit 
+L 11/28/2016 - 23:12:28: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 11/28/2016 - 23:12:28: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 11/28/2016 - 23:12:29: Forward-ul nu s-a putut executa.
+L 11/28/2016 - 23:12:29: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 11/28/2016 - 23:12:29: [AMXX] Run time error 1: forced exit 
+L 11/28/2016 - 23:12:29: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 179)
+L 11/28/2016 - 23:12:29: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 157)
+L 11/28/2016 - 23:13:35: Forward-ul nu s-a putut executa.
+L 11/28/2016 - 23:13:35: [AMXX] Run time error 1 (plugin "allchat3.amxx") - forced exit

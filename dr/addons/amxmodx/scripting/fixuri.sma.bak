@@ -1,0 +1,336 @@
+#include <amxmodx>
+#include <amxmisc>
+#include <hamsandwich>
+#include <fakemeta>
+#include <fun>
+#define VERSION "1.0.0"
+#define NAME "fixuri in chat"
+
+new Float: BlockFps[33];
+new Float: BlockGrav[33];
+new bool: Player_use_gravity[33];
+new bool: ask[33];
+
+static const TAG[] 	= "[DR]";
+
+public plugin_init() 
+	{
+	register_plugin(NAME,VERSION,"Dr.FioriGinal.Ro"); 
+	register_clcmd( "say", "HookClCmdSay" );
+	register_clcmd( "say_team", "HookClCmdSay" );
+	RegisterHam(Ham_Spawn, "player", "hamSpawnPlayer", 1 );
+	
+	register_concmd( "amx_gravity", "get_gravity" );
+	
+}
+
+public hamSpawnPlayer(id)
+	{
+	if(is_user_alive(id))
+		{
+		if(Player_use_gravity[id] == true)
+			{
+			
+			ResetMenu(id)
+			if(ask[id] == false)
+				{
+				fm_set_user_gravity(id, 0.0);
+			}
+		}
+		if(Player_use_gravity[id] == false)
+			{
+			fm_set_user_gravity(id, 0.875);
+			ask[id] = true;
+			Player_use_gravity[id] = false;
+		}
+		return PLUGIN_CONTINUE;
+	}
+	return PLUGIN_HANDLED;
+} 
+
+public HookClCmdSay(id)
+	{
+	static szSaid[ 192 ];
+	read_args( szSaid, sizeof ( szSaid ) -1 );
+	
+	if( !szSaid[ 0 ] )
+		return 0;
+	
+	
+	remove_quotes( szSaid );
+	
+	if( equal( szSaid, "/", strlen ( "/" ) ) )
+	{
+		client_print_color(id, print_team_red, "^4[Dr.FioriGinnal.Ro]^1 Comenzile se apeleaza prin ^4!^3comanda^1 !");
+		return PLUGIN_HANDLED;
+	}
+	
+	if( equal( szSaid, "!slowhack", strlen ( "!slowhack" ) ) )
+		show_motd(id,"/addons/amxmodx/configs/motd/slowhack.html");
+	
+	if( equal( szSaid, "!vip", strlen ( "!vip" ) ) )
+		show_motd(id,"/addons/amxmodx/configs/motd/vip.html");
+	
+	if( equal( szSaid, "!knife", strlen( "!knife" ) ) )
+		{
+		strip_user_weapons(id);
+		client_print_color(id, print_team_red, "^4[Dr.FioriGinnal.Ro]^3 Te-o mancat pe tine sa scri ^1!knife^3, acuma ai ramas fara nici o arma!");
+		return PLUGIN_HANDLED;
+	}
+	
+	if( equal( szSaid, "!reload", strlen( "!reload" ) ) )
+		{
+		cmd_reload(id)
+		return PLUGIN_HANDLED;
+	}
+	
+	/*
+	if( equal( szSaid, "!fix", strlen( "!fix" ) ) )
+		{
+		cmd_timefix(id)
+		return PLUGIN_HANDLED;
+	}*/
+	
+	static args[ 192 ], command[ 192 ];
+	read_args( args, sizeof ( args ) -1 );
+	
+	if( !args[ 0 ]) return 0;	
+	remove_quotes( args[ 0 ] );
+	
+	if( equal( args, "!gravity", strlen("!gravity") ) )
+		{    
+		replace( args, sizeof ( args ) -1, "!", "" );
+		formatex( command, sizeof ( command ) -1 , "amx_%s", args );
+		
+		client_cmd( id, command );
+		return 1;
+	}
+	
+	if( equal( szSaid, "!800", strlen( "!800" ) ) )
+		{
+		cmd_800(id);
+		return PLUGIN_HANDLED;
+	}
+	
+	if( equal( szSaid, "!700", strlen( "!700" ) ) )
+		{
+		cmd_700(id);
+		return PLUGIN_HANDLED;
+	}
+	
+	return 0;
+}
+
+public get_gravity(id)
+	{
+	if( !(get_user_flags(id) & ADMIN_RESERVATION)) 
+		{
+		client_print_color(id, print_team_red,"^x04%s^x03 Aceasta comanda este doar pentru admini sau sloturi !",TAG);
+		return PLUGIN_HANDLED;
+	}
+	
+	if((get_gametime() - BlockFps[id] < 5.0) ) {
+		
+		client_print_color(id, print_team_red,"^x04%s^x01 Comanda blocata pentru^x03 %.1f ^x01 secunde!", TAG, get_gametime() - BlockGrav[id]);
+		
+		return PLUGIN_HANDLED;
+		
+		} else { 
+		new target[ 32 ];
+		read_argv( 1, target, sizeof ( target ) -1 );
+		if( equali( target, "" ) ) 
+			{
+			if( !is_user_alive(id) )
+				{
+				client_print_color(id, print_team_red,"^x04%s^x01 Comanda nu functioneaza daca esti mort.", TAG);
+				return PLUGIN_HANDLED;
+			}
+			if(fm_get_user_gravity(id) == 0.875)
+				client_print_color(id, print_team_red,"^3%s^4 %s^1 joaca cu^3 700^1 gravity !",TAG,get_name(id)  );
+			else if(fm_get_user_gravity(id) == 1.0)
+				client_print_color(id, print_team_red,"^3%s^4 %s^1 joaca cu^3 800^1 gravity !",TAG,get_name(id)  );	
+		}
+		
+		new player = cmd_target( id, target, 8 );
+		if(!player || player == id ) return 1;
+		if( !is_user_alive(player) )
+			{
+			client_print_color(id, print_team_red,"^x04%s^x01 Comanda nu functioneaza pe jucatorii morti.", TAG);
+			return PLUGIN_HANDLED;
+		}
+		if(fm_get_user_gravity(player) == 0.875) {
+			client_print_color(id, print_team_red,"^3%s^4 %s^1 joaca cu^3 700^1 gravity !",TAG,get_name(player)  );
+			} else if(fm_get_user_gravity(player) == 1.0) {
+			client_print_color(id, print_team_red,"^3%s^4 %s^1 joaca cu^3 800^1 gravity !",TAG,get_name(player)  );	
+		}  
+	}
+	BlockFps[id] = get_gametime();
+	return 1;
+}
+
+
+public cmd_800(id) 
+	{
+	
+	if(get_user_gravity(id) == 1.0)
+		{
+		client_print_color(id, print_team_red,"^3%s^1 Ai deja^3 800^1 gravity.", TAG);
+		return PLUGIN_HANDLED;
+	}
+	if(!is_user_alive(id))
+		{
+		client_print_color(id, print_team_red,"^3%s^1 Nu poti folosi comanda cand esti mort !", TAG);
+		return PLUGIN_HANDLED;
+	}
+	if((get_gametime() - BlockGrav[id] < 30.0) ) {
+		
+		client_print_color(id, print_team_red,"^x04%s^x01 Comanda blocata pentru^x03 %.1f ^x01 secunde!", TAG, get_gametime() - BlockGrav[id]);
+		
+		return PLUGIN_HANDLED;
+		
+		} else { 
+		fm_set_user_gravity(id, 1.0)
+		client_print_color(id, print_team_red,"^3%s^4 %s^1 si-a setat^3 800^1 gravity.", TAG, get_name(id));
+		Player_use_gravity[id] = true;
+	}
+	BlockGrav[id] = get_gametime();
+	return PLUGIN_CONTINUE;
+}
+
+public cmd_700(id) 
+	{
+	if(get_user_gravity(id) == 0.875)
+		{
+		client_print_color(id, print_team_red,"^3%s^1 Ai deja^3 700^1 gravity.", TAG);
+		return PLUGIN_HANDLED;
+	}
+	if(!is_user_alive(id))
+		{
+		client_print_color(id, print_team_red,"^3%s^1 Nu poti folosi comanda cand esti mort !", TAG);
+		return PLUGIN_HANDLED;
+	}
+	if((get_gametime() - BlockGrav[id] < 30.0) ) {
+		
+		client_print_color(id, print_team_red,"^x04%s^x01 Comanda blocata pentru^x03 %.1f ^x01 secunde!", TAG, get_gametime() - BlockGrav[id]);
+		
+		return PLUGIN_HANDLED;
+		
+		} else {
+		fm_set_user_gravity(id, 0.875)
+		client_print_color(id, print_team_red,"^3%s^4 %s^1 si-a setat^3 700^1 gravity.", TAG, get_name(id));
+		Player_use_gravity[id] = false;
+	}
+	BlockGrav[id] = get_gametime();
+	return PLUGIN_CONTINUE;
+}
+
+
+public cmd_reload(id)
+	{
+	client_print_color(id, print_team_blue, "^4[Dr.FioriGinal.Ro] ^3Ai reincarcat adminele.");
+	server_cmd("amx_reloadadmins")
+}
+/*
+cmd_timefix(id)
+{
+	
+	server_cmd("mp_timelimit 25")
+	xColor(0,"^[ ^4Deathrun ^3] ^1 Adminul a reglat timpul (mp_timelimit 25 )")
+	return PLUGIN_CONTINUE;
+}*/
+
+
+public ResetMenu(id)
+	{
+	new rsmenu = menu_create("\d[\yGravity\d]\w Vrei sa-ti resetezi gravitatia la \r700\w?" , "MenuHandler");
+	menu_additem(rsmenu ,"Da", "1" , 0);
+	menu_additem(rsmenu ,"Nu", "2" , 0);
+	
+	menu_setprop(rsmenu , MPROP_EXIT , MEXIT_ALL);
+	menu_display(id , rsmenu , 0);
+}
+
+
+public MenuHandler(id, rsmenu, item) {
+	
+	if (item == MENU_EXIT)
+		{
+		menu_destroy(rsmenu)
+		return PLUGIN_HANDLED
+	}
+	
+	new data[6], iName[64]
+	new access, callback
+	menu_item_getinfo(rsmenu, item, access, data, 5, iName, 63, callback)
+	
+	new key = str_to_num(data)
+	
+	switch(key) {
+		
+		case 1: {
+			fm_set_user_gravity(id, 0.875);
+			client_print_color(id, print_team_red,"^3%s^1 Ti-a fost resetata gravitatia la 700.",TAG);
+			ask[id] = true;
+			Player_use_gravity[id] = false;
+		}
+		
+		case 2: {
+			ask[id] = false;
+			Player_use_gravity[id] = true;
+		}
+	}
+	
+	menu_destroy(rsmenu)
+	return PLUGIN_HANDLED;
+}
+
+// stock-ul nu imi apartine
+stock xColor(const id, const input[], any:...)
+	{
+	new count = 1, players[32]
+	static msg[320], msg2[320]
+	vformat(msg, 190, input, 3)
+	format(msg2, 190, "%s",msg)
+	replace_all(msg2, 190, "!g", "^4")
+	replace_all(msg2, 190, "!n", "^1")
+	replace_all(msg2, 190, "!t", "^3")
+	replace_all(msg2, 190, "!t2", "^0")
+	if (id)
+		players[0] = id
+	else
+	get_players(players, count, "ch")
+	for (new i = 0; i < count; i++)
+		{
+		if (is_user_connected(players[i]))
+			{
+			message_begin(MSG_ONE_UNRELIABLE, get_user_msgid("SayText"), _, players[i])
+			write_byte(players[i])
+			write_string(msg2)
+			message_end()
+		}
+	}
+}
+
+stock get_name( id ) 
+	{
+	
+	new name[ 32 ];
+	get_user_name( id, name,sizeof ( name ) -1 );
+	
+	return name;
+}
+
+stock Float:fm_get_user_gravity(index)
+	{
+	new Float:gravity;
+	pev(index, pev_gravity, gravity);
+	
+	return gravity;
+}
+
+stock fm_set_user_gravity(index, Float:gravity = 1.0)   
+	{
+	set_pev(index, pev_gravity, gravity);
+	
+	return 1;
+}  

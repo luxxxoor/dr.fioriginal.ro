@@ -1,0 +1,25 @@
+L 02/06/2017 - 00:18:37: Start of error session.
+L 02/06/2017 - 00:18:37: Info (map "deathrun_laikiux_rawr") (file "addons/amxmodx/logs/error_20170206.log")
+L 02/06/2017 - 00:18:37: Forward-ul nu s-a putut executa.
+L 02/06/2017 - 00:18:37: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 02/06/2017 - 15:48:06: Start of error session.
+L 02/06/2017 - 15:48:06: Info (map "deathrun_laikiux_rawr") (file "addons/amxmodx/logs/error_20170206.log")
+L 02/06/2017 - 15:48:06: [MySQL] Thread worker was unable to start.
+L 02/06/2017 - 15:48:06: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 02/06/2017 - 15:48:06: [AMXX] Run time error 10: native error (native "SQL_ThreadQuery")
+L 02/06/2017 - 15:48:06: [AMXX]    [0] comp_timer2.sma::checkIfNameExists (line 803)
+L 02/06/2017 - 17:35:11: Start of error session.
+L 02/06/2017 - 17:35:11: Info (map "deathrun_latexx") (file "addons/amxmodx/logs/error_20170206.log")
+L 02/06/2017 - 17:35:11: [FAKEMETA] Invalid entity
+L 02/06/2017 - 17:35:11: [AMXX] Displaying debug trace (plugin "use_button_once.amxx", version "1.3")
+L 02/06/2017 - 17:35:11: [AMXX] Run time error 10: native error (native "pev")
+L 02/06/2017 - 17:35:11: [AMXX]    [0] use_button_once.sma::get_ent_index (line 225)
+L 02/06/2017 - 17:35:11: [AMXX]    [1] use_button_once.sma::set_start_value (line 212)
+L 02/06/2017 - 17:35:11: [AMXX]    [2] use_button_once.sma::plugin_cfg (line 173)
+L 02/06/2017 - 21:49:05: Start of error session.
+L 02/06/2017 - 21:49:05: Info (map "deathrun_bhopz_v2") (file "addons/amxmodx/logs/error_20170206.log")
+L 02/06/2017 - 21:49:05: [AMXX] Plugin ("bhop.amxx") is setting itself as failed.
+L 02/06/2017 - 21:49:05: [AMXX] Plugin says: Access denied for user 'vuser575'@'89.40.104.11' (using password: YES)
+L 02/06/2017 - 21:49:05: [AMXX] Run time error 1 (plugin "bhop.amxx") - forced exit
+L 02/06/2017 - 21:49:05: Forward-ul nu s-a putut executa.
+L 02/06/2017 - 21:49:05: [AMXX] Run time error 1 (plugin "bhop.amxx") - forced exit

@@ -1,0 +1,26 @@
+L 12/29/2016 - 15:32:12: Start of error session.
+L 12/29/2016 - 15:32:12: Info (map "deathrun_green_h") (file "addons/amxmodx/logs/error_20161229.log")
+L 12/29/2016 - 15:32:12: Forward-ul nu s-a putut executa.
+L 12/29/2016 - 15:32:12: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 12/29/2016 - 17:29:13: Start of error session.
+L 12/29/2016 - 17:29:13: Info (map "deathrun_bhopz_v2") (file "addons/amxmodx/logs/error_20161229.log")
+L 12/29/2016 - 17:29:13: String formatted incorrectly - parameter 2 (total 1)
+L 12/29/2016 - 17:29:13: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/29/2016 - 17:29:13: [AMXX] Run time error 25: parameter error 
+L 12/29/2016 - 17:29:13: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/29/2016 - 17:29:16: String formatted incorrectly - parameter 2 (total 1)
+L 12/29/2016 - 17:29:16: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/29/2016 - 17:29:16: [AMXX] Run time error 25: parameter error 
+L 12/29/2016 - 17:29:16: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/29/2016 - 17:33:54: String formatted incorrectly - parameter 2 (total 1)
+L 12/29/2016 - 17:33:54: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 12/29/2016 - 17:33:54: [AMXX] Run time error 25: parameter error 
+L 12/29/2016 - 17:33:54: [AMXX]    [0] comp_timer2.sma::hookChat (line 411)
+L 12/29/2016 - 20:03:05: Start of error session.
+L 12/29/2016 - 20:03:05: Info (map "deathrun_atacama_beta2") (file "addons/amxmodx/logs/error_20161229.log")
+L 12/29/2016 - 20:03:05: Forward-ul nu s-a putut executa.
+L 12/29/2016 - 20:03:05: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 12/29/2016 - 20:32:38: Start of error session.
+L 12/29/2016 - 20:32:38: Info (map "deathrun_aztecan_beta1") (file "addons/amxmodx/logs/error_20161229.log")
+L 12/29/2016 - 20:32:38: Forward-ul nu s-a putut executa.
+L 12/29/2016 - 20:32:38: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit

@@ -1,0 +1,51 @@
+L 04/16/2017 - 01:28:56: Start of error session.
+L 04/16/2017 - 01:28:56: Info (map "deathrun_relaxxeu2_fix2") (file "addons/amxmodx/logs/error_20170416.log")
+L 04/16/2017 - 01:28:56: [FUN] Invalid player 5
+L 04/16/2017 - 01:28:56: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/16/2017 - 01:28:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/16/2017 - 02:30:06: [FUN] Invalid player 5
+L 04/16/2017 - 02:30:06: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/16/2017 - 02:30:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/16/2017 - 02:56:27: Start of error session.
+L 04/16/2017 - 02:56:27: Info (map "deathrun_dofe_f") (file "addons/amxmodx/logs/error_20170416.log")
+L 04/16/2017 - 02:56:27: [FUN] Invalid player 4
+L 04/16/2017 - 02:56:27: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/16/2017 - 02:56:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/16/2017 - 02:58:46: [FUN] Invalid player 5
+L 04/16/2017 - 02:58:46: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/16/2017 - 02:58:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/16/2017 - 03:05:55: [FUN] Invalid player 4
+L 04/16/2017 - 03:05:55: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/16/2017 - 03:05:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/16/2017 - 08:41:32: Start of error session.
+L 04/16/2017 - 08:41:32: Info (map "deathrun_herb") (file "addons/amxmodx/logs/error_20170416.log")
+L 04/16/2017 - 08:41:32: [FUN] Invalid player 4
+L 04/16/2017 - 08:41:32: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/16/2017 - 08:41:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/16/2017 - 11:21:51: Start of error session.
+L 04/16/2017 - 11:21:51: Info (map "deathrun_cs1_bg") (file "addons/amxmodx/logs/error_20170416.log")
+L 04/16/2017 - 11:21:51: Forward-ul nu s-a putut executa.
+L 04/16/2017 - 11:21:51: [AMXX] Run time error 1 (plugin "pistols_sql.amxx") - forced exit
+L 04/16/2017 - 12:04:16: Start of error session.
+L 04/16/2017 - 12:04:16: Info (map "deathrun_dofe_f") (file "addons/amxmodx/logs/error_20170416.log")
+L 04/16/2017 - 12:04:16: [FUN] Invalid player 4
+L 04/16/2017 - 12:04:16: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/16/2017 - 12:04:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/16/2017 - 12:09:14: [FUN] Invalid player 5
+L 04/16/2017 - 12:09:14: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/16/2017 - 12:09:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/16/2017 - 15:51:04: Start of error session.
+L 04/16/2017 - 15:51:04: Info (map "deathrun_midr_csbr") (file "addons/amxmodx/logs/error_20170416.log")
+L 04/16/2017 - 15:51:04: [FUN] Invalid player 6
+L 04/16/2017 - 15:51:04: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/16/2017 - 15:51:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/16/2017 - 16:03:35: [FUN] Invalid player 5
+L 04/16/2017 - 16:03:35: [AMXX] Run time error 10 (plugin "hev.amxx") (native "set_user_health") - debug not enabled!
+L 04/16/2017 - 16:03:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/16/2017 - 16:56:53: Start of error session.
+L 04/16/2017 - 16:56:53: Info (map "deathrun_fixxor") (file "addons/amxmodx/logs/error_20170416.log")
+L 04/16/2017 - 16:56:53: Forward-ul nu s-a putut executa.
+L 04/16/2017 - 16:56:53: [AMXX] Displaying debug trace (plugin "comp_timer2.amxx", version "1.0-beta")
+L 04/16/2017 - 16:56:53: [AMXX] Run time error 1: forced exit 
+L 04/16/2017 - 16:56:53: [AMXX]    [0] comp_timer2.sma::checkSQLConditions (line 207)
+L 04/16/2017 - 16:56:53: [AMXX]    [1] comp_timer2.sma::SetUserSettings (line 187)

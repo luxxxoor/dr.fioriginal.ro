@@ -1,0 +1,8 @@
+L 02/01/2017 - 01:08:45: Start of error session.
+L 02/01/2017 - 01:08:45: Info (map "deathrun_latexx") (file "addons/amxmodx/logs/error_20170201.log")
+L 02/01/2017 - 01:08:45: [FAKEMETA] Invalid entity
+L 02/01/2017 - 01:08:45: [AMXX] Displaying debug trace (plugin "use_button_once.amxx", version "1.3")
+L 02/01/2017 - 01:08:45: [AMXX] Run time error 10: native error (native "pev")
+L 02/01/2017 - 01:08:45: [AMXX]    [0] use_button_once.sma::get_ent_index (line 225)
+L 02/01/2017 - 01:08:45: [AMXX]    [1] use_button_once.sma::set_start_value (line 212)
+L 02/01/2017 - 01:08:45: [AMXX]    [2] use_button_once.sma::plugin_cfg (line 173)

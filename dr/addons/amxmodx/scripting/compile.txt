@@ -1,0 +1,115 @@
+#include <amxmodx>
+#include <amxmisc>
+
+new const injuraturi[][] =
+{
+	"prostie1",
+	"prostie2"
+}
+
+new const TAG[] = "[AMXX]";
+
+new g_msg_saytext, file_injurii[64], file_pareri[64],
+       bool:Used[33];
+
+public plugin_init()
+{
+	register_plugin("FeedBack", "1.0", "cyby");
+	
+	register_clcmd("say /feedback", "feedback_cmd");
+	register_clcmd("PARERE", "parere_text");
+	g_msg_saytext = get_user_msgid("SayText");
+	get_configsdir(file_injurii, charsmax(file_injurii));
+	formatex(file_pareri, charsmax(file_pareri), "%s/feedback.txt", file_injurii);
+	formatex(file_injurii, charsmax(file_injurii), "%s/injurii.txt", file_injurii);
+}
+
+public client_disconnect(id)
+{
+       Used[id] = false;
+}
+
+public feedback_cmd(id)
+{
+	if(!is_user_connected(id))
+		return PLUGIN_CONTINUE;
+	if ( Used[id] )
+	{
+		color(id, ".v%s.g Nu-ti poti introduce parerea decat o singura data!", TAG);
+		return PLUGIN_CONTINUE;
+	}
+	
+	color(id, ".v%s.g Introdu parerea ta despre serverul nostru!", TAG);
+	client_cmd(id, "messagemode PARERE");
+        Used[id] = true;
+	return PLUGIN_HANDLED;
+}
+
+public parere_text(id)
+{
+	if(!is_user_connected(id))
+		return PLUGIN_CONTINUE;
+	
+	static parereata[32];
+	read_args(parereata, charsmax(parereata));
+	remove_quotes(parereata);
+	
+	if(strlen(parereata) < 3)
+	{
+		color(id, ".v%s.g Parerea ta este prea scurta.", TAG);
+		return PLUGIN_HANDLED;
+	}
+	
+	if(strlen(parereata) > 30)
+	{
+		color(id, ".v%s.g Parerea ta este prea lunga!", TAG)
+		return PLUGIN_HANDLED;
+	}
+	
+	new bool:injuratura = false;
+	for(new i = 0; i < sizeof injuraturi; i++)
+	{
+		if(containi(parereata, injuraturi[i]) != -1)
+		{
+			injuratura = true;
+			break;
+		}
+	}
+	static text[64], name[32];
+	get_user_name(id, name, charsmax(name));
+	formatex(text, charsmax(text), "^r^n%s: %s", name, parereata);
+	if(injuratura)
+	{
+		color(id, ".v%s.g Ai scris injuraturi in parerea ta. Asta nu ne place!", TAG);
+		write_file(file_injurii, text);
+		return PLUGIN_HANDLED;
+	}
+	color(id, ".v%s.g Parerea ta a fost trimisa catre server!", TAG)
+	write_file(file_pareri, text);
+	return PLUGIN_HANDLED;
+}
+
+stock color(const id, const input[], any:...)
+{
+	new count = 1, players[32];
+	static msg[191];
+	vformat(msg, 190, input, 3);
+	
+	replace_all(msg, 190, ".v", "^4");
+	replace_all(msg, 190, ".g", "^1");
+	replace_all(msg, 190, ".e", "^3");
+	
+	if(id) players[0] = id; else get_players(players, count, "ch")
+	{
+		for (new i = 0; i < count; i++)
+		{
+			if(is_user_connected(players[i]))
+			{
+				message_begin(MSG_ONE_UNRELIABLE, g_msg_saytext, _, players[i]);
+				write_byte(players[i]);
+				write_string(msg);
+				message_end();
+			}
+		}
+	}
+}
